@@ -72,8 +72,6 @@ def separaRespostas(prova, id_prova, numero, file):
     lista = []
     for linha in file:
         if linha[0] == "\\":
-            with
-            Respostas.bulk_create(lista)
             break
 
         elif linha[0] == "#":
