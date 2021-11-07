@@ -1,5 +1,5 @@
 from peewee import *
-from db import db
+from util.db import db
 
 
 class Provas(Model):
@@ -12,6 +12,9 @@ class Provas(Model):
 
     class Meta:
         database = db
+        indexes = (
+            (('prova', 'ano', 'fase'), True),
+        )
 
     def __str__(self):
         return f"Prova: {self.id}; {self.prova}; {self.ano}; {self.fase}; {self.descricao}"
@@ -29,6 +32,10 @@ class Questoes(Model):
 
     class Meta:
         database = db
+        indexes = (
+            (('prova_id', 'numero', 'materia'), True),
+            # (('enunciado'), True),
+        )
 
     def __str__(self):
         return f"Questao: {self.id}; {self.prova_id}; {self.numero}; {self.materia}; {self.enunciado}; {self.assunto}; {self.imagem}"
@@ -39,16 +46,18 @@ class Respostas(Model):
     id = AutoField()
     prova_id = ForeignKeyField(Provas, backref="respostas")
     questao_id = ForeignKeyField(Questoes, backref="respostas")
-    numero = DecimalField(decimal_places=0, max_digits=3)
     enunciado = TextField()
     alternativa = CharField(max_length=1)
     imagem = CharField(max_length=100, null=True)
 
     class Meta:
         database = db
+        indexes = (
+            (('prova_id', 'questao_id', 'alternativa'), True),
+        )
 
     def __str__(self):
-        return f"Resposta: {self.id}; {self.prova_id}; {self.questao_id}; {self.numero}; {self.enunciado}; {self.alternativa}; {self.imagem}"
+        return f"Resposta: {self.id}; {self.prova_id}; {self.questao_id}; {self.enunciado}; {self.alternativa}; {self.imagem}"
 
 
 class Gabaritos(Model):
@@ -65,6 +74,6 @@ class Gabaritos(Model):
         return f"Gabarito: {self.prova_id}; {self.questao_id}; {self.alternativa}"
 
 
-db.connect()
-db.create_tables([Provas, Questoes, Respostas, Gabaritos])
-db.close()
+# db.connect()
+# db.create_tables([Provas, Questoes, Respostas, Gabaritos])
+# db.close()

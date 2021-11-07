@@ -5,12 +5,22 @@
 # # = nova alternativa
 # @@ = materia
 from util.models import Provas, Questoes, Respostas, Gabaritos
-from util.controller import insertProva, insertQuestoes, insertRespostas, getProva
+from util.controller import insertProva, insertQuestao, insertRespostas, getIdProva
+
+
+def separaProva(linha):
+
+    lista_prova = linha[1:].split(";")
+    nome_prova = lista_prova[0]
+    prova = Provas(
+        prova=lista_prova[0], ano=lista_prova[1], fase=lista_prova[2], descricao=lista_prova[3])
+    insertProva(prova)
+    return nome_prova
 
 
 def separaDados(arquivo):
+
     file = open(arquivo, encoding="utf8")
-    # prova = file.readline().strip("\n").split(" ")
     nome_prova = None
     id_prova = None  # fazer consulta no banco procurar pelas chaves da lista prova
     dados_prova = None
@@ -18,80 +28,85 @@ def separaDados(arquivo):
     numero = None
     enunciado = ""
     imagem = None
-    lista = []
+
     for linha in file:
 
         if linha[0] == "|":
-            lista_prova = linha[1:].split(";")
-            nome_prova = lista_prova[0]
-            prova = Provas(
-                prova=lista_prova[0], ano=lista_prova[1], fase=lista_prova[2], descricao=lista_prova[3])
-            insertProva(prova)
+            nome_prova = separaProva(linha)
             continue
 
         elif linha[0] == "@":
 
             if linha[1] != "@":
-                numero = linha[1:4].strip(" ")
-                aux = linha[4:].strip("\n").strip(
-                    " ").strip("(").strip(")").split(".")
-                if not dados_prova == aux:
+                numero = linha[1:4].strip()
+                aux = linha[5:].strip("\n ()").split(".")
+                if dados_prova != aux:
                     dados_prova = aux
-                    id_prova = getProva(nome_prova, dados_prova)
+                    id_prova = getIdProva(nome_prova, dados_prova)
                 continue
             else:
-                materia = linha[2:].strip("\n")
+                materia = linha[2:].strip("\n ")
                 continue
 
         elif linha[0] == "\\":
 
             if linha[1] == "L":
-                imagem = f"{prova[0]}/{prova[1]}/{prova[2]}/{numero}"
+                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{numero}"
+                enunciado += linha
                 continue
-            elif linha[1] == "E":
-                enunciado = ""
-                continue
+
             else:
-                questao = Questoes(
-                    id_prova, numero, materia, enunciado, imagem)
-                lista.append(questao)
-                separaRespostas(prova, id_prova, numero, file)
+                questao = Questoes(prova_id=id_prova, numero=numero,
+                                   materia=materia, enunciado=enunciado, imagem=imagem)
+                questao_salva = insertQuestao(questao)
+                separaRespostas(
+                    nome_prova=nome_prova, dados_prova=dados_prova, questao=questao_salva, file=file)
                 enunciado = ""
                 imagem = None
                 continue
 
         else:
             enunciado += linha
-    insertQuestoes(lista)
+
     return 0
 
 
-def separaRespostas(prova, id_prova, numero, file):
+def separaRespostas(nome_prova, dados_prova, questao, file):
     alternativa = None
     enunciado = "None"
-    lista = []
+    imagem = None
+    lista_respostas = []
     for linha in file:
         if linha[0] == "\\":
+            if "\L" in enunciado:
+                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{questao.numero}_{alternativa}"
+
+            resposta = Respostas(prova_id=questao.prova_id, questao_id=questao.id,
+                                 enunciado=enunciado, alternativa=alternativa, imagem=imagem)
+            lista_respostas.append(resposta)
             break
 
-        elif linha[0] == "#":
-            alternativa = linha[1].upper()
-            enunciado = linha[3:].strip("\n")
+        elif linha[0] in ['A', 'B', 'C', 'D', 'E'] and linha[1] == ")":
             if "\L" in enunciado:
-                enunciado = f"{prova[0]}/{prova[1]}/{prova[2]}/{numero}_{alternativa}"
-            resposta = Respostas(id_prova, numero, enunciado, alternativa)
-            lista.append(resposta)
+                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{questao.numero}_{alternativa}"
+
+            if alternativa != None and enunciado != None:
+                resposta = Respostas(prova_id=questao.prova_id, questao_id=questao.id,
+                                     enunciado=enunciado, alternativa=alternativa, imagem=imagem)
+                lista_respostas.append(resposta)
+                imagem = None
+
+            alternativa = linha[0].upper()
+            enunciado = linha[3:].strip("\n")
 
         else:
-            alternativa = linha[0].upper()
-            enunciado = linha[1:].strip("\n")
-            if "\L" in enunciado:
-                enunciado = f"{prova[0]}/{prova[1]}/{prova[2]}/{numero}_{alternativa}"
-            resposta = Respostas(id_prova, numero, enunciado, alternativa)
-            lista.append(resposta)
-            continue
+            enunciado += linha.strip("\n")
 
-    # lista.save()
+    if lista_respostas:
+        insertRespostas(lista_respostas)
+    else:
+        print(
+            f"ERROR - Lista de Respostas Vazia! Respostas da questão {questao} não inseridas!")
     return 0
 
 
@@ -112,5 +127,5 @@ def insertGabarito(arquivo):
 
 
 # print(insertGabarito("Provas/2020_GB_impresso_D1_CD4.txt"))
-separaDados("Provas/2020_PV_impresso_D1_CD4_superampliada.txt")
+separaDados("Provas/portugues.txt")
 # teste("Provas/2020_PV_impresso_D1_CD4_superampliada.txt")
