@@ -4,8 +4,9 @@
 # \ = inicio e fim das respostas
 # # = nova alternativa
 # @@ = materia
-from util.models import Provas, Questoes, Respostas, Gabaritos
-from util.controller import insertProva, insertQuestao, insertRespostas, getIdProva
+from util.models import *
+from util.controller import insertProva, insertQuestao, insertRespostas, getIdProva, insertGabarito
+from util.db import db
 
 
 def separaProva(linha):
@@ -18,9 +19,11 @@ def separaProva(linha):
     return nome_prova
 
 
-def separaDados(arquivo):
+def separaDados(prova, gabarito):
 
-    file = open(arquivo, encoding="utf8")
+    prova_aberta = open(prova, encoding="utf8")
+    gabarito_aberto = open(gabarito, encoding="utf8")
+
     nome_prova = None
     id_prova = None  # fazer consulta no banco procurar pelas chaves da lista prova
     dados_prova = None
@@ -29,7 +32,7 @@ def separaDados(arquivo):
     enunciado = ""
     imagem = None
 
-    for linha in file:
+    for linha in prova_aberta:
 
         if linha[0] == "|":
             nome_prova = separaProva(linha)
@@ -60,7 +63,7 @@ def separaDados(arquivo):
                                    materia=materia, enunciado=enunciado, imagem=imagem)
                 questao_salva = insertQuestao(questao)
                 separaRespostas(
-                    nome_prova=nome_prova, dados_prova=dados_prova, questao=questao_salva, file=file)
+                    nome_prova=nome_prova, dados_prova=dados_prova, questao=questao_salva, prova=prova_aberta, gabarito=gabarito_aberto.readline())
                 enunciado = ""
                 imagem = None
                 continue
@@ -68,15 +71,17 @@ def separaDados(arquivo):
         else:
             enunciado += linha
 
+    prova_aberta.close()
+    gabarito_aberto.close()
     return 0
 
 
-def separaRespostas(nome_prova, dados_prova, questao, file):
+def separaRespostas(nome_prova, dados_prova, questao, prova, gabarito):
     alternativa = None
     enunciado = "None"
     imagem = None
     lista_respostas = []
-    for linha in file:
+    for linha in prova:
         if linha[0] == "\\":
             if "\L" in enunciado:
                 imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{questao.numero}_{alternativa}"
@@ -104,28 +109,20 @@ def separaRespostas(nome_prova, dados_prova, questao, file):
 
     if lista_respostas:
         insertRespostas(lista_respostas)
+        gabarito = gabarito.strip(" \n").split()
+        insertGabarito(prova_id=questao.prova_id,
+                       questao_id=questao.id, alternativa=gabarito[1])
     else:
         print(
             f"ERROR - Lista de Respostas Vazia! Respostas da questão {questao} não inseridas!")
     return 0
 
 
-def insertGabarito(arquivo):
-    file = open(arquivo, encoding="utf8")
-
-    lista = []
-    for linha in file:
-        a = linha
-        if a[-1] == "\n":
-            a = a[:-1]
-
-        a = a.split(" ")
-        lista.append(a)
-
-    # lista.save()
-    return 0
+db.connect()
+db.create_tables([Provas, Questoes, Respostas, Gabaritos])
+db.close()
 
 
 # print(insertGabarito("Provas/2020_GB_impresso_D1_CD4.txt"))
-separaDados("Provas/portugues.txt")
+separaDados("Provas/portugues.txt", "Provas/gabarito_portugues.txt")
 # teste("Provas/2020_PV_impresso_D1_CD4_superampliada.txt")

@@ -19,7 +19,18 @@ def insertRespostas(respostas):
             Respostas.bulk_create(respostas)
             trans.commit()
         except DatabaseError as err:
-            print(err, f"data: {respostas}")
+            print(err)
+            trans.rollback()
+
+
+def insertGabarito(prova_id, questao_id, alternativa):
+    with db.atomic() as trans:
+        try:
+            Gabaritos.create(prova_id=prova_id,
+                             questao_id=questao_id, alternativa=alternativa)
+            trans.commit()
+        except DatabaseError as err:
+            print(err)
             trans.rollback()
 
 
@@ -30,7 +41,7 @@ def insertQuestao(questao):
             trans.commit()
             return questao
         except DatabaseError as err:
-            print(err, f"data: {questao}")
+            print(err)
             trans.rollback()
             return getQuestao(prova=questao.prova_id, numero=questao.numero, materia=questao.materia)
 
