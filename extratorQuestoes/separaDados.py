@@ -25,7 +25,7 @@ def separaDados(prova, gabarito):
     gabarito_aberto = open(gabarito, encoding="utf8")
 
     nome_prova = None
-    id_prova = None  # fazer consulta no banco procurar pelas chaves da lista prova
+    id_prova = None
     dados_prova = None
     materia = None
     numero = None
@@ -54,11 +54,12 @@ def separaDados(prova, gabarito):
         elif linha[0] == "\\":
 
             if linha[1] == "L":
-                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{numero}"
+                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{materia}_{numero}"
                 enunciado += linha
                 continue
 
             else:
+                enunciado = enunciado.strip("\n")
                 questao = Questoes(prova_id=id_prova, numero=numero,
                                    materia=materia, enunciado=enunciado, imagem=imagem)
                 questao_salva = insertQuestao(questao)
@@ -84,7 +85,7 @@ def separaRespostas(nome_prova, dados_prova, questao, prova, gabarito):
     for linha in prova:
         if linha[0] == "\\":
             if "\L" in enunciado:
-                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{questao.numero}_{alternativa}"
+                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{questao.materia}_{questao.numero}_{alternativa}"
 
             resposta = Respostas(prova_id=questao.prova_id, questao_id=questao.id,
                                  enunciado=enunciado, alternativa=alternativa, imagem=imagem)
@@ -93,7 +94,7 @@ def separaRespostas(nome_prova, dados_prova, questao, prova, gabarito):
 
         elif linha[0] in ['A', 'B', 'C', 'D', 'E'] and linha[1] == ")":
             if "\L" in enunciado:
-                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{questao.numero}_{alternativa}"
+                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{questao.materia}_{questao.numero}_{alternativa}"
 
             if alternativa != None and enunciado != None:
                 resposta = Respostas(prova_id=questao.prova_id, questao_id=questao.id,
@@ -124,5 +125,6 @@ db.close()
 
 
 # print(insertGabarito("Provas/2020_GB_impresso_D1_CD4.txt"))
-separaDados("Provas/portugues.txt", "Provas/gabarito_portugues.txt")
+separaDados("Provas/txt/matematica.txt",
+            "Provas/txt/gabaritos/gabarito_matematica.txt")
 # teste("Provas/2020_PV_impresso_D1_CD4_superampliada.txt")
