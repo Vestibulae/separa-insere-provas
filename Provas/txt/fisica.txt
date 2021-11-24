@@ -1,40 +1,28 @@
-ENEM 2009.1 - Prova Anulada 2009 
-ENEM 2009.2 - Prova Oficial 2009 
-ENEM 2009.3 - Prova Unidades Prisionais 2009 
- 
-ENEM 2010.1 - Prova Oficial 2010 
-ENEM 2010.2 - Prova Unidades Prisionais 2010 
- 
-ENEM 2011.1 - Prova Oficial 2011 
-ENEM 2011.2 - Prova Unidades Prisionais 2011 
- 
-ENEM 2012.1 - Prova Oficial 2012 
-ENEM 2012.2 - Prova Unidades Prisionais 2012 
- 
-ENEM 2013.1 - Prova Oficial 2013 
-ENEM 2013.2 - Prova Unidades Prisionais 2013 
- 
-ENEM 2014.1 - Prova Oficial 2014 (1ª Aplicação) 
-ENEM 2014.2 - Prova Unidades Prisionais 2014 
-ENEM 2014.3 - Prova Oficial 2014 (2ª Aplicação) 
- 
-ENEM 2015.1 - Prova Oficial 2015 
-ENEM 2015.2 - Prova Unidades Prisionais 2015 
- 
-ENEM 2016.1 - Prova Oficial 2016 (1ª Aplicação) 
-ENEM 2016.2 - Prova Oficial 2016 (2ª Aplicação) 
-ENEM 2016.3 - Prova Unidades Prisionais 2016 
- 
-ENEM 2017.1 - Prova Oficial 2017 
-ENEM 2017.2 - Prova Unidades Prisionais 2017 
- 
-ENEM 2018.1 - Prova Oficial 2018 
-ENEM 2018.2 - Prova Unidades Prisionais 2018 
-FISICA
- 
-1 
-novocadernoenem@gmail.com 
-Questão 01 (2009.1) 
+|ENEM;2009;1;Prova Oficial 2009 
+|ENEM;2009;3;Prova Unidades Prisionais 2009
+|ENEM;2009;4;Prova Anulada 2009 
+|ENEM;2010;1;Prova Oficial 2010 
+|ENEM;2010;3;Prova Unidades Prisionais 2010 
+|ENEM;2011;1;Prova Oficial 2011 
+|ENEM;2011;3;Prova Unidades Prisionais 2011 
+|ENEM;2012;1;Prova Oficial 2012 
+|ENEM;2012;3;Prova Unidades Prisionais 2012 
+|ENEM;2013;1;Prova Oficial 2013 
+|ENEM;2013;3;Prova Unidades Prisionais 2013 
+|ENEM;2014;1;Prova Oficial 2014 (1ª Aplicação) 
+|ENEM;2014;2;Prova Oficial 2014 (2ª Aplicação) 
+|ENEM;2014;3;Prova Unidades Prisionais 2014 
+|ENEM;2015;1;Prova Oficial 2015 
+|ENEM;2015;3;Prova Unidades Prisionais 2015 
+|ENEM;2016;1;Prova Oficial 2016 (1ª Aplicação) 
+|ENEM;2016;2;Prova Oficial 2016 (2ª Aplicação) 
+|ENEM;2016;3;Prova Unidades Prisionais 2016 
+|ENEM;2017;1;Prova Oficial 2017 
+|ENEM;2017;3;Prova Unidades Prisionais 2017 
+|ENEM;2018;1;Prova Oficial 2018 
+|ENEM;2018;3;Prova Unidades Prisionais 2018 
+@@FISICA
+@01 (2009.4) 
 A água apresenta propriedades físico-químicas 
 que a coloca em posição de destaque como 
 substancial essencial à vida. Dentre essas, des-
@@ -51,6 +39,7 @@ ma.
 A propriedade físico-química mencionada no 
 texto confere à água a capacidade de: 
  
+\
 A) servir como doador de elétrons no processo 
 de fotossíntese. 
 B) funcionar como regulador térmico para os 
@@ -63,7 +52,8 @@ E) funcionar como mantenedora do metabolis-
 mo nos organismos vivos. 
  
  
-Questão 02 (2009.1) 
+\
+@02 (2009.4) 
 De maneira geral, se a temperatura de um líqui-
 do comum aumenta, ele sofre dilatação. O 
 mesmo não ocorre com a água, se ela estiver a 
@@ -80,6 +70,7 @@ des do ponto de congelamento da água.
 A partir do gráfico, é correto concluir que o vo-
 lume ocupado por certa massa de água: 
  
+\
 A) diminui em menos de 3% ao se resfriar de 
 100ºC a 0ºC. 
 B) aumenta em mais de 0,4% ao se resfriar de 
@@ -92,7 +83,8 @@ E) aumenta em menos de 3% ao se aquecer de
 0ºC a 100ºC. 
  
  
-Questão 03 (2009.1) 
+\
+@03 (2009.4) 
 As células possuem potencial de membrana, 
 que pode ser classificado em repouso ou ação, 
 e é uma estratégia eletrofisiológica interessante 
@@ -117,11 +109,7 @@ pode disparar um potencial de ação quando a
 voltagem da membrana atinge o limiar de dispa-
 ro que está representado na figura pela linha 
 pontilhada. Contudo, a célula não pode se man-
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-2 
-novocadernoenem@gmail.com 
+ovocadernoenem@gmail.com 
 ter despolarizada, pois isso acarretaria a morte 
 celular. Assim, ocorre a repolarização celular, 
 mecanismo que reverte a despolarização e re-
@@ -132,6 +120,7 @@ Qual das fases, presentes na figura, indica o
 processo de despolarização e repolarização 
 celular, respectivamente? 
  
+\
 A) Fases 0 e 2.              
 B) Fases 0 e 3.                 
 C) Fases 1 e 2.                 
@@ -139,7 +128,8 @@ D) Fases 2 e 0.
 E) Fases 3 e 1. 
  
  
-Questão 04 (2009.1) 
+\
+@04 (2009.4) 
 A energia geotérmica tem sua origem no núcleo 
 derretido da Terra, onde as temperaturas atin-
 gem cerca de 4000 °C. Essa energia é primei-
@@ -164,6 +154,7 @@ Paulo: Pioneira Thomson Learning, 2003 - adaptado)
 Sob o aspecto da conversão de energia, as 
 usinas geotérmicas: 
  
+\
 A) funcionam com base na conversão de ener-
 gia potencial gravitacional em energia térmica. 
 B) transformam inicialmente a energia solar em 
@@ -179,7 +170,8 @@ que as usinas nucleares, sendo, portanto, se-
 melhantes aos riscos decorrentes de ambas. 
  
  
-Questão 05 (2009.1) 
+\
+@05 (2009.4) 
 A ultrassonografia, também chamada de eco-
 grafia, é uma técnica de geração de imagens 
 muito utilizada em medicina. Ela se baseia na 
@@ -197,6 +189,7 @@ A determinação de distâncias entre órgãos do
 corpo humano feita com esse aparelho funda-
 menta-se em duas variáveis imprescindíveis: 
  
+\
 A) a intensidade do som produzido pelo apare-
 lho e a frequência desses sons. 
 B) a quantidade de luz usada para gerar as 
@@ -213,7 +206,8 @@ gãos e a quantidade de pulsos emitidos a cada
 segundo pelo aparelho. 
  
  
-Questão 06 (2009.1) 
+\
+@06 (2009.4) 
 O uso da água do subsolo requer o bombea-
 mento para um reservatório elevado. A capaci-
 dade de bombeamento (litros/hora) de uma 
@@ -247,11 +241,7 @@ la.
 4. Usar a altura manométrica no gráfico 
 de desempenho para ler a vazão cor-
 respondente. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-3 
-novocadernoenem@gmail.com 
+ovocadernoenem@gmail.com 
  
  
 Considere que se deseja usar uma bomba, cujo desempenho é descrito pelos dados acima, para encher 
@@ -259,6 +249,7 @@ um reservatório de 1.200 L que se encontra 30 m acima da entrada da bomba. Para
 entre a bomba e o reservatório seriam usados 200 m de cano. Nessa situação, é de se esperar que a 
 bomba consiga encher o reservatório: 
  
+\
 A) entre 30 e 40 minutos. 
  
  
@@ -272,7 +263,8 @@ E) entre 1 h e 10 minutos e 1 h e 40 minutos.
 C) em mais de 1 h e 40 minutos. 
  
  
-Questão 07 (2009.1) 
+\
+@07 (2009.4) 
 Os motores elétricos são dispositivos com di-
 versas aplicações, dentre elas, destacam-se 
 aquelas que proporcionam conforto e praticida-
@@ -305,6 +297,7 @@ cia média de saída do motor do elevador e a
 corrente elétrica máxima que passa no motor 
 serão respectivamente de: 
  
+\
 A) 24kW e 109A. 
 B) 32kW e 145A. 
 C) 56kW e 255A. 
@@ -312,7 +305,8 @@ D) 180kW e 818A.
 E) 240kW e 1090A. 
  
  
-Questão 08 (2009.1) 
+\
+@08 (2009.4) 
 Além de ser capaz de gerar eletricidade, a 
 energia solar é usada para muitas outras finali-
 dades. A figura a seguir mostra o uso da ener-
@@ -321,11 +315,7 @@ tanque contendo água salgada é coberto por um
 plástico transparente e tem a sua parte central 
 abaixada pelo peso de uma pedra, sob a qual 
 se coloca um recipiente (copo).  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-4 
-novocadernoenem@gmail.com 
+ovocadernoenem@gmail.com 
 A água evaporada se condensa no plástico e 
 escorre até o ponto mais baixo, caindo dentro 
 do copo. 
@@ -335,6 +325,7 @@ do copo.
 Nesse processo, a energia solar cedida à água 
 salgada: 
  
+\
 A) fica retida na água doce que cai no copo, 
 tornando-a, assim, altamente energizada. 
 B) fica armazenada na forma de energia poten-
@@ -347,7 +338,8 @@ E) é reemitida como calor para fora do tanque,
 no processo de evaporação da água salgada. 
  
  
-Questão 09 (2009.1) 
+\
+@09 (2009.4) 
  
 O Super-homem e as leis do movimento 
  
@@ -374,6 +366,7 @@ A altura que o Super-homem alcança em seu
 salto depende do quadrado de sua velocidade 
 inicial porque: 
  
+\
 A) a altura do seu pulo é proporcional à sua 
 velocidade média multiplicada pelo tempo que 
 ele permanece no ar ao quadrado. 
@@ -394,7 +387,8 @@ permanece no ar, e esse tempo também de-
 pende da sua velocidade inicial. 
  
  
-Questão 10 (2009.1) 
+\
+@10 (2009.4) 
 A eficiência de um processo de conversão de 
 energia, definida como sendo a razão entre a 
 quantidade de energia ou trabalho útil e a quan-
@@ -411,17 +405,14 @@ de conversão de energia
  
 (HINRICHS, R. A; KLEINBACH, M. Energia e meio 
 ambiente. São Paulo: Pioneira Leaming, 2003) 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-5 
-novocadernoenem@gmail.com 
+ovocadernoenem@gmail.com 
 Se essas limitações não existissem, os sistemas 
 mostrados na tabela, que mais se beneficiariam 
 de investimentos em pesquisa para terem suas 
 eficiências aumentadas, seriam aqueles que 
 envolvem as transformações de energia: 
  
+\
 A) mecânica ↔ energia elétrica. 
 B) nuclear → energia elétrica. 
 C) química ↔ energia elétrica. 
@@ -429,7 +420,8 @@ D) química → energia térmica.
 E) radiante → energia elétrica.  
  
  
-Questão 11 (2009.1) 
+\
+@11 (2009.4) 
 A Constelação Vulpécula (Raposa) encontra-se 
 63 anos-luz da Terra, fora do sistema solar. Ali, 
 o planeta gigante HD 189733b, 15% maior que 
@@ -450,6 +442,7 @@ De acordo com o texto, o planeta concentra
 vapor de água em sua atmosfera a 900 graus 
 Celsius. Sobre a vaporização infere-se que: 
  
+\
 A) se há vapor de água no planeta, é certo que 
 existe água no estado líquido também. 
 B) a temperatura de ebulição da água indepen-
@@ -469,7 +462,8 @@ cessário muito menos tempo para fazer a água
 vaporizar completamente. 
  
  
-Questão 12 (2009.1) 
+\
+@12 (2009.4) 
 Em grandes metrópoles, devido a mudanças na 
 superfície terrestre - asfalto e concreto em ex-
 cesso, por exemplo - formam-se ilhas de calor. 
@@ -490,6 +484,7 @@ Nas mesmas condições ambientais (temperatu-
 ra, umidade e pressão), uma quadra terá melhor 
 conforto térmico se: 
  
+\
 A) pavimentada com material de baixo calor 
 específico, pois quanto menor o calor específico 
 de determinado material, menor será a variação 
@@ -521,7 +516,8 @@ baixo calor específico da água (em relação à
 madeira, por exemplo). 
  
  
-Questão 13 (2009.1) 
+\
+@13 (2009.4) 
 Considere a ação de se ligar uma bomba hi-
 dráulica elétrica para captar água de um poço e 
 armazená-la em uma caixa d’água localizada 
@@ -543,11 +539,7 @@ um motor cujo eixo está acoplado ao de
 uma bomba hidráulica e, ao girar, cum-
 pre a tarefa de transferir água do poço 
 para a caixa. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-6 
-novocadernoenem@gmail.com 
+ovocadernoenem@gmail.com 
 As etapas I, II e III acima mostram, de forma 
 resumida e simplificada, a cadeia de transfor-
 mações de energia que se processam desde a 
@@ -555,6 +547,7 @@ fonte de energia primária até o seu uso final. A
 opção que detalha o que ocorre em cada etapa 
 é: 
  
+\
 A) Na etapa I, energia potencial gravitacional da 
 água armazenada na represa transforma-se em 
 energia potencial da água em movimento na 
@@ -586,7 +579,8 @@ energia cinética da água na tubulação e poten-
 cial gravitacional na caixa d’água. 
  
  
-Questão 14 (2009.1) 
+\
+@14 (2009.4) 
 Os radares comuns transmitem microondas que 
 refletem na água, gelo e outras partículas na 
 atmosfera. Podem, assim, indicar apenas o 
@@ -627,6 +621,7 @@ Qual é a velocidade, em km/h, de uma chuva,
 para a qual se registra no radar Doppler uma 
 diferença de frequência de 300 Hz?  
  
+\
 A) 1,5 km/h  
 B) 5,4 km/h  
 C) 15km/h  
@@ -634,7 +629,8 @@ D) 54 km/h
 E) 108 km/h 
  
  
-Questão 15 (2009.2) 
+\
+@15 (2009.1) 
 Na linha de uma tradição antiga, o astrônomo 
 grego Ptolomeu (100-170 d.C.) afirmou a tese 
 do geocentrismo, segundo a qual a Terra seria o 
@@ -658,6 +654,7 @@ ralizou-se para os demais planetas.
 A respeito dos estudiosos citados no texto, é 
 correto afirmar que: 
  
+\
 A) Ptolomeu apresentou as ideias mais valiosas, 
 por serem mais antigas e tradicionais. 
 B) Copérnico desenvolveu a teoria do heliocen-
@@ -671,12 +668,9 @@ científica da Alemanha.
 E) Kepler apresentou uma teoria científica que, 
 graças aos métodos aplicados, pôde ser testada 
 e generalizada. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-7 
-novocadernoenem@gmail.com 
-Questão 16 (2009.1) 
+ovocadernoenem@gmail.com 
+\
+@16 (2009.4) 
 Uma estudante que ingressou na universidade e, pela primeira vez, está morando longe de sua família, 
 recebe sua primeira conta de luz: 
  
@@ -686,6 +680,7 @@ Se essa estudante comprar um secador de cabelos que consome 1000 W de potência 
 que ela e sua 3 amigas utilizem esse aparelho por 15 minutos cada uma durante 20 dias no mês, qual 
 será o acréscimo em reais na sua conta mensal? 
  
+\
 A) 10,00 
 B) 12,50 
 C) 13,00 
@@ -693,7 +688,8 @@ D) 13,50
 E) 14,00 
  
  
-Questão 17 (2009.2) 
+\
+@17 (2009.1) 
 A eficiência de um processo de conversão de energia é definida como a razão entre a produção de 
 energia ou trabalho útil e o total de entrada de energia no processo. A figura mostra um processo com 
 diversas etapas. Nesse caso, a eficiência geral será igual ao produto das eficiências das etapas individu-
@@ -705,6 +701,7 @@ ais. A entrada de energia que não se transforma em trabalho útil é perdida so
 Aumentar a eficiência dos processos de conversão de energia implica economizar recursos e combustí-
 veis. Das propostas seguintes, qual resultará em maior aumento da eficiência geral do processo? 
  
+\
 A) Aumentar a quantidade de combustível para queima na usina de força. 
 B) Utilizar lâmpadas incandescentes, que geram pouco calor e muita luminosidade. 
 C) Manter o menor número possível de aparelhos elétricos em funcionamento nas moradias. 
@@ -712,12 +709,9 @@ D) Utilizar cabos com menor diâmetro nas linhas de transmissão a fim de econom
 tor. 
 E) Utilizar materiais com melhores propriedades condutoras nas linhas de transmissão e lâmpadas fluo-
 rescentes nas moradias. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-8 
-novocadernoenem@gmail.com 
-Questão 18 (2009.2) 
+ovocadernoenem@gmail.com 
+\
+@18 (2009.1) 
 O Brasil pode se transformar no primeiro país 
 das Américas a entrar no seleto grupo das na-
 ções que dispõem de trens-bala. O Ministério 
@@ -741,6 +735,7 @@ todo o percurso, seria correto prever que as
 curvas existentes no trajeto deveriam ter raio de 
 curvatura mínimo de, aproximadamente, 
  
+\
 A) 80 m. 
 B) 430 m. 
 C) 800 m. 
@@ -749,7 +744,8 @@ E) 6.400 m.
  
  
  
-Questão 19 (2009.2) 
+\
+@19 (2009.1) 
 O manual de instruções de um aparelho de ar-condicionado apresenta a seguinte tabela, com dados 
 técnicos para diversos modelos: 
  
@@ -762,6 +758,7 @@ determinar quantos e/ou quais aparelhos de ar-condicionado são precisos para ma
 máxima, a temperatura interna do auditório agradável e constante, bem como determinar a espessura da 
 fiação do circuito elétrico para a ligação desses aparelhos, são: 
  
+\
 A) vazão de ar e potência. 
 B) vazão de ar e corrente elétrica - ciclo frio. 
 C) eficiência energética e potência. 
@@ -769,7 +766,8 @@ D) capacidade de refrigeração e frequência.
 E) capacidade de refrigeração e corrente elétrica - ciclo frio. 
  
  
-Questão 20 (2009.2) 
+\
+@20 (2009.1) 
 A instalação elétrica de uma casa envolve várias etapas, desde a alocação dos dispositivos, instrumen-
 tos e aparelhos elétricos, até a escolha dos materiais que a compõem, passando pelo dimensionamento 
 da potência requerida, da fiação necessária, dos eletrodutos*, entre outras. Para cada aparelho elétrico 
@@ -779,11 +777,7 @@ apresentados no quadro seguinte:
  
  
 *Eletrodutos são condutos por onde passa a fiação de uma instalação elétrica, com a finalidade de protegê-la. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-9 
-novocadernoenem@gmail.com 
+ovocadernoenem@gmail.com 
 A escolha das lâmpadas é essencial para obtenção de uma boa iluminação. A potência da lâmpada de-
 verá estar de acordo com o tamanho do cômodo a ser iluminado. O quadro a seguir mostra a relação 
 entre as áreas dos cômodos (em m2) e as potências das lâmpadas (em W), e foi utilizado como referên-
@@ -794,6 +788,7 @@ cia para o primeiro pavimento de uma residência.
 Considerando a planta baixa fornecida, com todos os aparelhos em funcionamento, a potência total, em 
 watts, será de: 
  
+\
 A) 4.070. 
 B) 4.270. 
 C) 4.320. 
@@ -801,19 +796,16 @@ D) 4.390.
 E) 4.470. 
  
  
-Questão 21 (2009.2) 
+\
+@21 (2009.1) 
 O esquema mostra um diagrama de bloco de uma estação geradora de eletricidade abastecida por com-
 bustível fóssil. 
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-10 
-novocadernoenem@gmail.com 
 Se fosse necessário melhorar o rendimento dessa usina, que forneceria eletricidade para abastecer uma 
 cidade, qual das seguintes ações poderia resultar em alguma economia de energia, sem afetar a capaci-
 dade de geração da usina? 
  
+\
 A) Reduzir a quantidade de combustível fornecido à usina para ser queimado. 
 B) Reduzir o volume de água do lago que circula no condensador de vapor. 
 C) Reduzir o tamanho da bomba usada para devolver a água líquida à caldeira. 
@@ -821,7 +813,8 @@ D) Melhorar a capacidade dos dutos com vapor conduzirem calor para o ambiente.
 E) Usar o calor liberado com os gases pela chaminé para mover um outro gerador. 
  
  
-Questão 22 (2009.2) 
+\
+@22 (2009.1) 
 Um medicamento, após ser ingerido, atinge a corrente sanguínea e espalha-se pelo organismo, mas, 
 como suas moléculas “não sabem” onde é que está o problema, podem atuar em locais diferentes do 
 local “alvo” e desencadear efeitos além daqueles desejados. Não seria perfeito se as moléculas dos me-
@@ -842,6 +835,7 @@ fluxo de solvente fisiológico que se forma entre os eletrodos (eletrosmose - B)
  
 De acordo com as informações contidas no texto e nas figuras, o uso da iontoforese: 
  
+\
 A) provoca ferimento na pele do paciente ao serem introduzidos os eletrodos, rompendo o epitélio. 
 B) aumenta o risco de estresse nos pacientes, causado pela aplicação da corrente elétrica. 
 C) inibe o mecanismo de ação dos medicamentos no tecido-alvo, pois estes passam a entrar por meio 
@@ -853,22 +847,19 @@ lares.
  
  
  
-Questão 23 (2009.2) 
+\
+@23 (2009.1) 
 Umidade relativa do ar é o termo usado para descrever a quantidade de vapor de água contido na at-
 mosfera. Ela é definida pela razão entre o conteúdo real de umidade de uma parcela de ar e a quantida-
 de de umidade que a mesma parcela de ar pode armazenar na mesma temperatura e pressão quando 
 está saturada de vapor, isto é, com 100% de umidade relativa. O gráfico representa a relação entre a 
 umidade relativa do ar e sua temperatura ao longo de um período de 24 horas em um determinado local. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-11 
-novocadernoenem@gmail.com 
  
  
 Considerando-se as informações do texto e do gráfico, conclui-se que: 
  
  
+\
 A) a insolação é um fator que provoca variação da umidade relativa do ar. 
 B) o ar vai adquirindo maior quantidade de vapor de água à medida que se aquece. 
 C) a presença de umidade relativa do ar é diretamente proporcional à temperatura do ar. 
@@ -878,7 +869,8 @@ E) a variação da umidade do ar se verifica no verão, e não no inverno, quand
 necem baixas. 
  
  
-Questão 24 (2009.2) 
+\
+@24 (2009.1) 
 O ônibus espacial Atlantis foi lançado ao espaço 
 com cinco astronautas a bordo e uma câmera 
 nova, que iria substituir uma outra danificada 
@@ -895,6 +887,7 @@ de, mas o peso é pequeno.”
 Considerando o texto e as leis de Kepler, pode-
 se afirmar que a frase dita pelo astronauta: 
  
+\
 A) se justifica porque o tamanho do telescópio 
 determina a sua massa, enquanto seu pequeno 
 peso decorre da falta de ação da aceleração da 
@@ -919,7 +912,8 @@ do telescópio poderia ser avaliada simplesmen-
 te pelo seu volume. 
  
  
-Questão 25 (2009.2) 
+\
+@25 (2009.1) 
 É possível, com 1 litro de gasolina, usando todo 
 o calor produzido por sua combustão direta, 
 aquecer 200 litros de água de 20 °C a 55 °C. 
@@ -929,17 +923,13 @@ de gasolina por hora e fornece 110 V a um re-
 sistor de 11 Ω, imerso na água, durante um 
 certo intervalo de tempo. Todo o calor liberado 
 pelo resistor é transferido à água. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-12 
-novocadernoenem@gmail.com 
 Considerando que o calor específico da água é 
 igual a 4,19 J g-1 °C-1, aproximadamente qual a 
 quantidade de gasolina consumida para o aque-
 cimento de água obtido pelo gerador, quando 
 comparado ao obtido a partir da combustão? 
  
+\
 A) A quantidade de gasolina consumida é igual 
 para os dois casos. 
 B) A quantidade de gasolina consumida pelo 
@@ -956,7 +946,8 @@ gerador é sete vezes menor que a consumida
 na combustão. 
  
  
-Questão 26 (2009.2) 
+\
+@26 (2009.1) 
 O progresso da tecnologia introduziu diversos 
 artefatos geradores de campos eletromagnéti-
 cos. Uma das mais empregadas invenções nes-
@@ -978,6 +969,7 @@ ter a mesma cobertura, levando em considera-
 ção apenas o número de antenas em uma regi-
 ão, ele deverá escolher: 
  
+\
 A) a tecnologia GSM, pois é a que opera com 
 ondas de maior comprimento de onda. 
 B) a tecnologia TDMA/CDMA, pois é a que 
@@ -992,7 +984,8 @@ intensidades decaem igualmente da mesma
 forma, independentemente da frequência. 
  
  
-Questão 27 (2009.2) 
+\
+@27 (2009.1) 
 O Sol representa uma fonte limpa e inesgotável 
 de energia para o nosso planeta. Essa energia 
 pode ser captada por aquecedores solares, 
@@ -1024,6 +1017,7 @@ elevar a temperatura de 1 m3 (equivalente a 1 t)
 de água de 20 °C para 100 °C, em uma hora, 
 estará entre: 
  
+\
 A) 15 m e 21 m. 
 B) 22 m e 30 m. 
 C) 105 m e 125 m. 
@@ -1031,7 +1025,8 @@ D) 680 m e 710 m.
 E) 6.700 m e 7.150 m. 
  
  
-Questão 28 (2009.2) 
+\
+@28 (2009.1) 
 Sabe-se que o olho humano não consegue dife-
 renciar componentes de cores e vê apenas a 
 cor resultante, diferentemente do ouvido, que 
@@ -1046,11 +1041,6 @@ bastonetes, que convertem a cor e a intensida-
 de da luz recebida em impulsos nervosos. Os 
 cones distinguem as cores primárias: vermelho, 
 verde e azul, e os bastonetes diferenciam ape-
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-13 
-novocadernoenem@gmail.com 
 nas níveis de intensidade, sem separar compri-
 mentos de onda. Os impulsos nervosos produ-
 zidos são enviados ao cérebro por meio do ner-
@@ -1062,6 +1052,7 @@ consegue captar as informações transmitidas
 pelos cones, perceberá um objeto branco, ilumi-
 nado apenas por luz vermelha, como: 
  
+\
 A) um objeto indefinido, pois as células que 
 captam a luz estão inativas. 
 B) um objeto rosa, pois haverá mistura da luz 
@@ -1075,7 +1066,8 @@ refletida pelo objeto, transformando-a em ver-
 melho. 
  
  
-Questão 29 (2009.2) 
+\
+@29 (2009.1) 
 Durante uma ação de fiscalização em postos de 
 combustíveis, foi encontrado um mecanismo 
 inusitado para enganar o consumidor. Durante o 
@@ -1098,6 +1090,7 @@ do posto teria obtido devido ao aquecimento do
 álcool após uma semana de vendas estaria 
 entre: 
  
+\
 A) R$ 500,00 e R$ 1.000,00. 
 B) R$ 1.050,00 e R$ 1.250,00. 
 C) R$ 4.000,00 e R$ 5.000,00. 
@@ -1105,7 +1098,8 @@ D) R$ 6.000,00 e R$ 6.900,00.
 E) R$ 7.000,00 e R$ 7.950,00. 
  
  
-Questão 30 (2009.2) 
+\
+@30 (2009.1) 
 A invenção da geladeira proporcionou uma re-
 volução no aproveitamento dos alimentos, ao 
 permitir que fossem armazenados e transporta-
@@ -1127,6 +1121,7 @@ Acesso em: 19 out. 2008 - adaptado)
 Nos processos de transformação de energia 
 envolvidos no funcionamento da geladeira, 
  
+\
 A) a expansão do gás é um processo que cede 
 a energia necessária ao resfriamento da parte 
 interna da geladeira. 
@@ -1143,16 +1138,12 @@ vida à geladeira abrindo-se a sua porta, o que
 reduz seu consumo de energia. 
  
  
-Questão 31 (2009.2) 
+\
+@31 (2009.1) 
 Considere a seguinte situação hipotética: ao 
 preparar o palco para a apresentação de uma 
 peça de teatro, o iluminador deveria colocar três 
 atores sob luzes que tinham igual brilho e os 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-14 
-novocadernoenem@gmail.com 
 demais, sob luzes de menor brilho. O iluminador 
 determinou, então, aos técnicos, que instalas-
 sem no palco oito lâmpadas incandescentes 
@@ -1167,6 +1158,7 @@ acendem com o mesmo brilho por apresentarem
 igual valor de corrente fluindo nelas, sob as 
 quais devem se posicionar os três atores? 
  
+\
 A) L1, L2 e L3. 
 B) L2, L3 e L4. 
 C) L2, L5 e L7. 
@@ -1174,7 +1166,8 @@ D) L4, L5 e L6.
 E) L4, L7 e L8. 
  
  
-Questão 32 (2009.3) 
+\
+@32 (2009.3) 
 Considere a forma de funcionamento de um 
 equipamento que utiliza um ciclo de transferên-
 cia de calor de um ambiente interno para um 
@@ -1193,6 +1186,7 @@ te interno.
 No texto acima, descreve-se o funcionamento 
 básico de um: 
  
+\
 A) isqueiro. 
 B) refrigerador. 
 C) nebulizador. 
@@ -1200,7 +1194,8 @@ D) liquidificador.
 E) forno de micro-ondas. 
  
  
-Questão 33 (2009.3) 
+\
+@33 (2009.3) 
 A luz solar que atinge a parte superior da at-
 mosfera terrestre chega a uma taxa constante 
 de 135,2 mW/cm². Dessa radiação, apenas 50% 
@@ -1226,6 +1221,7 @@ pre cheio.
 É correto afirmar que os coletores solares per-
 mitem boa economia de energia, pois: 
  
+\
 A) se aplicam à produção tanto de energia tér-
 mica quanto elétrica. 
 B) constituem fonte energética alternativa aos 
@@ -1241,18 +1237,14 @@ ser usada para reduzir o número de lâmpadas
 usadas no ambiente. 
  
  
-Questão 34 (2009.3) 
+\
+@34 (2009.3) 
 Na era do telefone celular, ainda é possível se 
 comunicar com um sistema bem mais arcaico e 
 talvez mais divertido: o “telefone com copos de 
 plástico e barbante”. 
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-15 
-novocadernoenem@gmail.com 
 A onda sonora produzida pelo menino faz vibrar 
 o fundo de um copo plástico, em um movimento 
 de vai e vem imperceptível, mas que cria uma 
@@ -1269,6 +1261,7 @@ forma nítida.
 Com relação ao assunto tratado no texto e na 
 figura, conclui-se que: 
  
+\
 A) a antena de um telefone celular exerce a 
 mesma função do barbante que une os dois 
 copos de plástico. 
@@ -1290,7 +1283,8 @@ sor através da onda se propagando no fio do
 telefone “com copos de plástico e barbante”. 
  
  
-Questão 35 (2009.3) 
+\
+@35 (2009.3) 
 O Inmetro procedeu à análise de garrafas térmi-
 cas com ampolas de vidro, para manter o con-
 sumidor informado sobre a adequação dos pro-
@@ -1312,6 +1306,7 @@ Atingindo a água 81 ºC nesse prazo, a energia
 interna do sistema e a quantidade de calor per-
 dida para o meio são, respectivamente, 
  
+\
 A) menor e de 900 cal. 
 B) maior e de 900 cal. 
 C) menor e de 9.000 cal. 
@@ -1319,7 +1314,8 @@ D) maior e de 9.000 cal.
 E) constante e de 900 cal. 
  
  
-Questão 36 (2009.3) 
+\
+@36 (2009.3) 
 Na natureza, a água, por meio de processos físicos, passa pelas fases líquida, gasosa e sólida perfa-
 zendo o ciclo hidrológico. A distribuição da água na Terra é condicionada por esse ciclo, e as mudanças 
 na temperatura do planeta poderão influenciar as proporções de água nas diferentes fases desse ciclo. 
@@ -1330,14 +1326,10 @@ fornecimento de energia a uma taxa constante.
 Considerando-se o diagrama de mudanças de fases da água e sabendo-se que os calores latentes de 
 fusão e de vaporização da água valem, respectivamente, 80 cal/g e 540 cal/g, conclui-se que: 
  
+\
 A) a temperatura da água permanece constante durante os processos de mudança de fase. 
 B) a energia necessária para fundir 10 g de gelo é maior que a necessária para evaporar a mesma mas-
 sa de água. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-16 
-novocadernoenem@gmail.com 
 C) a água, para mudar de fase, libera energia a uma taxa de 540 cal/g quando a temperatura aumenta 
 de 0 ºC até 100 ºC. 
 D) a temperatura da água varia proporcionalmente à energia que ela recebe, ou seja, 80 cal/g durante o 
@@ -1346,7 +1338,8 @@ E) a temperatura da água varia durante o processo de vaporização porque ela e
 quantidade de energia constante. 
  
  
-Questão 37 (2009.3) 
+\
+@37 (2009.3) 
 A evolução da luz: as lâmpadas LED já substi-
 tuem com grandes vantagens a velha invenção 
 de Thomas Edison. 
@@ -1384,6 +1377,7 @@ Uma lâmpada LED que ofereça a mesma lumi-
 nosidade que uma lâmpada incandescente de 
 100 W deverá ter uma potência mínima de: 
  
+\
 A) 12,5 W. 
 B) 25 W. 
 C) 40 W. 
@@ -1391,7 +1385,8 @@ D) 60 W.
 E) 80 W. 
  
  
-Questão 38 (2009.3) 
+\
+@38 (2009.3) 
 A dilatação dos materiais em função da variação 
 da temperatura é uma propriedade física bas-
 tante utilizada na construção de termômetros 
@@ -1405,6 +1400,7 @@ Com base nas leis da termodinâmica e na dila-
 tação de sólidos sob a influência de temperatura 
 variável, conclui-se que: 
  
+\
 A) a lâmina bimetálica se curvará para a direita, 
 caso o coeficiente de dilatação linear do materi-
 al B seja maior que o coeficiente de dilatação 
@@ -1420,7 +1416,8 @@ E) o coeficiente de dilatação linear é uma gran-
 deza negativa. 
  
  
-Questão 39 (2009.3) 
+\
+@39 (2009.3) 
 Um chacareiro deseja instalar, em sua proprie-
 dade, uma turbina com um gerador de eletrici-
 dade de 2 HP em queda de água, de 20 metros 
@@ -1432,17 +1429,14 @@ derando que toda a energia potencial da queda
 afirma que a vazão de massa de água necessá-
 ria para acionar o gerador é igual a: 
  
+\
 A) 0,01 kg/s. 
 B) 20 kg/s. 
 C) 7,5 kg/s. 
 D) 10 kg/s. 
 E) 75 kg/s. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-17 
-novocadernoenem@gmail.com 
-Questão 40 (2009.3) 
+\
+@40 (2009.3) 
 A eficiência de um coletor solar depende de 
 uma série de variáveis. Na tabela abaixo, são 
 mostradas diferenças na radiação solar inciden-
@@ -1465,6 +1459,7 @@ Considerando os dados mostrados na tabela, na
 transformação da energia luminosa, observa-se 
 que: 
  
+\
 A) a radiação solar média coletada independe 
 do tamanho da superfície de captação do cole-
 tor solar. 
@@ -1485,7 +1480,8 @@ quada para a utilização de energia solar porque
 energia térmica para o ambiente. 
  
  
-Questão 41 (2009.3) 
+\
+@41 (2009.3) 
  
 Carros passarão a utilizar sistema  
 elétrico de 42 volts 
@@ -1518,6 +1514,7 @@ com o motor desligado, entre o sistema atual-
 mente utilizado e o sistema novo, em ampère, é 
 de: 
  
+\
 A) 0,80. 
 B) 0,93. 
 C) 1,43. 
@@ -1525,7 +1522,8 @@ D) 1,67.
 E 3,50. 
  
  
-Questão 42 (2009.3) 
+\
+@42 (2009.3) 
 A medida da velocidade de um veículo, utilizan-
 do radar, baseia-se no fato de que as ondas 
 emitidas pelo radar e detectadas após serem 
@@ -1536,6 +1534,7 @@ nado Efeito Doppler.
 A onda refletida pelo veículo citada no texto é 
 uma: 
  
+\
 A) onda mecânica e se propaga com a veloci-
 dade do som. 
 B) onda eletromagnética e se propaga com a 
@@ -1549,17 +1548,13 @@ frequência, se propaga com velocidade maior
 que a velocidade da luz. 
  
  
-Questão 43 (2010.1) 
+\
+@43 (2010.1) 
 As ondas eletromagnéticas, como a luz visível e 
 as ondas de rádio, viajam em linha reta em um 
 meio homogêneo. Então, as ondas de rádio 
 emitidas na região litorânea do Brasil não alcan-
 çariam a região amazônica do Brasil por causa 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-18 
-novocadernoenem@gmail.com 
 da curvatura da Terra. Entretanto sabemos que 
 é possível transmitir ondas de rádio entre essas 
 localidades devido à ionosfera. 
@@ -1568,6 +1563,7 @@ Com a ajuda da ionosfera, a transmissão de
 ondas planas entre o litoral do Brasil e a região 
 amazônica é possível por meio da: 
  
+\
 A) reflexão.      
 B) refração.       
 C) difração.       
@@ -1575,7 +1571,8 @@ D) polarização.
 E) interferência. 
  
  
-Questão 44 (2010.1) 
+\
+@44 (2010.1) 
 Todo carro possui uma caixa de fusíveis, que 
 são utilizados para a proteção dos circuitos elé-
 tricos. Os fusíveis são constituídos de um mate-
@@ -1600,6 +1597,7 @@ a carga dos dois faróis, o menor valor de fusível
 adequado para a proteção desse novo circuito é 
 o: 
  
+\
 A) azul.        
 B) preto.        
 C) laranja.        
@@ -1607,7 +1605,8 @@ D) amarelo.
 E) vermelho. 
  
  
-Questão 45 (2010.1) 
+\
+@45 (2010.1) 
 Em nosso cotidiano, utilizamos as palavras "ca-
 lor" e "temperatura" de forma diferente de como 
 elas são usadas no meio científico. Na lingua-
@@ -1620,6 +1619,7 @@ Do ponto de vista científico, que situação prática
 mostra a limitação dos conceitos corriqueiros de 
 calor e temperatura? 
  
+\
 A) A temperatura da água pode ficar constante 
 durante o tempo em que estiver fervendo. 
 B) Uma mãe coloca a mão na água da banheira 
@@ -1635,7 +1635,8 @@ lha de água que está em seu interior com menor
 temperatura do que a dele. 
  
  
-Questão 46 (2010.1) 
+\
+@46 (2010.1) 
 Com o objetivo de se testar a eficiência de for-
 nos de micro-ondas, planejou-se o aquecimento 
 em 10 °C de amostras de diferentes substân-
@@ -1645,6 +1646,7 @@ cada forno operou à potência máxima.
  
 O forno mais eficiente foi aquele que: 
  
+\
 A) forneceu a maior quantidade de energia às 
 amostras. 
 B) cedeu energia à amostra de maior massa em 
@@ -1663,18 +1665,14 @@ zio. Observe a região em que a faixa sumiu,
 destacada pela seta. 
  
  
-Questão 47 (2010.1) 
+\
+@47 (2010.1) 
  
  
  
 A aparência de Júpiter é tipicamente marcada 
 por duas faixas escuras em sua atmosfera - 
 uma no hemisfério norte e outra no hemisfério 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-19 
-novocadernoenem@gmail.com 
 sul. Como o gás está constantemente em mo-
 vimento, o desaparecimento da faixa no planeta 
 relaciona-se ao movimento das diversas cama-
@@ -1687,6 +1685,7 @@ espaço ou na Terra.
 O desaparecimento da faixa sul pode ter sido 
 determinado por uma alteração: 
  
+\
 A) na temperatura da superfície do planeta. 
 B) no formato da camada gasosa do planeta. 
 C) no campo gravitacional gerado pelo planeta. 
@@ -1696,7 +1695,8 @@ E) na densidade das nuvens que compõem o
 planeta. 
  
  
-Questão 48 (2010.1) 
+\
+@48 (2010.1) 
 Em visita a uma usina sucroalcooleira, um grupo 
 de alunos pôde observar a série de processos 
 de beneficiamento da cana-de-açúcar, entre os 
@@ -1722,6 +1722,7 @@ alunos, quais operações físicas de separação
 de materiais foram realizadas nas etapas de 
 beneficiamento da cana-de-açúcar? 
  
+\
 A) Separação mecânica, extração, decantação. 
 B) Separação magnética, combustão, filtração. 
 C) Separação magnética, extração, filtração. 
@@ -1729,24 +1730,22 @@ D) Imantação, combustão, peneiração.
 E) Imantação, destilação, filtração. 
  
  
-Questão 49 (2010.1) 
+\
+@49 (2010.1) 
  
  
  
 A fonte de energia representada na figura, considerada uma das mais limpas e sustentáveis do mundo, é 
 extraída do calor gerado: 
  
+\
 A) pela circulação do magma no subsolo. 
 B) pelas erupções constantes dos vulcões. 
 C) pelo sol que aquece as águas com radiação ultravioleta. 
 D) pela queima do carvão e combustível fósseis. 
 E) pelos detritos e cinzas vulcânicas. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-20 
-novocadernoenem@gmail.com 
-Questão 50 (2010.1) 
+\
+@50 (2010.1) 
 Sob pressão normal (ao nível do mar), a água 
 entra em ebulição à temperatura de 100 °C. 
 Tendo por base essa afirmação, um garoto resi-
@@ -1778,6 +1777,7 @@ do êmbolo.
 Considerando o procedimento anterior, a água 
 volta a ferver porque esse deslocamento: 
  
+\
 A) permite a entrada de calor do ambiente ex-
 terno para o interior da seringa. 
 B) provoca, por atrito, um aquecimento da água 
@@ -1791,7 +1791,8 @@ E) possibilita uma diminuição da densidade da
 água que facilita sua ebulição. 
  
  
-Questão 51 (2010.1) 
+\
+@51 (2010.1) 
 As cidades industrializadas produzem grandes 
 proporções de gases como o CO2, o principal 
 gás causador de efeito estufa. Isso ocorre por 
@@ -1810,6 +1811,7 @@ Em áreas urbanas, devido à atuação conjunta
 do efeito estufa e das "ilhas de calor", espera-se 
 que o consumo de energia elétrica: 
  
+\
 A) diminua devido a utilização de caldeiras por 
 indústrias metalúrgicas. 
 B) aumente devido ao bloqueio da luz do sol 
@@ -1822,7 +1824,8 @@ E) diminua devido à grande quantidade de radi-
 ação térmica reutilizada. 
  
  
-Questão 52 (2010.1) 
+\
+@52 (2010.1) 
 Para explicar a absorção de nutrientes, bem 
 como a função das microvilosidades das mem-
 branas das células que revestem as paredes 
@@ -1846,6 +1849,7 @@ função das microvilosidades intestinais com
 relação à absorção de nutrientes pelas células 
 das paredes internas do intestino é a de: 
  
+\
 A) manter o volume de absorção. 
 B) aumentar a superfície de absorção. 
 C) diminuir a velocidade de absorção. 
@@ -1853,17 +1857,13 @@ D) aumentar o tempo da absorção.
 E) manter a seletividade na absorção. 
  
  
-Questão 53 (2010.1) 
+\
+@53 (2010.1) 
 A energia elétrica consumida nas residências é 
 medida, em quilowatt/hora, por meio de um 
 relógio medidor de consumo. Nesse relógio, da 
 direita para a esquerda, tem-se o ponteiro da 
 unidade, da dezena, da centena e do milhar. Se 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-21 
-novocadernoenem@gmail.com 
 um ponteiro estiver entre dois números, consi-
 dera-se o último número ultrapassado pelo pon-
 teiro. Suponha que as medidas indicadas nos 
@@ -1878,13 +1878,15 @@ de R$ 0,20.
 O valor a ser pago pelo consumo de energia 
 elétrica registrado seria de: 
  
+\
 A) R$ 41,80.     
 B) R$ 42,00.      
 C) R$ 43,00.      
 D) R$ 43,80      
 E) R$ 44,00. 
  
-Questão 54 (2010.1) 
+\
+@54 (2010.1) 
 Duas irmãs que dividem o mesmo quarto de 
 estudos combinaram de comprar duas caixas 
 com tampas para guardarem seus pertences 
@@ -1910,6 +1912,7 @@ Para explicar essa situação, um físico deveria
 afirmar que o material da caixa, cujo telefone 
 celular não recebeu as ligações é de: 
  
+\
 A) madeira, e o telefone não funcionava porque 
 a madeira não é um bom condutor de eletricida-
 de. 
@@ -1926,20 +1929,17 @@ a espessura desta caixa era maior que a espes-
 sura da caixa de metal. 
  
  
-Questão 55 (2010.1) 
+\
+@55 (2010.1) 
 Observe a tabela seguinte. Ela traz especificações técnicas constantes no manual de instruções forneci-
 do pelo fabricante de uma torneira elétrica. 
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-22 
-novocadernoenem@gmail.com 
 Considerando que o modelo de maior potência da versão 220 V da torneira suprema foi inadvertidamen-
 te conectada a uma rede com tensão nominal de 127 V, e que o aparelho está configurado para traba-
 lhar em sua máxima potência. Qual o valor aproximado da potência ao ligar a torneira? 
  
+\
 A) 1.830 W.        
 B) 2.800 W.        
 C) 3.200 W.       
@@ -1947,7 +1947,8 @@ D) 4.030 W.
 E) 5.500 W. 
  
  
-Questão 56 (2010.1) 
+\
+@56 (2010.1) 
 Durante uma obra em um clube, um grupo de 
 trabalhadores teve de remover uma escultura de 
 ferro maciço colocada no fundo de uma piscina 
@@ -1959,6 +1960,7 @@ Se a piscina for preenchida com água, ficará
 mais fácil para os trabalhadores removerem a 
 escultura, pois a: 
  
+\
 A) escultura flutuará, desta forma, os homens 
 não precisarão fazer força para remover a es-
 cultura do fundo. 
@@ -1980,7 +1982,8 @@ zem, podendo resultar em uma força ascenden-
 te maior que o peso da escultura. 
  
  
-Questão 57 (2010.1) 
+\
+@57 (2010.1) 
 Um grupo de cientistas liderado por pesquisado-
 res do instituto de Tecnologia da Califórnia (Cal-
 tech), nos Estados Unidos, construiu o primeiro 
@@ -2006,12 +2009,8 @@ refração da luz ao passar do ar para esse meio?
  
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-23 
-novocadernoenem@gmail.com 
-Questão 58 (2010.1) 
+\
+@58 (2010.1) 
 Deseja-se instalar uma estação de geração de 
 energia elétrica em um município localizado no 
 interior de um pequeno vale cercado de altas 
@@ -2028,6 +2027,7 @@ apresentadas, é a mais indicada para ser im-
 plantada nesse município de modo a causar o 
 menor impacto ambiental? 
  
+\
 A) Termoelétrica, pois é possível utilizar a água 
 do rio no sistema de refrigeração. 
 B) Eólica, pois a geografia do local é própria 
@@ -2040,7 +2040,8 @@ E) Hidrelétrica, pois o rio que corta o município
 é suficiente para abastecer a usina construída. 
  
  
-Questão 59 (2010.2) 
+\
+@59 (2010.3) 
 No nosso dia a dia deparamo-nos com muitas 
 tarefas pequenas e problemas que demandam 
 pouca energia para serem resolvidos e, por 
@@ -2059,6 +2060,7 @@ Em relação ao processo secundário de aprovei-
 tamento de energia ilustrado na figura, a perda 
 global de energia é reduzida por meio da trans-
 formação de energia: 
+\
 A) térmica em mecânica. 
 B) mecânica em térmica. 
 C) química em térmica. 
@@ -2066,7 +2068,8 @@ D) química em mecânica.
 E) elétrica em luminosa. 
  
  
-Questão 60 (2010.2) 
+\
+@60 (2010.3) 
  
  
  
@@ -2075,6 +2078,7 @@ da sombra da árvore e do menino, a sequência
 de períodos do dia: matutino, meio-dia e vesper-
 tino, que é determinada: 
  
+\
 A) pela posição vertical da árvore e do menino.  
 B) pela posição do menino em relação à árvore.  
 C) pelo movimento aparente do Sol em torno da 
@@ -2085,7 +2089,8 @@ E) pela estação do ano, sendo que no inverno
 os dias são mais curtos que no verão. 
  
  
-Questão 61 (2010.2) 
+\
+@61 (2010.3) 
 Os espelhos retrovisores, que deveriam auxiliar 
 os motoristas na hora de estacionar ou mudar 
 de pista, muitas vezes causam problemas. É 
@@ -2110,11 +2115,7 @@ este está do objeto, o que parece estar em con-
 flito com a informação apresentada na reporta-
 gem. Essa aparente contradição é explicada 
 pelo fato de: 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-24 
-novocadernoenem@gmail.com 
+\
 A) a imagem projetada na retina do motorista 
 ser menor do que o objeto. 
 B) a velocidade do automóvel afetar a percep-
@@ -2127,7 +2128,8 @@ E) o motorista perceber a luz vinda do espelho
 com a parte lateral do olho. 
  
  
-Questão 62 (2010.2) 
+\
+@62 (2010.3) 
 Atualmente, existem inúmeras opções de celula-
 res com telas sensíveis ao toque (touchscreen). 
 Para decidir qual escolher, é bom conhecer as 
@@ -2166,6 +2168,7 @@ go ao exposto no segundo sistema e a aplica-
 ção cotidiana correspondente são, respectiva-
 mente, 
  
+\
 A) receptores – televisor. 
 B) resistores – chuveiro elétrico. 
 C) geradores – telefone celular. 
@@ -2173,7 +2176,8 @@ D) fusíveis – caixa de força residencial.
 E) capacitores – flash de máquina fotográfica. 
  
  
-Questão 63 (2010.2) 
+\
+@63 (2010.3) 
 Um garoto que passeia de carro com seu pai 
 pela cidade, ao ouvir o rádio, percebe que a sua 
 estação de rádio preferida, a 94,9 FM, que ope-
@@ -2187,6 +2191,7 @@ Considerando a situação apresentada, a rádio
 pirata interfere no sinal da rádio do centro devi-
 do à: 
  
+\
 A) atenuação promovida pelo ar nas radiações 
 emitidas. 
 B) maior amplitude da radiação emitida pela 
@@ -2199,7 +2204,8 @@ E) semelhança dos comprimentos de onda das
 radiações emitidas. 
  
  
-Questão 64 (2010.2) 
+\
+@64 (2010.3) 
 A resistência elétrica de um fio é determinada 
 pelas suas dimensões e pelas propriedades 
 estruturais do material. A condutividade (𝛔) ca-
@@ -2216,6 +2222,7 @@ Mantendo-se as mesmas dimensões geométri-
 cas, o fio que apresenta menor resistência elé-
 trica é aquele feito de: 
  
+\
 A) tungstênio. 
 B) alumínio. 
 C) ferro. 
@@ -2223,7 +2230,8 @@ D) cobre.
 E) prata. 
  
  
-Questão 65 (2010.2) 
+\
+@65 (2010.3) 
  
 Rua da Passagem 
  
@@ -2231,11 +2239,6 @@ Os automóveis atrapalham o trânsito.
 Gentileza é fundamental. 
 Não adianta esquentar a cabeça. 
 Menos peso do pé no pedal. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-25 
-novocadernoenem@gmail.com 
 O trecho da música, de Lenine e Arnaldo Antu-
 nes (1999), ilustra a preocupação com o trânsito 
 nas cidades, motivo de uma campanha publici-
@@ -2261,6 +2264,7 @@ taxas de variação da velocidade do veículo con-
 duzido pelo motorista imprudente, em m/s2, nos 
 intervalos (I) e (II), respectivamente? 
  
+\
 A) 1,0 e 3,0 
 B) 2,0 e 1,0 
 C) 2,0 e 1,5 
@@ -2268,7 +2272,8 @@ D) 2,0 e 3,0
 E) 10,0 e 30,0 
  
  
-Questão 66 (2010.2) 
+\
+@66 (2010.3) 
 Um brinquedo chamado ludião consiste em um 
 pequeno frasco de vidro, parcialmente preen-
 chido com água, que é emborcado (virado com 
@@ -2284,6 +2289,7 @@ desloca para baixo, como mostrado na FIGURA
 Ao apertar a garrafa, o movimento de descida 
 do frasco ocorre porque: 
  
+\
 A) diminui a força para baixo que a água aplica 
 no frasco. 
 B) aumenta a pressão na parte pressionada da 
@@ -2296,7 +2302,8 @@ E) diminui a pressão que a água aplica na base
 do frasco. 
  
  
-Questão 67 (2010.2) 
+\
+@67 (2010.3) 
 O efeito Tyndall é um efeito óptico de turbidez 
 provocado pelas partículas de uma dispersão 
 coloidal. Foi observado pela primeira vez por 
@@ -2317,6 +2324,7 @@ Ao passar por um meio contendo partículas
 dispersas, um feixe de luz sofre o efeito Tyndall 
 devido: 
  
+\
 A) à absorção do feixe de luz por este meio. 
 B) à interferência do feixe de luz neste meio. 
 C) à transmissão do feixe de luz neste meio. 
@@ -2324,7 +2332,8 @@ D) à polarização do feixe de luz por este meio.
 E) ao espalhamento do feixe de luz neste meio. 
  
  
-Questão 68 (2010.2) 
+\
+@68 (2010.3) 
 Há vários tipos de tratamentos de doenças ce-
 rebrais que requerem a estimulação de partes 
 do cérebro por correntes elétricas. Os eletrodos 
@@ -2339,16 +2348,12 @@ Para que o tratamento de patologias cerebrais
 com bobinas seja realizado satisfatoriamente, é 
 necessário que: 
  
+\
 A) haja um grande número de espiras nas bobi-
 nas, o que diminui a voltagem induzida.  
 B) o campo magnético criado pelas bobinas seja 
 constante, de forma a haver indução eletromag-
 nética.  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-26 
-novocadernoenem@gmail.com 
 C) se observe que a intensidade das correntes 
 induzidas depende da intensidade da corrente 
 nas bobinas.  
@@ -2359,7 +2364,8 @@ E) o campo magnético dirija a corrente elétrica
 das bobinas para dentro do cérebro do paciente. 
  
  
-Questão 69 (2010.2) 
+\
+@69 (2010.3) 
 Os dínamos são geradores de energia elétrica 
 utilizados em bicicletas para acender uma pe-
 quena lâmpada. Para isso, é necessário que a 
@@ -2374,6 +2380,7 @@ da. Dentro desse gerador, encontram-se um
 O princípio de funcionamento desse equipamen-
 to é explicado pelo fato de que a: 
  
+\
 A) corrente elétrica no circuito fechado gera um 
 campo magnético nessa região. 
 B) bobina imersa no campo magnético em cir-
@@ -2386,7 +2393,8 @@ E) corrente elétrica é gerada em circuito fecha-
 do quando há variação do campo magnético. 
  
  
-Questão 70 (2010.2) 
+\
+@70 (2010.3) 
 Quando ocorre um curto-circuito em uma insta-
 lação elétrica, como na figura, a resistência 
 elétrica total do circuito diminui muito, estabele-
@@ -2417,6 +2425,7 @@ ratura, sem que haja riscos de incêndio. Qual
 deve ser o valor mínimo adequado do disjuntor 
 a ser utilizado? 
  
+\
 A) 40 A 
 B) 30 A 
 C) 25 A 
@@ -2424,7 +2433,8 @@ D) 23 A
 E) 20 A 
  
  
-Questão 71 (2010.2) 
+\
+@71 (2010.3) 
 Ao contrário dos rádios comuns (AM e FM), em 
 que uma única antena transmissora é capaz de 
 alcançar toda a cidade, os celulares necessitam 
@@ -2441,6 +2451,7 @@ fator que possibilita essa diferença entre propa-
 gação das ondas de rádio e as micro-ondas é 
 que as ondas de rádio são: 
  
+\
 A) facilmente absorvidas na camada da atmos-
 fera superior conhecida como ionosfera. 
 B) capazes de contornar uma diversidade de 
@@ -2455,12 +2466,8 @@ rádio é menor.
 E) constituídas por pequenos comprimentos de 
 onda que lhes conferem um alto poder de pene-
 tração em materiais de baixa densidade. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-27 
-novocadernoenem@gmail.com 
-Questão 72 (2010.2) 
+\
+@72 (2010.3) 
 Usando pressões extremamente altas, equiva-
 lentes às encontradas nas profundezas da Terra 
 ou em um planeta gigante, cientistas criaram um 
@@ -2476,6 +2483,7 @@ Embora as condições citadas sejam diferentes
 do cotidiano, o processo de acumulação de 
 energia descrito é análogo ao da energia: 
  
+\
 A) armazenada em um carrinho de montanha 
 russa durante o trajeto. 
 B) armazenada na água do reservatório de uma 
@@ -2485,7 +2493,8 @@ D) gerada nos reatores das usinas nucleares.
 E) acumulada em uma mola comprimida. 
  
  
-Questão 73 (2011.1) 
+\
+@73 (2011.1) 
 Partículas suspensas em um fluido apresentam 
 contínua movimentação aleatória, chamado 
 movimento browniano, causado pelos choques 
@@ -2507,6 +2516,7 @@ testado, é mostrado a seguir.
 A explicação para a necessidade do uso da 
 engrenagem com trava é: 
  
+\
 A) O travamento do motor, para que ele não se 
 solte aleatoriamente. 
 B) A seleção da velocidade, controlada pela 
@@ -2521,7 +2531,8 @@ sível, inclusive, medi-lo pelo número de dentes
 da engrenagem. 
  
  
-Questão 74 (2011.1) 
+\
+@74 (2011.1) 
 O manual de funcionamento de um captador de 
 guitarra elétrica apresenta o seguinte texto:  
  
@@ -2542,6 +2553,7 @@ tas de náilon. Com o uso dessas cordas, o am-
 plificador ligado ao instrumento não emitia mais 
 som, porque a corda de náilon: 
  
+\
 A) isola a passagem de corrente elétrica da 
 bobina para o alto-falante 
 B) varia seu comprimento mais intensamente do 
@@ -2554,18 +2566,14 @@ E) oscila com uma frequência menor do que a
 que pode ser percebida pelo captador. 
  
  
-Questão 75 (2011.1) 
+\
+@75 (2011.1) 
  
  
  
 Em um manual de um chuveiro elétrico são 
 encontradas informações sobre algumas carac-
 terísticas técnicas, ilustradas no quadro, como a 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-28 
-novocadernoenem@gmail.com 
 tensão de alimentação, a potência dissipada, o 
 dimensionamento do disjuntor ou fusível, e a 
 área da seção transversal dos condutores utili-
@@ -2585,6 +2593,7 @@ elétricas, RA e RB, que justifica a diferença de
 dimensionamento dos disjuntores, é mais pró-
 xima de: 
  
+\
 A) 0,3. 
 B) 0,6. 
 C) 0,8. 
@@ -2592,7 +2601,8 @@ D) 1,7.
 E) 3,0. 
  
  
-Questão 76 (2011.1) 
+\
+@76 (2011.1) 
 Para que uma substância seja colorida ela deve absorver luz na região do visível. Quando uma amostra 
 absorve luz visível, a cor que percebemos é a soma das cores restantes que são refletidas ou transmiti-
 das pelo objeto. A Figura 1 mostra o espectro de absorção para uma substância e é possível observar 
@@ -2604,6 +2614,7 @@ dente à cor do objeto é encontrado no lado oposto ao comprimento de onda da ab
  
 Qual a cor da substância que deu origem ao espectro da Figura 1? 
  
+\
 A) Azul. 
 B) Verde. 
 C) Violeta. 
@@ -2611,7 +2622,8 @@ D) Laranja.
 E) Vermelho. 
  
  
-Questão 77 (2011.1) 
+\
+@77 (2011.1) 
 Um motor só poderá realizar trabalho se receber 
 uma quantidade de energia de outro sistema. 
 No caso, a energia armazenada no combustível 
@@ -2630,6 +2642,7 @@ De acordo com o texto, as transformações de
 energia que ocorrem durante o funcionamento 
 do motor são decorrentes de a: 
  
+\
 A) liberação de calor dentro do motor ser im-
 possível. 
 B) realização de trabalho pelo motor ser incon-
@@ -2641,12 +2654,8 @@ ca ser impossível.
 E) utilização de energia potencial do combustí-
 vel ser incontrolável. 
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-29 
-novocadernoenem@gmail.com 
-Questão 78 (2011.1) 
+\
+@78 (2011.1) 
 O processo de interpretação de imagens captu-
 radas por sensores instalados a bordo de satéli-
 tes que imageiam determinadas faixas ou ban-
@@ -2673,6 +2682,7 @@ dos, convém selecionar a banda corresponden-
 te a que comprimento de onda em micrômetros 
 (μm)? 
  
+\
 A) 0,4 a 0,5. 
 B) 0,5 a 0,6. 
 C) 0,6 a 0,7. 
@@ -2680,7 +2690,8 @@ D) 0,7 a 0,8.
 E) 0,8 a 0,9. 
  
  
-Questão 79 (2011.1) 
+\
+@79 (2011.1) 
 Um curioso estudante, empolgado com a aula 
 de circuito elétrico que assistiu na escola, resol-
 ve desmontar sua lanterna.  
@@ -2694,6 +2705,7 @@ com a intenção de acender a lâmpada:
 Tendo por base os esquemas mostrados, em 
 quais casos a lâmpada acendeu? 
  
+\
 A) (1), (3), (6) 
 B) (3), (4), (5) 
 C) (1), (3), (5) 
@@ -2701,7 +2713,8 @@ D) (1), (3), (7)
 E) (1), (2), (5) 
  
  
-Questão 80 (2011.1) 
+\
+@80 (2011.1) 
 Em um experimento realizado para determinar a 
 densidade da água de um lago, foram utilizados 
 alguns materiais conforme ilustrado: um dina-
@@ -2721,6 +2734,7 @@ Considerando que a aceleração da gravidade
 local é de 10 m/s2, a densidade da água do 
 lago, em g/cm3, é: 
  
+\
 A) 0,6. 
 B) 1,2. 
 C) 1,5. 
@@ -2728,17 +2742,13 @@ D) 2,4.
 E) 4,8. 
  
  
-Questão 81 (2011.1) 
+\
+@81 (2011.1) 
 Uma equipe de cientistas lançará uma expedi-
 ção ao Titanic para criar um detalhado mapa 3D 
 que “vai tirar, virtualmente, o Titanic do fundo do 
 mar para o público”. A expedição ao local, a 4 
 quilômetros de profundidade no Oceano Atlânti-
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-30 
-novocadernoenem@gmail.com 
 co, está sendo apresentada como a mais sofis-
 ticada expedição científica ao Titanic. Ela utiliza-
 rá tecnologias de imagem e sonar que nunca 
@@ -2755,6 +2765,7 @@ No problema apresentado para gerar imagens
 através de camadas de sedimentos depositados 
 no navio, o sonar é mais adequado, pois a: 
  
+\
 A) propagação da luz na água ocorre a uma 
 velocidade maior que a do som neste meio. 
 B) absorção da luz ao longo de uma camada de 
@@ -2771,7 +2782,8 @@ E) reflexão da luz nas camadas de sedimentos
 te material. 
  
  
-Questão 82 (2011.1) 
+\
+@82 (2011.1) 
 Para medir o tempo de reação de uma pessoa, 
 pode-se realizar a seguinte experiência: 
  
@@ -2800,6 +2812,7 @@ respectivos tempos de reação.
 A distância percorrida pela régua aumenta mais 
 rapidamente que o tempo de reação porque a: 
  
+\
 A) energia mecânica da régua aumenta, o que a 
 faz cair mais rápido. 
 B) resistência do ar aumenta, o que faz a régua 
@@ -2812,7 +2825,8 @@ E) velocidade da régua é constante, o que pro-
 voca uma passagem linear de tempo. 
  
  
-Questão 83 (2011.1) 
+\
+@83 (2011.1) 
 Um tipo de vaso sanitário que vem substituindo 
 as válvulas de descarga está esquematizado na 
 figura. Ao acionar a alavanca, toda a água do 
@@ -2831,6 +2845,7 @@ tipo de sistema proporciona maior economia de
 A característica de funcionamento que garante 
 essa economia é: 
  
+\
 A) à altura do sifão de água. 
 B) ao volume do tanque de água. 
 C) à altura do nível de água no vaso. 
@@ -2839,7 +2854,8 @@ E) à eficiência da válvula de enchimento do
 tanque. 
  
  
-Questão 84 (2011.1) 
+\
+@84 (2011.1) 
 Ao diminuir o tamanho de um orifício atravessa-
 do por um feixe de luz, passa menos luz por 
 intervalo de tempo, e próximo da situação de 
@@ -2848,16 +2864,12 @@ a luz apresenta um comportamento como o
 ilustrado nas figuras. Sabe-se que o som, dentro 
 de suas particularidades, também pode se com-
 portar dessa forma. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-31 
-novocadernoenem@gmail.com 
  
  
 Em qual das situações a seguir está represen-
 tado o fenômeno descrito no texto? 
  
+\
 A) Ao se esconder atrás de um muro, um meni-
 no ouve a conversa de seus colegas. 
 B) Ao gritar diante de um desfiladeiro, uma pes-
@@ -2873,7 +2885,8 @@ uma cantora de ópera faz com que uma taça de
 cristal se despedace. 
  
  
-Questão 85 (2011.1) 
+\
+@85 (2011.1) 
 Uma das modalidades presentes nas olimpía-
 das é o salto com vara. As etapas de um dos 
 saltos de um atleta estão representadas na figu-
@@ -2885,6 +2898,7 @@ tência do ar e atrito), para que o salto atinja a
 maior altura possível, ou seja, o máximo de 
 energia seja conservada, é necessário que: 
  
+\
 A) a energia cinética, representada na etapa I, 
 seja totalmente convertida em energia potencial 
 elástica representada na etapa IV. 
@@ -2904,22 +2918,19 @@ energia potencial elástica, representada na eta-
 pa III. 
  
  
-Questão 86 (2011.2) 
+\
+@86 (2011.3) 
  
  
  
  
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-32 
-novocadernoenem@gmail.com 
 A tirinha faz referência a uma propriedade de 
 uma grandeza Física, em que a função do jornal 
 utilizado pelo homem é a de: 
  
+\
 A) restringir a perda de calor para o ambiente. 
 B) absorver a umidade que dissipa calor. 
 C) bloquear o vento que sopra trazendo frio. 
@@ -2927,7 +2938,8 @@ D) impedir que o frio do ambiente penetre.
 E) manter o calor do homem concentrado. 
  
  
-Questão 87 (2011.2) 
+\
+@87 (2011.3) 
 Uma opção não usual, para o cozimento do 
 feijão, é o uso de uma garrafa térmica. Em uma 
 panela, coloca-se uma parte de feijão e três 
@@ -2940,6 +2952,7 @@ O cozimento do feijão ocorre dentro da garrafa
 térmica, pois: 
  
  
+\
 A) a energia envolvida na reação aquece a 
 água, que mantém constante a temperatura, por 
 ser um processo exotérmico. 
@@ -2956,7 +2969,8 @@ E) a água reage com o feijão, e essa reação é
 exotérmica. 
  
  
-Questão 88 (2011.2) 
+\
+@88 (2011.3) 
  
  
 A figura representa o processo mais usado nas 
@@ -2965,6 +2979,7 @@ no Brasil. As transformações de energia nas
 posições I→II e II→III da figura são, respectiva-
 mente, 
  
+\
 A) energia cinética → energia potencial e ener-
 gia cinética → energia elétrica. 
 B) energia potencial → energia cinética e ener-
@@ -2977,7 +2992,8 @@ E) energia cinética → energia elétrica e energia
 potencial → energia cinética. 
  
  
-Questão 89 (2011.2) 
+\
+@89 (2011.3) 
 Uma residência possui dois aparelhos de TV, 
 duas geladeiras, um computador, um ferro elé-
 trico e oito lâmpadas incandescentes. A resis-
@@ -2995,17 +3011,14 @@ tram representadas pelas figuras II e III.
 Com base nas informações, verifica-se que a 
 corrente indicada pelo amperímetro da figura: 
  
+\
 A) II registrará uma corrente de 12 A. 
 B) II registrará uma corrente de 10 A. 
 C) III registrará uma corrente de 0,14 A. 
 D) III registrará uma corrente de 16,6 A. 
 E) II registrará uma corrente de 0,10 A. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-33 
-novocadernoenem@gmail.com 
-Questão 90 (2011.2) 
+\
+@90 (2011.3) 
 A figura seguinte representa, esquematicamen-
 te, um telescópio refletor: 
  
@@ -3027,6 +3040,7 @@ uma lente é colocada na posição D, qual o tipo
 de espelho utilizado e qual o tipo de lente utili-
 zada nas posições B e D respectivamente? 
  
+\
 A) Plano e convergente. 
 B) Convexo e bifocal. 
 C) Convexo e divergente. 
@@ -3034,7 +3048,8 @@ D) Côncavo e divergente.
 E) Côncavo e convergente. 
  
  
-Questão 91 (2011.2) 
+\
+@91 (2011.3) 
 A figura mostra uma superfície refletora de for-
 mato parabólico, que tem sido utilizada como 
 um fogão solar. Esse dispositivo é montado de 
@@ -3049,6 +3064,7 @@ Considerando que a panela esteja posicionada
 no ponto citado, a maior eficiência ocorre por-
 que os raios solares: 
  
+\
 A) incidentes se concentram nesse ponto, defi-
 nido como ponto de incidência. 
 B) incidentes passam por esse ponto, definido 
@@ -3061,7 +3077,8 @@ E) refletidos passam por esse ponto, definido
 como ponto de reflexão. 
  
  
-Questão 92 (2011.2) 
+\
+@92 (2011.3) 
 O manual de instruções de um computador 
 apresenta as seguintes recomendações para 
 evitar que o cabo de alimentação de energia 
@@ -3079,6 +3096,7 @@ Caso o usuário não siga essas recomendações
 e ocorra o dano previsto, a consequência para o 
 funcionamento do computador será a de que: 
  
+\
 A) os seus componentes serão danificados por 
 uma descarga elétrica. 
 B) a velocidade de processamento de dados 
@@ -3091,7 +3109,8 @@ E) o monitor utilizado passará a apresentar um
 brilho muito fraco. 
  
  
-Questão 93 (2011.2) 
+\
+@93 (2011.3) 
 Indivíduos míopes têm dificuldade de enxergar 
 objetos distantes. Para correção desse proble-
 ma com lentes, o oftalmologista deve medir a 
@@ -3109,17 +3128,14 @@ problema, o oftalmologista receitará lentes de
 vergência: 
  
  
+\
 A) -2,00 di. 
 B) 2,00 di. 
 C) -0,02 di. 
 D) 0,02 di. 
 E) 0,20 di. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-34 
-novocadernoenem@gmail.com 
-Questão 94 (2011.2) 
+\
+@94 (2011.3) 
 O quadro seguinte foi extraído da seção de solução de problemas de um manual de fogão a gás. 
  
  
@@ -3128,6 +3144,7 @@ Ao saborear um alimento preparado no fogão a gás, o consumidor observa que, em
 assado, o alimento contém mais água que o esperado. Sabendo que a receita foi preparada de forma 
 correta, então, de acordo com o fabricante do fogão, o problema é que o: 
  
+\
 A) forno estava sujo de gordura ou molho, necessitando de limpeza. 
 B) gás estava no final, o que reduziu a temperatura da chama, deixando-a amarela. 
 C) botão de comando não foi selecionado corretamente para o cozimento. 
@@ -3135,7 +3152,8 @@ D) cozinheiro demorou muito para retirar o alimento do forno após o cozimento.
 E) tempo de cozimento e a temperatura selecionada estavam incorretos. 
  
  
-Questão 95 (2011.2) 
+\
+@95 (2011.3) 
 Na câmara de cozimento de um forno de micro-
 ondas, a flutuação do campo elétrico é adequa-
 da para o aquecimento da água. Esse tipo de 
@@ -3157,6 +3175,7 @@ primento de onda da micro-onda presente no
 forno, em cm? 
  
  
+\
 A) 817 
 B) 0,12 
 C) 12,2 
@@ -3164,7 +3183,8 @@ D) 1,22
 E) 8,17 
  
  
-Questão 96 (2011.2) 
+\
+@96 (2011.3) 
 A força de atrito é uma força que depende do 
 contato entre corpos. Pode ser definida como 
 uma força de oposição à tendência de desloca-
@@ -3181,12 +3201,8 @@ que provocam o deslocamento e o atrito são,
 respectivamente: 
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-35 
-novocadernoenem@gmail.com 
-Questão 97 (2011.2) 
+\
+@97 (2011.3) 
 Um detector de mentiras consiste em um circui-
 to elétrico simples do qual faz parte o corpo 
 humano. A inserção do corpo humano no circui-
@@ -3211,6 +3227,7 @@ damente como indicado no texto, quais devem
 ser as características desses parâmetros? 
  
  
+\
 A) Alta resistência dos fios de ligação, alta ten-
 são aplicada e resistência interna desprezível 
 no medidor. 
@@ -3228,7 +3245,8 @@ tensão aplicada e alta resistência interna no
 medidor. 
  
  
-Questão 98 (2011.2) 
+\
+@98 (2011.3) 
 Segundo Aristóteles, uma vez deslocados de 
 seu local natural, os elementos tendem espon-
 taneamente a retornar a ele, realizando movi-
@@ -3248,6 +3266,7 @@ Posteriormente, Newton confrontou a ideia de
 Aristóteles sobre o movimento forçado através 
 da lei da: 
  
+\
 A) ação e reação. 
 B) conservação da massa. 
 C) gravitação universal. 
@@ -3255,7 +3274,8 @@ D) conservação da energia.
 E) inércia. 
  
  
-Questão 99 (2011.2) 
+\
+@99 (2011.3) 
 Um dos problemas ambientais vivenciados pela 
 agricultura hoje em dia é a compactação do 
 solo, devida ao intenso tráfego de máquinas 
@@ -3266,6 +3286,7 @@ Uma das formas de prevenir o problema de
 compactação do solo é substituir os pneus dos 
 tratores por pneus mais: 
  
+\
 A) largos, reduzindo a pressão sobre o solo. 
 B) estreitos, reduzindo a pressão sobre o solo. 
 C) largos, aumentando a pressão sobre o solo. 
@@ -3274,7 +3295,8 @@ solo.
 E) altos, reduzindo a pressão sobre o solo. 
  
  
-Questão 100 (2012.1) 
+\
+@100 (2012.1) 
 Os carrinhos de brinquedo podem ser de vários 
 tipos. Dentre eles, há os movidos a corda, em 
 que uma mola em seu interior é comprimida 
@@ -3285,6 +3307,7 @@ quanto a mola volta à sua forma inicial.
 O processo de conversão de energia que ocorre 
 no carrinho descrito também é verificado em: 
  
+\
 A) um dínamo. 
 B) um freio de automóvel. 
 C) um motor a combustão. 
@@ -3292,7 +3315,8 @@ D) uma usina hidroelétrica.
 E) uma atiradeira (estilingue). 
  
  
-Questão 101 (2012.1) 
+\
+@101 (2012.1) 
 Em um dia de chuva muito forte, constatou-se 
 uma goteira sobre o centro de uma piscina co-
 berta, formando um padrão de ondas circulares. 
@@ -3308,17 +3332,14 @@ Com a diminuição da chuva, a distância entre as
 cristas e a velocidade de propagação da onda 
 se tornaram, respectivamente, 
  
+\
 A) maior que 25 cm e maior que 1,0 m/s. 
 B) maior que 25 cm e igual a 1,0 m/s. 
 C) menor que 25 cm e menor que 1,0 m/s. 
 D) menor que 25 cm e igual a 1,0 m/s. 
 E) igual a 25 cm e igual a 1,0 m/s. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-36 
-novocadernoenem@gmail.com 
-Questão 102 (2012.1) 
+\
+@102 (2012.1) 
 O mecanismo que permite articular uma porta 
 (de um móvel ou de acesso) é a dobradiça.  
  
@@ -3332,7 +3353,8 @@ dobradiças exercem na porta está representado
 em: 
  
  
-Questão 103 (2012.1) 
+\
+@103 (2012.1) 
 Para melhorar a mobilidade urbana na rede 
 metroviária é necessário minimizar o tempo 
 entre estações.  
@@ -3354,15 +3376,11 @@ ta o movimento desse trem?
  
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-37 
-novocadernoenem@gmail.com 
  
  
  
-Questão 104 (2012.1) 
+\
+@104 (2012.1) 
 A eficiência das lâmpadas pode ser comparada 
 utilizando a razão, considerada linear, entre a 
 quantidade de luz produzida e o consumo. A 
@@ -3377,6 +3395,7 @@ pada incandescente de 40 W emite cerca de
 A eficiência de uma lâmpada incandescente de 
 40 W é: 
  
+\
 A) maior que a de uma lâmpada fluorescente de 
 8 W, que produz menor quantidade de luz 
 B) maior que a de uma lâmpada fluorescente de 
@@ -3391,7 +3410,8 @@ W, que consome a mesma quantidade de ener-
 gia. 
  
  
-Questão 105 (2012.1) 
+\
+@105 (2012.1) 
 Alguns povos indígenas ainda preservam suas 
 tradições realizando a pesca com lanças, de-
 monstrando uma notável habilidade. Para fisgar 
@@ -3402,6 +3422,7 @@ xerga o peixe.
 Ele deve proceder dessa forma porque os raios 
 de luz: 
  
+\
 A) refletidos pelo peixe não descrevem uma 
 trajetória retilínea no interior da água. 
 B) emitidos pelos olhos do índio desviam sua 
@@ -3414,7 +3435,8 @@ E) refletidos pelo peixe desviam sua trajetória
 quando passam da água para o ar. 
  
  
-Questão 106 (2012.1) 
+\
+@106 (2012.1) 
 O manual que acompanha uma ducha higiênica 
 informa que a pressão mínima da água para o 
 seu funcionamento apropriado é de 20 kPa. A 
@@ -3426,6 +3448,7 @@ a ducha.
 O valor da pressão da água na ducha está as-
 sociado à altura: 
  
+\
 A) h1. 
 B) h2. 
 C) h3. 
@@ -3433,16 +3456,12 @@ D) h4.
 E) h5. 
  
  
-Questão 107 (2012.1) 
+\
+@107 (2012.1) 
 Uma empresa de transportes precisa efetuar a 
 entrega de uma encomenda o mais breve pos-
 sível. Para tanto, a equipe de logística analisa o 
 trajeto desde a empresa até o local da entrega. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-38 
-novocadernoenem@gmail.com 
 Ela verifica que o trajeto apresenta dois trechos 
 de distâncias diferentes e velocidades máximas 
 permitidas diferentes. No primeiro trecho, a ve-
@@ -3457,6 +3476,7 @@ continuamente na velocidade máxima permitida,
 qual será o tempo necessário, em horas, para a 
 realização da entrega? 
  
+\
 A) 0,7 
 B) 1,4 
 C) 1,5 
@@ -3464,7 +3484,8 @@ D) 2,0
 E) 3,0 
  
  
-Questão 108 (2012.1) 
+\
+@108 (2012.1) 
 Para ligar ou desligar uma mesma lâmpada a 
 partir de dois interruptores, conectam-se os 
 interruptores para que a mudança de posição de 
@@ -3487,7 +3508,8 @@ mento descrita no texto é:
  
  
  
-Questão 109 (2012.1) 
+\
+@109 (2012.1) 
 A característica que permite identificar um pla-
 neta no céu é o seu movimento relativo às es-
 trelas fixas. Se observarmos a posição de um 
@@ -3502,6 +3524,7 @@ gistrado da Terra.
 Qual a causa da forma da trajetória do planeta 
 Marte registrada na figura? 
  
+\
 A) A maior velocidade orbital da Terra faz com 
 que, em certas épocas, ela ultrapasse Marte. 
 B) A presença de outras estrelas faz com que 
@@ -3510,11 +3533,6 @@ gravitacional.
 C) A órbita de Marte, em torno do Sol, possui 
 uma forma elíptica mais acentuada que a dos 
 demais planetas. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-39 
-novocadernoenem@gmail.com 
 D) A atração gravitacional entre a Terra e Marte 
 faz com que este planeta apresente uma órbita 
 irregular em torno do Sol. 
@@ -3524,7 +3542,8 @@ gravitacional de Júpiter interfira em seu movi-
 mento. 
  
  
-Questão 110 (2012.1) 
+\
+@110 (2012.1) 
 Um consumidor desconfia que a balança do 
 supermercado não está aferindo corretamente a 
 massa dos produtos. Ao chegar a casa resolve 
@@ -3555,6 +3574,7 @@ precisão, o consumidor concluiu que a balança
 estava descalibrada e deveria ter registrado a 
 massa da porção de legumes igual a: 
  
+\
 A) 0,073 kg. 
 B) 0,167 kg. 
 C) 0,250 kg. 
@@ -3562,7 +3582,8 @@ D) 0,375 kg.
 E) 0,750 kg. 
  
  
-Questão 111 (2012.1) 
+\
+@111 (2012.1) 
 Os freios ABS são uma importante medida de 
 segurança no trânsito, os quais funcionam para 
 impedir o travamento das rodas do carro quan-
@@ -3581,7 +3602,8 @@ ros sem ABS e com ABS, respectivamente, são:
  
  
  
-Questão 112 (2012.1) 
+\
+@112 (2012.1) 
 Aumentar a eficiência na queima de combustível 
 dos motores a combustão e reduzir suas emis-
 sões de poluentes é a meta de qualquer fabri-
@@ -3600,14 +3622,10 @@ energia que, por sua vez, faz o motor funcionar.
 No entanto, a busca da eficiência referenciada 
 no texto apresenta como fator limitante: 
  
+\
 A) o tipo de combustível, fóssil, que utilizam. 
 Sendo um insumo não renovável, em algum 
 momento estará esgotado. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-40 
-novocadernoenem@gmail.com 
 B) um dos princípios da termodinâmica, segun-
 do o qual o rendimento de uma máquina térmica 
 nunca atinge o ideal. 
@@ -3625,7 +3643,8 @@ maior que a de fusão do aço com que se fazem
 os motores. 
  
  
-Questão 113 (2012.1) 
+\
+@113 (2012.1) 
 Nossa pele possui células que reagem à inci-
 dência de luz ultravioleta e produzem uma subs-
 tância chamada melanina, responsável pela 
@@ -3638,6 +3657,7 @@ percebeu que não conseguiu resultado algum.
 O bronzeamento não ocorreu porque a luz emi-
 tida pela lâmpada incandescente é de: 
  
+\
 A) baixa intensidade. 
 B) baixa frequência. 
 C) um espectro contínuo. 
@@ -3645,7 +3665,8 @@ D) amplitude inadequada.
 E) curto comprimento de onda. 
  
  
-Questão 114 (2012.2) 
+\
+@114 (2012.3) 
 No manual de uma máquina de lavar, o usuário 
 vê o símbolo: 
  
@@ -3654,13 +3675,15 @@ vê o símbolo:
 Este símbolo orienta o consumidor sobre a ne-
 cessidade de a máquina ser ligada a: 
  
+\
 A) uma rede de coleta de água da chuva. 
 B) um fio neutro para evitar sobrecarga elétrica. 
 C) um fio terra para aproveitar as cargas elétri-
 cas do solo. 
 D) um fio terra para evitar sobrecarga elétrica. 
 E) uma rede de coleta de esgoto doméstico. 
-Questão 115 (2012.2) 
+\
+@115 (2012.3) 
 Um eletricista precisa medir a resistência elétri-
 ca de uma lâmpada. Ele dispõe de uma pilha, 
 de uma lâmpada (L), de alguns fios e de dois 
@@ -3672,12 +3695,8 @@ O circuito elétrico montado pelo eletricista para
 medir essa resistência é: 
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-41 
-novocadernoenem@gmail.com 
-Questão 116 (2012.2) 
+\
+@116 (2012.3) 
 Em dias com baixas temperaturas, as pessoas 
 utilizam casacos ou blusas de lã com o intuito 
 de minimizar a sensação de frio. Fisicamente, 
@@ -3689,6 +3708,7 @@ de temperatura entre eles.
 A utilização de vestimenta de lã diminui a sen-
 sação de frio, porque: 
  
+\
 A) possui a propriedade de gerar calor. 
 B) tem como principal característica a absorção 
 de calor, facilitando o equilíbrio térmico. 
@@ -3701,7 +3721,8 @@ facilitando a transferência de calor por condu-
 ção. 
  
  
-Questão 117 (2012.2) 
+\
+@117 (2012.3) 
 A terapia fotodinâmica é um tratamento que 
 utiliza luz para cura de câncer através da exci-
 tação de moléculas medicamentosas, que pro-
@@ -3720,6 +3741,7 @@ A profundidade de até 2 mm em que o trata-
 mento cutâneo é eficiente se justifica porque a 
 luz de: 
  
+\
 A) cada comprimento de onda percebe um índi-
 ce de refração diferente. 
 B) todos os comprimentos de onda terão alta 
@@ -3732,7 +3754,8 @@ E) maior energia é mais absorvida pelo tecido
 orgânico. 
  
  
-Questão 118 (2012.2) 
+\
+@118 (2012.3) 
 Chuveiros elétricos possuem uma chave para 
 regulagem da temperatura verão/inverno e para 
 desligar o chuveiro. Além disso, é possível regu-
@@ -3743,6 +3766,7 @@ fechando, aumenta-se.
 Aumentando-se o fluxo da água há uma redu-
 ção na sua temperatura, pois: 
  
+\
 A) diminui-se a capacidade térmica do conjunto 
 água/ chuveiro, diminuindo também a capacida-
 de do conjunto de se aquecer. 
@@ -3760,7 +3784,8 @@ mentando a dificuldade com que a massa de
 água se aquece no chuveiro. 
  
  
-Questão 119 (2012.2) 
+\
+@119 (2012.3) 
 O freio ABS é um sistema que evita que as ro-
 das de um automóvel sejam bloqueadas duran-
 te uma frenagem forte e entrem em derrapa-
@@ -3771,6 +3796,7 @@ menor se for evitado o bloqueio das rodas.
 O ganho na eficiência da frenagem na ausência 
 de bloqueio das rodas resulta do fato de: 
  
+\
 A) a superfície de contato entre os pneus e o 
 pavimento ser maior com as rodas desbloquea-
 das, independentemente do coeficiente de atri-
@@ -3787,12 +3813,8 @@ E) a superfície de contato entre os pneus e o
 pavimento ser maior com as rodas desbloquea-
 das e o coeficiente de atrito estático ser maior 
 que o dinâmico. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-42 
-novocadernoenem@gmail.com 
-Questão 120 (2012.2) 
+\
+@120 (2012.3) 
  
  
  
@@ -3803,6 +3825,7 @@ O quadro oferece os coeficientes de dilatação linear de alguns metais e ligas 
 Para permitir a ocorrência do fato observado na tirinha, a partir do menor aquecimento do conjunto, o 
 parafuso e a porca devem ser feitos, respectivamente, de: 
  
+\
 A) alumínio e chumbo. 
 B) aço e níquel. 
 C) platina e chumbo. 
@@ -3810,7 +3833,8 @@ D) cobre e bronze.
 E) ouro e latão. 
  
  
-Questão 121 (2012.2) 
+\
+@121 (2012.3) 
 Em 1543, Nicolau Copérnico publicou um livro 
 revolucionário em que propunha a Terra girando 
 em torno do seu próprio eixo e rodando em tor-
@@ -3838,12 +3862,14 @@ O princípio físico usado por Galileu para rebater
 o argumento aristotélico foi: 
  
  
+\
 A) ação e reação. 
 B) a segunda lei de Newton. 
 C) a lei da inércia. 
 D) a conservação da energia. 
 E) o princípio da equivalência. 
-Questão 122 (2012.2) 
+\
+@122 (2012.3) 
 A usina termelétrica a carvão é um dos tipos de 
 unidades geradoras de energia elétrica no Bra-
 sil. Essas usinas transformam a energia contida 
@@ -3853,6 +3879,7 @@ elétrica.
 Em que sequência ocorrem os processos para 
 realizar essa transformação? 
  
+\
 A) A queima do carvão produz energia térmica, 
 que é usada para aquecer água, transformando-
 se novamente em energia química, quando a 
@@ -3875,12 +3902,8 @@ mada em energia elétrica no gerador.
 E) A usina queima o carvão, produzindo energia 
 térmica, que é transformada em energia elétrica 
 por dispositivos denominados transformadores. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-43 
-novocadernoenem@gmail.com 
-Questão 123 (2012.2) 
+\
+@123 (2012.3) 
 Os fornos domésticos de microondas trabalham 
 com uma frequência de ondas eletromagnéticas 
 que atuam fazendo rotacionar as moléculas de 
@@ -3899,6 +3922,7 @@ manuais.
 O motivo de a radiação do telefone não aquecer 
 como a do microondas é que: 
  
+\
 A) a frequência de alimentação é 60 Hz para os 
 dois aparelhos. 
 B) a modulação das ondas no forno é maior do 
@@ -3911,7 +3935,8 @@ E) o ambiente no qual o telefone funciona é
 aberto. 
  
  
-Questão 124 (2012.2) 
+\
+@124 (2012.3) 
 Em apresentações musicais realizadas em es-
 paços onde o público fica longe do palco, é ne-
 cessária a instalação de alto-falantes adicionais 
@@ -3933,6 +3958,7 @@ co.
 A solução é inviável, pois seria necessário um 
 cabo elétrico de comprimento mais próximo de: 
  
+\
 A) 8,9 × 104 km. 
 B) 6,0 × 1013 km. 
 C) 1,1 × 103 km. 
@@ -3940,7 +3966,8 @@ D) 1,3 × 105 km.
 E) 5,2 × 105 km. 
  
  
-Questão 125 (2012.2) 
+\
+@125 (2012.3) 
 Durante uma faxina, a mãe pediu que o filho a 
 ajudasse, deslocando um móvel para mudá-lo 
 de lugar. Para escapar da tarefa, o filho disse 
@@ -3954,6 +3981,7 @@ Qual argumento a mãe utilizará para apontar o
 erro de interpretação do garoto? 
  
  
+\
 A) A força resultante sobre o móvel é sempre 
 nula. 
 B) A força de ação é um pouco maior que a 
@@ -3966,13 +3994,15 @@ E) As forças que o chão exerce sobre o garoto
 se anulam. 
  
  
-Questão 126 (2012.2) 
+\
+@126 (2012.3) 
 Em um experimento, coloca-se glicerina dentro 
 de um tubo de vidro liso. Em seguida, parte do 
 tubo é colocada em um copo de vidro que con-
 tém glicerina e a parte do tubo imersa fica invi-
 sível. Esse fenômeno ocorre porque a: 
  
+\
 A) intensidade da luz é praticamente constante 
 no vidro. 
 B) trajetória da luz é alterada quando ela passa 
@@ -3985,7 +4015,8 @@ E) velocidade da luz é a mesma no vidro e na
 glicerina. 
  
  
-Questão 127 (2012.2) 
+\
+@127 (2012.3) 
 Para afinar um violão, um músico necessita de 
 uma nota para referência, por exemplo, a nota 
 Lá em um piano. Dessa forma, ele ajusta as 
@@ -3993,13 +4024,9 @@ cordas do violão até que ambos os instrumentos
 toquem a mesma nota. Mesmo ouvindo a mes-
 ma nota, é possível diferenciar o som emitido 
 pelo piano e pelo violão. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-44 
-novocadernoenem@gmail.com 
 Essa diferenciação é possível, porque: 
  
+\
 A) a amplitude do som emitido por cada instru-
 mento é diferente. 
 B) a intensidade do som emitido por cada ins-
@@ -4012,7 +4039,8 @@ E) o timbre do som produzido por cada instru-
 mento é diferente. 
  
  
-Questão 128 (2012.2) 
+\
+@128 (2012.3) 
 Um automóvel, em movimento uniforme, anda 
 por uma estrada plana, quando começa a des-
 cer uma ladeira, na qual o motorista faz com 
@@ -4022,6 +4050,7 @@ de escalar constante.
 Durante a descida, o que ocorre com as energi-
 as potencial, cinética e mecânica do carro? 
  
+\
 A) A energia mecânica diminui, pois a energia 
 cinética se mantém constante, mas a energia 
 potencial gravitacional diminui. 
@@ -4038,7 +4067,8 @@ E) A energia cinética mantém-se constante, já
 que não há trabalho realizado sobre o carro. 
  
  
-Questão 129 (2012.2) 
+\
+@129 (2012.3) 
 Em um centro de pesquisa de alimentos, um 
 técnico efetuou a determinação do valor calórico 
 de determinados alimentos da seguinte forma: 
@@ -4054,12 +4084,14 @@ de de calor que cada grama do alimento libera.
 Para a realização desse teste, qual aparelho de 
 medida é essencial? 
  
+\
 A) Termômetro. 
 B) Radiômetro. 
 C) Potenciômetro. 
 D) Dinamômetro. 
 E) Cronômetro. 
-Questão 130 (2013.1) 
+\
+@130 (2013.1) 
 Músculos artificiais são dispositivos feitos com 
 plásticos inteligentes que respondem a uma 
 corrente elétrica com um movimento mecânico. 
@@ -4085,6 +4117,7 @@ trado na figura.
 A camada central de eletrólito polimérico é im-
 portante porque: 
  
+\
 A) absorve a irradiação de partículas carrega-
 das, emitidas pelo aquecimento elétrico dos 
 filmes de polipirrol. 
@@ -4102,16 +4135,12 @@ méricas, o que resulta no movimento gerado
 pela aplicação de diferença de potencial. 
  
  
-Questão 131 (2013.1) 
+\
+@131 (2013.1) 
 Em um experimento, foram utilizadas duas gar-
 rafas PET, uma pintada de branco e a outra de 
 preto, acopladas cada uma a um termômetro. 
 No ponto médio da distância entre as garrafas, 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-45 
-novocadernoenem@gmail.com 
 foi mantida acesa, durante alguns minutos, uma 
 lâmpada incandescente. Em seguida, a lâmpa-
 da foi desligada. Durante o experimento, foram 
@@ -4126,6 +4155,7 @@ A taxa de variação da temperatura da garrafa
 preta, em comparação à da branca, durante 
 todo experimento, foi: 
  
+\
 A) igual no aquecimento e igual no resfriamento. 
 B) maior no aquecimento e igual no resfriamen-
 to. 
@@ -4137,7 +4167,8 @@ E) maior no aquecimento e maior no resfriamen-
 to. 
  
  
-Questão 132 (2013.1) 
+\
+@132 (2013.1) 
 Em viagens de avião, é solicitado aos passagei-
 ros o desligamento de todos os aparelhos cujo 
 funcionamento envolva a emissão ou a recep-
@@ -4149,6 +4180,7 @@ dos pilotos com a torre de controle.
 A propriedade das ondas emitidas que justifica o 
 procedimento adotado é o fato de: 
  
+\
 A) terem fases opostas. 
 B) serem ambas audíveis. 
 C) terem intensidades inversas. 
@@ -4156,7 +4188,8 @@ D) serem de mesma amplitude.
 E) terem frequências próximas. 
  
  
-Questão 133 (2013.1) 
+\
+@133 (2013.1) 
 Para realizar um experimento com uma garrafa 
 PET cheia d'agua, perfurou-se a lateral da gar-
 rafa em três posições a diferentes alturas. Com 
@@ -4170,6 +4203,7 @@ Como a pressão atmosférica interfere no esco-
 amento da água, nas situações com a garrafa 
 tampada e destampada, respectivamente? 
  
+\
 A) Impede a saída de água, por ser maior que a 
 pressão interna; não muda a velocidade de es-
 coamento, que só depende da pressão da colu-
@@ -4191,7 +4225,8 @@ escoamento, que só depende da pressão da
 coluna de água. 
  
  
-Questão 134 (2013.1) 
+\
+@134 (2013.1) 
 Para oferecer acessibilidade aos portadores de 
 dificuldades de locomoção, é utilizado, em ôni-
 bus e automóveis, o elevador hidráulico. Nesse 
@@ -4211,17 +4246,14 @@ Qual deve ser a força exercida pelo motor da
 bomba sobre o fluido, para que o cadeirante 
 seja elevado com velocidade constante? 
  
+\
 A) 20N 
 B) 100N 
 C) 200N 
 D) 1000N  
 E) 5000N 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-46 
-novocadernoenem@gmail.com 
-Questão 135 (2013.1) 
+\
+@135 (2013.1) 
 Uma manifestação comum das torcidas em 
 estádios de futebol é a ola mexicana. Os espec-
 tadores de uma linha, sem sair do lugar e sem 
@@ -4242,6 +4274,7 @@ ciadas entre si por 80cm.
 Nessa ola mexicana, a frequência da onda, em 
 hertz, é um valor mais próximo de: 
  
+\
 A) 0,3. 
 B) 0,5. 
 C) 1,0. 
@@ -4249,7 +4282,8 @@ D) 1,9.
 E) 3,7. 
  
  
-Questão 136 (2013.1) 
+\
+@136 (2013.1) 
  
  
 Para serrar os ossos e carnes congeladas, um 
@@ -4262,6 +4296,7 @@ possua menor velocidade linear.
 Por qual montagem o açougueiro deve optar e 
 qual a justificativa desta opção? 
  
+\
 A) Q, pois as polias 1 e 3 giram com velocida-
 des lineares iguais em pontos periféricos e a 
 que tiver maior raio terá menor frequência. 
@@ -4279,7 +4314,8 @@ velocidades lineares em pontos periféricos e a
 que tiver maior raio terá menor frequência. 
  
  
-Questão 137 (2013.1) 
+\
+@137 (2013.1) 
 Um eletricista analisa o diagrama de uma insta-
 lação elétrica residencial para planejar medi-
 ções de tensão e corrente em uma cozinha. 
@@ -4299,17 +4335,13 @@ ligação desses instrumentos está representado
 em: 
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-47 
-novocadernoenem@gmail.com 
  
  
  
  
  
-Questão 138 (2013.1) 
+\
+@138 (2013.1) 
 O chuveiro elétrico é um dispositivo capaz de 
 transformar energia elétrica em energia térmica, 
 o que possibilita a elevação da temperatura da 
@@ -4322,6 +4354,7 @@ Uma das maneiras de fazer essa adaptação é
 trocar a resistência do chuveiro por outra, de 
 mesmo material e com o(a): 
  
+\
 A) dobro do comprimento do fio. 
 B) metade do comprimento do fio. 
 C) metade da área da seção reta do fio. 
@@ -4329,7 +4362,8 @@ D) quádruplo da área da seção reta do fio.
 E) quarta parte da área da seção reta do fio. 
  
  
-Questão 139 (2013.1) 
+\
+@139 (2013.1) 
 Uma pessoa necessita da força de atrito em 
 seus pés para se deslocar sobre uma superfície. 
 Logo, uma pessoa que sobe uma rampa em 
@@ -4339,6 +4373,7 @@ exercida pelo chão em seus pés.
 Em relação ao movimento dessa pessoa, quais 
 são a direção e o sentido da força de atrito 
 mencionada no texto? 
+\
 A) Perpendicular ao plano e no mesmo sentido 
 do movimento. 
 B) Paralelo ao plano e no sentido contrário ao 
@@ -4350,7 +4385,8 @@ to.
 E) Vertical e sentido para cima. 
  
  
-Questão 140 (2013.1) 
+\
+@140 (2013.1) 
 Um circuito em série é formado por uma pilha, 
 uma lâmpada incandescente e uma chave inter-
 ruptora. Ao se ligar a chave, a lâmpada acende 
@@ -4366,6 +4402,7 @@ De acordo com o modelo mencionado, o fato de
 a lâmpada acender quase instantaneamente 
 está relacionado à rapidez com que: 
  
+\
 A) o fluido elétrico se desloca no circuito. 
 B) as cargas negativas móveis atravessam o 
 circuito 
@@ -4377,7 +4414,8 @@ E) as cargas positivas e negativas se chocam
 no filamento da lâmpada. 
  
  
-Questão 141 (2013.1) 
+\
+@141 (2013.1) 
 Em um piano, o Dó central e a próxima nota Dó 
 (Dó maior) apresentam sons parecidos, mas 
 não idênticos. É possível utilizar programas 
@@ -4387,14 +4425,10 @@ como apresentado nas figuras, em que estão
 indicados intervalos de tempo idênticos (T). 
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-48 
-novocadernoenem@gmail.com 
 A razão entre as frequências do Dó central e do 
 Dó maior é de: 
  
+\
 A) 1/2 
 B) 2 
 C) 1 
@@ -4402,7 +4436,8 @@ D) 1/4
 E) 4 
  
  
-Questão 142 (2013.1) 
+\
+@142 (2013.1) 
 Medir temperatura é fundamental em muitas 
 aplicações, e apresentar a leitura em mostrado-
 res digitais é bastante prático. O seu funciona-
@@ -4420,6 +4455,7 @@ Para um valor de temperatura em que
 RS=100Ω, a leitura apresentada pelo voltímetro 
 será de: 
  
+\
 A) + 6,2 V. 
 B) + 1,7 V. 
 C) + 0,3 V. 
@@ -4427,7 +4463,8 @@ D) – 0,3 V.
 E) – 6,2 V. 
  
  
-Questão 143 (2013.1) 
+\
+@143 (2013.1) 
  
  
  
@@ -4449,6 +4486,7 @@ gundos, abrindo a porta.
 A intensidade do campo magnético, para que o 
 dispositivo funcione corretamente, é de: 
  
+\
 A) 5 x 10−1T. 
 B) 5 x 10−2T. 
 C) 5 x 101T. 
@@ -4456,7 +4494,8 @@ D) 2 x 10−2T.
 E) 2 x 100T. 
  
  
-Questão 144 (2013.1) 
+\
+@144 (2013.1) 
 Aquecedores solares usados em residências 
 têm o objetivo de elevar a temperatura da água 
 até 70°C.  
@@ -4471,6 +4510,7 @@ Qual a razão entre a massa de água quente e a
 massa de água fria na mistura para um banho à 
 temperatura ideal?  
  
+\
 A) 0,111. 
 B) 0,125.  
 C) 0,357. 
@@ -4478,7 +4518,8 @@ D) 0,428.
 E) 0,833. 
  
  
-Questão 145 (2013.1) 
+\
+@145 (2013.1) 
 Em um dia sem vento, ao saltar de um avião, 
 um paraquedista cai verticalmente até atingir a 
 velocidade limite. No instante em que o para-
@@ -4492,16 +4533,12 @@ que possibilita sua aterrissagem em segurança.
 Que gráfico representa a força resultante sobre 
 o paraquedista, durante o seu movimento de 
 queda?
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-49 
-novocadernoenem@gmail.com 
  
  
  
  
-Questão 146 (2013.2) 
+\
+@146 (2013.3) 
 O trem de passageiros da Estrada de Ferro 
 Vitória- Minas (EFVM), que circula diariamente 
 entre a cidade de Cariacica, na Grande Vitória, 
@@ -4520,6 +4557,7 @@ frenagem depois e antes da adoção dessa tec-
 nologia? 
  
  
+\
 A) 0,08 m/s2 
 B) 3,90 m/s2 
 C) 0,30 m/s2 
@@ -4527,7 +4565,8 @@ D) 1,60 m/s2
 E) 1,10 m/s2 
  
  
-Questão 147 (2013.2) 
+\
+@147 (2013.3) 
 Um grupo de amigos foi passar o fim de semana 
 em um acampamento rural, onde não há eletri-
 cidade. Uma pessoa levou um gerador a diesel 
@@ -4543,6 +4582,7 @@ tenha menor perda possível, a estrutura do cir-
 cuito elétrico deverá ser de dois bocais ligados 
 em: 
  
+\
 A) paralelo e usar fios de menor espessura. 
 B) série e usar fios de máximo comprimento. 
 C) paralelo e usar fios de maior espessura. 
@@ -4550,7 +4590,8 @@ D) paralelo e usar fios de máximo comprimento.
 E) série e usar fios de maior espessura. 
  
  
-Questão 148 (2013.2) 
+\
+@148 (2013.3) 
 Conta-se que um curioso incidente aconteceu 
 durante a Primeira Guerra Mundial. Quando 
 voava a uma altitude de dois mil metros, um 
@@ -4565,6 +4606,7 @@ São Paulo: Hemus, 1970)
 O piloto consegue apanhar o projétil, pois: 
  
  
+\
 A) ele foi disparado em direção ao avião fran-
 cês, freado pelo ar e parou justamente na frente 
 do piloto. 
@@ -4577,12 +4619,8 @@ D) o avião se movia no mesmo sentido que o
 dele, com velocidade de mesmo valor. 
 E) o avião se movia no mesmo sentido que o 
 dele, com velocidade visivelmente superior. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-50 
-novocadernoenem@gmail.com 
-Questão 149 (2013.2) 
+\
+@149 (2013.3) 
 A palha de aço, um material de baixo custo e 
 vida útil pequena, utilizada para lavar louças, é 
 um emaranhado de fios leves e finos que ser-
@@ -4593,6 +4631,7 @@ A propriedade do aço que justifica o aspecto
 físico descrito no texto é a: 
  
  
+\
 A) densidade baixa. 
 B) ductilidade. 
 C) condutividade elétrica. 
@@ -4600,7 +4639,8 @@ D) condutividade térmica.
 E) maleabilidade. 
  
  
-Questão 150 (2013.2) 
+\
+@150 (2013.3) 
 A banda larga brasileira é lenta. No Japão já 
 existem redes de fibras ópticas, que permitem 
 acessos à internet com velocidade de 1 gigabit 
@@ -4620,6 +4660,7 @@ A transmissão em uma fibra óptica acontecerá
 de forma correta se o índice de refração do nú-
 cleo, em relação ao revestimento, for: 
  
+\
 A) superior e ocorrer difração. 
 B) superior e ocorrer reflexão interna total. 
 C) inferior e ocorrer interferência construtiva. 
@@ -4627,7 +4668,8 @@ D) inferior e ocorrer interferência destrutiva.
 E) inferior e ocorrer reflexão interna parcial. 
  
  
-Questão 151 (2013.2) 
+\
+@151 (2013.3) 
 Os densímetros instalados nas bombas de 
 combustível permitem averiguar se a quantida-
 de de água presente no álcool hidratado está 
@@ -4642,12 +4684,14 @@ fração máxima permitida de água é mais próxi-
 ma de: 
  
  
+\
 A) 0,99 g/cm3. 
 B) 0,81 g/cm3. 
 C) 0,20 g/cm3. 
 D) 1,80 g/cm3. 
 E) 0,90 g/cm3. 
-Questão 152 (2013.2) 
+\
+@152 (2013.3) 
 Retirar a roda de um carro é uma tarefa facilita-
 da por algumas características da ferramenta 
 utilizada, habitualmente denominada chave de 
@@ -4659,6 +4703,7 @@ Em condições usuais, qual desses modelos
 permite a retirada da roda com mais facilidade? 
  
  
+\
 A) 2, em função de o braço da força aplicada 
 ser maior. 
 B) 3, em função de o momento da força produ-
@@ -4671,7 +4716,8 @@ E) 3, em função de o braço da força aplicada
 poder variar. 
  
  
-Questão 153 (2013.2) 
+\
+@153 (2013.3) 
 Em um violão afinado, quando se toca a corda 
 Lá com seu comprimento efetivo (harmônico 
 fundamental), o som produzido tem frequência 
@@ -4681,6 +4727,7 @@ Se a mesma corda do violão é comprimida na
 metade do seu comprimento, a frequência do 
 novo harmônico: 
  
+\
 A) não se modifica, porque é uma característica 
 independente do comprimento da corda que 
 vibra. 
@@ -4688,24 +4735,21 @@ B) dobra, porque o comprimento de onda foi
 reduzido à metade. 
 C) se reduz à metade, porque o comprimento de 
 onda dobrou. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-51 
-novocadernoenem@gmail.com 
 D) quadruplica, porque o comprimento de onda 
 foi reduzido à quarta parte. 
 E) quadruplica, porque o comprimento de onda 
 foi reduzido à metade. 
  
  
-Questão 154 (2013.2) 
+\
+@154 (2013.3) 
  
  
  
 Quais são os processos de propagação de calor 
 relacionados à fala de cada personagem? 
  
+\
 A) Convecção e irradiação. 
 B) Convecção e condução. 
 C) Irradiação e convecção. 
@@ -4713,7 +4757,8 @@ D) Condução e convecção.
 E) Irradiação e condução. 
  
  
-Questão 155 (2013.2) 
+\
+@155 (2013.3) 
 Um enfeite para berço é constituído de um aro 
 metálico com um ursinho pendurado, que gira 
 com velocidade angular constante. O aro per-
@@ -4725,6 +4770,7 @@ Enquanto o ursinho gira, sua sombra descreve
 um movimento: 
  
  
+\
 A) retilíneo uniforme. 
 B) circular uniformemente variado. 
 C) retilíneo uniformemente variado. 
@@ -4732,7 +4778,8 @@ D) circular uniforme.
 E) retilíneo harmônico simples. 
  
  
-Questão 156 (2013.2) 
+\
+@156 (2013.3) 
 Devido à sua resistência mecânica, baixa con-
 dutividade térmica e transparência à luz, o vidro 
 tem sido cada vez mais utilizado na construção 
@@ -4749,6 +4796,7 @@ A transparência pode ser explicada, conside-
 rando-se que a luz: 
  
  
+\
 A) é absorvida pelos elétrons e reemitida em 
 todas as direções. 
 B) é absorvida pelos elétrons e transformada 
@@ -4761,7 +4809,8 @@ E) não é absorvida pelos elétrons e continua
 seu caminho em trajetórias regulares. 
  
  
-Questão 157 (2013.2) 
+\
+@157 (2013.3) 
 Visando reduzir a poluição sonora de uma cida-
 de, a Câmara de Vereadores aprovou uma lei 
 que impõe o limite máximo de 40 dB (decibéis) 
@@ -4770,6 +4819,7 @@ para o nível sonoro permitido após as 22 horas.
 Ao aprovar a referida lei, os vereadores estão 
 limitando qual característica da onda? 
  
+\
 A) A velocidade da onda sonora. 
 B) A amplitude da onda sonora. 
 C) A frequência da onda sonora. 
@@ -4777,7 +4827,8 @@ D) A altura da onda sonora.
 E) O timbre da onda sonora. 
  
  
-Questão 158 (2013.2) 
+\
+@158 (2013.3) 
 Em uma experiência didática, cinco esferas de 
 metal foram presas em um barbante, de forma 
 que a distância entre esferas consecutivas au-
@@ -4794,6 +4845,7 @@ A razão de os intervalos de tempo citados se-
 rem iguais é que a: 
  
  
+\
 A) velocidade de cada esfera é constante. 
 B) aceleração de cada esfera aumenta com o 
 tempo. 
@@ -4802,12 +4854,8 @@ com o tempo.
 D) força resultante em cada esfera é constante. 
 E) energia mecânica de cada esfera aumenta 
 com o tempo. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-52 
-novocadernoenem@gmail.com 
-Questão 159 (2013.2) 
+\
+@159 (2013.3) 
 É comum nos referirmos a dias quentes como 
 dias “de calor”. Muitas vezes ouvimos expres-
 sões como “hoje está calor” ou “hoje o calor 
@@ -4817,6 +4865,7 @@ te está alta.
 No contexto científico, é correto o significado de 
 “calor” usado nessas expressões? 
  
+\
 A) Não, pois calor é a quantidade de energia 
 térmica contida em um corpo. 
 B) Não, pois calor é energia térmica em trânsito. 
@@ -4828,7 +4877,8 @@ E) Sim, pois o calor de um corpo depende de
 sua temperatura. 
  
  
-Questão 160 (2013.2) 
+\
+@160 (2013.3) 
 Antes das lombadas eletrônicas, eram pintadas 
 faixas nas ruas para controle da velocidade dos 
 automóveis. A velocidade era estimada com o 
@@ -4850,6 +4900,7 @@ ca, cujo limite é de 40 km/h, sem receber uma
 multa, é de: 
  
  
+\
 A) 0,50. 
 B) 0,05. 
 C) 11,1. 
@@ -4857,7 +4908,8 @@ D) 0,18.
 E) 22,2. 
  
  
-Questão 161 (2013.2) 
+\
+@161 (2013.3) 
 As moléculas de água são dipolos elétricos que 
 podem se alinhar com o campo elétrico, da 
 mesma forma que uma bússola se alinha com 
@@ -4874,6 +4926,7 @@ caso, um aumento da energia de rotação das
 moléculas de água é a 
  
  
+\
 A) refração. 
 B) superposição. 
 C) difração. 
@@ -4881,7 +4934,8 @@ D) reflexão.
 E) ressonância. 
  
  
-Questão 162 (2013.2) 
+\
+@162 (2013.3) 
 Quando a luz branca incide em uma superfície 
 metálica, são removidos elétrons desse materi-
 al. Esse efeito é utilizado no acendimento auto-
@@ -4892,6 +4946,7 @@ fotográfico e em sistemas de alarme.
 Esse efeito pode ser usado para fazer a trans-
 formação de energia: 
  
+\
 A) nuclear para cinética. 
 B) elétrica para radiante. 
 C) radiante para cinética. 
@@ -4899,7 +4954,8 @@ D) térmica para química.
 E) potencial para cinética. 
  
  
-Questão 163 (2014.1) 
+\
+@163 (2014.1) 
 Christiaan Huygens, em 1656, criou o relógio de 
 pêndulo. Nesse dispositivo, a pontualidade ba-
 seia-se na regularidade das pequenas oscila-
@@ -4921,6 +4977,7 @@ constante, para que esse tipo de relógio realize
 corretamente a contagem do tempo, é necessá-
 rio que o(a): 
  
+\
 A) comprimento da haste seja mantido constan-
 te. 
 B) massa do corpo suspenso pela haste seja 
@@ -4931,12 +4988,8 @@ D) amplitude da oscilação seja constante a
 qualquer temperatura. 
 E) energia potencial gravitacional do corpo sus-
 penso se mantenha constante. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-53 
-novocadernoenem@gmail.com 
-Questão 164 (2014.1) 
+\
+@164 (2014.1) 
 É comum aos fotógrafos tirar fotos coloridas em 
 ambientes iluminados por lâmpadas fluorescen-
 tes, que contêm uma forte composição de luz 
@@ -4961,6 +5014,7 @@ Na situação descrita, qual deve ser o filtro utili-
 zado para que a fotografia apresente as cores 
 naturais dos objetos? 
  
+\
 A) Ciano.  
 B) Verde.  
 C) Amarelo. 
@@ -4968,7 +5022,8 @@ D) Magenta.
 E) Vermelho. 
  
  
-Questão 165 (2014.1) 
+\
+@165 (2014.1) 
 Uma pessoa, lendo o manual de uma ducha que 
 acabou de adquirir para a sua casa, observa o 
 gráfico, que relaciona a vazão na ducha com a 
@@ -4987,6 +5042,7 @@ tém constante dentro do reservatório.
 Ao final de 30 dias, esses banhos· consumirão 
 um volume de água, em litros, igual a: 
  
+\
 A) 69120.  
 B) 17280.  
 C) 11520. 
@@ -4994,7 +5050,8 @@ D) 8640.
 E) 2880. 
  
  
-Questão 166 (2014.1) 
+\
+@166 (2014.1) 
 Um sistema de iluminação foi construído com 
 um circuito de três lâmpadas iguais conectadas 
 a um gerador (G) de tensão constante. Esse 
@@ -5007,6 +5064,7 @@ Considerando o funcionamento do circuito dado,
 a lâmpada 1 brilhará mais quando a chave esti-
 ver na posição: 
  
+\
 A) B, pois a corrente será maior nesse caso. 
 B) B, pois a potência total será maior nesse 
 caso. 
@@ -5018,7 +5076,8 @@ E) A, pois a potência dissipada pelo gerador
 será menor nesse caso. 
  
  
-Questão 167 (2014.1) 
+\
+@167 (2014.1) 
 Um sistema de pistão contendo um gás é mos-
 trado na figura. Sobre a extremidade superior do 
 êmbolo, que pode movimentar-se livremente 
@@ -5029,17 +5088,13 @@ medir sua pressão. A partir de diferentes valores
 de calor fornecido, considerando o sistema co-
 mo hermético, o objeto elevou-se em valores 
 Δh, como mostrado no gráfico. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-54 
-novocadernoenem@gmail.com 
  
  
 Foram estudadas, separadamente, quantidades equimolares de dois diferentes gases, denominados M e 
 V. A diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao 
 V, apresentar: 
  
+\
 A) maior pressão de vapor. 
 B) menor massa molecular.          
 C) maior compressibilidade. 
@@ -5047,7 +5102,8 @@ D) menor energia de ativação.
 E) menor capacidade calorífica. 
  
  
-Questão 168 (2014.1) 
+\
+@168 (2014.1) 
 O pêndulo de Newton pode ser constituído por 
 cinco pêndulos idênticos suspensos em um 
 mesmo suporte. Em um dado instante, as esfe-
@@ -5063,12 +5119,8 @@ O movimento dos pêndulos após a primeira colisão está representado em:
  
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-55 
-novocadernoenem@gmail.com 
-Questão 169 (2014.1) 
+\
+@169 (2014.1) 
 Para entender os movimentos dos corpos, Galileu discutiu o movimento de uma esfera de metal em dois 
 planos inclinados sem atritos e com a possibilidade de se alterarem os ângulos de inclinação, conforme 
 mostra a figura. Na descrição do experimento, quando a esfera de metal é abandonada para descer um 
@@ -5079,6 +5131,7 @@ igual àquele em que foi abandonada.
  
 Se o ângulo de inclinação do plano de subida for reduzido a zero, a esfera: 
  
+\
 A) manterá sua velocidade constante, pois o impulso resultante sobre ela será nulo. 
 B) manterá sua velocidade constante, pois o impulso da descida continuará a empurrá-la. 
 C) diminuirá gradativamente a sua velocidade, pois não haverá mais impulso para empurrá-la. 
@@ -5086,7 +5139,8 @@ D) diminuirá gradativamente a sua velocidade, pois o impulso resultante será c
 E) aumentará gradativamente a sua velocidade, pois não haverá nenhum impulso contrário ao seu movimento. 
  
  
-Questão 170 (2014.1) 
+\
+@170 (2014.1) 
 A elevação da temperatura das águas de rios, 
 lagos e mares diminui a solubilidade do oxigê-
 nio, pondo em risco as diversas formas de vida 
@@ -5101,6 +5155,7 @@ Que parte do ciclo de geração de energia das
 usinas nucleares está associada a esse tipo de 
 poluição? 
  
+\
 A) Fissão do material radioativo. 
 B) Condensação do vapor-d'água no final do 
 processo. 
@@ -5112,7 +5167,8 @@ E) Lançamento do vapor-d’água sobre as pás
 das turbinas. 
  
  
-Questão 171 (2014.1) 
+\
+@171 (2014.1) 
 Uma proposta de dispositivo capaz de indicar a 
 qualidade da gasolina vendida em postos e, 
 consequentemente, evitar fraudes, poderia utili-
@@ -5129,6 +5185,7 @@ Em uma fiscalização rotineira, o teste apresen-
 tou o valor de 1,9. Qual foi o comportamento do 
 raio refratado? 
  
+\
 A) Mudou de sentido. 
 B) Sofreu reflexão total. 
 C) Atingiu o valor do ângulo limite. 
@@ -5138,7 +5195,8 @@ E) Aproximou-se da normal à superfície de se-
 paração. 
  
  
-Questão 172 (2014.1) 
+\
+@172 (2014.1) 
 Alguns sistemas de segurança incluem detecto-
 res de movimento. Nesses sensores, existe uma 
 substância que se polariza na presença de radi-
@@ -5152,17 +5210,14 @@ da por esse tipo de sensor.
 A radiação captada por esse detector encontra-
 se na região de frequência: 
  
+\
 A) da luz visível.  
 B) do ultravioleta. 
 C) do infravermelho.  
 D) das micro-ondas. 
 E) das ondas longas de rádio. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-56 
-novocadernoenem@gmail.com 
-Questão 173 (2014.1) 
+\
+@173 (2014.1) 
 Um professor utiliza essa história em quadri-
 nhos para discutir com os estudantes o movi-
 mento de satélites. Nesse sentido, pede a eles 
@@ -5175,6 +5230,7 @@ Desprezando a existência de forças dissipati-
 vas, o vetor aceleração tangencial do coelhinho, 
 no terceiro quadrinho, é: 
  
+\
 A) nulo. 
 B) paralelo à sua velocidade linear e no mesmo 
 sentido. 
@@ -5186,7 +5242,8 @@ E) perpendicular à sua velocidade linear e diri-
 gido para fora da superfície da Terra. 
  
  
-Questão 174 (2014.1) 
+\
+@174 (2014.1) 
 O funcionamento dos geradores de usinas elé-
 tricas baseia-se no fenômeno da indução ele-
 tromagnética, descoberto por Michael Faraday 
@@ -5202,6 +5259,7 @@ sentido da apresentada na figura, utilizando os
 mesmos materiais, outra possibilidade é mover 
 a espira para a: 
  
+\
 A) a esquerda e o ímã para a direita com polari-
 dade invertida. 
 B) direita e o ímã para a esquerda com polari-
@@ -5214,7 +5272,8 @@ E) esquerda e manter o ímã em repouso com
 mesma polaridade. 
  
  
-Questão 175 (2014.1) 
+\
+@175 (2014.1) 
 Ao sintonizarmos uma estação de rádio ou um 
 canal de TV em um aparelho, estamos alteran-
 do algumas características elétricas de seu cir-
@@ -5226,6 +5285,7 @@ nada frequência resultarão em máxima absor-
  
 O fenômeno descrito é a: 
  
+\
 A) difração.  
 B) refração.  
 C) polarização. 
@@ -5233,7 +5293,8 @@ D) interferência.
 E) ressonância. 
  
  
-Questão 176 (2014.1) 
+\
+@176 (2014.1) 
 Quando adolescente, as nossas tardes, após as 
 aulas, consistiam em tomar às mãos o violão e 
 o dicionário de acordes de Almir Chediak e de-
@@ -5247,15 +5308,11 @@ tual de poucos indivíduos capazes de identificar
 notas isoladas sem outras referências, isto é, 
 sem precisar relacioná-las com outras notas de 
 uma melodia. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-57 
-novocadernoenem@gmail.com 
 No contexto apresentado, a propriedade física 
 das ondas que permite essa distinção entre as 
 notas é a: 
  
+\
 A) frequência.  
 B) intensidade. 
 C) forma da onda.  
@@ -5263,7 +5320,8 @@ D) amplitude da onda.
 E) velocidade de propagação. 
  
  
-Questão 177 (2014.1) 
+\
+@177 (2014.1) 
 As lentes fotocromáticas escurecem quando 
 expostas à luz solar por causa de reações quí-
 micas reversíveis entre uma espécie incolor e 
@@ -5289,6 +5347,7 @@ Considerando os três aspectos, qual é a melhor
 amostra de lente fotocromática para se utilizar 
 em óculos? 
  
+\
 A) 1  
 B) 2  
 C) 3  
@@ -5296,13 +5355,15 @@ D) 4
 E) 5 
  
  
-Questão 178 (2014.2) 
+\
+@178 (2014.3) 
 As miragens existem e podem induzir à percep-
 ção de que há água onde não existe. Elas são a 
 manifestação de um fenômeno óptico que ocor-
 re na atmosfera. 
  
 Esse fenômeno óptico é consequência da: 
+\
 A) refração da luz nas camadas de ar próximas 
 do chão quente. 
 B) reflexão da luz ao incidir no solo quente. 
@@ -5313,7 +5374,8 @@ E) difração da luz nas camadas de ar próximas
 do chão quente. 
  
  
-Questão 179 (2014.2) 
+\
+@179 (2014.3) 
 Um pesquisador avaliou o efeito da temperatura 
 do motor (em velocidade constante) e da veloci-
 dade média de um veículo (com temperatura do 
@@ -5331,24 +5393,21 @@ A partir dos resultados, a situação em que ocor-
 re maior emissão de poluentes é aquela na qual 
 o percurso é feito com o motor: 
  
+\
 A) aquecido, em menores velocidades médias e 
 em pista em declive. 
 B) aquecido, em maiores velocidades médias e 
 em pista em aclive. 
 C) frio, em menores velocidades médias e em 
 pista em declive. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-58 
-novocadernoenem@gmail.com 
 D) frio, em menores velocidades médias e em 
 pista em aclive. 
 E) frio, em maiores velocidades médias e em 
 pista em aclive. 
  
  
-Questão 180 (2014.2) 
+\
+@180 (2014.3) 
 Em museus de ciências, é comum encontrarem-
 se máquinas que eletrizam materiais e geram 
 intensas descargas elétricas. O gerador de Van 
@@ -5374,6 +5433,7 @@ A grandeza física associada ao brilho instantâ-
 neo da lâmpada fluorescente, por estar próxima 
 a uma descarga elétrica, é o(a): 
  
+\
 A) carga elétrica. 
 B) campo elétrico. 
 C) corrente elétrica. 
@@ -5381,7 +5441,8 @@ D) capacitância elétrica.
 E) condutividade elétrica. 
  
  
-Questão 181 (2014.2) 
+\
+@181 (2014.3) 
 O sonar é um equipamento eletrônico que per-
 mite a localização de objetos e a medida de 
 distâncias no fundo do mar, pela emissão de 
@@ -5400,6 +5461,7 @@ mínima a que uma pessoa deve estar de um
 anteparo refletor para que se possa distinguir o 
 eco do som emitido? 
  
+\
 A) 17m 
 B) 34m 
 C) 68m 
@@ -5407,7 +5469,8 @@ D) 1700m
 E) 3400m 
  
  
-Questão 182 (2014.2) 
+\
+@182 (2014.3) 
 Um engenheiro decidiu instalar um aquecedor 
 solar em sua casa, conforme mostra o esque-
 ma. 
@@ -5423,6 +5486,7 @@ determinado.
 O parâmetro que define o valor do ângulo de 
 inclinação dessas placas coletoras é a 
  
+\
 A) altitude. 
 B) latitude. 
 C) longitude. 
@@ -5430,7 +5494,8 @@ D) nebulosidade.
 E) umidade relativa do ar. 
  
  
-Questão 183 (2014.2) 
+\
+@183 (2014.3) 
 Para a proteção contra curtos-circuitos em resi-
 dências são utilizados disjuntores, compostos 
 por duas lâminas de metais diferentes, com 
@@ -5450,11 +5515,7 @@ a mesma corrente elétrica que passa no circuito.
 A característica física que deve ser observada 
 para a escolha dos dois metais dessa lâmina 
 bimetálica é o coeficiente de: 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-59 
-novocadernoenem@gmail.com 
+\
 A) dureza. 
 B) elasticidade. 
 C) dilatação térmica. 
@@ -5462,7 +5523,8 @@ D) compressibilidade.
 E) condutividade elétrica. 
  
  
-Questão 184 (2014.2) 
+\
+@184 (2014.3) 
 Folhas de papel, como as utilizadas para a im-
 pressão de documentos, são opacas e permeá-
 veis aos líquidos. Esse material é constituído de 
@@ -5483,6 +5545,7 @@ de da luz no vácuo e no respectivo material
 Nessa situação, o papel se tornou translúcido 
 porque a luz é: 
  
+\
 A) mais refletida. 
 B) mais absorvida. 
 C) mais espalhada. 
@@ -5490,7 +5553,8 @@ D) menos refratada.
 E) menos transmitida. 
  
  
-Questão 185 (2014.2) 
+\
+@185 (2014.3) 
 Ao assistir a uma apresentação musical, um 
 músico que estava na plateia percebeu que 
 conseguia ouvir quase perfeitamente o som da 
@@ -5506,6 +5570,7 @@ Qual fenômeno ondulatório é o principal respon-
 sável para que o músico percebesse essa dife-
 renciação do som? 
  
+\
 A) Difração. 
 B) Reflexão. 
 C) Refração. 
@@ -5513,7 +5578,8 @@ D) Atenuação.
 E) Interferência. 
  
  
-Questão 186 (2014.2) 
+\
+@186 (2014.3) 
 Na Antiguidade, algumas pessoas acreditavam 
 que, no lançamento obliquo de um objeto, a 
 resultante das forças que atuavam sobre ele 
@@ -5527,6 +5593,7 @@ Desprezando a resistência do ar, qual é a dire-
 atua sobre o objeto no ponto mais alto da traje-
 tória? 
  
+\
 A) Indefinido, pois ele é nulo, assim como a 
 velocidade vertical nesse ponto. 
 B) Vertical para baixo, pois somente o peso está 
@@ -5541,7 +5608,8 @@ mento, pois aponta para o ponto onde o objeto
 cairá. 
  
  
-Questão 187 (2014.2) 
+\
+@187 (2014.3) 
 Recentemente foram obtidos os fios de cobre 
 mais finos possíveis, contendo apenas um áto-
 mo de espessura, que podem, futuramente, ser 
@@ -5555,14 +5623,10 @@ mar se seria possível introduzir esses nanofios
 nos microprocessadores atuais. 
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-60 
-novocadernoenem@gmail.com 
 Um nanofio utilizando as aproximações propos-
 tas possui resistência elétrica de: 
  
+\
 A) 170 nΩ 
 B) 0,17nΩ 
 C) 1,7 Ω 
@@ -5570,7 +5634,8 @@ D) 17 Ω
 E) 170 Ω 
  
  
-Questão 188 (2014.2) 
+\
+@188 (2014.3) 
 Os manuais dos fornos micro-ondas desaconse-
 lham, sob pena de perda da garantia, que eles 
 sejam ligados em paralelo juntamente a outros 
@@ -5582,6 +5647,7 @@ como daquelas dos próprios aparelhos.
  
 Os riscos citados são decorrentes da: 
  
+\
 A) resistividade da conexão, que diminui devido 
 à variação de temperatura do circuito. 
 B) corrente elétrica superior ao máximo que a 
@@ -5595,7 +5661,8 @@ causa o rompimento da rigidez dielétrica da
 tomada múltipla. 
  
  
-Questão 189 (2014.2) 
+\
+@189 (2014.3) 
 Fusíveis são dispositivos de proteção de um 
 circuito elétrico, sensíveis ao excesso de corren-
 te elétrica. Os modelos mais simples consistem 
@@ -5615,6 +5682,7 @@ trabalhar com uma corrente até 20% maior que
 a corrente nominal que atravessa esse circuito, 
 qual é o valor, em ampères, da corrente máxima 
 que o fusível F permite passar? 
+\
 A) 1,0 
 B) 1,5 
 C) 2,0 
@@ -5622,7 +5690,8 @@ D) 2,5
 E) 3,0 
  
  
-Questão 190 (2014.2) 
+\
+@190 (2014.3) 
 Durante um reparo na estação espacial interna-
 cional, um cosmonauta, de massa 90kg, substi-
 tui uma bomba do sistema de refrigeração, de 
@@ -5638,6 +5707,7 @@ Qual é o valor da velocidade escalar adquirida
 pelo cosmonauta, em relação à estação, após o 
 empurrão? 
  
+\
 A) 0,05m/s 
 B) 0,20m/s 
 C) 0,40m/s 
@@ -5645,7 +5715,8 @@ D) 0,50m/s
 E) 0,80m/s 
  
  
-Questão 191 (2014.3) 
+\
+@191 (2014.2) 
 As cercas elétricas instaladas nas zonas urba-
 nas são dispositivos de segurança planejados 
 para inibir roubos e devem ser projetadas para, 
@@ -5667,6 +5738,7 @@ primário e outro secundário, e que este último
 está ligado indiretamente à fiação. A função do 
 transformador em uma cerca elétrica é: 
  
+\
 A) reduzir a intensidade de corrente elétrica 
 associada ao secundário. 
 B) aumentar a potência elétrica associada ao 
@@ -5677,12 +5749,8 @@ D) proporcionar perdas de energia do primário
 ao secundário. 
 E) provocar grande perda de pot8ncia elétrica 
 no secundário. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-61 
-novocadernoenem@gmail.com 
-Questão 192 (2014.2) 
+\
+@192 (2014.3) 
 A figura apresenta a comparação dos gastos de três tipos de lâmpadas residenciais de mesmo brilho, 
 durante cinco anos. Considera-se a utilização média de vinte pontos de luz, utilizando em média dez 
 lâmpadas acesas durante 6 horas ao custo de R$0,30, para cada 1kWh consumido. 
@@ -5692,6 +5760,7 @@ lâmpadas acesas durante 6 horas ao custo de R$0,30, para cada 1kWh consumido.
 Com base nas informações, a lâmpada energeticamente mais eficiente, a mais viável economicamente e 
 a de maior vida útil são, respectivamente: 
  
+\
 A) fluorescente compacta, LED, LED. 
 B) LED, fluorescente compacta, LED. 
 C) fluorescente compacta, incandescente, LED. 
@@ -5699,7 +5768,8 @@ D) LED, incandescente, fluorescente compacta.
 E) fluorescente compacta, fluorescente compacta, LED. 
  
  
-Questão 193 (2014.3) 
+\
+@193 (2014.2) 
 O fenômeno da levitação de corpos ocorre, na 
 Terra, quando a força gravitacional a equilibra-
 da, fazendo com que um objeto paire no ar. O 
@@ -5715,6 +5785,7 @@ Para que haja a levitação indicada na figura, a
 força que equilibra o peso do objeto deve ser 
 decorrente da: 
  
+\
 A) ação mecânica direta do transdutor sobre o 
 objeto. 
 B) ressonância que ocorre entre a onda sonora 
@@ -5727,24 +5798,21 @@ E) diferença de pressão dos sons emitido e
 refletido aplicada no objeto. 
  
  
-Questão 194 (2014.3) 
+\
+@194 (2014.2) 
 A ilustração a seguir representa uma das mais 
 conhecidas obras do artista gráfico holandês M. 
 C. Escher.  
  
 Seu trabalho tem como características as figu-
 ras geométricas e ilusões de Óptica. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-62 
-novocadernoenem@gmail.com 
  
  
 Pelas características da imagem formada na 
 gravura, o artista representou um espelho esfé-
 rico do tipo: 
  
+\
 A) convexo, pois as imagens de todos os obje-
 tos, formadas na esfera, inclusive a do artista, 
 são virtuais. 
@@ -5764,7 +5832,8 @@ das pelo cruzamento dos raios de luz refletidos
 pela esfera. 
  
  
-Questão 195 (2014.3) 
+\
+@195 (2014.2) 
 No território brasileiro, existem períodos do ano 
 que apresentam queda na umidade do ar, fa-
 zendo com que o ar fique bastante seco. Nessa 
@@ -5781,6 +5850,7 @@ O corpo humano sofre com esse fenômeno de
 descarga elétrica, comportando-se como um 
 condutor, pois: 
  
+\
 A) oferece resistência nula ao movimento da 
 quantidade liquida de carga através do corpo. 
 B) permite que uma quantidade líquida de carga 
@@ -5795,7 +5865,8 @@ quantidade liquida de carga no corpo, facilitando
 ou dificultando o fenômeno. 
  
  
-Questão 196 (2014.3) 
+\
+@196 (2014.2) 
 O governo brasileiro, após analise das caracte-
 rísticas físicas do local, incluindo sismologia, 
 meteorologia, geologia e hidrologia, decidiu 
@@ -5817,6 +5888,7 @@ A característica que impede que essa usina seja
 instalada no local proposto pela sociedade civil 
 é o(a): 
  
+\
 A) pequena estabilidade do solo. 
 B) baixo Índice pluviométrico anual. 
 C) ausência de grandes volumes de água. 
@@ -5824,7 +5896,8 @@ D) baixa movimentação das massas de ar.
 E) elevação da temperatura ao longo do ano. 
  
  
-Questão 197 (2014.3) 
+\
+@197 (2014.2) 
 As maquinas térmicas foram aprimoradas du-
 rante a primeira Revolução Industrial, iniciada 
 na Inglaterra no século XVIII. O trabalho do 
@@ -5837,13 +5910,9 @@ mental para esse aprimoramento.
 A solução desenvolvida por Carnot para aumen-
 tar a eficiência da maquina a vapor foi: 
  
+\
 A) reduzir o volume do recipiente sob pressão 
 constante. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-63 
-novocadernoenem@gmail.com 
 B) aumentar o volume do recipiente e reduzir a 
 pressão proporcionalmente. 
 C) reduzir o volume do recipiente e a pressão 
@@ -5854,7 +5923,8 @@ E) aumentar a pressão dentro do recipiente e
 manter seu volume. 
  
  
-Questão 198 (2014.3) 
+\
+@198 (2014.2) 
 Uma pessoa quer instalar uma iluminação deco-
 rativa para as festas de final de ano. Para isso, 
 ela adquire um conjunto de 44 lâmpadas ligadas 
@@ -5867,6 +5937,7 @@ Quais as especificações das lâmpadas que
 devem ser utilizadas para obter o máximo de 
 potência na iluminação? 
  
+\
 A) 5 V e 4 W 
 B) 5 V e 20 W 
 C) 55 V e 4 W  
@@ -5874,7 +5945,8 @@ D) 220 V e 20 W
 E) 220 V e 880 W 
  
  
-Questão 199 (2014.3) 
+\
+@199 (2014.2) 
 Uma criança esta em um carrossel em um par-
 que de diversões. Este brinquedo descreve um 
 movimento circular com intervalo de tempo re-
@@ -5882,6 +5954,7 @@ gular.
  
 A força resultante que atua sobre a criança: 
  
+\
 A) é nula. 
 B) é obliqua à velocidade do carrossel. 
 C) paralela Á velocidade do carrossel. 
@@ -5889,7 +5962,8 @@ D) está direcionada para fora do brinquedo.
 E) está direcionada para o centro do brinquedo. 
  
  
-Questão 200 (2014.3) 
+\
+@200 (2014.2) 
 Um tipo de radar utilizado para medir a veloci-
 dade de um carro baseia-se no efeito Doppler. 
 Nesse caso, as ondas eletromagnéticas são 
@@ -5900,12 +5974,14 @@ de volta pelo radar.
 Um carro movendo-se em direção ao radar re-
 flete ondas com: 
  
+\
 A) altura menor. 
 B) amplitude menor. 
 C) frequência maior. 
 D) intensidade maior. 
 E) velocidade maior. 
-Questão 201 (2014.3) 
+\
+@201 (2014.2) 
 O tratamento convencional da água, quando ha, 
 remove todas as impurezas? Não. A custa de 
 muita adição de cloro, a água que abastece 
@@ -5926,6 +6002,7 @@ Acesso em: 2 abr. 2011 - adaptado)
 Dentre as etapas descritas, são consideradas 
 processos químicos: 
  
+\
 A) Decantação e coagulação. 
 B) Decantação e filtração. 
 C) Coagulação e desinfecção. 
@@ -5933,7 +6010,8 @@ D) Floculação e filtração.
 E) Filtração e fluoretação. 
  
  
-Questão 202 (2014.3) 
+\
+@202 (2014.2) 
 Dois satélites artificiais, S1 e S2, de massas M e 
 2M, respectivamente, estão em órbita ao redor 
 da Terra e sujeitos ao seu campo gravitacional. 
@@ -5943,6 +6021,7 @@ ponto do espaço, sua aceleração e de 7,0 m/s².
 Qual será a aceleração do satélite S2, quando 
 ele passar pelo mesmo ponto? 
  
+\
 A) 3,5 m/s² 
 B) 7,0 m/s² 
 C) 9,8 m/s² 
@@ -5950,7 +6029,8 @@ D) 14 m/s²
 E) 49 m/s² 
  
  
-Questão 203 (2014.3) 
+\
+@203 (2014.2) 
 Durante a formação de uma tempestade, são 
 observadas varias descargas elétricas, os raios, 
 que podem ocorrer das nuvens para o solo 
@@ -5966,11 +6046,7 @@ em forma de onda sonora.
  
 O fenômeno de ouvir o trovão certo tempo após 
 a descarga elétrica ter ocorrido deve-se: 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-64 
-novocadernoenem@gmail.com 
+\
 A) a velocidade de propagação do som ser di-
 minuída por conta do aquecimento do ar. 
 B) propagação da luz ocorrer através do ar e a 
@@ -5987,7 +6063,8 @@ percorrer a distância entre o raio e quem o ob-
 serva. 
  
  
-Questão 204 (2015.1) 
+\
+@204 (2015.1) 
 Um carro solar é um veículo que utiliza apenas 
 a energia solar para a sua locomoção. Tipica-
 mente, o carro contém um painel fotovoltaico 
@@ -6015,12 +6092,14 @@ tempo que esse carro solar levaria, a partir do
 repouso, para atingir a velocidade de 108 km/h 
 é um valor mais próximo de: 
  
+\
 A) 1,0 s. 
 B) 4,0 s. 
 C) 10 s. 
 D) 33 s. 
 E) 300 s. 
-Questão 205 (2015.1) 
+\
+@205 (2015.1) 
 Certos tipos de superfícies na natureza podem 
 refletir luz de forma a gerar um efeito de arco-
 íris. Essa característica é conhecida como iri-
@@ -6047,6 +6126,7 @@ dobro da espessura E da película de óleo.
 Expressa em termos do comprimento de onda 
 (λ), a espessura mínima é igual a: 
  
+\
 A) λ/4. 
 B) λ/2. 
 C) 3λ/4 
@@ -6054,7 +6134,8 @@ D) λ.
 E) 2λ. 
  
  
-Questão 206 (2015.1) 
+\
+@206 (2015.1) 
 A radiação ultravioleta (UV) é dividida, de acor-
 do com três faixas de frequência, em UV-A, UV-
 B e UV-C, conforme a figura. 
@@ -6065,17 +6146,13 @@ Para selecionar um filtro solar que apresente
 absorção máxima na faixa UV-B, uma pessoa 
 analisou os espectros de absorção da radiação 
 UV de cinco filtros solares: 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-65 
-novocadernoenem@gmail.com 
  
  
 Considere: velocidade da luz = 3,0×108 m/s e 1 nm = 1,0×10-9 m  
  
 O filtro solar que a pessoa deve selecionar é o: 
  
+\
 A) V. 
 B) IV. 
 C) III. 
@@ -6083,7 +6160,8 @@ D) II.
 E) I. 
  
  
-Questão 207 (2015.1) 
+\
+@207 (2015.1) 
 O ar atmosférico pode ser utilizado para arma-
 zenar o excedente de energia gerada no siste-
 ma elétrico, diminuindo seu desperdício, por 
@@ -6103,6 +6181,7 @@ nica em energia elétrica.
 No processo descrito, o excedente de energia 
 elétrica é armazenado pela: 
  
+\
 A) expansão do nitrogênio durante a ebulição. 
 B) absorção de calor pelo nitrogênio durante a 
 ebulição. 
@@ -6112,7 +6191,8 @@ D) retirada de água e gás carbônico da atmosfe-
 ra antes do resfriamento. 
 E) liberação de calor do nitrogênio para a vizi-
 nhança durante a liquefação. 
-Questão 208 (2015.1) 
+\
+@208 (2015.1) 
 Uma pessoa abre sua geladeira, verifica o que 
 há dentro e depois fecha a porta dessa geladei-
 ra. Em seguida, ela tenta abrir a geladeira no-
@@ -6123,6 +6203,7 @@ tual.
 A dificuldade extra para reabrir a geladeira ocor-
 re porque o(a) 
  
+\
 A) volume de ar dentro da geladeira diminuiu. 
 B) motor da geladeira está funcionando com 
 potência máxima. 
@@ -6134,18 +6215,14 @@ E) temperatura no interior da geladeira é inferior
 ao valor existente antes de ela ser aberta. 
  
   
-Questão 209 (2015.1) 
+\
+@209 (2015.1) 
 Uma análise criteriosa do desempenho de Usain 
 Bolt na quebra do recorde mundial dos 100 me-
 tros rasos mostrou que, apesar de ser o último 
 dos corredores a reagir ao tiro e iniciar a corrida, 
 seus primeiros 30 metros foram os mais velozes 
 já feitos em um recorde mundial, cruzando essa 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-66 
-novocadernoenem@gmail.com 
 marca em 3,78 segundos. Até se colocar com o 
 corpo reto, foram 13 passadas, mostrando sua 
 potência durante a aceleração, o momento mais 
@@ -6159,6 +6236,7 @@ Supondo que a massa desse corredor seja igual
 a 90 kg, o trabalho total realizado nas 13 primei-
 ras passadas é mais próximo de: 
  
+\
 A) 5,4×102J. 
 B) 6,5×103J. 
 C) 8,6×103J. 
@@ -6166,7 +6244,8 @@ D) 1,3×104J.
 E) 3,2×104J. 
  
  
-Questão 210 (2015.1) 
+\
+@210 (2015.1) 
 Um estudante, precisando instalar um computa-
 dor, um monitor e uma lâmpada em seu quarto, 
 verificou que precisaria fazer a instalação de 
@@ -6190,7 +6269,8 @@ cias?
  
  
  
-Questão 211 (2015.1) 
+\
+@211 (2015.1) 
 Um garoto foi à loja comprar um estilingue e 
 encontrou dois modelos: um com borracha mais 
 "dura" e outro com borracha mais "mole". O 
@@ -6208,6 +6288,7 @@ A razão entre os alcances
 , referentes aos 
 estilingues é:  
  
+\
 A) ¼ 
 B) ½ 
 C) 1 
@@ -6215,7 +6296,8 @@ D) 2
 E) 4 
  
  
-Questão 212 (2015.1) 
+\
+@212 (2015.1) 
 Uma garrafa térmica tem como função evitar a 
 troca de calor entre o líquido nela contido e o 
 ambiente, mantendo a temperatura de seu con-
@@ -6236,11 +6318,6 @@ quido na garrafa.
  
 O quadro apresenta as categorias e os interva-
 los de variação percentual da temperatura. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-67 
-novocadernoenem@gmail.com 
  
  
 Para atribuir uma categoria a um modelo de 
@@ -6255,6 +6332,7 @@ tendo-se 16ºC.
 Qual selo deveria ser posto na garrafa térmica 
 testada? 
  
+\
 A) A 
 B) B 
 C) C 
@@ -6262,7 +6340,8 @@ D) D
 E) E 
  
  
-Questão 213 (2015.1) 
+\
+@213 (2015.1) 
 Será que uma miragem ajudou a afundar o Tita-
 nic? O fenômeno ótico conhecido como Fata 
 Morgana pode fazer com que uma falsa parede 
@@ -6283,6 +6362,7 @@ calmas no escuro.
 O fenômeno ótico que, segundo os pesquisado-
 res, provoca a Fata Morgana é a: 
  
+\
 A) ressonância. 
 B) refração. 
 C) difração. 
@@ -6290,7 +6370,8 @@ D) reflexão.
 E) difusão. 
  
  
-Questão 214 (2015.1) 
+\
+@214 (2015.1) 
 As altas temperaturas de combustão e o atrito 
 entre suas peças móveis são alguns dos fatores 
 que provocam o aquecimento dos motores à 
@@ -6306,6 +6387,7 @@ Qual propriedade o fluido arrefecedor deve pos-
 suir para cumprir seu objetivo com maior efici-
 ência? 
  
+\
 A) Alto calor específico. 
 B) Alto calor latente de fusão. 
 C) Baixa condutividade térmica. 
@@ -6313,7 +6395,8 @@ D) Baixa temperatura de ebulição.
 E) Alto coeficiente de dilatação térmica. 
  
  
-Questão 215 (2015.1) 
+\
+@215 (2015.1) 
 Em um experimento, um professor levou para a 
 sala de aula um saco de arroz, um pedaço de 
 madeira triangular e uma barra de ferro cilíndri-
@@ -6330,6 +6413,7 @@ brio.
 Nessa situação, qual foi a massa da barra obti-
 da pelos alunos? 
  
+\
 A) 3,00 kg 
 B) 3,75 kg 
 C) 5,00 kg 
@@ -6337,7 +6421,8 @@ D) 6,00 kg
 E) 15,00 kg 
  
  
-Questão 216 (2015.1) 
+\
+@216 (2015.1) 
 Entre os anos de 1028 e 1038, Alhazen (Ibn al-
 Haytham; 965-1040 d.C.) escreveu sua principal 
 obra, o Livro da Óptica, que, com base em ex-
@@ -6349,16 +6434,12 @@ cos ocidentais pelos europeus. Na figura, retira-
 da dessa obra, é representada a imagem inver-
 tida de edificações em um tecido utilizado como 
 anteparo. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-68 
-novocadernoenem@gmail.com 
  
  
 Se fizermos uma analogia entre a ilustração e o 
 olho humano, o tecido corresponde ao(à): 
  
+\
 A) íris. 
 B) retina. 
 C) pupila. 
@@ -6366,12 +6447,14 @@ D) córnea.
 E) cristalino. 
  
  
-Questão 217 (2015.1) 
+\
+@217 (2015.1) 
 Ao ouvir uma flauta e um piano emitindo a 
 mesma nota musical, consegue-se diferenciar 
 esses instrumentos um do outro. Essa diferen-
 ciação se deve principalmente ao(à): 
  
+\
 A) intensidade sonora do som de cada instru-
 mento musical. 
 B) potência sonora do som emitido pelos dife-
@@ -6385,7 +6468,8 @@ E) altura do som, que possui diferentes frequên-
 cias para diferentes instrumentos musicais. 
  
  
-Questão 218 (2015.1) 
+\
+@218 (2015.1) 
  
  
 Para obter a posição de um telefone celular, a 
@@ -6402,6 +6486,7 @@ qual o número mínimo de torres necessárias
 para se localizar a posição do telefone celular 
 que originou a ligação: 
  
+\
 A) Uma. 
 B) Duas. 
 C) Três. 
@@ -6409,7 +6494,8 @@ D) Quatro.
 E) Cinco. 
  
  
-Questão 219 (2015.2) 
+\
+@219 (2015.3) 
 Em uma flauta, as notas musicais possuem 
 frequência e comprimento de onda (λ) muito 
 bem definidos.  
@@ -6429,17 +6515,14 @@ Em função do comprimento do tubo, qual o
 comprimento de onda da oscilação que forma o 
 próximo harmônico? 
  
+\
 A) L/4 
 B) L/5 
 C) L/2 
 D) L/8 
 E) 6L/8 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-69 
-novocadernoenem@gmail.com 
-Questão 220 (2015.2) 
+\
+@220 (2015.3) 
 Um eletricista projeta um circuito com três lâm-
 padas incandescentes idênticas, conectadas 
 como na figura. Deseja-se que uma delas fique 
@@ -6456,6 +6539,7 @@ Assumindo que as lâmpadas obedecem à Lei
 de Ohm, com a chave fechada, a potência for-
 necida pela bateria, em função de X é: 
  
+\
 A) 
 2
 3X 
@@ -6471,7 +6555,8 @@ D) 2X
 E) 3X 
  
  
-Questão 221 (2015.2) 
+\
+@221 (2015.3) 
 Sabe-se que nas proximidades dos polos do 
 planeta Terra é comum a formação dos ice-
 bergs, que são grandes blocos de gelo, flutuan-
@@ -6487,6 +6572,7 @@ mento do bloquinho.
  
 Com base nessa simulação, verifica-se que o 
 nível da água no recipiente: 
+\
 A) subirá com a introdução do bloquinho de gelo 
 e, após o derretimento total do gelo, esse nível 
 subirá ainda mais. 
@@ -6506,7 +6592,8 @@ seu derretimento, o nível descerá apenas 10%
 do valor inicial. 
  
  
-Questão 222 (2015.2) 
+\
+@222 (2015.3) 
 A rede elétrica de uma residência tem tensão de 
 110 V e o morador compra, por engano, uma 
 lâmpada incandescente com potência nominal 
@@ -6514,6 +6601,7 @@ de 100 W e tensão nominal de 220 V. Se essa
 lâmpada for ligada na rede de 110 V, o que 
 acontecerá? 
  
+\
 A) A lâmpada brilhará normalmente, mas como 
 a tensão é a metade da prevista, a corrente 
 elétrica será o dobro da normal, pois a potência 
@@ -6535,7 +6623,8 @@ or, ultrapassando a corrente pela qual o filamen-
 to foi projetado. 
  
  
-Questão 223 (2015.2) 
+\
+@223 (2015.3) 
 O avanço tecnológico da medicina propicia o 
 desenvolvimento de tratamento para diversas 
 doenças, como as relacionadas à visão. As 
@@ -6549,11 +6638,6 @@ fácicas (LF), são implantadas junto à córnea,
 antecedendo o cristalino (C), sem que esse 
 precise ser removido, formando a imagem cor-
 reta sobre a retina (R).  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-70 
-novocadernoenem@gmail.com 
 O comportamento de um feixe de luz incidindo 
 no olho que possui um implante de lentes fáci-
 cas para correção do problema de visão apre-
@@ -6562,7 +6646,8 @@ sentado é esquematizado por:
  
  
  
-Questão 224 (2015.2) 
+\
+@224 (2015.3) 
 Observações astronômicas indicam que no cen-
 tro de nossa galáxia, a Via Láctea, provavel-
 mente exista um buraco negro cuja massa é 
@@ -6583,6 +6668,7 @@ A partir do conhecimento do período de rotação,
 da distância média e da constante gravitacional, 
 G, a massa do buraco negro é: 
  
+\
 A) 
 4π2R2
 GT2  
@@ -6604,7 +6690,8 @@ E)
 GT2  
  
  
-Questão 225 (2015.2) 
+\
+@225 (2015.3) 
 Em altos-fornos siderúrgicos, as temperaturas 
 acima de 600°C são mensuradas por meio de 
 pirômetros óticos. Esses dispositivos apresen-
@@ -6623,6 +6710,7 @@ Acesso em: 4 ago. 2012 - adaptado)
 A propriedade da radiação eletromagnética ava-
 liada nesse processo é a: 
  
+\
 A) amplitude. 
 B) coerência. 
 C) frequência. 
@@ -6630,7 +6718,8 @@ D) intensidade.
 E) velocidade. 
  
  
-Questão 226 (2015.2) 
+\
+@226 (2015.3) 
 Num sistema de freio convencional, as rodas do 
 carro travam e os pneus derrapam no solo, caso 
 a força exercida sobre o pedal seja muito inten-
@@ -6638,11 +6727,6 @@ sa. O sistema ABS evita o travamento das ro-
 das, mantendo a força de atrito no seu valor 
 estático máximo, sem derrapagem. O coeficien-
 te de atrito estático da borracha em contato com 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-71 
-novocadernoenem@gmail.com 
 o concreto vale 𝜇e =1,0 e o coeficiente de atrito 
 cinético para o mesmo par de materiais é 
 𝜇c=0,75. Dois carros, com velocidades iniciais 
@@ -6658,6 +6742,7 @@ As distâncias, medidas a partir do ponto em que
 iniciam a frenagem, que os carros 1 (d1) e 2 (d2) 
 percorrem até parar são, respectivamente, 
  
+\
 A) d1 = 45m e d2 = 60m. 
 B) d1 = 60m e d2 = 45m. 
 C) d1 = 90m e d2 = 120m. 
@@ -6665,7 +6750,8 @@ D) d1 = 5,8x102m e d2 = 7,8x102m.
 E) d1 = 7,8x102m e d2 = 5,8x102m. 
  
  
-Questão 227 (2015.2) 
+\
+@227 (2015.3) 
 No manual de uma torneira elétrica são forneci-
 das instruções básicas de instalação para que o 
 produto funcione corretamente: 
@@ -6696,6 +6782,7 @@ o uso do redutor de pressão, quais deverão ser
 a mínima e a máxima altura entre a torneira e a 
 caixa d'água? 
  
+\
 A) 1,8 m e 3,8 m 
 B) 1,8 m e 7,5 m 
 C) 3,8 m e 7,5 m 
@@ -6703,7 +6790,8 @@ D) 18 m e 38 m
 E) 18 m e 75 m 
  
  
-Questão 228 (2015.2) 
+\
+@228 (2015.3) 
 Para irrigar sua plantação, um produtor rural 
 construiu um reservatório a 20 metros de altura 
 a partir da barragem de onde será bombeada a 
@@ -6723,6 +6811,7 @@ Qual é o volume de água, em litros, bombeado
 para o reservatório no intervalo de tempo cita-
 do? 
  
+\
 A) 150 
 B) 250 
 C) 450 
@@ -6730,7 +6819,8 @@ D) 900
 E) 1440 
  
  
-Questão 229 (2015.2) 
+\
+@229 (2015.3) 
 A fotografia feita sob luz polarizada é usada por 
 dermatologistas para diagnósticos. Isso permite 
 ver detalhes da superfície da pele que não são 
@@ -6753,17 +6843,13 @@ Considere um feixe de luz não polarizada pro-
 veniente de um meio com índice de refração 
 igual a 1, que incide sobre uma lâmina e faz um 
 ângulo de refração θr de 30°. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-72 
-novocadernoenem@gmail.com 
  
  
 Nessa situação, qual deve ser o índice de refra-
 ção da lâmina para que o feixe refletido seja 
 polarizado? 
  
+\
 A) √3 
 B) √3/3 
 C) 2 
@@ -6771,7 +6857,8 @@ D) 1/2
 E) √3/2 
  
  
-Questão 230 (2015.2) 
+\
+@230 (2015.3) 
 Durante uma aula experimental de física, os 
 estudantes construíram um sistema ressonante 
 com pêndulos simples. As características de 
@@ -6783,6 +6870,7 @@ pêndulo A para oscilar.
  
 Quais pêndulos, além desse, passaram também 
 a oscilar? 
+\
 A) 1, 2, 3, 4 e 5. 
 B) 1, 2 e 3. 
 C) 1 e 4. 
@@ -6790,7 +6878,8 @@ D) 1 e 5.
 E) 3 e 4. 
  
  
-Questão 231 (2016.1) 
+\
+@231 (2016.1) 
 Uma ambulância A em movimento retilíneo e 
 uniforme aproxima-se de um observador O, em 
 repouso. A sirene emite um som de frequência 
@@ -6808,15 +6897,11 @@ Qual esboço gráfico representa a frequência
 fo(t) detectada pelo observador? 
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-73 
-novocadernoenem@gmail.com 
  
  
  
-Questão 232 (2016.1) 
+\
+@232 (2016.1) 
 Uma pessoa é responsável pela manutenção de 
 uma sauna úmida. Todos os dias cumpre o 
 mesmo ritual: colhe folhas de capim-cidreira e 
@@ -6829,6 +6914,7 @@ matizando-a, conforme representado na figura.
 Qual processo de separação é responsável pela 
 aromatização promovida? 
  
+\
 A) Filtração simples. 
 B) Destilação simples. 
 C) Extração por arraste. 
@@ -6836,7 +6922,8 @@ D) Sublimação fracionada.
 E) Decantação sólido-líquido. 
  
  
-Questão 233 (2016.1) 
+\
+@233 (2016.1) 
 Três lâmpadas idênticas foram ligadas no circui-
 to esquematizado. A bateria apresenta resistên-
 cia interna desprezível, e os fios possuem resis-
@@ -6849,6 +6936,7 @@ IB, IC, ID e IE, respectivamente.
 O técnico concluiu que as correntes que apre-
 sentam o mesmo valor são: 
  
+\
 A) IA = IE e IC = ID. 
 B) IA = IB = IE e IC = ID. 
 C) IA = IB, apenas. 
@@ -6856,7 +6944,8 @@ D) IA = IB = IE, apenas.
 E) IC = IB, apenas. 
  
  
-Questão 234 (2016.1) 
+\
+@234 (2016.1) 
 Dois veículos que trafegam com velocidade 
 constante em uma estrada, na mesma direção e 
 sentido, devem manter entre si uma distância 
@@ -6878,17 +6967,13 @@ talmente?
  
  
   
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-74 
-novocadernoenem@gmail.com 
  
  
  
  
  
-Questão 235 (2016.1) 
+\
+@235 (2016.1) 
 O morcego emite pulsos de curta duração de 
 ondas ultrassônicas, os quais voltam na forma 
 de ecos após atingirem objetos no ambiente, 
@@ -6911,6 +6996,7 @@ A distância e velocidade da mariposa, na situa-
 um morcego por quais alterações nas caracte-
 rísticas dos pulsos ultrassônicos? 
  
+\
 A) Intensidade diminuída, o tempo de retorno 
 aumentado e a frequência percebida diminuída. 
 B) Intensidade aumentada, o tempo de retorno 
@@ -6925,7 +7011,8 @@ aumentado e a frequência percebida aumenta-
 da. 
  
  
-Questão 236 (2016.1) 
+\
+@236 (2016.1) 
 Por apresentar significativa resistividade elétri-
 ca, o grafite pode ser utilizado para simular re-
 sistores elétricos em circuitos desenhados no 
@@ -6949,11 +7036,6 @@ extremidades das resistências, são mostrados
 na figura. Verificou-se que os resistores obede-
 ciam a Lei de Ohm. 
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-75 
-novocadernoenem@gmail.com 
 Na sequência, conectou o ohmímetro nos termi-
 nais A e B do desenho e, em seguida, conectou-
 o nos terminais B e C, anotando as leituras RAB 
@@ -6964,6 +7046,7 @@ RAB
 RBC qual resultado obte-
 ve? 
  
+\
 A) 1 
 B) 4/7 
 C) 10/27 
@@ -6971,7 +7054,8 @@ D) 14/81
 E) 4/81 
  
  
-Questão 237 (2016.1) 
+\
+@237 (2016.1) 
 A magnetohipertermia é um procedimento tera-
 pêutico que se baseia na elevação da tempera-
 tura das células de uma região específica do 
@@ -6985,6 +7069,7 @@ culas e consequente aquecimento da célula.
 A elevação de temperatura descrita ocorre por-
 que: 
  
+\
 A) o campo magnético gerado pela oscilação 
 das nanopartículas é absorvido pelo tumor. 
 B) o campo magnético alternado faz as nano-
@@ -7000,7 +7085,8 @@ campo magnético, fazendo-as colidir com as
 células e transferir calor. 
  
  
-Questão 238 (2016.1) 
+\
+@238 (2016.1) 
 O trilho de ar é um dispositivo utilizado em labo-
 ratórios de física para analisar movimentos em 
 que corpos de prova (carrinhos) podem se mo-
@@ -7023,6 +7109,7 @@ quadro.
 Com base nos dados experimentais, o valor da 
 massa do carrinho 2 é igual a: 
  
+\
 A) 50,0 g. 
 B) 250,0 g. 
 C) 300,0 g. 
@@ -7030,7 +7117,8 @@ D) 450,0 g.
 E) 600,0 g. 
  
  
-Questão 239 (2016.1) 
+\
+@239 (2016.1) 
 Uma invenção que significou um grande avanço 
 tecnológico na Antiguidade, a polia composta ou 
 a associação de polias, é atribuída a Arquime-
@@ -7057,17 +7145,14 @@ praia é perfeitamente horizontal.
 O número mínimo de polias móveis usadas, 
 nessa situação, por Arquimedes foi: 
  
+\
 A) 3.  
 B) 6.  
 C) 7.  
 D) 8.  
 E) 10. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-76 
-novocadernoenem@gmail.com 
-Questão 240 (2016.1) 
+\
+@240 (2016.1) 
 Num experimento, um professor deixa duas 
 bandejas de mesma massa, uma de plástico e 
 outra de alumínio, sobre a mesa do laboratório. 
@@ -7086,6 +7171,7 @@ O aluno que responder corretamente ao questi-
 onamento do professor dirá que o derretimento 
 ocorrerá: 
  
+\
 A) mais rapidamente na bandeja de alumínio, 
 pois ela tem uma maior condutividade térmica 
 que a de plástico. 
@@ -7101,7 +7187,8 @@ plástico.
 E) com a mesma rapidez nas duas bandejas, 
 pois apresentarão a mesma variação de tempe-
 ratura. 
-Questão 241 (2016.1) 
+\
+@241 (2016.1) 
 Durante a primeira fase do projeto de uma usina 
 de geração de energia elétrica, os engenheiros 
 da equipe de avaliação de impactos ambientais 
@@ -7128,6 +7215,7 @@ Para atender essa determinação, o valor míni-
 mo do fluxo de água, em kg/s, para a refrigera-
 ção da usina deve ser mais próximo de: 
  
+\
 A) 42.  
 B) 84.  
 C) 167.  
@@ -7135,21 +7223,18 @@ D) 250.
 E) 500. 
  
  
-Questão 242 (2016.1) 
+\
+@242 (2016.1) 
 A Figura 1 apresenta o gráfico da intensidade, em decibéis (dB), da onda sonora emitida por um alto-
 falante, que está em repouso, e medida por um micro fone em função da frequência da onda para dife-
 rentes distâncias: 3 mm, 25 mm, 51 mm e 60 mm. A Figura 2 apresenta um diagrama com a indicação 
 das diversas faixas do espectro de frequência sonora para o modelo de alto-falante utilizado neste expe-
 rimento. 
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-77 
-novocadernoenem@gmail.com 
 Relacionando as informações presentes nas figuras 1 e 2, como a intensidade sonora percebida é afeta-
 da pelo aumento da distância do microfone ao alto-falante? 
  
+\
 A) Aumenta na faixa das frequências médias. 
 B) Diminui na faixa das frequências agudas. 
 C) Diminui na faixa das frequências graves. 
@@ -7157,7 +7242,8 @@ D) Aumenta na faixa das frequências médias altas.
 E) Aumenta na faixa das frequências médias baixas. 
  
  
-Questão 243 (2016.1) 
+\
+@243 (2016.1) 
 A invenção e o acoplamento entre engrenagens 
 revolucionaram a ciência na época e propicia-
 ram a invenção de vá rias tecnologias, como os 
@@ -7175,6 +7261,7 @@ está apresentado no quadro.
  
 A frequência de giro do ponteiro, em rpm, é: 
  
+\
 A) 1.  
 B) 2.  
 C) 4.  
@@ -7182,7 +7269,8 @@ D) 81.
 E) 162. 
  
  
-Questão 244 (2016.1) 
+\
+@244 (2016.1) 
 Um experimento para comprovar a natureza 
 ondulatória da radiação de micro-ondas foi rea-
 lizado da seguinte forma: anotou-se a frequên-
@@ -7203,6 +7291,7 @@ De acordo com a figura, que posições corres-
 pondem a dois pontos consecutivos da mantei-
 ga derretida? 
  
+\
 A) I e III 
 B) I e V 
 C) II e III 
@@ -7210,7 +7299,8 @@ D) II e IV
 E) II e V 
  
  
-Questão 245 (2016.2) 
+\
+@245 (2016.2) 
 O eletrocardiograma, exame utilizado para ava-
 liar o estado do coração de um paciente, trata-
 se do registro da atividade elétrica do coração 
@@ -7222,15 +7312,11 @@ condições, é considerado normal um ritmo car-
 díaco entre 60 e 100 batimentos por minuto. 
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-78 
-novocadernoenem@gmail.com 
 Com base no eletrocardiograma apresentado, 
 identifica-se que a frequência cardíaca do paci-
 ente é: 
  
+\
 A) normal. 
 B) acima do valor ideal. 
 C) abaixo do valor ideal. 
@@ -7238,7 +7324,8 @@ D) próxima do limite inferior.
 E) próxima do limite superior. 
  
  
-Questão 246 (2016.2) 
+\
+@246 (2016.2) 
 Uma lâmpada LED (diodo emissor de luz), que 
 funciona com 12V e corrente contínua de 0,45A, 
 produz a mesma quantidade de luz que uma 
@@ -7248,6 +7335,7 @@ Qual é o valor da redução da potência consumi-
 da ao se substituir a lâmpada incandescente 
 pela de LED? 
  
+\
 A) 54,6W 
 B) 27,0W 
 C) 26,6W 
@@ -7255,7 +7343,8 @@ D) 5,4W
 E) 5,0W 
  
  
-Questão 247 (2016.2) 
+\
+@247 (2016.2) 
 Nos dias frios é comum ouvir expressões como: 
 “Esta roupa é quentinha” ou então “Feche a 
 janela para o frio não entrar”.  
@@ -7269,6 +7358,7 @@ A utilização das expressões “roupa é quentinha”
 e “para o frio não entrar” é inadequada, pois 
 o(a): 
  
+\
 A) roupa absorve a temperatura do corpo da 
 pessoa, e o frio não entra pela janela, o calor é 
 que sai por ela. 
@@ -7287,7 +7377,8 @@ E) calor está contido no corpo da pessoa, e não
 na roupa, sendo uma forma de temperatura em 
 trânsito de um corpo mais quente para um corpo 
 mais frio. 
-Questão 248 (2016.2) 
+\
+@248 (2016.2) 
 Um eletricista deve instalar um chuveiro que 
 tem as especificações 220V—4400W a 6800W. 
 Para a instalação de chuveiros, recomenda-se 
@@ -7307,6 +7398,7 @@ Para fazer uma instalação segura desse chuvei-
 ro, o valor da corrente máxima do disjuntor deve 
 ser: 
  
+\
 A) 20A. 
 B) 25A. 
 C) 30A. 
@@ -7314,7 +7406,8 @@ D) 35A.
 E) 40A. 
  
  
-Questão 249 (2016.2) 
+\
+@249 (2016.2) 
 O quadro apresenta o consumo médio urbano 
 de veículos do mesmo porte que utilizam dife-
 rentes combustíveis e seus respectivos preços.  
@@ -7330,17 +7423,14 @@ Considerando somente as informações contidas
 no quadro, o combustível que apresenta o maior 
 custo por quilômetro rodado é o(a): 
  
+\
 A) diesel. 
 B) etanol. 
 C) gasolina. 
 D) eletricidade. 
 E) gás natural. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-79 
-novocadernoenem@gmail.com 
-Questão 250 (2016.2) 
+\
+@250 (2016.2) 
 As notas musicais podem ser agrupadas de 
 modo a formar um conjunto. Esse conjunto pode 
 formar uma escala musical. Dentre as diversas 
@@ -7353,6 +7443,7 @@ nota dó a mais baixa e a nota si a mais alta.
 Considerando uma mesma oitava, a nota si é a 
 que tem menor: 
  
+\
 A) amplitude. 
 B) frequência. 
 C) velocidade. 
@@ -7360,7 +7451,8 @@ D) intensidade.
 E) comprimento de onda. 
  
  
-Questão 251 (2016.2) 
+\
+@251 (2016.2) 
 Um cosmonauta russo estava a bordo da esta-
 ção espacial MIR quando um de seus rádios de 
 comunicação quebrou. Ele constatou que dois 
@@ -7373,6 +7465,7 @@ a mesma função.
 Qual foi a capacitância, medida em μF, do ca-
 pacitor utilizado pelo cosmonauta? 
  
+\
 A) 0,10 
 B) 0,50 
 C) 2,1 
@@ -7380,7 +7473,8 @@ D) 10
 E) 21 
  
  
-Questão 252 (2016.2) 
+\
+@252 (2016.2) 
 O motor de combustão interna, utilizado no 
 transporte de pessoas e cargas, é uma máquina 
 térmica cujo ciclo consiste em quatro etapas: 
@@ -7394,6 +7488,7 @@ entra em combustão por uma centelha elétrica.
 Para o motor descrito, em qual ponto do ciclo é 
 produzida a centelha elétrica? 
  
+\
 A) A 
 B) B 
 C) C 
@@ -7401,7 +7496,8 @@ D) D
 E) E 
  
  
-Questão 253 (2016.2) 
+\
+@253 (2016.2) 
 Para um salto no Grand Canyon usando motos, 
 dois paraquedistas vão utilizar uma moto cada, 
 sendo que uma delas possui massa três vezes 
@@ -7414,6 +7510,7 @@ motos e elas caem praticamente sem resistên-
 cia do ar. As motos atingem o solo simultanea-
 mente porque: 
  
+\
 A) possuem a mesma inércia. 
 B) estão sujeitas à mesma força resultante. 
 C) têm a mesma quantidade de movimento ini-
@@ -7424,7 +7521,8 @@ E) são lançadas com a mesma velocidade hori-
 zontal. 
  
  
-Questão 254 (2016.2) 
+\
+@254 (2016.2) 
 A figura mostra uma balança de braços iguais, 
 em equilíbrio, na Terra, onde foi colocada uma 
 massa m, e a indicação de uma balança de 
@@ -7438,17 +7536,14 @@ A razão das massas
 𝐌
 𝐦 é:  
  
+\
 A) 4,0. 
 B) 2,5. 
 C) 0,4. 
 D) 1,0. 
 E) 0,25. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-80 
-novocadernoenem@gmail.com 
-Questão 255 (2016.2) 
+\
+@255 (2016.2) 
 No dia 27 de junho de 2011, o asteroide 2011 
 MD, com cerca de 10 m de diâmetro, passou a 
 12 mil quilômetros do planeta Terra, uma dis-
@@ -7460,6 +7555,7 @@ trajetória do asteroide é apresentada na figura.
 A explicação física para a trajetória descrita é o 
 fato de o asteroide: 
  
+\
 A) deslocar-se em um local onde a resistência 
 do ar é nula. 
 B) deslocar-se em um ambiente onde não há 
@@ -7474,7 +7570,8 @@ direção é diferente da direção de sua velocida-
 de. 
  
  
-Questão 256 (2016.2) 
+\
+@256 (2016.2) 
 Para a instalação de um aparelho de ar-
 condicionado, é sugerido que ele seja colocado 
 na parte superior da parede do cômodo, pois a 
@@ -7488,6 +7585,7 @@ camento descendente.
 A sugestão apresentada no texto minimiza o 
 consumo de energia, porque: 
  
+\
 A) diminui a umidade do ar dentro do cômodo. 
 B) aumenta a taxa de condução térmica para 
 fora do cômodo. 
@@ -7497,7 +7595,8 @@ D) facilita a circulação das correntes de ar frio e
 quente dentro do cômodo. 
 E) diminui a taxa de emissão de calor por parte 
 do aparelho para dentro do cômodo. 
-Questão 257 (2016.2) 
+\
+@257 (2016.2) 
 Num dia em que a temperatura ambiente é de 
 37°C, uma pessoa, com essa mesma tempera-
 tura corporal, repousa à sombra. Para regular 
@@ -7513,6 +7612,7 @@ Após duas horas nessa situação, que quantida-
 de de água essa pessoa deve ingerir para repor 
 a perda pela transpiração? 
  
+\
 A) 0,8g 
 B) 0,44g 
 C) 1,30g 
@@ -7520,7 +7620,8 @@ D) 1,80g
 E) 80,0g 
  
  
-Questão 258 (2016.2) 
+\
+@258 (2016.2) 
 Nas rodovias, é comum motoristas terem a vi-
 são ofuscada ao receberem a luz refletida na 
 água empoçada no asfalto. Sabe-se que essa 
@@ -7535,18 +7636,15 @@ Quais são as lentes que solucionam o problema
 descrito? 
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-81 
-novocadernoenem@gmail.com 
-Questão 259 (2016.3) 
+\
+@259 (2016.3) 
 Um navio petroleiro é capaz de transportar mi-
 lhares de toneladas de carga. Neste caso, uma 
 grande quantidade de massa consegue flutuar. 
  
 Nesta situação, o empuxo é: 
  
+\
 A) maior que a força peso do petroleiro. 
 B) igual à força peso do petroleiro. 
 C) maior que a força peso da água deslocada. 
@@ -7555,7 +7653,8 @@ navio.
 E) igual à massa da água deslocada. 
  
  
-Questão 260 (2016.3) 
+\
+@260 (2016.3) 
 Uma família adquiriu um televisor e, no manual 
 do usuário, constavam as especificações técni-
 cas, como apresentado no quadro.  
@@ -7571,6 +7670,7 @@ Que a quantidade de energia, em joules, foi
 produzida na usina para manter o televisor em 
 stand-by? 
  
+\
 A) 2,59 MJ 
 B) 6,05 MJ 
 C) 8,64 MJ 
@@ -7578,7 +7678,8 @@ D) 117 MJ
 E) 377 MJ 
  
  
-Questão 261 (2016.3) 
+\
+@261 (2016.3) 
 A utilização de placas de aquecimento solar 
 como alternativa ao uso de energia elétrica re-
 presenta um importante mecanismo de econo-
@@ -7593,12 +7694,14 @@ dia.
  
 A área mínima da placa solar deve ser de: 
  
+\
 A) 1,0 m2. 
 B) 1,8 m2. 
 C) 2,0 m2. 
 D) 3,6 m2. 
 E) 6,0 m2. 
-Questão 262 (2016.2) 
+\
+@262 (2016.2) 
 Para reciclar um motor de potência elétrica igual 
 a 200 W, um estudante construiu um elevador e 
 verificou que ele foi capaz de erguer uma massa 
@@ -7609,6 +7712,7 @@ minuto. Considere a aceleração da gravidade
 Qual a eficiência aproximada do sistema para 
 realizar tal tarefa? 
  
+\
 A) 10% 
 B) 20% 
 C) 40% 
@@ -7616,7 +7720,8 @@ D) 50%
 E) 100% 
  
  
-Questão 263 (2016.3) 
+\
+@263 (2016.3) 
 A corrida dos 100 m rasos é uma das principais 
 provas do atletismo e qualifica o homem mais 
 rápido do mundo. Um corredor de elite foi capaz 
@@ -7626,6 +7731,7 @@ passadas. Ele iniciou a corrida com o pé direito.
 O período de oscilação do pé direito desse cor-
 redor foi mais próximo de: 
  
+\
 A) 1/10 s. 
 B) 1/4 s. 
 C) 1/2 s. 
@@ -7633,7 +7739,8 @@ D) 2 s.
 E) 4 s. 
  
  
-Questão 264 (2016.3) 
+\
+@264 (2016.3) 
 Em mídias como CDs, DVDs e blue-rays, a in-
 formação é representada na forma de bits (ze-
 ros e uns) e é fisicamente gravada e lida por 
@@ -7655,17 +7762,14 @@ Qual alteração da onda eletromagnética que
 constitui o laser permite o avanço tecnológico 
 citado no texto? 
  
+\
 A) A diminuição de sua energia. 
 B) O aumento de sua frequência. 
 C) A diminuição de sua amplitude. 
 D) O aumento de sua intensidade. 
 E) A diminuição de sua velocidade. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-82 
-novocadernoenem@gmail.com 
-Questão 265 (2016.3) 
+\
+@265 (2016.3) 
 Os raios-X utilizados para diagnósticos médicos são uma radiação ionizante. O efeito das radiações ioni-
 zantes em um indivíduo depende basicamente da dose absorvida, do tempo de exposição e da forma de 
 exposição, conforme relacionados no quadro. 
@@ -7678,6 +7782,7 @@ Para um técnico radiologista de 90kg que ficou exposto, por descuido, durante 5
 raios X, cuja potência é de 10mJ/s, a forma do sintoma apresentado, considerando que toda radiação 
 incidente foi absorvida, é: 
  
+\
 A) DL50. 
 B) cerebral. 
 C) pulmonar. 
@@ -7685,7 +7790,8 @@ D) infraclínica.
 E) reações gerais leves. 
  
  
-Questão 266 (2016.3) 
+\
+@266 (2016.3) 
 Durante a formação de uma tempestade, são observadas várias descargas elétricas, os raios, que po-
 dem ocorrer: das nuvens para o solo (descarga ascendente), do solo para as nuvens (descarga ascen-
 dente) ou entre uma nuvem e outra. As descargas ascendentes e descendentes podem ocorrer por cau-
@@ -7693,6 +7799,7 @@ sa do acúmulo de cargas elétricas positivas ou negativas, que induz uma polari
  
 Essas descargas elétricas ocorrem devido ao aumento da intensidade do(a): 
  
+\
 A) campo magnético da Terra. 
 B) corrente elétrica gerada dentro das nuvens. 
 C) resistividade elétrica do ar entre as nuvens e a superfície da Terra. 
@@ -7700,23 +7807,21 @@ D) campo elétrico entre as nuvens e a superfície da Terra.
 E) força eletromotriz induzida nas cargas acumuladas no solo. 
  
  
-Questão 267 (2016.3) 
+\
+@267 (2016.3) 
 Algumas crianças, ao brincarem de esconde-esconde, tapam os olhos com as mãos, acreditando que, 
 ao adotarem tal procedimento, não poderão ser vistas. 
  
 Essa percepção da criança contraria o conhecimento científico porque, para serem vistos, os objetos: 
  
+\
 A) refletem partículas de luz (fótons), que atingem os olhos. 
 B) geram partículas de luz (fótons), convertidas pela fonte externa. 
 C) são atingidos por partículas de luz (fótons), emitidas pelos olhos. 
 D) são atingidos por partículas de luz (fótons), que se chocam com os fótons emitidos pelos olhos. 
 E) são atingidos pelas partículas de luz (fótons), emitidas pela fonte externa e pelos olhos. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-83 
-novocadernoenem@gmail.com 
-Questão 268 (2016.3) 
+\
+@268 (2016.3) 
 Todo ano, cresce a demanda mundial de ener-
 gia com o aumento das populações e do con-
 sumo. É cada vez mais necessário buscar fon-
@@ -7734,6 +7839,7 @@ vável. Superinteressante, n. 102, 1996)
 Os recursos energéticos do tipo citado são pro-
 venientes de: 
  
+\
 A) pilhas. 
 B) usinas nucleares e hidrelétricas. 
 C) células solares e geradores eólicos. 
@@ -7741,7 +7847,8 @@ D) centrais geotérmicas e termoelétricas.
 E) usinas maremotrizes e combustíveis fósseis. 
  
  
-Questão 269 (2016.3) 
+\
+@269 (2016.3) 
 A telefonia móvel no Brasil opera com celulares 
 cuja potência média de radiação é cerca de    
 0,6 W. Por recomendação do ANSI/IEEE, foram 
@@ -7764,6 +7871,7 @@ www.ced.ufsc.br. Acesso em: 16 nov. 2011 - adp)
 Para reduzir a exposição à radiação do celular 
 de forma mais eficiente, o usuário deve utilizar: 
  
+\
 A) fones de ouvido, com aparelho na mão. 
 B) fones de ouvido, com o aparelho no bolso da 
 calça. 
@@ -7775,7 +7883,8 @@ E) o sistema viva voz, com o aparelho apoiado
 numa mesa de trabalho. 
  
  
-Questão 270 (2016.3) 
+\
+@270 (2016.3) 
 Em 26 de dezembro de 2004, um tsunami de-
 vastador, originado a partir de um terremoto na 
 costa da Indonésia, atingiu diversos países da 
@@ -7804,6 +7913,7 @@ série de ondas sucessivas, qual é o valor mais
 próximo do intervalo de tempo entre duas ondas 
 consecutivas? 
  
+\
 A) 1 min 
 B) 3,6 min 
 C) 17 min 
@@ -7811,7 +7921,8 @@ D) 60 min
 E) 216 min 
  
  
-Questão 271 (2016.3) 
+\
+@271 (2016.3) 
 O choque elétrico é uma sensação provocada 
 pela passagem de corrente elétrica pelo corpo. 
 As consequências de um choque vão desde um 
@@ -7829,6 +7940,7 @@ descarga elétrica em uma tensão de 120V.
 Qual a intensidade máxima de corrente elétrica 
 que passou pelo corpo da pessoa? 
  
+\
 A) 1,2 mA 
 B) 120 mA 
 C) 8,3 A 
@@ -7836,32 +7948,23 @@ D) 833 A
 E) 120 kA 
  
  
-Questão 272 (2016.3) 
+\
+@272 (2016.3) 
 Em um laboratório, são apresentados aos alu-
 nos uma lâmpada, com especificações técnicas 
 de 6V e 12W, e um conjunto de 4 pilhas de 1,5V 
 cada. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-84 
-novocadernoenem@gmail.com 
 Qual associação de geradores faz com que a 
 lâmpada produza maior brilho? 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-Questão 273 (2017.1) 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
+\
+@273 (2017.1) 
 Em algumas residências, cercas eletrificadas 
 são utilizadas com o objetivo de afastar possí-
 veis invasores. Uma cerca eletrificada funciona 
@@ -7878,6 +7981,7 @@ que toca a cerca eletrificada, o gerador de ten-
 são deve possuir uma resistência interna que, 
 em relação à do corpo humano, é 
  
+\
 A) praticamente nula. 
 B) aproximadamente igual. 
 C) Milhares de vezes maior. 
@@ -7885,7 +7989,8 @@ D) da ordem de 10 vezes maior.
 E) da ordem de 10 vezes menor. 
  
  
-Questão 274 (2017.1) 
+\
+@274 (2017.1) 
 Fusível é um dispositivo de proteção contra 
 corrente em circuitos. Quando a corrente que 
 passa por esse componente elétrico é maior 
@@ -7903,6 +8008,7 @@ te uma corrente nominal de 500 mA.
 Qual é o máximo valor da tensão U para que o 
 fusível não queime? 
  
+\
 A) 20 V 
 B) 40 V 
 C) 60 V 
@@ -7910,16 +8016,12 @@ D) 120 V
 E) 185 V  
  
  
-Questão 275 (2017.1) 
+\
+@275 (2017.1) 
 As centrífugas são equipamentos utilizados em 
 laboratórios, clínicas e indústrias. Seu funcio-
 namento faz uso da aceleração centrífuga obti-
 da pela rotação de um recipiente e que serve 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-85 
-novocadernoenem@gmail.com 
 para a separação de sólidos em suspensão em 
 líquidos ou de líquidos misturados entre si. 
  
@@ -7929,6 +8031,7 @@ Rio de Janeiro: Objetiva, 2005 - adaptado)
 Nesse aparelho, a separação das substâncias 
 ocorre em função: 
  
+\
 A) das diferentes densidades. 
 B) dos diferentes raios de rotação. 
 C) das diferentes Velocidades angulares. 
@@ -7938,7 +8041,8 @@ E) da diferente coesão molecular de cada subs-
 tância. 
  
  
-Questão 276 (2017.1) 
+\
+@276 (2017.1) 
 Alguns tipos de dessalinizadores usam o pro-
 cesso de osmose reversa para obtenção de 
 água potável a partir da água salgada. Nesse 
@@ -7957,6 +8061,7 @@ Para que ocorra esse processo é necessário
 que as resultantes das pressões osmótica e 
 mecânica apresentem 
  
+\
 A) mesmo sentido e mesma intensidade. 
 B) sentidos opostos e mesma intensidade. 
 C) sentidos opostos e maior intensidade da 
@@ -7967,7 +8072,8 @@ E) sentidos opostos e maior intensidade da
 pressão mecânica. 
  
  
-Questão 277 (2017.1) 
+\
+@277 (2017.1) 
 Um motorista que atende a uma chamada de 
 celular é levado à desatenção, aumentando a 
 possibilidade de acidentes ocorrerem em razão 
@@ -7985,6 +8091,7 @@ Que distância o motorista desatento percorre a
 mais do que o motorista atento, até a parada 
 total dos carros? 
  
+\
 A) 2.90 m 
 B) 14,0m 
 C) 14,5 m 
@@ -7992,7 +8099,8 @@ D) 15,0m
 E) 17,4 m 
  
  
-Questão 278 (2017.1) 
+\
+@278 (2017.1) 
 Para demonstrar o processo de transformação 
 de energia mecânica em elétrica, um estudante 
 constrói um pequeno gerador utilizando: 
@@ -8015,6 +8123,7 @@ Para dobrar o valor da tensão máxima V do
 gerador mantendo constante o valor da corrente 
 de curto i, o estudante deve dobrar o(a): 
  
+\
 A) número de espiras. 
 B) frequência de giro. 
 C) intensidade do campo magnético. 
@@ -8022,7 +8131,8 @@ D) área das espiras.
 E) diâmetro do fio. 
  
  
-Questão 279 (2017.1) 
+\
+@279 (2017.1) 
 O brinquedo pula-pula (cama elástica) é com-
 posto por uma lona circular flexível horizontal 
 presa por molas à sua borda.  
@@ -8041,15 +8151,11 @@ respectivamente.
 Esquematicamente, o esboço do gráfico da 
 energia cinética da criança em função de sua 
 posição vertical na situação descrita é: 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-86 
-novocadernoenem@gmail.com 
  
  
  
-Questão 280 (2017.1) 
+\
+@280 (2017.1) 
 No manual fornecido pelo fabricante de uma ducha elétrica de 220V é apresentado um gráfico com a 
 variação da temperatura da água em função da vazão para três condições (morno, quente e superquen-
 te). Na condição superquente, a potência dissipada é de 6500 W. Considere o calor específico da água 
@@ -8062,17 +8168,14 @@ Elevação de temperatura x Curva vazão
 Com base nas informações dadas, a potência na condição morno corresponde a que fração da potência 
 na condição superquente? 
  
+\
 A) 1/3 
 B) 1/5 
 C) 3/5 
 D) 3/8 
 E) 5/8 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-87 
-novocadernoenem@gmail.com 
-Questão 281 (2017.1) 
+\
+@281 (2017.1) 
 A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia 
 eólica e biogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na 
 forma de gás hidrogênio usado no fornecimento de energia para a rede elétrica comum e para abastecer 
@@ -8085,6 +8188,7 @@ células a combustível.
 Mesmo com ausência de Ventos por curtos períodos, essa estação continua abastecendo a cidade onde 
 está instalada, pois o(a): 
  
+\
 A) planta mista de geração de energia realiza eletrólise para enviar energia à rede de distribuição elétri-
 ca. 
 B) hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletrici-
@@ -8097,7 +8201,8 @@ E) planta mista de geração de energia é capaz de utilizar todo o calor fornec
 geração de eletricidade. 
  
  
-Questão 282 (2017.1) 
+\
+@282 (2017.1) 
 A figura a seguir mostra como é a emissão de radiação eletromagnética para cinco tipos de lâmpada: 
 haleto metálico, tungstênio, mercúrio, Xênon e LED (diodo emissor de luz). As áreas marcadas em cinza 
 são proporcionais à intensidade da energia liberada pela lâmpada. As linhas pontilhadas mostram a sen-
@@ -8106,17 +8211,13 @@ do infravermelho, respectivamente.
  
 Um arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não 
 aqueça o ambiente. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-88 
-novocadernoenem@gmail.com 
  
  
 (Disponível em: http://zeiss-campus.magnet.fsu.edu. Acesso em: 8 maio 2017 - adaptado) 
  
 Qual tipo de lâmpada melhor atende ao desejo do arquiteto? 
  
+\
 A) Haleto metálico. 
 B) Tungstênio. 
 C) Mercúrio. 
@@ -8124,7 +8225,8 @@ D) Xênon.
 E) LED. 
  
  
-Questão 283 (2017.1) 
+\
+@283 (2017.1) 
 Para se adequar às normas ambientais atuais, as construtoras precisam prever em suas obras a questão 
 do uso de materiais de modo a minimizar os impactos causados no local. Entre esses materiais está o 
 chamado concregrama ou pisograma, que é um tipo de revestimento composto por peças de concreto 
@@ -8135,13 +8237,9 @@ feito de concreto.
  
 (PONTES, K. L. F. Estudo de caso de um protótipo experimental […].  
 Disponível em: http://monografias.poli.ufrj.br. Acesso em: 9 maio 2017 - adaptado) 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-89 
-novocadernoenem@gmail.com 
 A utilização desse tipo de piso em uma obra tem o objetivo de evitar, no solo, a: 
  
+\
 A) impermeabilização. 
 B) diminuição da temperatura. 
 C) acumulação de matéria orgânica. 
@@ -8149,7 +8247,8 @@ d) alteração do PH.
 e) salinização. 
  
  
-Questão 284 (2017.1) 
+\
+@284 (2017.1) 
 O trombone de Quincke é um dispositivo experimental utilizado para demonstrar o fenômeno da Interfe-
 rência de ondas sonoras. Uma fonte emite ondas sonoras de determinada frequência na entrada do dis-
 positivo. Essas ondas se dividem pelos dois caminhos (ADC e AEC) e se encontram no ponto C, a saída 
@@ -8163,6 +8262,7 @@ interior do tubo (320 m/s), é possível determinar o valor da frequência do so
  
 O valor da frequência, em hertz, do som produzido pela fonte sonora é: 
  
+\
 A) 3200 
 B) 1600 
 C) 800 
@@ -8170,7 +8270,8 @@ D) 640
 E) 400. 
  
  
-Questão 285 (2017.1) 
+\
+@285 (2017.1) 
 Em uma colisão frontal entre dois automóveis, a força que o cinto de Segurança exerce sobre o tórax e 
 abdômen do motorista pode causar lesões graves nos órgãos internos. Pensando na segurança do seu 
 produto, um fabricante de automóveis realizou testes em cinco modelos diferentes de cinto.  
@@ -8182,15 +8283,11 @@ do boneco em função do tempo.
 Os parâmetros como massa dos bonecos, dimensões dos cintos e velocidade imediatamente antes e 
 após o impacto foram os mesmos para todos os testes. O resultado final obtido está no gráfico, a seguir, 
 de aceleração por tempo. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-90 
-novocadernoenem@gmail.com 
  
  
 Qual modelo de cinto oferece menor risco de lesão interna ao motorista? 
  
+\
 A) 1 
 B) 2 
 C) 3 
@@ -8198,7 +8295,8 @@ D) 4
 E) 5 
  
  
-Questão 286 (2017.1) 
+\
+@286 (2017.1) 
 Em uma linha de transmissão de informações por fibra óptica, quando um sinal diminui sua intensidade 
 para valores inferiores a 10dB, este precisa ser retransmitido. No entanto, intensidades superiores a 
 100dB não podem ser transmitidas adequadamente. A figura apresenta como se dá a perda de sinal 
@@ -8211,17 +8309,14 @@ para valores inferiores a 10dB, este precisa ser retransmitido. No entanto, inte
 Qual é a máxima distância, em km, que um sinal pode ser enviado nessa fibra sem ser necessária uma 
 retransmissão? 
  
+\
 A) 6 
 B) 18 
 C) 60 
 D) 90 
 E) 100 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-91 
-novocadernoenem@gmail.com 
-Questão 287 (2017.1) 
+\
+@287 (2017.1) 
 Dispositivos eletrônicos que utilizam materiais de baixo custo, como polímeros semicondutores, têm sido 
 desenvolvidos para monitorar a concentração de amônia (gás tóxico e incolor) em granjas avícolas. A 
 polianilina é um polímero semicondutor que tem o valor de sua resistência elétrica nominal quadruplicado 
@@ -8233,6 +8328,7 @@ como um resistor ôhmico e a sua resposta elétrica é mostrada no gráfico.
 O valor da resistência elétrica da polianilina na presença de altas concentrações de amônia, em ohm, é 
 igual a: 
  
+\
 A) 0,5 x 100. 
 B) 2,0 x 100. 
 C) 2,5 x 105. 
@@ -8240,7 +8336,8 @@ D) 5,0 x 105.
 E) 2,0 x 106. 
  
  
-Questão 288 (2017.2) 
+\
+@288 (2017.3) 
  
  
  
@@ -8249,17 +8346,14 @@ Questão 288 (2017.2)
 A faixa espectral da radiação solar que contribui fortemente para o efeito mostrado na tirinha é caracteri-
 zada como: 
  
+\
 A) Visível. 
 B) amarela. 
 C) vermelha. 
 D) ultravioleta. 
 E) infravermelha. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-92 
-novocadernoenem@gmail.com 
-Questão 289 (2017.2) 
+\
+@289 (2017.3) 
 Ao sintonizar uma estação de rádio AM, o ouvin-
 te está selecionando apenas uma dentre as 
 inúmeras ondas que chegam à antena receptora 
@@ -8272,6 +8366,7 @@ paga.
 O fenômeno físico abordado no texto é depen-
 dente de qual característica da onda? 
  
+\
 A) Amplitude. 
 B) Polarização. 
 C) Frequência. 
@@ -8279,7 +8374,8 @@ D) Intensidade.
 E) Velocidade. 
  
  
-Questão 290 (2017.2) 
+\
+@290 (2017.3) 
 Sabe-se que a posição em que o Sol nasce ou 
 se põe no horizonte muda de acordo com a 
 estação do ano.  
@@ -8292,6 +8388,7 @@ O fenômeno descrito deve-se à combinação de
 dois fatores: a inclinação do eixo de rotação 
 terrestre e a 
  
+\
 A) precessão do periélio terrestre. 
 B) translação da Terra em torno do Sol. 
 C) nutação do eixo de rotação da Terra. 
@@ -8300,7 +8397,8 @@ E) rotação da Terra em torno de seu próprio
 eixo. 
  
  
-Questão 291 (2017.2) 
+\
+@291 (2017.3) 
 A capacidade de uma bateria com acumulado-
 res, tal como a usada no sistema elétrico de um 
 automóvel, é especificada em Ampére-hora 
@@ -8315,17 +8413,20 @@ igual a 600 W, fosse conectado aos terminais da
 bateria descrita, quanto tempo ele levaria para 
 recarregá-la completamente? 
  
+\
 A) 0.5 h 
 B) 2 h 
 C) 12 h 
 D) 50 h 
 E) 100 h 
-Questão 292 (2017.2) 
+\
+@292 (2017.3) 
 Um estudante construiu um densímetro, es-
 quematizado na figura, utilizando um canudinho 
 e massa de modelar. O instrumento foi calibrado 
 com duas marcas de flutuação, utilizando água 
-(marca A) e etanol (marca B) como referências. 
+***(marca \
+A) e etanol (marca B) como referências. 
  
  
 Em seguida o densímetro foi usado para avaliar 
@@ -8336,6 +8437,7 @@ comercial (92,8 °GL).
 Que amostra apresentará marca de flutuação 
 entre os limites A e B? 
  
+\
 A) Vinagre. 
 B) Gasolina. 
 C) Leite integral. 
@@ -8343,7 +8445,8 @@ D) Soro fisiológico.
 E) Álcool comercial. 
  
  
-Questão 293 (2017.2) 
+\
+@293 (2017.3) 
 As lâmpadas econômicas transformam 80% da 
 energia elétrica consumida em luz e dissipam os 
 20% restantes em forma de calor. Já as incan-
@@ -8360,17 +8463,14 @@ nosidade, deixa-se de transferir para o ambien-
 te, a cada segundo, uma quantidade de calor, 
 em joule, igual a: 
  
+\
 A) 3. 
 B) 12. 
 C) 15. 
 D) 45. 
 E) 48. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-93 
-novocadernoenem@gmail.com 
-Questão 294 (2017.2) 
+\
+@294 (2017.3) 
 Uma lâmpada é conectada a duas pilhas de 
 tensão nominal 1,5 V, ligadas em série. Um 
 voltímetro, utilizado para medir a diferença de 
@@ -8381,6 +8481,7 @@ no circuito é de 94,2 mA.
 O valor da resistência interna das pilhas é mais 
 próximo de: 
  
+\
 A) 0,021 Ω 
 B) 0,22 Ω 
 C) 0,26 Ω 
@@ -8388,7 +8489,8 @@ D) 2,3 Ω
 E) 29 Ω 
  
  
-Questão 295 (2017.2) 
+\
+@295 (2017.3) 
 O aproveitamento da luz solar como fonte de 
 energia renovável tem aumentado significativa-
 mente nos últimos anos. Uma das aplicações é 
@@ -8402,6 +8504,7 @@ do calor específico da água é igual 4,2 kJ/(kg
 Nessa situação, em quanto tempo é possível 
 aquecer 1 litro de água de 20 °C até 70 °C? 
  
+\
 A) 490 s 
 B) 2800 s 
 C) 6300 s 
@@ -8409,7 +8512,8 @@ D) 7000 s
 E) 9800 s 
  
  
-Questão 296 (2017.2) 
+\
+@296 (2017.3) 
 A aquisição de um telescópio deve levar em 
 consideração diversos fatores, entre os quais 
 estão o aumento angular, a resolução ou poder 
@@ -8439,6 +8543,7 @@ imagem nítida. Para melhorar a qualidade dessa
 observação, os valores de D, F1, e F2 devem 
 ser, respectivamente, 
  
+\
 A) aumentado, aumentado e diminuído. 
 B) aumentado, diminuído e aumentado. 
 C) aumentado, diminuído e diminuído. 
@@ -8446,7 +8551,8 @@ D) diminuído, aumentado e aumentado.
 E) diminuído, aumentado e diminuído. 
  
  
-Questão 297 (2017.2) 
+\
+@297 (2017.3) 
 As especificações de um chuveiro elétrico são: 
 potência de 4000 W, consumo máximo mensal 
 de 21,6 kWh e vazão máxima de 3 L/min. Em 
@@ -8459,6 +8565,7 @@ dade é igual a 1 kg/L.
 A variação da temperatura da água usada nes-
 ses banhos foi mais próxima de 
  
+\
 A) 16 °C. 
 B) 19 °C. 
 C) 37 °C. 
@@ -8466,7 +8573,8 @@ D) 57 °C.
 E) 60 °C. 
  
  
-Questão 298 (2017.2) 
+\
+@298 (2017.3) 
 Um longo trecho retilíneo de um rio tem um 
 afluente perpendicular em sua margem esquer-
 da, conforme mostra a figura.  
@@ -8486,24 +8594,15 @@ potência.
  
 Pelas condições descritas, a trajetória que re-
 presenta o movimento seguido pelo barco é: 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
  
-94 
-novocadernoenem@gmail.com 
- 
- 
-              
- 
- 
- 
- 
-   
- 
- 
- 
- 
-Questão 299 (2017.2) 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
+\
+@299 (2017.3) 
 O debate a respeito da natureza da luz perdurou por séculos, oscilando entre a teoria corpuscular e a 
 teoria ondulatória. No início do século XIX, Thomas Young, com a finalidade de auxiliar na discussão, 
 realizou o experimento apresentado de forma simplificada na figura. Nele, um feixe de luz monocromáti-
@@ -8519,18 +8618,15 @@ Revista Brasileira de Ensino de Física, n. 1, 2007 - adaptado)
 Com esse experimento, Young forneceu fortes argumentos para uma interpretação a respeito da nature-
 za da luz, baseada em uma teoria: 
  
+\
 A) corpuscular, justificada pelo fato de, no experimento, a luz sofrer dispersão e refração. 
 B) corpuscular, justificada pelo fato de, no experimento, a luz sofrer dispersão e reflexão. 
 C) ondulatória, justificada pelo fato de, no experimento, a luz sofrer difração e polarização. 
 D) ondulatória, justificada pelo fato de, no experimento, a luz sofrer interferência e reflexão. 
 E) ondulatória, justificada pelo fato de, no experimento, a luz sofrer difração e interferência. 
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-95 
-novocadernoenem@gmail.com 
-Questão 300 (2017.2) 
+\
+@300 (2017.3) 
 Rudolf Diesel patenteou um motor a combustão interna de elevada eficiência, cujo ciclo está esquemati-
 zado no diagrama pressão x volume. O ciclo Diesel é composto por quatro etapas, duas das quais são 
 transformações adiabáticas. O motor de Diesel é caracterizado pela compressão de ar apenas, com a 
@@ -8540,6 +8636,7 @@ injeção do combustível no final.
  
 No ciclo Diesel, o calor é absorvido em: 
  
+\
 A) A → B e C → D, pois em ambos ocorre realização de trabalho. 
 B) A → B e B → C, pois em ambos ocorre elevação da temperatura. 
 C) C → D, pois representa uma expansão adiabática e o sistema realiza trabalho. 
@@ -8548,7 +8645,8 @@ E) B → C, pois representa expansão isobárica em que o sistema realiza trabal
 eleva. 
  
  
-Questão 301 (2017.2) 
+\
+@301 (2017.3) 
 A figura mostra a bateria de um computador portátil, a qual necessita de uma corrente elétrica de 2 A 
 para funcionar corretamente. 
  
@@ -8557,17 +8655,14 @@ para funcionar corretamente.
 Quando a bateria está completamente carregada, o tempo máximo, em minuto, que esse notebook pode 
 ser usado antes que ela "descarregue" completamente é 
  
+\
 A) 24,4. 
 B) 36,7. 
 C) 132. 
 D) 333. 
 E) 528. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-96 
-novocadernoenem@gmail.com 
-Questão 302 (2017.2) 
+\
+@302 (2017.3) 
 O osciloscópio é um instrumento que permite observar uma diferença de potencial (ddp) em um circuito 
 elétrico em função do tempo ou em função de outra ddp. A leitura do sinal é feita em uma tela sob a for-
 ma de um gráfico tensão x tempo. 
@@ -8578,6 +8673,7 @@ ma de um gráfico tensão x tempo.
  
 A frequência de oscilação do circuito elétrico estudado é mais próxima de: 
  
+\
 A) 300 Hz. 
 B) 250 Hz. 
 C) 200 Hz. 
@@ -8585,7 +8681,8 @@ D) 150 Hz.
 E) 125 Hz. 
  
  
-Questão 303 (2018.1) 
+\
+@303 (2018.1) 
 As pessoas que utilizam objetos cujo princípio de funcionamento é o mesmo do das alavancas aplicam 
 uma força, chamada de força potente, em um dado ponto da barra, para superar ou equilibrar uma se-
 gunda força, chamada de resistente, em outro ponto da barra. Por causa das diferentes distâncias entre 
@@ -8596,17 +8693,14 @@ mostra alguns exemplos desses objetos.
  
 Em qual dos objetos a força potente é maior que a força resistente? 
  
+\
 A) Pinça. 
 B) Alicate. 
 C) Quebra-nozes. 
 D) Carrinho de mão. 
 E) Abridor de garrafa. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-97 
-novocadernoenem@gmail.com 
-Questão 304 (2018.1) 
+\
+@304 (2018.1) 
 A tecnologia de comunicação da etiqueta RFID 
 (chamada de etiqueta inteligente) é usada há 
 anos para rastrear gado, vagões de trem, baga-
@@ -8629,6 +8723,7 @@ Acesso em: 27 fev. 2012 - adaptado)
  
 A etiqueta funciona sem pilhas porque o campo: 
  
+\
 A) elétrico da onda de rádio agita elétrons da 
 bobina. 
 B) elétrico da onda de rádio cria uma tensão na 
@@ -8641,7 +8736,8 @@ E) magnético da onda de rádio diminui a resso-
 nância no interior da bobina. 
  
  
-Questão 305 (2018.1) 
+\
+@305 (2018.1) 
 O sonorizador é um dispositivo físico implantado 
 sobre a superfície de uma rodovia de modo que 
 provoque uma trepidação e ruído quando da 
@@ -8663,12 +8759,14 @@ A frequência da vibração do automóvel percebi-
 da pelo condutor durante a passagem nesse 
 sonorizador é mais próxima de: 
  
+\
 A) 8,6 hertz. 
 B) 13,5 hertz. 
 C) 375 hertz. 
 D) 1350 hertz. 
 E) 4860 hertz. 
-Questão 306 (2018.1) 
+\
+@306 (2018.1) 
 Ao pesquisar um resistor feito de um novo tipo 
 de material, um cientista observou o comporta-
 mento mostrado no gráfico tensão versus cor-
@@ -8681,25 +8779,16 @@ tensão em função da corrente é dada pela
 equação V = 10i + i2. 
  
 O gráfico da resistência elétrica (R) do resistor 
-em função da corrente (i) é: D) 
+em função da corrente (i) é:  
  
- 
- 
- 
- 
- 
- 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-98 
-novocadernoenem@gmail.com 
- 
- 
- 
- 
- 
-Questão 307 (2018.1) 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
+\
+@307 (2018.1) 
 Muitos smartphones e tablets não precisam 
 mais de teclas, uma vez que todos os coman-
 dos podem ser dados ao se pressionar a própria 
@@ -8720,12 +8809,14 @@ Qual é a resistência equivalente no circuito pro-
 vocada por um toque que fecha o circuito no 
 ponto A? 
  
+\
 A) 1,3 kΩ 
 B) 4,0 kΩ 
 C) 6,0 kΩ 
 D) 6,7 kΩ 
 E) 12,0 kΩ 
-Questão 308 (2018.1) 
+\
+@308 (2018.1) 
 Alguns peixes, como o poraquê, a enguia-
 elétrica da Amazônia, podem produzir uma cor-
 rente elétrica quando se encontram em perigo. 
@@ -8742,6 +8833,7 @@ O equipamento elétrico que tem potência similar
 àquela produzida por esse peixe em perigo é 
 o(a) 
  
+\
 A) exaustor. 
 B) computador. 
 C) aspirador de pó. 
@@ -8749,7 +8841,8 @@ D) churrasqueira elétrica.
 E) secadora de roupas. 
  
  
-Questão 309 (2018.1) 
+\
+@309 (2018.1) 
 Nos manuais de instalação de equipamentos de 
 som há o alerta aos usuários para que obser-
 vem a correta polaridade dos fios ao realizarem 
@@ -8762,17 +8855,13 @@ primeiro caso, a ligação obedece às especifica-
 ligação na qual a polaridade está invertida. 
  
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-99 
-novocadernoenem@gmail.com 
  
  
 O que ocorre com os alto-falantes E e D se fo-
 rem conectados de acordo com o segundo es-
 quema? 
  
+\
 A) O alto-falante E funciona normalmente e o D 
 entra em curto-circuito e não emite som. 
 B) O alto-falante E emite ondas sonoras com 
@@ -8791,7 +8880,8 @@ provocando o fenômeno de interferência destru-
 tiva nos pontos equidistantes aos alto-falantes. 
  
  
-Questão 310 (2018.1) 
+\
+@310 (2018.1) 
 Visando a melhoria estética de um veículo, o 
 vendedor de uma loja sugere ao consumidor 
 que ele troque as rodas de seu automóvel de 
@@ -8802,6 +8892,7 @@ roda e pneu.
 Duas consequências provocadas por essa troca 
 de aro são: 
  
+\
 A) Elevar a posição do centro de massa do veí-
 culo tornando-o mais instável e aumentar a ve-
 locidade do automóvel em relação à indicada no 
@@ -8824,7 +8915,8 @@ cidade do automóvel em relação à indicada no
 velocímetro. 
  
  
-Questão 311 (2018.1) 
+\
+@311 (2018.1) 
 Em desenhos animados é comum vermos a 
 personagem tentando impulsionar um barco 
 soprando ar contra a vela para compensar a 
@@ -8850,7 +8942,8 @@ Com os carros orientados de acordo com as
 figuras, os estudantes ligaram as ventoinhas, 
 aguardaram o fluxo de ar ficar permanente e 
 determinaram os módulos das velocidades mé-
-dias dos carros A (VA) e B (VB) para o mesmo 
+***dias dos carros A (V\
+A) e B (VB) para o mesmo 
 intervalo de tempo. 
  
  
@@ -8859,6 +8952,7 @@ A respeito das intensidades das velocidades
 médias e do sentido de movimento do carro A, 
 os estudantes observaram que: 
  
+\
 A) VA = 0; VB > 0; o carro A não se move. 
 B) 0 < VA < VB; o carro A se move para a direita. 
 C) 0 < VA < VB; o carro A se move para a es-
@@ -8866,12 +8960,9 @@ querda.
 D) 0 < VB < VA; o carro A se move para a direita. 
 E) 0 < VB < VA; o carro A se move para a es-
 querda. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-100 
-novocadernoenem@gmail.com 
-Questão 312 (2018.1) 
+
+\
+@312 (2018.1) 
 A figura representa um prisma óptico, constituído de um material transparente, cujo índice de refração é 
 crescente com a frequência da luz que sobre ele incide. Um feixe luminoso, composto por luzes verme-
 lha, azul e verde, incide na face A, emerge na face B e, após ser refletido por um espelho. Incide num 
@@ -8882,6 +8973,7 @@ filme para fotografia colorida, revelando três pontos.
 Observando os pontos luminosos revelados no filme, de baixo para cima, constatam-se as seguintes 
 cores: 
  
+\
 A) Vermelha, verde, azul. 
 B) Verde, vermelha, azul.                        
 C) Azul, verde, vermelha. 
@@ -8889,7 +8981,8 @@ D) Verde, azul, vermelha.
 E) Azul, vermelha, verde. 
  
  
-Questão 313 (2018.1) 
+\
+@313 (2018.1) 
 Muitos primatas, incluindo nós humanos, possuem visão tricromática: têm três pigmentos visuais na reti-
 na sensíveis à luz de uma determinada faixa de comprimentos de onda. Informalmente, embora os pig-
 mentos em si não possuam cor, estes são conhecidos como pigmentos “azul”, “verde” e “vermelho” e 
@@ -8903,17 +8996,14 @@ sensação de ver laranja-avermelhado. No entanto, há características genétic
 indivíduos, conhecidas coletivamente como Daltonismo, em que um ou mais pigmentos não funcionam 
 perfeitamente. 
  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-101 
-novocadernoenem@gmail.com 
+
 Caso estimulássemos a retina de um indivíduo 
 com essa característica, que não possuísse o 
 pigmento conhecido como “verde”, com as luzes 
 de 530 nm e 600 nm na mesma intensidade 
 luminosa, esse indivíduo seria incapaz de: 
  
+\
 A) Identificar o comprimento de onda do ama-
 relo, uma vez que não possui o pigmento “ver-
 de”. 
@@ -8931,7 +9021,8 @@ ambos estimulam o pigmento “vermelho” na
 mesma intensidade. 
  
  
-Questão 314 (2018.1) 
+\
+@314 (2018.1) 
 Um projetista deseja construir um brinquedo que 
 lance um pequeno cubo ao longo de um trilho 
 horizontal, e o dispositivo precisa oferecer a 
@@ -8944,6 +9035,7 @@ o atrito pode ser desprezado, conforme a figura.
 Para que a velocidade de lançamento do cubo 
 seja aumentada quatro vezes, o projetista deve: 
  
+\
 A) manter a mesma mola e aumentar duas ve-
 zes a sua deformação. 
 B) manter a mesma mola e aumentar quatro 
@@ -8956,7 +9048,8 @@ E) trocar a mola por outra de constante elástica
 quatro vezes maior e manter a deformação. 
  
  
-Questão 315 (2018.1) 
+\
+@315 (2018.1) 
 Talvez você já tenha bebido suco usando dois 
 canudinhos iguais. Entretanto, pode-se verificar 
 que, se colocar um canudo imerso no suco e 
@@ -8965,6 +9058,7 @@ outro do lado de fora do líquido, fazendo a suc-
 culdade em bebê-lo. 
 Essa dificuldade ocorre porque o(a): 
  
+\
 A) força necessária para a sucção do ar e do 
 suco simultaneamente dobra de valor 
 B) densidade do ar é menor que a do suco, 
@@ -8981,7 +9075,8 @@ mente o mesmo valor daquela que atua sobre o
 suco. 
  
  
-Questão 316 (2018.2) 
+\
+@316 (2018.3) 
 Para que se faça a reciclagem das latas de 
 alumínio são necessárias algumas ações, den-
 tre elas: 
@@ -8999,6 +9094,7 @@ tantes que contêm ferro em sua composição.
 As ações indicadas possuem em comum o fato 
 de 
  
+\
 A) exigirem o fornecimento de calor. 
 B) fazerem uso da energia luminosa. 
 C) necessitarem da ação humana direta. 
@@ -9007,7 +9103,8 @@ E) ocorrerem sob a realização de trabalho de
 uma força. 
  
  
-Questão 317 (2018.2) 
+\
+@317 (2018.3) 
 Um carrinho de brinquedo funciona por fricção. 
 A ser forçado a girar suas rodas para trás, con-
 tra uma superfície rugosa, uma mola acumula 
@@ -9020,17 +9117,15 @@ deslizar, a energia potencial elástica é converti-
 da em energia cinética pela ação da força de 
 atrito: 
  
+\
 A) dinâmico na roda, devido ao eixo. 
 B) estático na roda, devido à superfície rugosa. 
 C) estático na superfície rugosa, devido à roda. 
 D) dinâmico na superfície rugosa, devido à roda. 
 E) dinâmico na roda, devido à superfície rugosa. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-102 
-novocadernoenem@gmail.com 
-Questão 318 (2018.2) 
+
+\
+@318 (2018.3) 
 A figura apresenta o esquema do encanamento de uma casa onde se detectou a presença de vazamen-
 to de água em um dos registros. Ao estudar o problema, o morador conclui que o vazamento está ocor-
 rendo no registro submetido à maior pressão hidrostática. 
@@ -9039,6 +9134,7 @@ rendo no registro submetido à maior pressão hidrostática.
  
 Em qual registro ocorria o vazamento? 
  
+\
 A) I 
 B) II 
 C) III 
@@ -9046,7 +9142,8 @@ D) IV
 E) V 
  
  
-Questão 319 (2018.2) 
+\
+@319 (2018.3) 
 Ao dimensionar circuitos elétricos residenciais, é recomendado utilizar adequadamente bitolas dos fios 
 condutores e disjuntores, de acordo com a intensidade de corrente elétrica demandada. Esse procedi-
 mento é recomendado para evitar acidentes na rede elétrica. No quadro é especificada a associação 
@@ -9058,17 +9155,15 @@ e a intensidade de corrente elétrica máxima suportada pelo disjuntor.
 Com base no dimensionamento do circuito residencial, em qual(is) do(s) circuito(s) o(s) equipamento(s) 
 é(estão) ligado(s) adequadamente? 
  
+\
 A) Apenas no Circuito 1. 
 B) Apenas no Circuito 2. 
 C) Apenas no Circuito 3. 
 D) Apenas nos Circuitos 1 e 2. 
 E) Apenas nos Circuitos 2 e 3. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-103 
-novocadernoenem@gmail.com 
-Questão 320 (2018.2) 
+
+\
+@320 (2018.3) 
 Duas jarras idênticas foram pintadas, uma de 
 branco e a outra de preto, e colocadas cheias 
 de água na geladeira. No dia seguinte, com a 
@@ -9083,6 +9178,7 @@ atingisse a temperatura ambiente.
 Qual jarra demorou menos tempo para chegar à 
 temperatura ambiente nessas duas situações? 
  
+\
 A) A jarra preta demorou menos tempo nas 
 duas situações. 
 B) A jarra branca demorou menos tempo nas 
@@ -9095,7 +9191,8 @@ E) A jarra branca demorou menos tempo na
 primeira situação e a preta, na segunda. 
  
  
-Questão 321 (2018.2) 
+\
+@321 (2018.3) 
 Com o avanço das multifunções dos dispositivos 
 eletrônicos portáteis, como os smartphones, o 
 gerenciamento da duração da bateria desses 
@@ -9107,6 +9204,7 @@ dade de carga fornecida pela sua bateria é de
 A quantidade de carga fornecida por essa bate-
 ria, em coulomb, é de: 
  
+\
 A) 90. 
 B) 1500. 
 C) 5400. 
@@ -9114,7 +9212,8 @@ D) 90000.
 E) 5400000. 
  
  
-Questão 322 (2018.2) 
+\
+@322 (2018.3) 
 Em uma manhã ensolarada, uma jovem vai até 
 um parque para acampar e ler. Ela monta sua 
 barraca próxima de seu carro, de uma árvore e 
@@ -9125,12 +9224,14 @@ tempestade com muitos relâmpagos.
 A melhor maneira de essa jovem se proteger 
 dos relâmpagos é: 
  
+\
 A) entrar no carro. 
 B) entrar na barraca. 
 C) entrar no quiosque. 
 D) abrir um guarda-chuva. 
 E) ficar embaixo da árvore. 
-Questão 323 (2018.2) 
+\
+@323 (2018.3) 
 O princípio básico de produção de imagens em 
 equipamentos de ultrassonografia é a produção 
 de ecos. O princípio pulso-eco refere-se à emis-
@@ -9158,6 +9259,7 @@ eco. Física na Escola, n. 1, 2012 - adaptado)
 Em uma imagem de ultrassom, as estruturas 
 mais facilmente diferenciáveis são: 
  
+\
 A) osso e gordura. 
 B) cérebro e osso. 
 C) gordura e cérebro. 
@@ -9165,7 +9267,8 @@ D) músculo e cérebro.
 E) gordura e músculo. 
  
  
-Questão 324 (2018.2) 
+\
+@324 (2018.3) 
 Baterias de lítio, utilizadas em dispositivos ele-
 trônicos portáteis, são constituídas de células 
 individuais com ddp de 3,6 V. É comum os fa-
@@ -9183,14 +9286,11 @@ Dentre as baterias de 10,8 V e 14,4 V, constituí-
 das por 12 células individuais, qual possui maior 
 capacidade de carga? 
  
+\
 A) A bateria de 10,8 V, porque possui combina-
 ções em paralelo de 4 conjuntos com 3 células 
 em série. 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-104 
-novocadernoenem@gmail.com 
+
 B) A bateria de 14,4 V, porque possui combina-
 ções em paralelo de 3 conjuntos com 4 células 
 em série. 
@@ -9205,7 +9305,8 @@ E) A bateria de 10,8 V, porque possui combina-
 série. 
  
  
-Questão 325 (2018.2) 
+\
+@325 (2018.3) 
 Com um dedo, um garoto pressiona contra a 
 parede duas moedas, de R$ 0,10 e R$ 1,00, 
 uma sobre a outra, mantendo-as paradas. Em 
@@ -9218,6 +9319,7 @@ suficiente para impedir que as moedas caiam.
 Qual é a força de atrito entre a parede e a moe-
 da de R$ 1,00? 
  
+\
 A) 0,04 N 
 B) 0,05 N 
 C) 0,07 N 
@@ -9225,7 +9327,8 @@ D) 0,09 N
 E) 0,14 N 
  
  
-Questão 326 (2018.2) 
+\
+@326 (2018.3) 
 Um piloto testa um carro em uma reta longa de 
 um autódromo. A posição do carro nessa reta, 
 em função do tempo, está representada no grá-
@@ -9236,12 +9339,14 @@ fico.
 Os pontos em que a velocidade do carro é me-
 nor e maior são, respectivamente, 
  
+\
 A) K e M. 
 B) N e K. 
 C) M e L. 
 D) N e L. 
 E) N e M. 
-Questão 327 (2018.2) 
+\
+@327 (2018.3) 
 Ao soltar um martelo e uma pena na Lua em 
 1973 o astronauta David Scott confirmou que 
 ambos atingiram juntos a superfície. O cientista 
@@ -9260,6 +9365,7 @@ martelo de 1,32 kg e uma pena de 30 g. Durante
 a queda no vácuo, esses objetos apresentam 
 iguais: 
  
+\
 A) inércias. 
 B) impulsos. 
 C) trabalhos. 
@@ -9267,7 +9373,8 @@ D) acelerações.
 E) energias potenciais. 
  
  
-Questão 328 (2018.2) 
+\
+@328 (2018.3) 
 Alguns modelos mais modernos de fones de 
 ouvido contam com uma fonte de energia elétri-
 ca para poderem funcionar. Esses novos fones 
@@ -9283,6 +9390,7 @@ bem determinadas.
 Quais são as características do sinal gerado 
 pelo circuito desse tipo de fone de ouvido? 
  
+\
 A) Sinal com mesma amplitude, mesma fre-
 quência e diferença de fase igual a 90° em rela-
 ção ao sinal externo. 
@@ -9299,16 +9407,13 @@ E) Sinal com mesma amplitude, mesma fre-
 quência e mesma fase do sinal externo. 
  
  
-Questão 329 (2018.2) 
+\
+@329 (2018.3) 
 Para preparar uma sopa instantânea, uma pes-
 soa aquece em um forno micro-ondas 500 g de 
 água em uma tigela de vidro de 300 g. A tempe-
 ratura inicial da tigela e da água era de 6°C.  
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-105 
-novocadernoenem@gmail.com 
+
 Com o forno de micro-ondas funcionando a uma potência de 800 W, a tigela e a água atingiram a tempe-
 ratura de 40°C em 2,5 min. Considere que os calores específicos do vidro e da sopa são, respectivamen-
 te, 0,2 cal/g°∙C e 1,0 cal/g°∙C, e que 1 cal = 4,2 J. 
@@ -9316,704 +9421,10 @@ te, 0,2 cal/g°∙C e 1,0 cal/g°∙C, e que 1 cal = 4,2 J.
 Que percentual aproximado da potência usada pelo micro-ondas é efetivamente convertido em calor 
 para o aquecimento? 
  
+\
 A) 11,8% 
 B) 45,0% 
 C) 57,1% 
 D) 66,7% 
 E) 78,4% 
- 
-GABARITO 
- 
-1 
-B 
-2 
-C 
-3 
-B 
-4 
-D 
-5 
-D 
-6 
-E 
-7 
-C 
-8 
-D 
-9 
-E 
-10 
-E 
-11 
-E 
-12 
-C 
-13 
-E 
-14 
-D 
-15 
-E 
-16 
-B 
-17 
-E 
-18 
-E 
-19 
-E 
-20 
-D 
-21 
-E 
-22 
-D 
-23 
-A 
-24 
-D 
-25 
-D 
-26 
-E 
-27 
-A 
-28 
-D 
-29 
-D 
-30 
-B 
-31 
-B 
-32 
-B 
-33 
-C 
-34 
-D 
-35 
-C 
-36 
-A 
-37 
-A 
-38 
-D 
-39 
-C 
-40 
-C 
-41 
-D 
-42 
-B 
-43 
-A 
-44 
-C 
-45 
-A 
-46 
-C 
-47 
-E 
-48 
-C 
-49 
-A 
-50 
-D 
-51 
-D 
-52 
-B 
-53 
-E 
-54 
-B 
-55 
-A 
-56 
-E 
-57 
-D 
-58 
-D 
-59 
-A 
-60 
-C 
-61 
-C 
-62 
-E 
-63 
-E 
-64 
-E 
-65 
-D 
-66 
-C 
-67 
-E 
-68 
-C 
-69 
-E 
-70 
-B 
-71 
-B 
-72 
-E 
-73 
-D 
-74 
-C 
-75 
-A 
-76 
-E 
-77 
-C 
-78 
-E 
-79 
-D 
-80 
-B 
-81 
-D 
-82 
-D 
-83 
-B 
-84 
-A 
-85 
-C 
-86 
-A 
-87 
-C 
-88 
-B 
-89 
-B 
-90 
-E 
-91 
-C 
-92 
-D 
-93 
-A 
-94 
-D 
-95 
-C 
-96 
-A 
-97 
-C 
-98 
-E 
-99 
-A 
-100 
-E 
-101 
-B 
-102 
-D 
-103 
-C 
-104 
-C 
-105 
-E 
-106 
-C 
-107 
-C 
-108 
-E 
-109 
-A 
-110 
-D 
-111 
-A 
-112 
-B 
-113 
-B 
-114 
-D 
-115 
-C 
-116 
-C 
-117 
-E 
-118 
-B 
-119 
-B 
-120 
-C 
-121 
-C 
-122 
-D 
-123 
-D 
-124 
-E 
-125 
-D 
-126 
-E 
-127 
-E 
-128 
-A 
-129 
-A 
-130 
-B 
-131 
-E 
-132 
-E 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-106 
-novocadernoenem@gmail.com 
-133 
-A 
-134 
-C 
-135 
-C 
-136 
-A 
-137 
-E 
-138 
-E 
-139 
-C 
-140 
-D 
-141 
-A 
-142 
-D 
-143 
-A 
-144 
-B 
-145 
-C 
-146 
-B 
-147 
-E 
-148 
-D 
-149 
-B 
-150 
-B 
-151 
-B 
-152 
-D 
-153 
-B 
-154 
-E 
-155 
-E 
-156 
-E 
-157 
-B 
-158 
-D 
-159 
-B 
-160 
-D 
-161 
-E 
-162 
-C 
-163 
-A 
-164 
-D 
-165 
-C 
-166 
-C 
-167 
-E 
-168 
-C 
-169 
-A 
-170 
-B 
-171 
-E 
-172 
-C 
-173 
-A 
-174 
-A 
-175 
-E 
-176 
-A 
-177 
-C 
-178 
-A 
-179 
-D 
-180 
-B 
-181 
-A 
-182 
-B 
-183 
-C 
-184 
-D 
-185 
-A 
-186 
-B 
-187 
-E 
-188 
-B 
-189 
-E 
-190 
-E 
-191 
-A 
-192 
-B 
-193 
-E 
-194 
-A 
-195 
-B 
-196 
-C 
-197 
-E 
-198 
-B 
-199 
-E 
-200 
-C 
-201 
-C 
-202 
-B 
-203 
-C 
-204 
-D 
-205 
-A 
-206 
-B 
-207 
-C 
-208 
-D 
-209 
-B 
-210 
-E 
-211 
-B 
-212 
-D 
-213 
-B 
-214 
-A 
-215 
-E 
-216 
-B 
-217 
-D 
-218 
-C 
-219 
-C 
-220 
-C 
-221 
-C 
-222 
-D 
-223 
-B 
-224 
-D 
-225 
-C 
-226 
-A 
-227 
-A 
-228 
-D 
-229 
-A 
-230 
-D 
-231 
-D 
-232 
-C 
-233 
-A 
-234 
-D 
-235 
-A 
-236 
-B 
-237 
-B 
-238 
-C 
-239 
-B 
-240 
-A 
-241 
-C 
-242 
-C 
-243 
-B 
-244 
-A 
-245 
-C 
-246 
-A 
-247 
-D 
-248 
-D 
-249 
-B 
-250 
-E 
-251 
-C 
-252 
-C 
-253 
-D 
-254 
-B 
-255 
-E 
-256 
-D 
-257 
-E 
-258 
-A 
-259 
-B 
-260 
-C 
-261 
-D 
-262 
-B 
-263 
-C 
-264 
-B 
-265 
-E 
-266 
-D 
-267 
-A 
-268 
-C 
-269 
-E 
-270 
-C 
-271 
-B 
-272 
-C 
-273 
-C 
-274 
-D 
-275 
-A 
-276 
-E 
-277 
-E 
-278 
-A 
-279 
-C 
-280 
-D 
-281 
-B 
-282 
-E 
-283 
-A 
-284 
-C 
-285 
-B 
-286 
-D 
-287 
-E 
-288 
-D 
-289 
-C 
-290 
-B 
-291 
-B 
-292 
-E 
-293 
-D 
-294 
-D 
-295 
-D 
-296 
-A 
-297 
-B 
-298 
-D 
-299 
-E 
-300 
-E 
-301 
-C 
-302 
-E 
-303 
-A 
-304 
-C 
-305 
-C 
-306 
-D 
-307 
-C 
-308 
-D 
-309 
-E 
-310 
-A 
-311 
-B 
-312 
-A 
-CADERNO FÍSICA 
-ENEM 2009 a 2018 
- 
-107 
-novocadernoenem@gmail.com 
-313 
-E 
-314 
-B 
-315 
-E 
-316 
-E 
-317 
-B 
-318 
-B 
-319 
-E 
-320 
-A 
-321 
-C 
-322 
-A 
-323 
-A 
-324 
-A 
-325 
-E 
-326 
-C 
-327 
-D 
-328 
-B 
-329 
-D 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
+\

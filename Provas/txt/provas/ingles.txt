@@ -1,40 +1,26 @@
-ENEM 2009.1 - Prova Anulada 2009 
-ENEM 2009.2 - Prova Oficial 2009 
-ENEM 2009.3 - Prova Unidades Prisionais 2009 
- 
-ENEM 2010.1 - Prova Oficial 2010 
-ENEM 2010.2 - Prova Unidades Prisionais 2010 
- 
-ENEM 2011.1 - Prova Oficial 2011 
-ENEM 2011.2 - Prova Unidades Prisionais 2011 
- 
-ENEM 2012.1 - Prova Oficial 2012 
-ENEM 2012.2 - Prova Unidades Prisionais 2012 
- 
-ENEM 2013.1 - Prova Oficial 2013 
-ENEM 2013.2 - Prova Unidades Prisionais 2013 
- 
-ENEM 2014.1 - Prova Oficial 2014 (1ª Aplicação) 
-ENEM 2014.2 - Prova Unidades Prisionais 2014 
-ENEM 2014.3 - Prova Oficial 2014 (2ª Aplicação) 
- 
-ENEM 2015.1 - Prova Oficial 2015 
-ENEM 2015.2 - Prova Unidades Prisionais 2015 
- 
-ENEM 2016.1 - Prova Oficial 2016 (1ª Aplicação) 
-ENEM 2016.2 - Prova Oficial 2016 (2ª Aplicação) 
-ENEM 2016.3 - Prova Unidades Prisionais 2016 
- 
-ENEM 2017.1 - Prova Oficial 2017 
-ENEM 2017.2 - Prova Unidades Prisionais 2017 
- 
-ENEM 2018.1 - Prova Oficial 2018 
-ENEM 2018.2 - Prova Unidades Prisionais 2018 
-INGLES 
- 
-1 
-novocadernoenem@gmail.com 
-Questão 01 (2010.1) 
+
+|ENEM;2010;1;Prova Oficial 2010 
+|ENEM;2010;3;Prova Unidades Prisionais 2010 
+|ENEM;2011;1;Prova Oficial 2011 
+|ENEM;2011;3;Prova Unidades Prisionais 2011 
+|ENEM;2012;1;Prova Oficial 2012 
+|ENEM;2012;3;Prova Unidades Prisionais 2012 
+|ENEM;2013;1;Prova Oficial 2013 
+|ENEM;2013;3;Prova Unidades Prisionais 2013 
+|ENEM;2014;1;Prova Oficial 2014 (1ª Aplicação) 
+|ENEM;2014;2;Prova Oficial 2014 (2ª Aplicação) 
+|ENEM;2014;3;Prova Unidades Prisionais 2014 
+|ENEM;2015;1;Prova Oficial 2015 
+|ENEM;2015;3;Prova Unidades Prisionais 2015 
+|ENEM;2016;1;Prova Oficial 2016 (1ª Aplicação) 
+|ENEM;2016;2;Prova Oficial 2016 (2ª Aplicação) 
+|ENEM;2016;3;Prova Unidades Prisionais 2016 
+|ENEM;2017;1;Prova Oficial 2017 
+|ENEM;2017;3;Prova Unidades Prisionais 2017 
+|ENEM;2018;1;Prova Oficial 2018 
+|ENEM;2018;3;Prova Unidades Prisionais 201
+@@INGLES
+@01 (2010.1) 
  
 THE DEATH OF THE PC 
  
@@ -63,6 +49,7 @@ assunto anunciado, tem-se acesso a duas
 palavras que Bill Gates não quer que o leitor 
 conheça e que se referem:  
  
+\
 A) aos responsáveis pela divulgação desta 
 informação na internet.  
 B) 
@@ -78,9 +65,8 @@ D) aos sites da internet pelos quais o produto já
 pode ser conhecido.  
 E) às empresas que levam vantagem para 
 serem suas concorrentes. 
- 
-______________________________________ 
-Questão 02 (2010.1) 
+\
+@02 (2010.1) 
  
 Viva la Vida 
  
@@ -109,6 +95,7 @@ trechos ou palavras. O fragmento da canção
 Viva la vida, por exemplo, permite conhecer o 
 relato de alguém que:  
  
+\
 A) costumava ter o mundo aos seus pés e, de 
 repente, se viu sem nada.  
 B) almeja o título de rei e, por ele, tem 
@@ -119,9 +106,8 @@ D) limpava as ruas e, com seu esforço, tornou-
 se rei de seu povo.  
 E) tinha a chave para todos os castelos nos 
 quais desejava morar. 
- 
-______________________________________ 
-Questão 03 (2010.1) 
+\
+@03 (2010.1) 
  
 THE WEATHER MAN 
  
@@ -142,6 +128,7 @@ of the world.
 Ao conversar sobre a previsão do tempo, o texto 
 mostra:  
  
+\
 A) o aborrecimento do cidadão britânico ao falar 
 sobre banalidades.  
 B) a falta de ter o que falar em situações de 
@@ -154,7 +141,8 @@ E) o conflito entre diferentes ideias e opiniões
 ao se comunicar em inglês. 
  
  
-Questão 04 (2010.2) 
+\
+@04 (2010.3) 
  
 The record industry 
  
@@ -166,11 +154,6 @@ the Internet, usually free of charge.
  
 And yet its not all gloom and doom. Some labels 
 are in fact thriving. Putumayo World Music, for 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-2 
-novocadernoenem@gmail.com 
 example, is growing, thanks to its catalogue of 
 ethnic compilation albums, featuring work by 
 largely unknown artists from around the planet.  
@@ -190,6 +173,7 @@ as empresas enfrentaram crises.
 Entre as causas, o texto da revista Speak Up 
 aponta: 
  
+\
 A) o baixo interesse dos jovens por alguns 
 gêneros musicais. 
 B) o acesso a músicas, geralmente sem custo, 
@@ -210,16 +194,17 @@ desconhecidos.
  
  
  
-Questão 05 (2010.1) 
+\
+@05 (2010.1) 
 MILLENIUM GOALS 
- 
- 
+\L 
  
 Definidas pelos países membros da Organização das Nações Unidas e por organizações internacionais, 
 as metas de desenvolvimento do milênio envolvem oito objetivos a serem alcançados até 2015. Apesar 
 da diversidade cultural, esses objetivos, mostrados na imagem, são comuns ao mundo todo, sendo dois 
 deles:  
  
+\
 A) O combate à AIDS e a melhoria do ensino universitário.  
 B) A redução da mortalidade adulta e a criação de parcerias globais.  
 C) A promoção da igualdade de gêneros e a erradicação da pobreza.  
@@ -228,7 +213,8 @@ E) A garantia da sustentabilidade ambiental e combate ao trabalho infantil
  
  
  
-Questão 06 (2010.1) 
+\
+@06 (2010.1) 
 The six-year molars 
  
 The six-year molars are the first permanent teeth. They are the “keystone” of the dental arch. They are 
@@ -241,14 +227,10 @@ The early loss of one of these molars causes serious problems in childhood and a
 for parents to make kids take care of their teeth. Even so, parents have to insist and never give up. 
  
 (Módulo do Ensino Integrado: Fundamental, médio, Profissional – DCL) 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-3 
-novocadernoenem@gmail.com 
 O texto aborda uma temática inerente ao processo de desenvolvimento do ser humano, a dentição. Há 
 informação quantificada na mensagem quando se diz que as cáries dos dentes mencionados: 
  
+\
 A) acontecem em mais de 25% das crianças entre seis e sete anos. 
 B) ocorrem em menos de 25% das crianças entre seis e sete anos. 
 C) surgem em uma pequena minoria das crianças. 
@@ -256,14 +238,15 @@ D) começam em crianças acima dos 7 anos.
 E) podem levar dezenas de anos para ocorrer. 
  
  
-Questão 07 (2010.1) 
- 
- 
+\
+@07 (2010.1) 
+\L 
  
 Os cartões-postais costumam ser utilizados por viajantes que desejam enviar notícias dos lugares que 
 visitam a parentes e amigos. Publicado no site do projeto ANDRILL, o texto em formato de cartão-postal 
 tem o propósito de:  
   
+\
 A) comunicar o endereço da nova sede do projeto nos Estados Unidos  
 B) convidar colecionadores de cartões postais a se reunirem em um evento.  
 C) anunciar uma nova coleção de selos para angariar fundos para a Antártica.  
@@ -271,7 +254,8 @@ D) divulgar às pessoas a possibilidade de receberem um cartão-postal da Antár
 E) solicitar que as pessoas visitem o site do mencionado projeto com maior frequência. 
  
  
-Questão 08 (2010.2) 
+\
+@08 (2010.3) 
 Hip hop music Hip hop music Hip hop music is a 
 musical genre which developed as part of hip 
 hop culture, and is defined by key stylistic 
@@ -302,22 +286,12 @@ surrounding their communities.
 (Disponível em: http://en.wikipedia.org.  
 Acesso em: 8 jul. 2010 - fragmento) 
  
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-4 
-novocadernoenem@gmail.com 
-Sendo 
-a 
-música 
-uma 
-das 
-formas 
-de 
+Sendo a música uma das formas de 
 manifestação cultural de um país, o rap 
 brasileiro, a partir das informações do texto, tem 
 sido caracterizado: 
  
+\
 A) pela influência internacional nos nomes de 
 bandas e de músicas. 
 B) como instrumento de reflexão crítica do 
@@ -330,7 +304,8 @@ E) pela criatividade dos primeiros adeptos do
 gênero hip hop. 
  
  
-Questão 09 (2010.2) 
+\
+@09 (2010.3) 
  
 Crystal Ball Crystal Ball 
  
@@ -357,6 +332,7 @@ Na letra da música Crystal Ball, essa situação
 fica evidente quando é revelado à pessoa que 
 ela: 
  
+\
 A) recebeu uma boa notícia. 
 B) ganhou um colar de pedras. 
 C) se sujou durante o almoço. 
@@ -364,7 +340,8 @@ D) comprou vestidos novos.
 E) encontrou uma moeda. 
  
  
-Questão 10 (2011.1) 
+\
+@10 (2011.1) 
 Going to university seems to reduce the risk of 
 dying from coronary heart disease. An American 
 study that involved 10 000 patients from around 
@@ -379,6 +356,7 @@ Em relação às pesquisas, a utilização da
 expressão university graduates evidencia a 
 intenção de informar que:  
  
+\
 A) as doenças do coração atacam dez mil 
 pacientes. 
 B) as doenças do coração ocorrem na faixa dos 
@@ -391,8 +369,9 @@ E) maior nível de estudo reduz riscos de
 ataques do coração. 
  
  
-Questão 11 (2010.2) 
- 
+\
+@11 (2010.3) 
+\L
  
  
 Os aparelhos eletrônicos contam com um 
@@ -401,6 +380,7 @@ desenho detalha os diferentes acessórios e
 características de um celular e, a julgar pela 
 maneira como os descreve, ele: 
  
+\
 A) prefere os aparelhos celulares com flip, 
 mecanismo que se dobra, estando as teclas 
 protegidas contra eventuais danos. 
@@ -420,14 +400,9 @@ comunicação se dê a qualquer instante.
 E) julga essencial a presença de editores de 
 textos nos celulares, pois ele pode concluir seus 
 trabalhos pendentes fora do escritório.  
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-5 
-novocadernoenem@gmail.com 
-Questão 12 (2011.1) 
- 
- 
+\
+@12 (2011.1) 
+\L
  
 Na fase escolar, é prática comum que os 
 professores passem atividades extraclasse e 
@@ -436,6 +411,7 @@ entregues para correção. No caso da cena da
 charge, a professora ouve uma estudante 
 apresentando argumentos para: 
  
+\
 A) discutir sobre o conteúdo do seu trabalho já 
 entregue. 
 B) elogiar o tema proposto para o relatório 
@@ -447,11 +423,10 @@ trabalho.
 E) convencer de que fez o relatório solicitado. 
  
  
-Questão 13 (2011.1) 
- 
+\
+@13 (2011.1)  
 How's your mood? 
- 
- 
+\L
  
 For an interesting attempt to measure cause and 
 effect try Mappiness, a project run by the 
@@ -482,6 +457,7 @@ O projeto Mappiness, idealizado pela London
 School of Economics, ocupa-se do tema 
 relacionado:  
  
+\
 A) ao nível de felicidade das pessoas em 
 tempos de guerra. 
 B) à dificuldade de medir o nível de felicidade 
@@ -495,7 +471,8 @@ ruas no aumento do nível de felicidade das
 pessoas. 
  
  
-Questão 14 (2011.1) 
+\
+@14 (2011.1) 
  
 War 
  
@@ -524,11 +501,6 @@ Well everywhere is war - Me say war.
 War in the east, war in the west, 
 War up north, war down south - 
 War - war - Rumors of war. 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-6 
-novocadernoenem@gmail.com 
 And until that day, the African continent will not 
 know peace. 
 We, Africans, will fight - we find it necessary - 
@@ -544,6 +516,7 @@ fãs com suas canções. Ciente de sua influência
 social na música War, o cantor se utiliza de sua 
 arte para alertar sobre: 
  
+\
 A) a inércia do continente africano diante das 
 injustiças sociais. 
 B) a persistência da guerra enquanto houver 
@@ -562,8 +535,9 @@ E) a fragilidade das diferenças raciais e sociais
 como justificativas para o início de uma guerra. 
  
  
-Questão 15 (2011.1) 
- 
+\
+@15 (2011.1) 
+\L 
  
 A tira, definida como um segmento de história 
 em quadrinhos, pode transmitir uma mensagem 
@@ -571,6 +545,7 @@ com efeito de humor. A presença desse efeito
 no diálogo entre John e Garfield acontece 
 porque: 
  
+\
 A) John pensa que sua es namorada é maluca e 
 que Garfield não sabia disso. 
 B) Jodell é a única namorada maluca que John 
@@ -583,13 +558,15 @@ E) John caracteriza a ex-namorada como
 maluca e não entende a cara de Garfield. 
  
  
-Questão 16 (2011.2) 
- 
+\
+@16 (2011.3) 
+\L
  
 Ao estabelecer uma relação entre a Matemática 
 e o blues a partir da opinião pessoal de um dos 
 rapazes, a charge sugere que: 
  
+\
 A) as canções iniciadas com a contagem de 1 a 
 4 fazem lembrar o blues. 
 B) as canções devem se iniciar com a contagem 
@@ -602,7 +579,8 @@ E) o sentimento despertado pela Matemática
 serve como motivação para o blues. 
  
  
-Questão 17 (2011.2) 
+\
+@17 (2011.3) 
 Last Monday was a really awful day. I got to 
 school late because I had missed the bus. Then 
 I had a Math test and did badly because I hadn’t 
@@ -613,11 +591,6 @@ really wanted to go to the cinema with my
 parents that evening but by the time I got home 
 they had already gone out. I put my dinner in the 
 oven, went to watch TV and fell asleep. When I 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-7 
-novocadernoenem@gmail.com 
 woke up an hour later, there was a terrible smell 
 and smoke coming up the stairs: I had forgotten 
 to take my dinner out of the oven. 
@@ -627,6 +600,7 @@ to take my dinner out of the oven.
 A intenção do narrador, nesse texto, é: 
  
  
+\
 A) relatar um dia de problemas. 
 B) descrever o incidente na cozinha. 
 C) lamentar a perda da aula. 
@@ -634,14 +608,15 @@ D) justificar a perda de uma prova.
 E) reclamar do atraso do ônibus. 
  
  
-Questão 18 (2011.2) 
- 
- 
+\
+@18 (2011.3) 
+\L 
  
 A tirinha é um gênero textual que, além de 
 entreter, trata de diferentes temas sociais. No 
 caso dessa tirinha, as falas no 3º quadrinho 
 revelam o foco do tema, que é: 
+\
 A) a paciência dos pais ao conversarem com os 
 filhos. 
 B) o cansaço dos pais em repetir as coisas para 
@@ -654,7 +629,8 @@ E) a postura questionadora dos filhos em
 relação aos pais. 
  
  
-Questão 19 (2011.2) 
+\
+@19 (2011.3) 
  
 Mary Mac’s mother’s making Mary Mac marry 
 me. 
@@ -673,6 +649,7 @@ exercício de pronúncia, também pode abordar
 assuntos relacionados à sociedade. No texto, o 
 tema abordado refere-se: 
  
+\
 A) às dúvidas do filho sobre a felicidade após o 
 casamento. 
 B) à felicidade da mãe com relação ao 
@@ -685,7 +662,8 @@ E) aos cuidados de Mary Mac com seu futuro
 esposo. 
  
  
-Questão 20 (2011.2) 
+\
+@20 (2011.3) 
  
 Slumdog Millionaire 
  
@@ -704,11 +682,6 @@ surface is so dazzling that you hardly realize
 how traditional it is underneath. But it’s the 
 buried structure that pulls us through the story 
 like a big engine on a short train. 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-8 
-novocadernoenem@gmail.com 
 By the real India, I don’t mean an unblinking 
 documentary like Louis Malle’s “Calcutta” or the 
 recent “Born Into Brothels.” I mean the real India 
@@ -720,11 +693,7 @@ earth. On the other, the “Masterpiece Theater”-
 style images of “A Passage to India,” “Gandhi” 
 and “The Jewel in the Crown.” 
  
-The 
-film 
-uses 
-dazzling 
-cinematography, 
+The film uses dazzling cinematography, 
 breathless editing, driving music and headlong 
 momentum to explode with narrative force, 
 stirring in a romance at the same time. 
@@ -738,6 +707,7 @@ O texto trata do premiado filme indiano
 apresentada, a história retrata uma Índia real, 
 uma vez que: 
  
+\
 A) aproxima a nova cinematografia indiana de 
 filmes grandiosos produzidos em outros países. 
 B) revela a tradicional separação de classes 
@@ -757,7 +727,8 @@ universais
 compartilhados por algumas culturas. 
  
  
-Questão 21 (2012.1) 
+\
+@21 (2012.1) 
  
 I, too 
  
@@ -792,6 +763,7 @@ que viveu no século XX e escreveu I, too em
 prática racista que provoca nela um sentimento 
 de: 
  
+\
 A) coragem, pela superação. 
 B) vergonha, pelo retraimento. 
 C) compreensão, pela aceitação. 
@@ -799,12 +771,13 @@ D) superioridade, pela arrogância.
 E) resignação, pela submissão. 
  
  
-Questão 22 (2012.1) 
+\
+@22 (2012.1) 
 23 February 2012 Last update at 16:53 GMT - 
 BBC World Service 
  
 J. K. Rowling to pen first novel for adults 
- 
+\L 
  
  
 Author J. K. Rowling has announced plans to 
@@ -838,11 +811,7 @@ sobre o bruxo Harry Potter e suas aventuras,
 adaptados para o cinema. Esse texto, que 
 aborda a trajetória da escritora britânica, tem 
 por objetivo: 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-9 
-novocadernoenem@gmail.com 
+\
 A) informar que a famosa série Harry Potter 
 será adaptada para o público adulto. 
 B) divulgar a publicação do romance por J. K. 
@@ -855,7 +824,8 @@ E) anunciar um novo livro da série Harry Potter
 publicado por editora diferente. 
  
  
-Questão 23 (2012.1) 
+\
+@23 (2012.1) 
  
 Quotes of the Day 
 Friday, Sep. 02, 2011 
@@ -878,6 +848,7 @@ A respeito dos tumultos causados na Inglaterra
 em agosto de 2011, as palavras de alerta de 
 David Cameron têm como foco principal: 
  
+\
 A) enfatizar a discriminação contra os jovens 
 britânicos e suas famílias. 
 B) criticar as ações agressivas demonstradas 
@@ -890,8 +861,9 @@ E) descrever o tipo de amor que gera problemas
 às famílias de jovens britânicos. 
  
  
-Questão 24 (2012.1) 
- 
+\
+@24 (2012.1) 
+\L 
  
 Cartuns são produzidos com o intuito de 
 satirizar comportamentos humanos e assim 
@@ -900,6 +872,7 @@ comportamentos e atitudes. Nesse cartum, a
 linguagem utilizada pelos personagens em uma 
 conversa em inglês evidencia a: 
  
+\
 A) predominância do uso da linguagem informal 
 sobre a língua padrão. 
 B) Dificuldade de reconhecer a existência de 
@@ -912,8 +885,9 @@ E) facilidade de compreensão entre falantes
 com sotaques distintos. 
  
  
-Questão 25 (2012.1) 
- 
+\
+@25 (2012.1) 
+\L 
  
  
 Aproveitando-se de seu status social e da 
@@ -922,6 +896,7 @@ músico Jimi Hendrix associa, em seu texto, os
 termos love, power e peace para justificar sua 
 opinião de que: 
  
+\
 A) a paz tem o poder de aumentar o amor entre 
 os homens. 
 B) o amor pelo poder deve ser menor do que o 
@@ -934,7 +909,8 @@ E) a paz será alcançada quando a busca pelo
 poder deixar de existir. 
  
  
-Questão 26 (2012.2) 
+\
+@26 (2012.3) 
  
 Home is where the heart is 
  
@@ -942,11 +918,7 @@ The heart of psychosocial care is to be found in
 the home and it is here that the main trust of 
 external efforts to improve the wellbeing of 
 vulnerable children must be directed. The best 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-10 
-novocadernoenem@gmail.com 
+
 way to support the wellbeing of young children 
 affected by HIV/AIDS is to strengthen and 
 reinforce the circles of care that surround 
@@ -954,44 +926,26 @@ children. Some children — especially those
 living outside families, on the streets or 
 institutions, with chronically ill caregivers, and 
 orphans — are more vulnerable and especially 
-require 
-psychosocial 
-care 
-and 
-support. 
+require psychosocial care and support. 
 However, this social support needs to be 
 provided in family settings, with the same 
 characteristics of commitment, stability, and 
 individualized affectionate care. The primary aim 
 of all psychosocial support programmes should 
 be an encouraging and enabling family support, 
-including 
-foster 
-care, 
-and 
-placing 
-and 
+including foster care, and placing and 
 maintaining young children in stable and 
-affectionate 
-family 
-environments. 
-Only 
-secondarily should direct services be provided to 
+affectionate family environments. 
+Only secondarily should direct services be provided to 
 affected children. 
 (RICHTER, L.; FOSTER, G.; SHERR, L. Where the 
 heart is: meeting the psychosocial needs of young 
 children in the context of HIV/AIDS. Holanda: Bernard 
 van Leer Foundation, 2006 - adaptado) 
  
-Ao tratar dos problemas psicossociais dos 
-portadores 
-do 
-vírus 
-HIV/AIDS, 
-o 
-texto 
-argumenta que: 
+Ao tratar dos problemas psicossociais dos portadores do vírus HIV/AIDS, o texto argumenta que: 
  
+\
 A) o tratamento dos pacientes depende de 
 financiamento externo. 
 B) as famílias dos portadores do HIV aprendem 
@@ -1004,13 +958,15 @@ E) a recuperação dos portadores do vírus HIV
 exige internamento. 
  
  
-Questão 27 (2012.2) 
- 
+\
+@27 (2012.3) 
+\L 
  
  
 Com base nas informações verbais e no contexto social da tirinha, infere-se que o cliente: 
  
  
+\
 A) está indisposto para conversar com o garçom sobre assuntos pessoais. 
 B) demonstra bom humor, fazendo piada no momento de fechar a conta. 
 C) constrange e intimida o garçom, a fim de não pagar a conta devida. 
@@ -1018,7 +974,8 @@ D) explica ao garçom que vai aguardar outra pessoa chegar ao restaurante.
 E) mostra descontentamento com o serviço para não ter que pagar por ele. 
  
  
-Questão 28 (2012.2) 
+\
+@28 (2012.3) 
 Scared fit 
  
 My body was telling me things I did not want to hear. In February 2010, my doctor confirmed what my 
@@ -1033,17 +990,15 @@ scared I wouldn’t see my grandkids and great-grandkids grow up.
 No texto Scared fit, que relata a experiência de Amanda de la Paz relacionada aos cuidados com a 
 saúde, a palavra scared faz referência ao seu medo de: 
  
+\
 A) emagrecer mais que o necessário. 
 B) sofrer as consequências de seu descuido. 
 C) enfrentar uma dieta com restrição de doces. 
 D) encarar exercícios físicos pesados. 
 E) enfrentar sua aparência no espelho. 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-11 
-novocadernoenem@gmail.com 
-Questão 29 (2012.2) 
+
+\
+@29 (2012.3) 
  
 Our currency 
  
@@ -1079,6 +1034,7 @@ Associando as informações apresentadas na
 busca pelo tema, percebe-se que o texto se 
 refere: 
  
+\
 A) à situação econômica da Austrália. 
 B) à educação ambiental na Austrália. 
 C) ao controle bancário australiano. 
@@ -1086,7 +1042,8 @@ D) aos expoentes da arte australiana.
 E) ao sistema monetário australiano. 
  
  
-Questão 30 (2012.2) 
+\
+@30 (2012.3) 
  
 Ebonics 
  
@@ -1124,6 +1081,7 @@ diversidade cultural e linguística. Nesse texto, a
 questão da diversidade linguística é discutida 
 por meio: 
  
+\
 A) 
 do 
 desprestígio 
@@ -1145,7 +1103,8 @@ E) do impedimento de compreensão entre
 falantes de dialetos distintos. 
  
  
-Questão 31 (2013.1) 
+\
+@31 (2013.1) 
  
 After prison blaze kills hundreds in 
 Honduras, UN warns on overcrowding 
@@ -1182,15 +1141,12 @@ texto,
 o 
 acontecimento reportado é a: 
  
+\
 A) ocorrência de um incêndio em um presídio 
 superlotado em Honduras. 
 B) questão da superlotação nos presídios em 
 Honduras e na América Latina. 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-12 
-novocadernoenem@gmail.com 
+
 C) investigação da morte de um oficial das 
 Nações Unidas em visita a um presídio. 
 D) conclusão do relatório sobre a morte de mais 
@@ -1199,7 +1155,8 @@ E) causa da morte de doze detentos em um
 presídio superlotado ao norte de Honduras. 
  
  
-Questão 32 (2013.1) 
+\
+@32 (2013.1) 
  
 National Geographic News 
 Christine Dell’Amore 
@@ -1227,6 +1184,7 @@ Ao ler a matéria publicada na National
 Geographic, para a realização de um trabalho 
 escolar, um estudante descobriu que: 
  
+\
 A) 
 os 
 compostos 
@@ -1251,7 +1209,8 @@ E) a produção de morfina é um traço incomum
 entre os animais. 
  
  
-Questão 33 (2013.1) 
+\
+@33 (2013.1) 
  
 Steve Jobs: A Life Remembered 1955-2011 
  
@@ -1290,6 +1249,7 @@ recorrentes na mídia, divulgadas de forma
 impressa ou virtualmente. Em relação a Steve 
 Jobs, esse texto propõe: 
  
+\
 A) expor as maiores conquistas da sua 
 empresa. 
 B) descrever suas criações na área da 
@@ -1302,7 +1262,8 @@ E) discutir o impacto de seu trabalho para a
 geração digital. 
  
  
-Questão 34 (2013.1) 
+\
+@34 (2013.1) 
  
 Do one thing for diversity and inclusion 
  
@@ -1340,11 +1301,8 @@ sobre artigos on-line por meio da postagem de
 comentários. O comentário que exemplifica o 
 engajamento proposto na quarta dica da 
 campanha apresentada no texto é: 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-13 
-novocadernoenem@gmail.com 
+
+\
 A) “Lá na minha escola, aprendi a jogar capoeira para uma apresentação no Dia da Consciência Negra.” 
 B) “Outro dia assisti na TV uma reportagem sobre respeito à diversidade. Gente de todos os tipos, várias 
 tribos. Curti bastante.” 
@@ -1356,13 +1314,14 @@ E) “Pesquisei em sites de culinária e preparei uma festa árabe para uns amig
 adoraram, principalmente, os doces!” 
  
  
-Questão 35 (2013.1) 
- 
- 
+\
+@35 (2013.1) 
+\L
  
 A partir da leitura dessa tirinha, infere-se que o discurso de Calvin teve um efeito diferente do pretendido, 
 uma vez que ele: 
  
+\
 A) decide tirar a neve do quintal para convencer seu pai sobre seu discurso. 
 B) culpa o pai por exercer influência negativa na formação de sua personalidade. 
 C) comenta que suas discussões com o pai não correspondem às suas expectativas. 
@@ -1370,14 +1329,15 @@ D) conclui que os acontecimentos ruins não fazem falta para a sociedade.
 E) reclama que é vitima de valores que o levam a atitudes inadequadas. 
  
  
-Questão 36 (2013.2) 
- 
- 
+\
+@36 (2013.3) 
+\L 
  
 Placas como a da gravura são usadas para 
 orientar os usuários de um espaço urbano. Essa 
 placa, especificamente, tem a função de avisar 
 que somente: 
+\
 A) o proprietário autoriza a validação do 
 estacionamento. 
 B) os donos de carro entram no estacionamento 
@@ -1390,7 +1350,8 @@ E) os rebocadores precisam de permissão para
 entrar no local. 
  
  
-Questão 37 (2013.2) 
+\
+@37 (2013.3) 
  
 The art of happiness 
  
@@ -1403,11 +1364,7 @@ popular speaker and statesman. Why is he so
 popular? Even after spending only a few 
 minutes in his presence you can’t help feeling 
 happier. If you ask him if he’s happy, even 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-14 
-novocadernoenem@gmail.com 
+
 though he’s suffered the loss of his country, the 
 Dalai Lama will give you an unconditional yes. 
 What’s more, he’ll tell you that happiness is the 
@@ -1424,6 +1381,7 @@ a handbook for living. Putnam Books, 1998)
 Pelo título e pela sinopse do livro de Lama e 
 Cutler, constata-se que o tema da obra é: 
  
+\
 A) a discussão de Lama e seu psiquiatra. 
 B) o Prêmio Nobel recebido por Lama. 
 C) a liderança de Dalai Lama no Tibet. 
@@ -1431,7 +1389,8 @@ D) o sucesso dos autores no Tibet.
 E) a busca da felicidade no cotidiano. 
  
  
-Questão 38 (2013.2) 
+\
+@38 (2013.3) 
 Cyberbullying is harassment through electronic 
 means such as telephone text messages, social 
 media such as Facebook and Twitter or online 
@@ -1452,28 +1411,12 @@ bullying policies in place, cyberbullying itself is
 not named as a criminal offence. Offenders in 
 the UK would have to be charged under various 
 other laws, including the Protection from 
-Harassment 
-Act 
-of 
-2003. 
-This 
-makes 
-prosecution much more difficult. 
+Harassment Act of 2003. 
+This makes prosecution much more difficult. 
  
-Authorities 
-agree 
-that 
-in 
-order 
-to 
-stop 
-cyberbullying, 
-there 
-has 
-to 
-be 
-parental 
-involvement. Parents need to be vigilant about 
+Authorities agree that in order to stop cyberbullying, 
+there has to be parental involvement. 
+Parents need to be vigilant about 
 their children’s access to technology. They 
 should monitor their children’s use of social 
 media, especially children under the age of 14. 
@@ -1490,6 +1433,7 @@ Unido, a instauração de processos contra
 praticantes de cyberbullying é mais difícil 
 porque: 
  
+\
 A) os estudantes com idade inferior a 18 anos 
 não podem sofrer acusações de prática de 
 cyberbullying ou bullying. 
@@ -1517,25 +1461,23 @@ denunciar os agressores de seus filhos às
 autoridades competentes. 
  
  
-Questão 39 (2013.2) 
- 
+\
+@39 (2013.3) 
+\L
  
  
 Tirinhas são construídas a partir de contextos sociais e podem promover reflexões diversas. Essa tirinha 
 provoca no leitor uma reflexão acerca da: 
  
+\
 A) submissão aos pais.  
- 
-      B) ausência dos pais. 
-        C) semelhança com os pais. 
+B) ausência dos pais. 
+C) semelhança com os pais. 
 D) divisão de espaço com os pais. 
-      E) perda da atenção dos pais. 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-15 
-novocadernoenem@gmail.com 
-Questão 40 (2013.2) 
+E) perda da atenção dos pais. 
+
+\
+@40 (2013.3) 
  
 Movie: Hijras – The Third Gender 
 Director: Devika Urvashi Bhisé 
@@ -1554,12 +1496,8 @@ regarding whether or not they should be granted
 the status of a third gender. 
  
 Most hijras are genetically born as men, but 
-believe they are women within. The rest are 
-hermaphrodites 
-with 
-some 
-abnormality 
-in 
+believe they are women within. 
+The rest are hermaphrodites with some abnormality in 
 genitalia. For those born men, becoming a hijra 
 is a painful process that involves removing the 
 entire genitalia in a secret ceremony that is often 
@@ -1602,14 +1540,8 @@ por um segmento da sociedade indiana, os
 hijras. De acordo com o que se captura dessas 
 vozes no filme e do que se lê no texto, esse 
 segmento reivindica: 
-A) 
-o 
-direito 
-constitucional 
-de 
-sair 
-da 
-marginalidade. 
+\
+A) o direito constitucional de sair da marginalidade. 
 B) a regulamentação de suas atuais funções 
 sociais. 
 C) os mesmos direitos dos dalits, ou intocáveis. 
@@ -1619,7 +1551,8 @@ E) o reconhecimento de suas habilidades
 místicas. 
  
  
-Questão 41 (2014.1) 
+\
+@41 (2014.1) 
  
 A Tall Order 
 The sky isn’t the limit for an architect building the 
@@ -1656,22 +1589,8 @@ whatever is happening behind it onto its facade.
 To the human eye, the building will appear to 
 have melted away. 
  
-It will be the most extraordinary achievement of 
-Wee’s 
-stellar 
-architectural 
-career. 
-After 
-graduating from UCLA, he worked under 
-Anthony 
-Lumsden, 
-a 
-prolific 
-Carlifornian 
-architect 
-who helped devise the modern 
-technique of wrapping buildings inside smooth 
-glass skins. 
+It will be the most extraordinary achievement of Wee’s stellar architectural career. 
+After graduating from UCLA, he worked under Anthony Lumsden, a prolific Carlifornian architect who helped devise the modern technique of wrapping buildings inside smooth glass skins. 
  
 (HINES, N. Disponível em: http://mag.newsweek.com. 
 Acesso em: 13 out. 2013 - adaptado) 
@@ -1680,29 +1599,21 @@ No título e no subtítulo desse texto, as
 expressões A Tall Order e The sky isn’t the limit 
 são usadas para apresentar uma matéria cujo 
 tema é: 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-16 
-novocadernoenem@gmail.com 
+
+\
 A) Inovações tecnológicas usadas para a 
 construção deum novo arranha-céu em Seul.  
 B) Confissões de um arquiteto que busca se 
 destacar na construção de arranha-céus.  
 C) Técnicas a serem estabelecidas para a 
 construção de edifícios altos na Califórnia.  
-D) 
-Competição 
-entre 
-arquitetos 
-para 
-a 
-construção do edifício mais alto do mundo.  
+D) Competição entre arquitetos para a construção do edifício mais alto do mundo.  
 E) Construção de altas torres de apartamentos 
 nas grandes metrópoles da Ásia. 
  
  
-Questão 42 (2014.1) 
+\
+@42 (2014.1) 
  
 Masters of War 
  
@@ -1740,6 +1651,7 @@ Na letra da canção Masters of War, há
 questionamentos e reflexões que aparecem na 
 forma de protesto contra: 
  
+\
 A) o envio de jovens à guerra para promover a 
 expansão territorial dos Estados Unidos.  
 B) o comportamento dos soldados norte-
@@ -1751,7 +1663,8 @@ soldados mortos em campos de batalha.
 E) as Forças Armadas norte-americanas, que 
 enviavam homens despreparados para as 
 guerras. 
-Questão 43 (2014.1) 
+\
+@43 (2014.1) 
  
 The Road Not Taken (by Robert Frost) 
  
@@ -1768,6 +1681,7 @@ Robert Frost. Levando-se em consideração que
 a vida é comumente metaforizada como uma 
 viagem, esses versos indicam que o autor: 
  
+\
 A) festeja o fato de ter sido ousado na escolha 
 que fez em sua vida.  
 B) lamenta por ter sido um viajante que 
@@ -1785,7 +1699,8 @@ as
 diferentes fases de sua vida. 
  
  
-Questão 44 (2014.1) 
+\
+@44 (2014.1) 
  
 If You Can’t Master English, Try Globish 
  
@@ -1819,14 +1734,11 @@ understood by all.
  
 (BLUME, M. Disponível em: www.nytimes.com. 
  Acesso em: 28 out. 2013 - fragmento) 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-17 
-novocadernoenem@gmail.com 
+
 Considerando as ideias apresentadas no texto, o Globish (Global English) é uma variedade da língua 
 inglesa que: 
  
+\
 A) tem status de língua por refletir uma cultura global.  
 B) facilita o entendimento entre o falante nativo e o não nativo.  
 C) tem as mesmas características de projetos utópicos como o esperanto.  
@@ -1834,27 +1746,23 @@ D) altera a estrutura do idioma para possibilitar a comunicação internacional.
 E) apresenta padrões de fala idênticos aos da variedade usada pelos falantes nativos. 
  
  
-Questão 45 (2014.1) 
- 
- 
+\
+@45 (2014.1) 
+\L
  
 A internet tem servido a diferentes interesses, ampliando, muitas vezes, o contato entre pessoas e 
 instituições. Um exemplo disso é o site WeFeedback, no qual a internauta Kate Watts: 
  
+\
 A) comprou comida em promoção.  
- 
- 
-  
 B) inscreveu-se em concurso.   
- 
- 
- 
 C) fez doação para caridade.  
 D) participou de pesquisa de opinião. 
 E) voluntariou-se para trabalho social. 
  
  
-Questão 46 (2014.2) 
+\
+@46 (2014.3) 
 Languages and cultures use non-verbal communication which conveys meaning. Although many 
 gestures are similar in Thai and English such as nodding for affirmation many others are not shared. A 
 good example of this is the ubiquitous "Thai smile". The "smile" carries a far wider range of meanings in 
@@ -1866,41 +1774,15 @@ owner of a language school with administrative problems, complaints regarding st
 class were met by a beaming smile and little else. I took this to mean lack of concern or an attempt to 
 trivialise or ignore the problem. I left the discussion upset and angry by what appeared to be the owner's 
 offhand attitude to my problems.  
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-18 
-novocadernoenem@gmail.com 
-It was only later when another native speaking 
-English 
-teacher, 
-with 
-considerably 
-more 
-experience of Thailand, explained that a smile 
-meant an apology and the fact that the following 
-day all my complaints had been addressed, that 
-I fully understood the situation.  
+
+It was only later when another native speaking English teacher, with considerably more experience of Thailand, explained that a smile meant an apology and the fact that the following day all my complaints had been addressed, that I fully understood the situation.  
  
 (Disponível em: www.spring.org.uk.  
 Acesso em: 11 jul. 2011 - fragmento) 
  
-Viver em um país estrangeiro pode ser uma 
-experiência 
-enriquecedora, 
-embora 
-possa 
-também ser um desafio, pelo choque cultural. A 
-experiência relatada pelo autor do texto revela 
-diferentes 
-atribuições 
-de 
-sentido 
-a 
-um 
-determinado comportamento, mostrando que 
-naquela situação o sorriso indicava um(a): 
+Viver em um país estrangeiro pode ser uma experiência enriquecedora, embora possa também ser um desafio, pelo choque cultural. A experiência relatada pelo autor do texto revela diferentes atribuições de sentido a um determinado comportamento, mostrando que naquela situação o sorriso indicava um(a): 
  
+\
 A) forma educada de fazer uma reclamação. 
 B) modo irônico de reagir a uma solicitação. 
 C) jeito de reconhecer um erro e se desculpar. 
@@ -1908,19 +1790,17 @@ D) tentativa de minimizar um problema.
 E) estratégia para esconder a verdade. 
  
  
-Questão 47 (2014.2) 
+\
+@47 (2014.3) 
+\L
  
- 
- 
-Implementar 
-políticas 
-adequadas 
-de 
+Implementar políticas adequadas de 
 alimentação e nutrição é uma meta prioritária 
 em vários países do mundo. A partir da 
 campanha If you can´t read it, why eat it?, os 
 leitores são alertados para o perigo de: 
  
+\
 A) acessarem informações equivocadas sobre a 
 formulação química de alimentos empacotados. 
 B) consumirem alimentos industrializados sem o 
@@ -1941,17 +1821,14 @@ obesidade causada pela má alimentação na
 fase de desenvolvimento da criança. 
  
  
-Questão 48 (2014.2) 
+\
+@48 (2014.3) 
  
 Tennesse Mountain Properties 
 Description 
  
 Own a renovated house for less than $290 per 
-monthwifill 
-New 
-windows, 
-siding, 
-flooring 
+monthwifill New windows, siding, flooring 
 (laminate throughout and tile in entry way and 
 bathroom), kitchen cabinets, counter top, back 
 door, fresh paint and laundry on main floor. Heat 
@@ -1966,6 +1843,7 @@ aos leitores. O conteúdo do anúncio veiculado
 por este texto interessará a alguém que esteja 
 procurando: 
  
+\
 A) emprego no setor imobiliário. 
 B) imóvel residencial para compra. 
 C) serviço de reparos em domicílio. 
@@ -1973,7 +1851,8 @@ D) pessoa para trabalho doméstico.
 E) curso de decorador de interiores. 
  
  
-Questão 49 (2014.2) 
+\
+@49 (2014.3) 
 I read a study that measured the efficiency of 
 locomotion for various species on the planet. 
 The condor used the least energy to move a 
@@ -1995,11 +1874,8 @@ Ao abordar o deslocamento de várias espécies,
 com base em um estudo que leu, Steve Jobs 
 apresenta o computador como uma ferramenta 
 que: 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-19 
-novocadernoenem@gmail.com 
+
+\
 A) amplia a quantidade de energia gasta no 
 planeta. 
 B) alcança a mesma velocidade de uma 
@@ -2010,7 +1886,8 @@ D) torna os meios de transporte mais eficientes.
 E) aumenta o potencial de nossas mentes. 
  
  
-Questão 50 (2014.2) 
+\
+@50 (2014.3) 
 Turning Brown A four-year-old boy was eating 
 an apple in the back seat of the car, when he 
 asked, "Daddy, why is my apple turning brown?" 
@@ -2029,6 +1906,7 @@ Considerando os participantes da conversa
 nessa piada, nota-se que o efeito de humor é 
 obtido em função: 
  
+\
 A) da dificuldade que o pai estava enfrentando 
 para dar uma resposta ao filho. 
 B) de o pai dizer que a maçã tem carne e que 
@@ -2041,7 +1919,8 @@ E) da escolha inadequada do tipo de linguagem
 para se conversar com uma criança. 
  
  
-Questão 51 (2014.3) 
+\
+@51 (2014.2) 
  
 The war song 
  
@@ -2074,6 +1953,7 @@ compreender o mundo. Na letra da canção do
 grupo Culture Club, entende-se que a guerra é o 
 resultado da: 
  
+\
 A) brutalidade humana, porque os homens 
 lutam pelo poder. 
 B) falta de diálogo, porque um lado nunca 
@@ -2086,18 +1966,13 @@ E) ganância, porque as pessoas invejam o que
 é dos outros. 
  
  
-Questão 52 (2014.3) 
+\
+@52 (2014.2) 
  
 Slow Food 
  
 Slow Food describes a movement created "to 
-counteract 
-fast 
-food 
-and 
-fast 
-life, 
-the 
+counteract fast food and fast life, the 
 disappearance of local food traditions and 
 people's dwindling interest in the food they eat, 
 where it comes from, how it tastes and how our 
@@ -2113,6 +1988,7 @@ Acesso em: 30 set. 2011)
  
 O objetivo do movimento Slow food é: 
  
+\
 A) eliminar o hábito de fast food e os efeitos 
 negativos da vida agitada. 
 B) 
@@ -2134,18 +2010,15 @@ gastronômicas
 regionais. 
  
  
-Questão 53 (2014.3) 
+\
+@53 (2014.2) 
  
 Japan — Earthquake, Tsunami and Nuclear 
 Crisis (2011) 
  
 In many ways, Japan is still reeling from the 
 devastating earthquake and tsunami of March 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-20 
-novocadernoenem@gmail.com 
+
 2011 and the nuclear crisis and huge leaks of 
 radiation it set off.  
  
@@ -2175,6 +2048,7 @@ The New York Times, acerca da situação em
 que o Japão se encontrava em 2011, expõe o 
 tema: 
  
+\
 A) 
 Mudanças 
 governamentais 
@@ -2193,13 +2067,14 @@ crise.
  
  
  
-Questão 54 (2014.3) 
- 
- 
+\
+@54 (2014.2) 
+\L 
  
 A tira, definida como um segmento de história em quadrinhos, pode transmitir uma mensagem com efeito 
 de humor. Na tira, a presença desse efeito no diálogo entre Lucy e seu irmão Linus acontece porque: 
  
+\
 A) Linus prefere interpretar o ciclo da natureza à sua própria maneira. 
 B) Lucy dá uma lição de moral em Linus usando o ciclo da vida e da natureza. 
 C) Lucy se surpreende com a compreensão de Linus sobre o ciclo da natureza. 
@@ -2208,7 +2083,8 @@ E) Linus satiriza a explicação que Lucy fornece sobre o ciclo da natureza e da
  
  
  
-Questão 55 (2014.3) 
+\
+@55 (2014.2) 
  
 Land of all peoples 
  
@@ -2247,11 +2123,8 @@ Paraná, a state of opportunity)
 No trecho extraído de um catálogo informativo 
 sobre o Estado do Paraná, percebe-se que seus 
 autores têm a intenção de: 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-21 
-novocadernoenem@gmail.com 
+
+\
 A) enfatizar a diversidade cultural do estado. 
 B) 
 apresentar 
@@ -2269,7 +2142,8 @@ E) comparar a cultura do Paraná com a de
 outros estados. 
  
  
-Questão 56 (2015.1) 
+\
+@56 (2015.1) 
  
 My brother the star, my mother the earth 
 my father the sun, my sister the moon, 
@@ -2284,15 +2158,9 @@ Acesso em: 8 ago. 2012)
  
 Produções artístico-culturais revelam visões de 
 mundo próprias de um grupo social. Esse 
-poema demonstra a estreita relação entre a 
-tradição 
-oral 
-da 
-cultura 
-indígena 
-norte-
-americana e a: 
+poema demonstra a estreita relação entre a tradição oral da cultura indígena norte-americana e a: 
  
+\
 A) transmissão de hábitos alimentares entre 
 gerações. 
 B) 
@@ -2307,7 +2175,8 @@ D) importância dos elementos da natureza.
 E) preservação da estrutura familiar. 
  
  
-Questão 57 (2015.1) 
+\
+@57 (2015.1) 
 Why am I compelled to write? Because the 
 writing saves me from this complacency I fear. 
 Because I have no choice. Because I must keep 
@@ -2323,20 +2192,11 @@ third world women writers. In: HERNANDEZ. J. B.
 America and the Caribbean. Boston: South, 2003) 
  
 Gloria Evangelina Anzaldúa, falecida em 2004, 
-foi 
-uma 
-escritora 
-americana 
-de 
-origem 
-mexicana 
-que 
-escreveu 
-sobre 
-questões 
+foi uma escritora americana de origem mexicana que escreveu sobre questões 
 culturais e raciais. Na citação, o intuito da autora 
 é evidenciar as: 
  
+\
 A) razões pelas quais ela escreve. 
 B) compensações advindas da escrita. 
 C) possibilidades de mudar o mundo real. 
@@ -2344,19 +2204,16 @@ D) maneiras de ela lidar com seus medos.
 E) escolhas que ela faz para ordenar o mundo. 
  
  
-Questão 58 (2015.1) 
- 
- 
+\
+@58 (2015.1) 
+\L
  
 Na tira da série For better or for worse, a 
-comunicação 
-entre 
-as 
-personagens 
-fica 
+comunicação entre as personagens fica 
 comprometida em um determinado momento 
 porque: 
  
+\
 A) as duas amigas divergem de opinião sobre 
 futebol. 
 B) 
@@ -2374,7 +2231,8 @@ E) as duas amigas atribuem sentidos diferentes
 à palavra season. 
  
  
-Questão 59 (2015.1) 
+\
+@59 (2015.1) 
 How fake images change our memory and 
 behaviour For decades, researchers have been 
 exploring just how unreliable our own memories 
@@ -2389,11 +2247,7 @@ modern image-editing software at our fingertips
 like Photoshop, and it’s a recipe for disaster. In a 
 world where we can witness news and world 
 events as they unfold, fake images surround us, 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-22 
-novocadernoenem@gmail.com 
+
 and our minds accept these pictures as real, and 
 remember them later. These fake memories 
 don’t just distort how we see our past, they 
@@ -2420,6 +2274,7 @@ de novas tecnologias para a mente humana.
 Nesse contexto, a memória das pessoas é 
 influenciada pelo(a): 
  
+\
 A) alteração de imagens. 
 B) exposição ao mundo virtual. 
 C) acesso a novas informações. 
@@ -2427,36 +2282,33 @@ D) fascínio por softwares inovadores.
 E) interferência dos meios de comunicação. 
  
  
-Questão 60 (2015.2) 
+\
+@60 (2015.3) 
+\L 
  
- 
- 
-Uma 
-campanha 
-pode 
-ter 
-por 
-objetivo 
+Uma campanha pode ter por objetivo 
 conscientizar a população sobre determinada 
 questão social. Na campanha realizada no 
 Reino Unido, a frase “A third of the food we buy 
 in the UK ends up being thrown away” foi 
 utilizada para enfatizar o(a): 
  
+\
 A) desigualdade social. 
 B) escassez de plantações. 
 C) reeducação alimentar. 
 D) desperdício de comida. 
 E) custo dos alimentos. 
-Questão 61 (2015.1) 
- 
- 
+\
+@61 (2015.1) 
+\L
  
 As instituições públicas fazem uso de avisos 
 como instrumento de comunicação com o 
 cidadão. Esse aviso, voltado a passageiros, tem 
 o objetivo de: 
  
+\
 A) solicitar que as malas sejam apresentadas 
 para inspeção. 
 B) notificar o passageiro pelo transporte de 
@@ -2469,7 +2321,8 @@ E) apresentar desculpas pelo dano causado à
 mala durante a viagem. 
  
  
-Questão 62 (2015.2) 
+\
+@62 (2015.3) 
  
 36 hours in Buenos Aires Contemporary 
  
@@ -2477,21 +2330,12 @@ Argentine history is a roller coaster of financial
 booms and cracks, set to the gripping political 
 soap operas. But through all the highs and lows, 
 one thing has remained constant: Buenos 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-23 
-novocadernoenem@gmail.com 
+
 Aires’s graceful elegance and cosmopolitan 
 cool. This attractive city continues to draw food 
 lovers, design buffs and party people with its 
 riotous night life, fashion-forward styling and a 
-favorable 
-exchange 
-rate. 
-Even 
-with 
-the 
+favorable exchange rate. Even with the 
 uncertain economy, the creative energy and 
 enterprising spirit of Porteños, as residents are 
 called, prevail — just look to the growing ranks 
@@ -2503,6 +2347,7 @@ Acesso em: 30 jul. 2012)
 Nesse artigo de jornal, Buenos Aires é 
 apresentada como a capital argentina, que: 
  
+\
 A) foi objeto de novelas televisivas baseadas 
 em sua vida noturna e artística. 
 B) 
@@ -2520,7 +2365,8 @@ E) parou de atrair apreciadores da gastronomia,
 devido ao alto valor de sua moeda. 
  
  
-Questão 63 (2015.2) 
+\
+@63 (2015.3) 
  
 Horse or cow 
  
@@ -2554,6 +2400,7 @@ O texto relata o caso de um fazendeiro prestes
 a se aposentar e vender sua fazenda. O 
 aspecto cômico desse texto provém da: 
  
+\
 A) constatação pelo fazendeiro da razão de sua 
 aposentadoria. 
 B) opinião dos vizinhos referente à forma de se 
@@ -2566,7 +2413,8 @@ E) indecisão dos cônjuges quanto à melhor
 escolha a ser feita no momento. 
  
  
-Questão 64 (2015.2) 
+\
+@64 (2015.3) 
  
 First Footing 
  
@@ -2579,12 +2427,7 @@ other a good new year. This visiting was known
 as "first-footing", and the luckiest first-foot into 
 any house was a tall, dark and handsome man - 
 perhaps as a reward to the woman who 
-traditionally 
-had 
-spent 
-the 
-previous 
-day 
+traditionally had spent the previous day 
 scrubbing her house (another Hogmanay ritual). 
 Women or red heads, however, were always 
 considered bad luck as first-foots. 
@@ -2596,40 +2439,18 @@ or black bun (a type of fruit cake) to symbolise
 that the household would never go hungry that 
 year. 
  
-First-footing 
-has 
-faded 
-in 
-recent 
-years, 
+First-footing has faded in recent years, 
 particularly with the growth of the major street 
-celebrations 
-in 
-Edinburgh 
-and 
-Glasgow, 
+celebrations in Edinburgh and Glasgow, 
 although not the Scots love of a good party, of 
 which there are plenty on the night! 
  
 (Disponível em: www.visitscotland.com.  
 Acesso em: 23 nov. 2011) 
  
-A 
-partir 
-da 
-leitura 
-do 
-texto 
-sobre 
-a 
-comemoração 
-do 
-Ano-novo 
-na 
-Escócia, 
-observa-se que, com o tempo, aspectos da 
-cultura de um povo podem ser: 
+A partir da leitura do texto sobre a comemoração do Ano-novo na Escócia, observa-se que, com o tempo, aspectos da cultura de um povo podem ser: 
  
+\
 A) passados para outros povos. 
 B) substituídos por outras práticas. 
 C) reforçados pelas novas gerações. 
@@ -2637,7 +2458,8 @@ D) valorizados pelas tradições locais.
 E) representados por festas populares. 
  
  
-Questão 65 (2016.1) 
+\
+@65 (2016.1) 
  
 Italian university switches to English 
 By Sean Coughlan, BBC News education 
@@ -2649,11 +2471,7 @@ it even more of a cultural earthquake that one of
 Italy’s leading universities — the Politecnico di 
 Milano — is going to switch to the English 
 language.  
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-24 
-novocadernoenem@gmail.com 
+
 The university has announced that from 2014 most of its degree courses — including all its graduate 
 courses — will be taught and assessed entirely in English rather than Italian. 
  
@@ -2667,6 +2485,7 @@ classes is to use the English language”, says the university’s rector, Giova
 As línguas têm um papel importante na comunicação entre pessoas de diferentes culturas. Diante do 
 movimento de internacionalização no ensino superior, a universidade Politecnico di Milano decidiu: 
  
+\
 A) elaborar exames em língua inglesa para o ingresso na universidade. 
 B) ampliar a oferta de vagas na graduação para alunos estrangeiros. 
 C) investir na divulgação da universidade no mercado internacional. 
@@ -2674,13 +2493,14 @@ D) substituir a língua nacional para se inserir no contexto da globalização.
 E) estabelecer metas para melhorar a qualidade do ensino de italiano. 
  
  
-Questão 66 (2015.2) 
- 
- 
+\
+@66 (2015.3) 
+\L 
  
 A emissão de gases tóxicos na atmosfera traz diversas consequências para nosso planeta. De acordo 
 com o gráfico, retirado do texto Global warming is an international issue, observa-se que: 
  
+\
 A) A as queimadas poluem um pouco mais do que os combustíveis usados nos meios de transporte. 
 B) as residências e comércios são os menores emissores de gases de efeito estufa na atmosfera. 
 C) o processo de tratamento de água contribui para a emissão de gases poluentes no planeta. 
@@ -2688,7 +2508,8 @@ D) os combustíveis utilizados nos meios de transportes poluem mais do que as in
 E) os maiores emissores de gases de efeito estufa na atmosfera são as usinas elétricas. 
  
  
-Questão 67 (2016.1) 
+\
+@67 (2016.1) 
 Ebony and ivory 
  
 Ebony and ivory live together in perfect harmony 
@@ -2699,17 +2520,14 @@ We learn to live, we learn to give
 Each other what we need to survive together alive 
  
 (McCARTNEY, P. Disponível em: www.paulmccartney.com. Acesso em: 30 maio 2016) 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-25 
-novocadernoenem@gmail.com 
+
 Em diferentes épocas e lugares, compositores 
 têm utilizado seu espaço de produção musical 
 para expressar e problematizar perspectivas de 
 mundo. Paul McCartney, na letra dessa canção, 
 defende: 
  
+\
 A) o aprendizado compartilhado. 
 B) a necessidade de donativos. 
 C) as manifestações culturais. 
@@ -2717,7 +2535,8 @@ D) o bem em relação ao mal.
 E) o respeito étnico. 
  
  
-Questão 68 (2016.1) 
+\
+@68 (2016.1) 
  
 Frankentissue: printable cell technology 
  
@@ -2747,6 +2566,7 @@ O texto relata perspectivas no campo da
 tecnologia para cirurgias em geral, e a mais 
 promissora para este momento enfoca o(a): 
  
+\
 A) uso de um produto natural com milhares de 
 células para reparar tecidos humanos. 
 B) criação de uma impressora especial para 
@@ -2759,7 +2579,8 @@ E) extração de glóbulos do fígado para serem
 reproduzidos em laboratório. 
  
  
-Questão 69 (2016.1) 
+\
+@69 (2016.1) 
 BOGOF is used as a noun as in ‘There are 
 some great bogofs on at the supermarket’ or an 
 adjective, usually with a word such as ‘offer’ or 
@@ -2769,12 +2590,7 @@ store’.
 When you combine the first letters of the words 
 in a phrase or the name of an organisation, you 
 have an acronym. Acronyms are spoken as a 
-word 
-so 
-NATO 
-(North 
-Atlantic 
-Treaty 
+word so NATO (North Atlantic Treaty 
 Organisation) is not pronounced N-A-T-O. We 
 say NATO. Bogof, when said out loud, is quite 
 comical for a native speaker, as it sounds like an 
@@ -2787,11 +2603,7 @@ imported from the USA during the 1970s
 recession, when food prices were very high. It 
 came back into fashion in the late 1990s, led by 
 big supermarket chains trying to gain a 
-competitive 
-advantage 
-over 
-each 
-other. 
+competitive advantage over each other. 
 Consumers were attracted by the idea that they 
 could get something for nothing. Who could 
 possibly say ‘no’? 
@@ -2802,6 +2614,7 @@ Acesso em: 2 ago. 2012 - adaptado)
 Considerando-se as informações do texto, a 
 expressão “bogof” é usada para: 
  
+\
 A) anunciar mercadorias em promoção. 
 B) pedir para uma pessoa se retirar. 
 C) comprar produtos fora de moda. 
@@ -2809,22 +2622,18 @@ D) indicar recessão na economia.
 E) chamar alguém em voz alta. 
  
  
-Questão 70 (2016.1) 
- 
- 
+\
+@70 (2016.1) 
+\L 
  
 Orientações a população são encontradas 
 também em sites oficiais. Ao clicar no endereço 
 eletrônico mencionado no cartaz disponível na 
 internet, o leitor tem acesso aos(às): 
  
+\
 A) ações do governo local referentes a 
 calamidades. 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-26 
-novocadernoenem@gmail.com 
 B) relatos de sobreviventes em tragédias 
 marcantes. 
 C) tipos de desastres naturais possíveis de 
@@ -2835,18 +2644,13 @@ E) medidas de emergência a serem tomadas
 em catástrofes. 
  
  
-Questão 71 (2016.2) 
+\
+@71 (2016.2) 
  
 Mauritius: gender roles and statuses 
  
 Division of Labor by Gender. The economic 
-success 
-of 
-industry 
-has 
-led 
-to 
-low 
+success of industry has led to low 
 unemployment rates. This has changed the 
 workplace and home life as women joined the 
 workforce. This industrialization also led to 
@@ -2878,33 +2682,20 @@ one’s family or pregnant spouse for more than
 two months. not to pay food support, or to 
 engage in sexual harassment. 
  
-Women 
-are 
-underrepresented 
-in 
-the 
-government. 
-The 
-National 
-Assembly 
-has 
+Women are underrepresented in the government. The National Assembly has 
 seventy seats, of which women hold five. 
  
 (Disponível em: www.everyculture.com.  
 Acesso em: 4 fev 2013) 
  
 Questões como o papel de homens e mulheres 
-na 
-sociedade 
-contemporânea 
-vêm 
-sendo 
+na sociedade contemporânea vêm sendo 
 debatidas de diferentes pontos de 
-vista, 
-influenciados por valores culturais específicos 
+vista, influenciados por valores culturais específicos 
 de cada sociedade. No caso das Ilhas Maurício. 
 esses valores sustentam a tomada de decisão 
 em torno da: 
+\
 A) importância do reconhecimento da presença 
 feminina na estrutura familiar. 
 B) manutenção da igualdade entre mulheres e 
@@ -2917,19 +2708,17 @@ E) criação de auxílio à mulher abandonada pelo
 cônjuge. 
  
  
-Questão 72 (2016.2) 
+\
+@72 (2016.2) 
+\L
  
  
- 
-Anúncios 
-publicitários 
-buscam 
-chamar 
-a 
+Anúncios publicitários buscam chamar a 
 atenção do consumidor por meio de recursos 
 diversos. Nesse pôster, os números indicados 
 correspondem ao(à): 
  
+\
 A) comprimento do cigarro. 
 B) tempo de queima do cigarro. 
 C) idade de quem começa a fumar. 
@@ -2937,7 +2726,8 @@ D) expectativa de vida de um fumante.
 E) quantidade de cigarros consumidos. 
  
  
-Questão 73 (2016.2) 
+\
+@73 (2016.2) 
  
 New vaccine could fight nicotine addiction 
  
@@ -2953,11 +2743,7 @@ inhaled — cause the serious health problems
 associated with smoking. But it is the nicotine in 
 cigarettes that, like other addictive substances, 
 stimulates rewards centers in the brain and 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-27 
-novocadernoenem@gmail.com 
+
 hooks 
 smokers 
 to 
@@ -2988,6 +2774,7 @@ de ajudar os fumantes, pesquisadores da Weill-
 Comell Medical College estão desenvolvendo 
 uma vacina que: 
  
+\
 A) diminua o risco de o fumante se tornar 
 dependente da nicotina. 
 B) seja produzida a partir de moléculas de 
@@ -3000,13 +2787,14 @@ E) controle os estímulos cerebrais do hábito de
 fumar. 
  
  
-Questão 74 (2016.2) 
- 
- 
+\
+@74 (2016.2) 
+\L 
  
 A campanha desse pôster, direcionada aos 
 croatas, tem como propósito: 
  
+\
 A) alertar os cidadãos sobre a lei em vigor 
 contra a discriminação. 
 B) conscientizar sobre as consequências do 
@@ -3017,9 +2805,9 @@ D) fazer uma crítica à falta de habilidade das
 mulheres ao volante. 
 E) evitar os acidentes de trânsito envolvendo 
 mulheres. 
-Questão 75 (2016.2) 
- 
- 
+\
+@75 (2016.2) 
+\L 
  
 Bansky é um grafiteiro famoso. Na obra pintada 
 em um muro da cidade de Claremont, Califórnia, 
@@ -3027,6 +2815,7 @@ em 2007, ele fez uso de um trocadilho com a
 palavra “change”, o que caracteriza seu grafite 
 como um protesto contra a: 
  
+\
 A) escolha da mendicância como forma de vida. 
 B) condição de vida das pessoas em miséria. 
 C) falta de solidariedade dos mais favorecidos. 
@@ -3035,7 +2824,8 @@ E) incapacidade de os mendigos mudarem de
 vida. 
  
  
-Questão 76 (2016.3) 
+\
+@76 (2016.3) 
  
 Are Twitter and Facebook Afecting  
 How We Think? 
@@ -3054,11 +2844,7 @@ web, it seems, is like an electronic sweet shop,
 forever tempting us in different directions. But 
 does this mental promiscuity, this tendency to flit 
 around online, make us, well, thicker? 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-28 
-novocadernoenem@gmail.com 
+
 Nicholas Carr, the American science writer, has 
 mined this theme for his new book, The 
 Shallows, in which he argues that new media 
@@ -3087,6 +2873,7 @@ desses questionamentos e dos argumentos do
 escritor norte-americano Nicholas Carr, o texto 
 sugere que: 
  
+\
 A) o ato de clicar em ícones e manusear 
 aparelhos prejudica o comportamento. 
 B) o mundo virtual pode ser nocivo aos jovens, 
@@ -3099,7 +2886,8 @@ E) as redes sociais virtuais ajudam a melhorar
 nossa forma de pensar. 
  
  
-Questão 77 (2016.3) 
+\
+@77 (2016.3) 
  
 Getting Every Child to School 
  
@@ -3136,6 +2924,7 @@ contribuir
 para 
 diminuir a desigualdade social, uma vez que: 
  
+\
 A) denuncia o trabalho de menores 
 B) aponta motivos para a evasão escolar. 
 C) divulga o número de crianças fora da escola. 
@@ -3144,7 +2933,8 @@ E) pede ajuda para garantir às crianças o direito
 à educação. 
  
  
-Questão 78 (2016.3) 
+\
+@78 (2016.3) 
  
 On the Meaning of Being Chinese 
  
@@ -3174,6 +2964,7 @@ descrever
 a 
 complexidade em: 
  
+\
 A) viver como imigrante em um país asiático. 
 B) definir quem ela é no que concerne à etnia. 
 C) compreender as culturas que a constituem. 
@@ -3182,7 +2973,8 @@ E) lutar contra a discriminação nos Estados
 Unidos. 
  
  
-Questão 79 (2016.3) 
+\
+@79 (2016.3) 
  
 Hunger Games Review: Family Film Guide 
  
@@ -3200,11 +2992,7 @@ quick and the shots never linger on anything
 overly graphic, but there is blood and twenty-two 
 adolescents, aged 12-18, die in the annual blood 
 sport pageant. Immature tweens, even if they've 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-29 
-novocadernoenem@gmail.com 
+
 read the books, may not be ready to handle to 
 the film just yet. A good rule of thumb: if they're 
 not old enough to be reaped into the Hunger 
@@ -3220,6 +3008,7 @@ Hunger Games, a autora da resenha chama a
 atenção para a questão da violência, que é 
 mais: 
  
+\
 A) detalhada do que a autora do livro gostaria 
 que fosse. 
 B) brutal do que os pais permitiriam para seus 
@@ -3231,26 +3020,24 @@ E) impactante do que a representada no livro.
  
  
  
-Questão 80 (2016.3) 
- 
- 
+\
+@80 (2016.3) 
+\L 
  
 (ABOOLS, M. Disponível em: http://blog.eclecticmemes.com. Acesso em: 1 jan. 2015) 
  
 A sigla "AV", usada no texto, representa o alvo da crítica sobre a elevação do custo de um(a): 
  
+\
 A) enquete sobre profissões em baixa. 
 B) referendo realizado pelo governo. 
 C) tratamento médico inovador. 
 D) software de última geração. 
 E) novo sistema eleitoral. 
  
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-30 
-novocadernoenem@gmail.com 
-Questão 81 (2017.1) 
+
+\
+@81 (2017.1) 
  
 British Government to Recruit Teens as Next 
 Generation of Spies 
@@ -3313,6 +3100,7 @@ britânicas
 de 
 inteligência. O governo britânico decidiu que: 
  
+\
 A) enfrentará a guerra vigente e deliberada 
 contra a propriedade intelectual no Reino Unido. 
 B) abandonará a política de contratação de 
@@ -3326,7 +3114,8 @@ E) anunciará os nomes dos jovens a serem
 contratados pelas agências de inteligência. 
  
  
-Questão 82 (2017.1) 
+\
+@82 (2017.1) 
 One of the things that made an incredible 
 impression on me in the film was Frida's comfort 
 in and celebration of her own unique beauty. 
@@ -3351,6 +3140,7 @@ A autora desse comentário sobre o filme Frida
 mostra-se impressionada com o fato de a 
 pintora: 
  
+\
 A) ter uma aparência exótica. 
 B) vender bem a sua imagem. 
 C) ter grande poder de sedução. 
@@ -3358,8 +3148,9 @@ D) assumir sua beleza singular.
 E) recriar-se por meio da pintura. 
  
  
-Questão 83 (2017.1) 
- 
+\
+@83 (2017.1) 
+\L 
  
 Reader’s Digest, set. 1993 
  
@@ -3371,17 +3162,15 @@ Ao associar os termos anyplace e regret à
 imagem do texto, constata-se que o tema da 
 propaganda é a importância da: 
  
+\
 A) preservação do meio ambiente. 
 B) manutenção do motor. 
 C) escolha da empresa certa. 
 D) consistência do produto. 
 E) conservação do carro. 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-31 
-novocadernoenem@gmail.com 
-Questão 84 (2017.1) 
+
+\
+@84 (2017.1) 
  
 Letters 
  
@@ -3417,6 +3206,7 @@ No que diz respeito à tragédia ocorrida em
 Burkesville, a autora da carta enviada ao The 
 New York Times busca: 
  
+\
 A) reconhecer o acidente noticiado como um 
 fato isolado. 
 B) responsabilizar o irmão da vítima pelo 
@@ -3429,7 +3219,8 @@ E) reforçar a necessidade de proibição do uso
 de armas por crianças. 
  
  
-Questão 85 (2017.1) 
+\
+@85 (2017.1) 
  
 Israel Travel Guide 
  
@@ -3463,6 +3254,7 @@ Antes de viajar, turistas geralmente buscam
 informações sobre o local para onde pretendem 
 ir. O trecho do guia de viagens de Israel? 
  
+\
 A) descreve a história desse local para que 
 turistas valorizem seus costumes milenares. 
 B) informa hábitos religiosos para auxiliar 
@@ -3475,8 +3267,9 @@ E) apresenta aspectos gerais da cultura do país
 para continuar a atrair turistas estrangeiros. 
  
  
-Questão 86 (2017.2) 
- 
+\
+@86 (2017.3) 
+\L 
  
  
 (Disponível em: www.time.com.  
@@ -3485,11 +3278,8 @@ Acesso em: 30 jul. 2012 - adaptado)
 A proposta da capa da revista, associando 
 aspectos verbais e visuais, transmite a seguinte 
 mensagem: 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-32 
-novocadernoenem@gmail.com 
+
+\
 A) O combate aos problemas decorrentes do 
 aquecimento global é visto como uma guerra. 
 B) O aquecimento global é mundialmente 
@@ -3507,7 +3297,8 @@ E) O Exército está trabalhando no processo de
 reposição de árvores em áreas devastadas. 
  
  
-Questão 87 (2017.2) 
+\
+@87 (2017.3) 
  
 The Four Oxen and the Lion 
  
@@ -3530,6 +3321,7 @@ preceito moral, como se espera em textos desse
 gênero. Essa moral, podendo ser compreendida 
 como o tema do texto, está expressa em: 
  
+\
 A) O mais forte sempre vence. 
 B) A união faz a força. 
 C) A força carrega a justiça nas costas. 
@@ -3537,7 +3329,8 @@ D) O ataque é a melhor defesa.
 E) O inimigo da vida é a morte. 
  
  
-Questão 88 (2017.2) 
+\
+@88 (2017.3) 
  
 If You’re Out There 
  
@@ -3573,6 +3366,7 @@ Sony Music, 2008 - fragmento)
 O trecho da letra de If You’re Out There revela 
 que essa canção, lançada em 2008, é um(a): 
  
+\
 A) convocação à luta armada. 
 B) apelo ao engajamento social. 
 C) atitude saudosista. 
@@ -3580,7 +3374,8 @@ D) crítica a atitudes impensadas.
 E) elogio à capacidade de aceitação. 
  
  
-Questão 89 (2017.2) 
+\
+@89 (2017.3) 
  
 As Furniture Burns Quicker,  
 Firefighters Reconsider Tactics 
@@ -3619,18 +3414,16 @@ incêndios
 residenciais, que se propagam com mais 
 rapidez atualmente por causa: 
  
+\
 A) da composição sintética dos móveis. 
 B) da estrutura das construções atuais. 
 C) da acumulação demasiada de tecidos. 
 D) dos recursos insuficientes de combate ao 
 fogo. 
 E) da ventilação inapropriada dos cômodos. 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-33 
-novocadernoenem@gmail.com 
-Questão 90 (2017.2) 
+
+\
+@90 (2017.3) 
  
 Synopsis 
  
@@ -3675,6 +3468,7 @@ radicado em Nova York. O documentário Waste
 Land, produzido por ele em 2010, recebeu 
 vários prêmios e: 
  
+\
 A) sua filmagem aconteceu no curto tempo de 
 três meses. 
 B) seus personagens foram interpretados por 
@@ -3687,7 +3481,8 @@ E) seus diretores já pensam na continuidade
 desse trabalho. 
  
  
-Questão 91 (2018.1) 
+\
+@91 (2018.1) 
   
 Lava Mae: Creating Showers on  
 Wheels for the Homeless 
@@ -3725,6 +3520,7 @@ Acesso em: 26 jun.2015 - adaptado)
 A relação dos vocábulos shower, bus e 
 homeless, no texto, refere-se a: 
  
+\
 A) empregar moradores de rua em lava a jatos 
 para ônibus. 
 B) criar acesso a banhos gratuitos para 
@@ -3737,9 +3533,9 @@ E) abrigar dois mil moradores de rua em ônibus
 que foram adaptados. 
  
  
-Questão 92 (2018.1) 
- 
- 
+\
+@92 (2018.1) 
+\L 
  
 (Glasbergen,R.  
 Disponível em: www.glasbergen.com.  
@@ -3748,6 +3544,7 @@ Acesso em: 3 jul. 2015 - adaptado)
 No cartum, a crítica está no fato de a sociedade 
 exigir do adolescente que: 
  
+\
 A) se aposente prematuramente. 
 B) amadureça precocemente. 
 C) estude aplicadamente. 
@@ -3755,7 +3552,8 @@ D) se forme rapidamente.
 E) ouça atentamente. 
  
  
-Questão 93 (2018.1) 
+\
+@93 (2018.1) 
  
 Don't write in English, they said, 
 English is not your mother tongue... 
@@ -3764,11 +3562,7 @@ Becomes mine, its distortions, its queerness
 All mine, mine alone, it is half English, half 
 Indian, funny perhaps, but it is honest, 
 It is as human as I am human... 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-34 
-novocadernoenem@gmail.com 
+
 ...It voices my joys, my longings my 
 Hopes... 
 (Kamala Das, 1965:10) 
@@ -3782,6 +3576,7 @@ indianos, escreve suas obras em inglês, apesar
 de essa não ser sua primeira língua. Nesses 
 versos, ela: 
  
+\
 A) usa a língua inglesa com efeito humorístico. 
 B) recorre a vozes de vários escritores ingleses. 
 C) adverte sobre o uso distorcido da língua 
@@ -3792,7 +3587,8 @@ E) reconhece a incompreensão na sua maneira
 de falar inglês. 
  
  
-Questão 94 (2018.1) 
+\
+@94 (2018.1) 
  
 TEXTO I 
  
@@ -3839,6 +3635,7 @@ Nesse sentido, o segundo texto, que é um
 comentário sobre o site divulgado no primeiro, 
 apresenta a intenção do autor de:  
      
+\
 A) elogiar o trabalho proposto para a educação 
 nessa era tecnológica. 
 B) reforçar como a mídia pode contribuir para 
@@ -3851,7 +3648,8 @@ E) criticar a concepção de educação em que se
 baseia a organização. 
  
  
-Questão 95 (2018.1) 
+\
+@95 (2018.1) 
  
 1984 (excerpt) 
  
@@ -3879,6 +3677,7 @@ Estado totalitário. A ideia evidenciada nessa
 passagem é que o controle do Estado se dá por 
 meio do(a): 
  
+\
 A) boicote a ideais libertários. 
 B) veto ao culto das tradições. 
 C) poder sobre memórias e registros.   
@@ -3886,7 +3685,8 @@ D) censura a produções orais e escritas.
 E) manipulação de pensamentos individuais. 
  
  
-Questão 96 (2018.2) 
+\
+@96 (2018.3) 
  
 Which skin colour are you? The human 
 swatch chart that confronts racism 
@@ -3898,11 +3698,7 @@ skinned, fair-haired one, carries about him on
 his soul, when not on soul and body alike, the 
 shadow, or at least the birthmark, of the 
 aborigine or the negro.” This was forefront in the 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-35 
-novocadernoenem@gmail.com 
+
 mind of the French artist Pierre David when he 
 moved to Brazil in 2009. “When I was in the 
 streets, I could see so many skin colours”, he 
@@ -3935,6 +3731,7 @@ O artista francês Pierre David, ao evidenciar seu
 encantamento com a diversidade de cores de 
 peles no Brasil, no projeto Nuancier, também: 
  
+\
 A) desencadeia um estudo sobre a atitude dos 
 brasileiros 
 com 
@@ -3953,9 +3750,9 @@ E) elabora um produto com base na variedade
 de cores de pele para uso comercial. 
  
  
-Questão 97 (2018.2) 
- 
- 
+\
+@97 (2018.3) 
+\L 
  
 (Disponível em: www.doityourself.com.  
 Acesso em: 12 jul. 2015) 
@@ -3963,6 +3760,7 @@ Pelas expressões do it yourself e How-Tos,
 entende-se que a pesquisa realizada na página 
 da internet revela uma busca por: 
  
+\
 A) agendamento de serviços autorizados. 
 B) instrução para a realização de atividades. 
 C) esclarecimento de dúvidas com outros 
@@ -3973,9 +3771,9 @@ E) aquisição de produtos para a execução de
 tarefas. 
  
  
-Questão 98 (2018.2) 
- 
- 
+\
+@98 (2018.3) 
+\L 
  
 (Spring Break Camp, 2015. Fôlder.  
 Orange County Regional History Center) 
@@ -3984,6 +3782,7 @@ Tendo em vista a procura por atividades de
 lazer em períodos de recesso escolar, esse 
 fôlder: 
  
+\
 A) divulga uma proposta de acampamento com 
 abordagem temática. 
 B) anuncia a exibição de uma série de filmes 
@@ -3996,7 +3795,8 @@ E) convida para a apresentação de uma peça
 teatral sobre cultura indígena. 
  
  
-Questão 99 (2018.2) 
+\
+@99 (2018.3) 
  
 Monks embrace web to reach recruits 
 Stew Milne for The New York Times 
@@ -4010,11 +3810,7 @@ campaign featuring videos, a blog and even a
 Gregorian chant ringtone. “If this is the way the 
 younger generation are looking things up and 
 are communicating, then this is the place to be”, 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-36 
-novocadernoenem@gmail.com 
+
 said Abbot Caedmon Holmes, who has been in 
 charge of the abbey since 2007. That place is 
 far from the solitary lives that some may think 
@@ -4028,23 +3824,14 @@ even write blogs.
 (MILNE, S. Disponível em: www.nytimes.com.  
 Acesso em: 19 jun. 2012 - adaptado) 
  
-A 
-internet 
-costuma 
-ser 
-um 
-veículo 
-de 
+A internet costuma ser um veículo de 
 comunicação associado às camadas mais 
-jovens 
-da 
-população, 
-embora 
-não 
+jovens da população, embora não 
 exclusivamente a elas. Segundo o texto, a razão 
 que levou os religiosos a fazerem uma 
 campanha publicitária na internet foi o(a): 
  
+\
 A) busca por novos interessados pela vida 
 religiosa de monge. 
 B) baixo custo e a facilidade de acesso dos 
@@ -4057,7 +3844,8 @@ E) divulgação de fotos pessoais dos monges no
 Facebook. 
  
  
-Questão 100 (2018.2) 
+\
+@100 (2018.3) 
 Most people today have a mobile phone. In fact, 
 many people can't imagine how they ever got 
 along without a portable phone. However, many 
@@ -4086,6 +3874,7 @@ O uso de celulares em lugares públicos tem sido
 prática corrente. O texto aponta que essa 
 prática tem gerado: 
  
+\
 A) anseios por recursos para ampliar os 
 benefícios dos dispositivos. 
 B) reclamações sobre a falta de normas no 
@@ -4096,266 +3885,4 @@ D) discussões acerca da legislação para a
 comercialização de telefones. 
 E) dúvidas dos usuários em relação ao 
 manuseio de novos aparelhos. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-CADERNO INGLÊS 
-ENEM 2009 a 2018 
- 
-37 
-novocadernoenem@gmail.com 
-GABARITO 
-1 
-E 
-2 
-A 
-3 
-D 
-4 
-B 
-5 
-C 
-6 
-A 
-7 
-D 
-8 
-B 
-9 
-C 
-10 
-E 
-11 
-B 
-12 
-E 
-13 
-D 
-14 
-B 
-15 
-D 
-16 
-E 
-17 
-E 
-18 
-E 
-19 
-A 
-20 
-B 
-21 
-A 
-22 
-D 
-23 
-D 
-24 
-B 
-25 
-B 
-26 
-C 
-27 
-B 
-28 
-B 
-29 
-E 
-30 
-C 
-31 
-A 
-32 
-B 
-33 
-C 
-34 
-C 
-35 
-C 
-36 
-C 
-37 
-E 
-38 
-B 
-39 
-C 
-40 
-A 
-41 
-A 
-42 
-C 
-43 
-A 
-44 
-D 
-45 
-C 
-46 
-C 
-47 
-B 
-48 
-B 
-49 
-E 
-50 
-E 
-51 
-D 
-52 
-B 
-53 
-C 
-54 
-A 
-55 
-A 
-56 
-D 
-57 
-A 
-58 
-E 
-59 
-A 
-60 
-D 
-61 
-C 
-62 
-B 
-63 
-C 
-64 
-B 
-65 
-D 
-66 
-E 
-67 
-E 
-68 
-C 
-69 
-A 
-70 
-E 
-71 
-D 
-72 
-D 
-73 
-A 
-74 
-B 
-75 
-C 
-76 
-D 
-77 
-E 
-78 
-B 
-79 
-E 
-80 
-E 
-81 
-D 
-82 
-D 
-83 
-C 
-84 
-D 
-85 
-E 
-86 
-A 
-87 
-B 
-88 
-B 
-89 
-A 
-90 
-C 
-91 
-B 
-92 
-B 
-93 
-D 
-94 
-E 
-95 
-C 
-96 
-D 
-97 
-B 
-98 
-A 
-99 
-A 
-100 
-B 
- 
- 
- 
-
+\

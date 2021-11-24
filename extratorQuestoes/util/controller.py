@@ -23,11 +23,11 @@ def insertRespostas(respostas):
             trans.rollback()
 
 
-def insertGabarito(prova_id, questao_id, alternativa):
+def insertGabarito(prova_id, questao_id, resposta_id):
     with db.atomic() as trans:
         try:
             Gabaritos.create(prova_id=prova_id,
-                             questao_id=questao_id, alternativa=alternativa)
+                             questao_id=questao_id, resposta_id=resposta_id)
             trans.commit()
         except DatabaseError as err:
             print(err)
@@ -66,3 +66,14 @@ def getIdProva(nome_prova, dados_prova):
             return id_prova
         except Provas.DoesNotExist as err:
             print(err, f"data: {nome_prova}, {dados_prova}")
+
+
+def getResposta(prova, questao, alternativa):
+    with db.atomic() as trans:
+        try:
+            resposta = Respostas.get(Respostas.prova_id == prova, Respostas.questao_id ==
+                                     questao, Respostas.alternativa == alternativa).id
+            trans.commit()
+            return resposta
+        except Questoes.DoesNotExist as err:
+            print(err, f"data: {prova}, {questao}, {alternativa}")

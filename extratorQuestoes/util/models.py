@@ -64,14 +64,14 @@ class Gabaritos(Model):
 
     prova_id = ForeignKeyField(Provas, backref="gabarito")
     questao_id = ForeignKeyField(Questoes, backref="gabarito")
-    alternativa = CharField(max_length=1)
+    resposta_id = ForeignKeyField(Respostas)
 
     class Meta:
         database = db
         primary_key = CompositeKey('prova_id', 'questao_id')
 
     def __str__(self):
-        return f"Gabarito: {self.prova_id}; {self.questao_id}; {self.alternativa}"
+        return f"Gabarito: {self.prova_id}; {self.questao_id}; {self.resposta_id}"
 
 
 # db.connect()

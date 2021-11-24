@@ -1,41 +1,28 @@
- 
-ENEM 2009.1 - Prova Anulada 2009 
-ENEM 2009.2 - Prova Oficial 2009 
-ENEM 2009.3 - Prova Unidades Prisionais 2009 
- 
-ENEM 2010.1 - Prova Oficial 2010 
-ENEM 2010.2 - Prova Unidades Prisionais 2010 
- 
-ENEM 2011.1 - Prova Oficial 2011 
-ENEM 2011.2 - Prova Unidades Prisionais 2011 
- 
-ENEM 2012.1 - Prova Oficial 2012 
-ENEM 2012.2 - Prova Unidades Prisionais 2012 
- 
-ENEM 2013.1 - Prova Oficial 2013 
-ENEM 2013.2 - Prova Unidades Prisionais 2013 
- 
-ENEM 2014.1 - Prova Oficial 2014 (1ª Aplicação) 
-ENEM 2014.2 - Prova Unidades Prisionais 2014 
-ENEM 2014.3 - Prova Oficial 2014 (2ª Aplicação) 
- 
-ENEM 2015.1 - Prova Oficial 2015 
-ENEM 2015.2 - Prova Unidades Prisionais 2015 
- 
-ENEM 2016.1 - Prova Oficial 2016 (1ª Aplicação) 
-ENEM 2016.2 - Prova Oficial 2016 (2ª Aplicação) 
-ENEM 2016.3 - Prova Unidades Prisionais 2016 
- 
-ENEM 2017.1 - Prova Oficial 2017 
-ENEM 2017.2 - Prova Unidades Prisionais 2017 
- 
-ENEM 2018.1 - Prova Oficial 2018 
-ENEM 2018.2 - Prova Unidades Prisionais 2018 
-FILOSOFIA - SOCIOLOGIA 
- 
-1 
-novocadernoenem@gmail.com 
-Questão 01 (2009.1) 
+|ENEM;2009;1;Prova Oficial 2009 
+|ENEM;2009;3;Prova Unidades Prisionais 2009
+|ENEM;2009;4;Prova Anulada 2009 
+|ENEM;2010;1;Prova Oficial 2010 
+|ENEM;2010;3;Prova Unidades Prisionais 2010 
+|ENEM;2011;1;Prova Oficial 2011 
+|ENEM;2011;3;Prova Unidades Prisionais 2011 
+|ENEM;2012;1;Prova Oficial 2012 
+|ENEM;2012;3;Prova Unidades Prisionais 2012 
+|ENEM;2013;1;Prova Oficial 2013 
+|ENEM;2013;3;Prova Unidades Prisionais 2013 
+|ENEM;2014;1;Prova Oficial 2014 (1ª Aplicação) 
+|ENEM;2014;2;Prova Oficial 2014 (2ª Aplicação) 
+|ENEM;2014;3;Prova Unidades Prisionais 2014 
+|ENEM;2015;1;Prova Oficial 2015 
+|ENEM;2015;3;Prova Unidades Prisionais 2015 
+|ENEM;2016;1;Prova Oficial 2016 (1ª Aplicação) 
+|ENEM;2016;2;Prova Oficial 2016 (2ª Aplicação) 
+|ENEM;2016;3;Prova Unidades Prisionais 2016 
+|ENEM;2017;1;Prova Oficial 2017 
+|ENEM;2017;3;Prova Unidades Prisionais 2017 
+|ENEM;2018;1;Prova Oficial 2018 
+|ENEM;2018;3;Prova Unidades Prisionais 2018 
+@@FILOSOFIA - SOCIOLOGIA 
+@01 (2009.4) 
 O artesanato traz as marcas de cada cultura e, 
 desse modo, atesta a ligação do homem com o 
 meio social em que vive. Os artefatos são pro-
@@ -43,12 +30,13 @@ duzidos manualmente e costumam revelar uma
 integração entre homem e meio ambiente, iden-
 tificável no tipo de matéria-prima utilizada. 
  
- 
+\L 
  
 Pela matéria-prima (o barro) utilizada e pelos 
 tipos humanos representados, em qual região 
 do Brasil o artefato acima foi produzido?  
  
+\
 A) Sul.  
 B) Norte.  
 C) Sudeste.  
@@ -56,7 +44,8 @@ D) Nordeste.
 E) Centro-Oeste. 
  
  
-Questão 02 (2009.1) 
+\
+@02 (2009.4) 
 Quatro olhos, quatro mãos e duas cabeças for-
 mam a dupla de grafiteiros “Osgemeos”. Eles 
 cresceram pintando muros do bairro Cambuci, 
@@ -81,6 +70,7 @@ Acesso em: 10 set.2008 - adaptado)
 No processo social de reconhecimento de valo-
 res culturais, considera-se que: 
  
+\
 A) grafite é o mesmo que pichação e suja a 
 cidade, sendo diferente da obra dos artistas. 
 B) a população das grandes metrópoles depara-
@@ -96,7 +86,8 @@ tornam-se ainda mais desagradáveis com a
 aplicação do grafite. 
  
  
-Questão 03 (2009.1) 
+\
+@03 (2009.4) 
 Uma parcela importante da água utilizada no 
 Brasil destina-se ao consumo humano. Hábitos 
 comuns referentes ao uso da água para o con-
@@ -112,6 +103,7 @@ professor 1. Rio de Janeiro, 2006 - adaptado)
 A repetição desses hábitos diários pode contri-
 buir para: 
  
+\
 A) o aumento da disponibilidade de água para a 
 região onde você mora e do custo da água. 
 B) a manutenção da disponibilidade de água 
@@ -127,7 +119,8 @@ a região onde você mora e o aumento do custo
 da água. 
  
  
-Questão 04 (2009.1) 
+\
+@04 (2009.4) 
 O índio do Xingu, que ainda acredita em Tupã, 
 assiste pela televisão a uma partida de futebol 
 que acontece em Barcelona ou a um show dos 
@@ -145,11 +138,7 @@ São Paulo: 19 out. 2008 - adaptado)
  
 Ao comparar essas diferentes sociedades em 
 seu contexto histórico, verifica-se que: 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-2 
-novocadernoenem@gmail.com 
+\
 A) pessoas de diferentes lugares, por fazerem 
 uso de tecnologias de vanguarda, desfrutam da 
 mesma realidade cultural. 
@@ -168,7 +157,8 @@ Kong, mais ricos, vivem de acordo com o pre-
 sente. 
  
  
-Questão 05 (2009.1) 
+\
+@05 (2009.4) 
 A política implica o envolvimento da comunida-
 de cívica na definição do interesse público. Vale 
 dizer, portanto, que o cenário original da políti-
@@ -193,6 +183,7 @@ pela existência de determinados conjuntos de
 leis e regras, que regulam a vida em sociedade. 
 Nesse contexto, a participação coletiva é: 
  
+\
 A) necessária para que prevaleça a autonomia 
 social. 
 B) imprescindível para uma sociedade livre de 
@@ -205,7 +196,8 @@ E) indissociável dos avanços técnicos que pro-
 porcionam aumento na oferta de empregos. 
  
  
-Questão 06 (2009.1) 
+\
+@06 (2009.4) 
 O Cafundó é um bairro rural situado no municí-
 pio de Salto de Pirapora, a 150 km de São Pau-
 lo. Sua população, predominantemente negra, 
@@ -233,6 +225,7 @@ Acesso em: 6 abr. 2009 - adaptado)
 O bairro de Cafundó integra o patrimônio cultu-
 ral do Brasil porque: 
  
+\
 A) possui terras herdadas de famílias antigas da 
 região. 
 B) preservou o modo de falar de origem banto e 
@@ -245,7 +238,8 @@ E) possui moradores que são africanos do Brasil
 e perderam o laço com sua origem. 
  
  
-Questão 07 (2009.1) 
+\
+@07 (2009.4) 
 O intercâmbio de ideias, informações e culturas, 
 através dos meios de comunicação, imprimem 
 mudanças profundas no espaço geográfico e na 
@@ -263,6 +257,7 @@ foram inventados ou aperfeiçoados durante o
 século XX e provocaram mudanças radicais nos 
 modos de vida, como por exemplo, 
  
+\
 A) a diferenciação regional da identidade social 
 por meio de hábitos de consumo. 
 B) o maior fortalecimento de informações, hábi-
@@ -275,12 +270,8 @@ originários da Europa.
 E) a criação de novas referências culturais para 
 a identidade social por meio da disseminação 
 das redes de fast-food. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-3 
-novocadernoenem@gmail.com 
-Questão 08 (2009.2) 
+\
+@08 (2009.1) 
 Como se assistisse à demonstração de um es-
 petáculo mágico, ia revendo aquele ambiente 
 tão característico de família, com seus pesados 
@@ -320,6 +311,7 @@ vo que formula literariamente essa desagrega-
 ção histórica é o de descrever a casa dos Me-
 neses como: 
  
+\
 A) ambiente de pobreza e privação, que carece 
 de conforto mínimo para a sobrevivência da 
 família. 
@@ -340,7 +332,8 @@ como lembrança de um passado que está em
 vias de desaparecer completamente. 
  
  
-Questão 09 (2009.2) 
+\
+@09 (2009.1) 
 Entre 2004 e 2008, pelo menos 8 mil brasileiros 
 foram libertados de fazendas onde trabalhavam 
 como se fossem escravos. O governo criou uma 
@@ -367,6 +360,7 @@ Nos lugares mencionados no texto, o papel dos
 grupos de defesa dos direitos humanos tem sido 
 fundamental, porque eles: 
  
+\
 A) negociam com os fazendeiros o reajuste dos 
 honorários e a redução da carga horária de 
 trabalho. 
@@ -383,7 +377,8 @@ E) fortalecem a administração pública ao minis-
 trarem aulas aos seus servidores. 
  
  
-Questão 10 (2009.2) 
+\
+@10 (2009.1) 
 A mais profunda objeção que se faz à ideia da 
 criação de uma cidade, como Brasília, é que o 
 seu desenvolvimento não poderá jamais ser 
@@ -401,6 +396,7 @@ de Pós-graduação em Arte (UnB), Vol. 5, 2006)
 As ideias apontadas no texto estão em oposi-
 ção, porque: 
  
+\
 A) a cultura dos povos é reduzida a exemplos 
 esquemáticos que não encontram respaldo na 
 história do Brasil ou da América. 
@@ -408,12 +404,7 @@ B) as cidades, na primeira afirmação, têm um
 papel mais fraco na vida social, enquanto a 
 América é mostrada como um exemplo a ser 
 evitado. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-4 
-novocadernoenem@gmail.com 
-C) a objeção inicial, de que as cidades não po-
+) a objeção inicial, de que as cidades não po-
 dem ser inventadas, é negada logo em seguida 
 pelo exemplo utópico da colonização da Améri-
 ca. 
@@ -427,7 +418,8 @@ tânea, e a segunda mostra que há exemplos
 históricos que demonstram o contrário. 
  
  
-Questão 11 (2009.3) 
+\
+@11 (2009.3) 
 A mostra Largo do Paissandu – Onde o Circo 
 se Encontra reúne tudo o que de mais sagrado 
 ocorreu em quase dois séculos de picadeiro 
@@ -456,6 +448,7 @@ A mostra Largo do Paissandu – Onde o Circo
 se Encontra ressalta a importância que o circo 
 já teve no passado e demonstra que: 
  
+\
 A) a transmissão oral da tradição circense, pas-
 sada de família a família, apesar de historica-
 mente importante, impede que essa memória 
@@ -473,9 +466,9 @@ E) as famílias circenses europeias, juntamente
 com os artistas e o ambiente de nossa cultura 
 popular, foram responsáveis pelo surgimento do 
 circo no Brasil. 
-Questão 12 (2009.3) 
- 
- 
+\
+@12 (2009.3) 
+\L
  
 Os ex-escravos abandonam as fazendas em 
 que labutavam, ganham as estradas à procura 
@@ -502,6 +495,7 @@ vos, com o texto de Darcy Ribeiro, percebe-se
 que: 
  
  
+\
 A) a apresentação do tema, no quadro, evoca 
 elementos típicos da realidade nacional, ao 
 passo que o texto aborda o tema a partir de 
@@ -520,17 +514,13 @@ E) a libertação dos escravos é celebrada pelo
 pintor e lamentada pelo autor do texto. 
  
  
-Questão 13 (2009.3) 
+\
+@13 (2009.3) 
 Em 1697, publicou-se, em Lisboa, “A arte da 
 língua de Angola”, a mais antiga gramática de 
 uma língua banto, escrita na Bahia, para uso 
 dos jesuítas, com o objetivo de facilitar a doutri-
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-5 
-novocadernoenem@gmail.com 
-nação de negros angolanos. Os aportes bantos 
+ação de negros angolanos. Os aportes bantos 
 ou “bantuismos”, palavras africanas que se in-
 corporaram à língua portuguesa no Brasil, estão 
 associados ao regime da escravidão (senzala, 
@@ -551,6 +541,7 @@ de “bantuismos” na língua portuguesa, conclui-
 se que: 
  
  
+\
 A) o idioma dos escravos tinha prestígio social, 
 a ponto de merecer um estudo gramatical no 
 século XVII. 
@@ -565,7 +556,8 @@ E) os jesuítas foram os responsáveis pela difu-
 são da língua banto no Brasil. 
  
  
-Questão 14 (2010.1) 
+\
+@14 (2010.1) 
  
 Quem construiu a Tebas das sete portas? 
 Nos livros estão nomes de reis. 
@@ -590,6 +582,7 @@ ria construída sobre determinados monumentos
 e acontecimentos históricos. A crítica refere-se 
 ao fato de que: 
  
+\
 A) os agentes históricos de uma determinada 
 sociedade deveriam ser aqueles que realizaram 
 feitos heroicos ou grandiosos e, por isso, fica-
@@ -610,7 +603,8 @@ importantes permanecem sem terem sido alvos
 de pesquisas históricas. 
  
  
-Questão 15 (2010.1) 
+\
+@15 (2010.1) 
 As ruínas do povoado de Canudos, no sertão 
 norte da Bahia além de significativas para a 
 identidade cultural dessa região são uteis as 
@@ -622,6 +616,7 @@ mônio cultural material pelo Iphan (Instituto do
 Patrimônio Histórico e Artístico Nacional) porque 
 reúnem um conjunto de: 
  
+\
 A) objetos arqueológicos e paisagísticos. 
 B) acervos museológicos e paisagísticos. 
 C) núcleos urbanos e etnográficos. 
@@ -629,7 +624,8 @@ D) praticas e representações de uma sociedade.
 E) expressões e técnicas de sociedade extinta. 
  
  
-Questão 16 (2010.1) 
+\
+@16 (2010.1) 
 Substitui-se então uma história crítica, profunda, 
 por uma crônica de detalhes onde o patriotismo 
 e a bravura dos nossos soldados encobrem a 
@@ -655,14 +651,10 @@ Guerra do Paraguai. São Paulo: Cia. das Letras, 02)
 Uma leitura dessas narrativas divergentes de-
 monstra que ambas estão refletindo sobre: 
  
+\
 A) a carência de fontes para a pesquisa sobre 
 os reais motivos dessa Guerra. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-6 
-novocadernoenem@gmail.com 
-B) o caráter positivista das diferentes versões 
+) o caráter positivista das diferentes versões 
 sobre essa guerra. 
 C) o resultado das intervenções britânicas nos 
 cenários de batalha. 
@@ -672,7 +664,8 @@ E) o nível de crueldade das ações do exército
 brasileiro e argentino durante o conflito. 
  
  
-Questão 17 (2010.1) 
+\
+@17 (2010.1) 
 O artigo 402 do Código penal Brasileiro de 1890 
 dizia: Fazer nas ruas e praças públicas exercí-
 cios de agilidade e destreza corporal, conheci-
@@ -691,6 +684,7 @@ O artigo do primeiro Código Penal Republicano
 naturaliza medidas socialmente excludentes. 
 Nesse contexto, tal regulamento expressava: 
  
+\
 A) a manutenção de parte da legislação do Im-
 pério com vistas ao controle da criminalidade 
 urbana. 
@@ -708,7 +702,8 @@ os negros como categoria social inferior, discri-
 minada e segregada. 
  
  
-Questão 18 (2010.1) 
+\
+@18 (2010.1) 
 A política foi, inicialmente, a arte de impedir as 
 pessoas de se ocuparem do que lhes diz respei-
 to. Posteriormente, passou a ser a arte de com-
@@ -726,6 +721,7 @@ uma democracia incompleta.
 Considerando o texto, qual é o elemento comum 
 a esses dois momentos da historia política? 
  
+\
 A) A distribuição equilibrada do poder. 
 B) O impedimento da participação popular. 
 C) o controle das decisões por uma minoria. 
@@ -734,7 +730,8 @@ tes.
 E) A sistematização dos processos decisórios. 
  
  
-Questão 19 (2010.1) 
+\
+@19 (2010.1) 
 O príncipe, portanto, não deve se incomodar 
 com a reputação de cruel, se seu propósito é 
 manter o povo unido e leal. De fato, com uns 
@@ -750,6 +747,7 @@ reflexões sobre a monarquia e a função gover-
 nante. A manutenção da ordem social, segundo 
 esse autor, baseava-se na: 
  
+\
 A) inércia do julgamento de crimes polêmicos. 
 B) bondade em relação ao comportamento dos 
 mercenários. 
@@ -761,7 +759,8 @@ E) conveniência entre o poder tirânico e a moral
 do príncipe. 
  
  
-Questão 20 (2010.1) 
+\
+@20 (2010.1) 
 A lei não nasce da natureza, junto das fontes 
 frequentadas pelos primeiros pastores; a lei 
 nasce das batalhas reais, das vitórias, dos mas-
@@ -780,24 +779,21 @@ organização social. Com base na reflexão de
 Foucault, a finalidade das leis na organização 
 das sociedades modernas é: 
  
+\
 A) combater ações violentas na guerra entre as 
 nações. 
 B) coagir e servir para refrear a agressividade 
 humana. 
 C) criar limites entre a guerra e a paz praticadas 
 entre os indivíduos de uma mesma nação. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-7 
-novocadernoenem@gmail.com 
-D) estabelecer princípios éticos que regulamen-
+) estabelecer princípios éticos que regulamen-
 tam as ações bélicas ente países inimigos. 
 E) organizar as relações de poder na sociedade 
 entre os Estados. 
  
  
-Questão 21 (2010.1) 
+\
+@21 (2010.1) 
  
 Opinião 
  
@@ -830,6 +826,7 @@ Rio de Janeiro. O papel exercido pela Música
 Popular Brasileira (MPB) nesse contexto, evi-
 denciado pela letra de música citada, foi o de: 
  
+\
 A) entretenimento para os grupos intelectuais. 
 B) valorização do progresso econômico do país. 
 C) crítica à passividade dos setores populares. 
@@ -839,7 +836,8 @@ E) mobilização dos setores que apoiavam a
 Ditadura Militar. 
  
  
-Questão 22 (2010.1) 
+\
+@22 (2010.1) 
  
 A chegada da televisão 
  
@@ -861,6 +859,7 @@ prensa, tornou-se também veículo de utilidade
 pública, a favor da democracia, na medida em 
 que: 
  
+\
 A) amplificou os discursos nacionalistas autori-
 tários durante o governo Vargas. 
 B) revelou para o país casos de corrupção na 
@@ -873,7 +872,8 @@ E) corroborou a construção de obras faraônicas
 durante os governos militares. 
  
  
-Questão 23 (2010.1) 
+\
+@23 (2010.1) 
 A poluição e outras ofensas ambientais ainda 
 não tinha messe nome, mas já eram largamente 
 notadas no século XIX, nas grandes cidades 
@@ -894,6 +894,7 @@ acordo com o texto, pode-se dizer que tais mo-
 vimentos sociais emergiram e se expressaram 
 por meio: 
  
+\
 A) das ideologias conservacionistas, com milha-
 res de adeptos no meio urbano. 
 B) das políticas governamentais de preservação 
@@ -906,7 +907,8 @@ E) da contestação à degradação do trabalho,
 das tradições e da natureza. 
  
  
-Questão 24 (2010.1) 
+\
+@24 (2010.1) 
 A ética precisa ser compreendida como um 
 empreendimento coletivo a ser constantemente 
 retomado e rediscutido, porque é produto da 
@@ -914,12 +916,7 @@ relação interpessoal e social. A ética supõe
 ainda que cada grupo social se organize sentin-
 do-se responsável por todos e que crie condi-
 ções para o exercício de um pensar e agir autô-
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-8 
-novocadernoenem@gmail.com 
-nomos. A relação entre ética e política é tam-
+omos. A relação entre ética e política é tam-
 bém uma questão de educação e luta pela so-
 berania dos povos. É necessária uma ética re-
 novada, que se construa a partir da natureza 
@@ -935,6 +932,7 @@ crises sociais, conflitos ideológicos e contradi-
 ções da realidade. Sob esse enfoque e a partir 
 do texto, a ética pode ser compreendida como: 
  
+\
 A) instrumento de garantia da cidadania, porque 
 através dela os cidadãos passam a pensar e 
 agir de acordo com valores coletivos. 
@@ -953,7 +951,8 @@ numa sociedade que busca dimensionar sua
 vinculação à outras sociedades. 
  
  
-Questão 25 (2010.1) 
+\
+@25 (2010.1) 
 Homens da Inglaterra, por que arar para os 
 senhores que vos mantem na miséria? 
 Por que tecer com esforços e cuidado as ricas 
@@ -972,6 +971,7 @@ cas da nascente classe trabalhadora inglesa
 durante a Revolução Industrial. Tal contradição 
 esta identificada: 
  
+\
 A) na pobreza dos empregados, que estava 
 dissociada da riqueza dos patrões. 
 B) no salário dos operários, que era proporcio-
@@ -982,7 +982,8 @@ D) no trabalho, que era considerado uma garan-
 tia de liberdade. 
 E) na riqueza, que não era usufruída por aque-
 les que a produziam. 
-Questão 26 (2010.1) 
+\
+@26 (2010.1) 
 “Pecado nefando” era expressão correntemente 
 utilizada pelos inquisidores para a sodomia. 
 Nefandus: o que não pode ser dito. A Assem-
@@ -1012,6 +1013,7 @@ tos. Os textos indicam que as condenações
 públicas, perseguições, e assassinatos de ho-
 mossexuais no país estão associadas: 
  
+\
 A) à baixa representatividade política de grupos 
 organizados que defendem os direitos de cida-
 dania dos homossexuais. 
@@ -1029,7 +1031,8 @@ Estado, justifica a partir dos posicionamentos de
 correntes filosófico-cientificas. 
  
  
-Questão 27 (2010.1) 
+\
+@27 (2010.1) 
 Um banco inglês decidiu cobrar de seus clientes 
 cinco libras toda vez que recorressem aos fun-
 cionários de suas agências. E o motivo disso é 
@@ -1046,13 +1049,9 @@ Companhia das Letras, 2000 - adaptado)
 O exemplo mencionado permite identificar um 
 aspecto da adoção de novas tecnologias na 
 economia capitalista contemporânea.  
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
+m argumento utilizado pelas empresas e uma consequência social de tal aspecto estão em: 
  
-9 
-novocadernoenem@gmail.com 
-Um argumento utilizado pelas empresas e uma consequência social de tal aspecto estão em: 
- 
+\
 A) qualidade total e estabilidade no trabalho. 
 B) pleno emprego e enfraquecimento dos sindicatos. 
 C) diminuição dos custos e insegurança no emprego. 
@@ -1060,13 +1059,14 @@ D) responsabilidade social e redução do desemprego.
 E) maximização dos lucros e aparecimento de empregos. 
  
  
-Questão 28 (2010.2) 
- 
- 
+\
+@28 (2010.3) 
+\L 
  
 A tirinha mostra que o ser humano, na busca de atender suas necessidades e de se apropriar dos espa-
 ços, 
  
+\
 A) adotou a acomodação evolucionária como forma de sobrevivência ao se dar conta de suas deficiên-
 cias impostas pelo meio ambiente. 
 B) utilizou o conhecimento e a técnica para criar equipamentos que lhe permitiram compensar as  suas 
@@ -1078,8 +1078,9 @@ E) sofreu desvantagens em relação a outras espécies, por utilizar os recursos
 apropriar dos diferentes espaços. 
  
  
-Questão 29 (2010.1) 
- 
+\
+@29 (2010.1) 
+\L 
  
 Democracia: “regime político no qual a soberania é exercida pelo povo, pertence ao conjunto dos cida-
 dãos.” 
@@ -1087,17 +1088,14 @@ dãos.”
  
 Uma suposta “vacina” contra o despotismo, em um contexto democrático, tem por objetivo: 
  
+\
 A) impedir a contratação de familiares para o serviço público. 
 B) reduzir a ação das instituições constitucionais. 
 C) combater a distribuição equilibrada de poder. 
 D) evitar a escolha de governantes autoritários. 
 E) restringir a atuação do Parlamento. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-10 
-novocadernoenem@gmail.com 
-Questão 30 (2010.1) 
+\
+@30 (2010.1) 
 Na ética contemporânea, o sujeito não é mais 
 um sujeito substancial, soberano e absoluta-
 mente livre, nem um sujeito empírico puramente 
@@ -1118,6 +1116,7 @@ O texto, ao evocar a dimensão histórica do pro-
 cesso deformação da ética na sociedade con-
 temporânea, ressalta: 
  
+\
 A) os conteúdos éticos decorrentes das ideolo-
 gias político partidárias. 
 B) o valor da ação humana derivada de precei-
@@ -1130,7 +1129,8 @@ E) o julgamento da ação ética pelos políticos
 eleitos democraticamente. 
  
  
-Questão 31 (2010.2) 
+\
+@31 (2010.3) 
 A hibridez descreve a cultura de pessoas que 
 mantêm suas conexões com a terra de seus 
 antepassados, relacionando-se com a cultura do 
@@ -1147,6 +1147,7 @@ Contrapondo o fenômeno da hibridez à ideia de
 "pureza" cultural, observa-se que ele se mani-
 festa quando: 
  
+\
 A) elementos culturais autênticos são descarac-
 terizados e reintroduzidos com valores mais 
 altos em seus lugares de origem. 
@@ -1162,7 +1163,8 @@ sências das obras uns dos outros.
 E) intercâmbios entre diferentes povos e cam-
 pos de produção cultural passam a gerar novos 
 produtos e manifestações. 
-Questão 32 (2010.2) 
+\
+@32 (2010.3) 
 Na antiga Grécia, o teatro tratou de questões 
 como destino, castigo e justiça. Muitos gregos 
 sabiam de cor inúmeros versos das peças dos 
@@ -1178,6 +1180,7 @@ religioso.
 Esses fatos são exemplos de que, em diferentes 
 tempos e situações, o teatro é uma forma: 
  
+\
 A) de entretenimento popular, que se esgota na 
 sua função de distrair. 
 B) de manipulação do povo pelo poder, que 
@@ -1190,7 +1193,8 @@ E) de manipulação do povo pelos intelectuais
 que compõem as peças. 
  
  
-Questão 33 (2010.2) 
+\
+@33 (2010.3) 
 A ética exige um governo que amplie a igualda-
 de entre os cidadãos. Essa é a base da pátria. 
 Sem ela, muitos indivíduos não se sentem "em 
@@ -1206,6 +1210,7 @@ em uma sociedade. De acordo com o texto, a
 ética corresponde a: 
  
  
+\
 A) proibição da interferência de estrangeiros em 
 nossa pátria. 
 B) normas determinadas pelo governo, diferen-
@@ -1218,18 +1223,14 @@ E) valores e costumes partilhados pela maioria
 da sociedade. 
  
  
-Questão 34 (2010.2) 
+\
+@34 (2010.3) 
 No século XX, o transporte rodoviário e a avia-
 ção civil aceleraram o intercâmbio de pessoas e 
 mercadorias, fazendo com que as distâncias e a 
 percepção subjetiva das mesmas se reduzissem 
 constantemente. É possível apontar uma ten-
 dência de universalização em vários campos, 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-11 
-novocadernoenem@gmail.com 
 por exemplo, na globalização da economia, no 
 armamentismo nuclear, na manipulação genéti-
 ca, entre outros. 
@@ -1243,6 +1244,7 @@ dos do ponto de vista moral, o que leva à defesa
 da criação de normas universais que estejam de 
 acordo com: 
  
+\
 A) os imperativos técnico-científicos, que deter-
 minam com exatidão o grau de justiça das nor-
 mas. 
@@ -1259,9 +1261,9 @@ políticos, os quais dispõem de condições para
 tomar decisões. 
  
  
-Questão 35 (2010.2) 
- 
- 
+\
+@35 (2010.3) 
+\L
  
 A foto revela um momento da Guerra do Vietnã 
 (1965-1975), conflito militar cuja cobertura jorna-
@@ -1270,6 +1272,7 @@ a televisão. Um dos papéis exercidos pelos
 meios de comunicação na cobertura dessa 
 guerra, evidenciado pela foto, foi: 
  
+\
 A) defender a necessidade de intervenções 
 armadas em países comunistas. 
 B) demonstrar as diferenças culturais existentes 
@@ -1280,7 +1283,8 @@ D) denunciar os abusos cometidos pela inter-
 venção militar norte-americana. 
 E) divulgar valores que questionavam as ações 
 do governo vietnamita. 
-Questão 36 (2010.2) 
+\
+@36 (2010.3) 
 A primeira instituição de ensino brasileira que 
 inclui disciplinas voltadas ao público LGBT (lés-
 bicas, gays, bissexuais e transexuais) abriu 
@@ -1299,6 +1303,7 @@ afirmativa voltada ao público LGBT. Com a cria-
 ção de uma instituição de ensino para atender 
 esse público, pretende-se: 
  
+\
 A) permitir o acesso desse segmento ao ensino 
 técnico. 
 B) copiar os modelos educacionais dos EUA e 
@@ -1311,7 +1316,8 @@ E) criar uma estratégia de proteção e isolamen-
 to desse grupo. 
  
  
-Questão 37 (2010.2) 
+\
+@37 (2010.3) 
  
 O meu lugar, 
 Tem seus mitos e seres de luz, 
@@ -1340,17 +1346,14 @@ interação explícita na canção expressa um pro-
 cesso de: 
  
  
+\
 A) homogeneização cultural. 
 B) exclusão sociocultural. 
 C) autossegregação espacial. 
 D) expansão urbana. 
 E) pertencimento ao espaço. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-12 
-novocadernoenem@gmail.com 
-Questão 38 (2010.2) 
+\
+@38 (2010.3) 
 Quando Édipo nasceu, seus pais, Laio e Jocas-
 ta, os reis de Tebas, foram informados de uma 
 profecia na qual o filho mataria o pai e se casa-
@@ -1383,6 +1386,7 @@ divina. A expressão filosófica que toma como
 pressuposta a tese do determinismo é: 
  
  
+\
 A) "Não me pergunte quem sou eu e não me 
 diga para permanecer o mesmo." Michel Fou-
 cault. 
@@ -1398,7 +1402,8 @@ sua imagem e semelhança." Friedrich Nietzs-
 che. 
  
  
-Questão 39 (2011.1) 
+\
+@39 (2011.1) 
 O brasileiro tem noção clara dos comportamen-
 tos éticos e morais adequados, mas vive sob o 
 espectro da corrupção, revela pesquisa. Se o 
@@ -1412,6 +1417,7 @@ efetivamente o que é moral constitui uma ambi-
 guidade inerente ao humano, porque as normas 
 morais são: 
  
+\
 A) decorrentes da vontade divina e, por esse 
 motivo, utópicas. 
 B) parâmetros idealizados, cujo cumprimento é 
@@ -1424,7 +1430,8 @@ E) cumpridas por aqueles que se dedicam intei-
 ramente a observar as normas jurídicas. 
  
  
-Questão 40 (2011.1) 
+\
+@40 (2011.1) 
 Na década de 1990, os movimentos sociais 
 camponeses e as ONGs tiveram destaque, ao 
 lado de outros sujeitos coletivos. Na sociedade 
@@ -1444,6 +1451,7 @@ Segundo o texto, os movimentos sociais contri-
 buem para o processo de construção democrá-
 tica, porque: 
  
+\
 A) determinam o papel do Estado nas transfor-
 mações socioeconômicas. 
 B) aumentam o clima de tensão social na socie-
@@ -1456,7 +1464,8 @@ E) propiciam a adoção de valores éticos pelos
 órgãos do Estado. 
  
  
-Questão 41 (2011.1) 
+\
+@41 (2011.1) 
 Embora o Brasil seja signatário das convenções 
 e tratados internacionais contra a tortura e tenha 
 incorporado em seu ordenamento jurídico uma 
@@ -1475,14 +1484,10 @@ Acesso em: 16 jun 2010 - adaptado)
 O texto destaca a questão da tortura no país, 
 apontando que: 
  
+\
 A) a justiça brasileira, por meio de tratados e 
 leis, tem conseguido inibir e, inclusive, extinguir 
 a prática da tortura. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-13 
-novocadernoenem@gmail.com 
 B) a existência da lei não basta como garantia 
 de justiça para as vítimas e testemunhas dos 
 casos de tortura. 
@@ -1498,7 +1503,8 @@ cia de jurisprudência a respeito da tortura, o que
 a impede de atuar nesses casos. 
  
  
-Questão 42 (2011.1) 
+\
+@42 (2011.1) 
  
 TEXTO I 
  
@@ -1524,6 +1530,7 @@ tada no Texto I, os meios de comunicação, de
 acordo com o Texto II, assumem um papel rele-
 vante na sociedade por: 
  
+\
 A) orientarem os cidadãos na compra dos bens 
 necessários à sua sobrevivência e bem-estar. 
 B) fornecerem informações que fomentam o 
@@ -1536,7 +1543,8 @@ E) promoverem a unidade cultural, por meio das
 transmissões esportivas. 
  
  
-Questão 43 (2011.1) 
+\
+@43 (2011.1) 
 O acidente nuclear de Chernobyl revela brutal-
 mente os limites dos poderes técnico-científicos 
 da humanidade e as ”marchas-à-ré“ que a ”na-
@@ -1551,6 +1559,7 @@ O texto trata do aparato técnico-científico e as
 suas consequências para a humanidade, pro-
 pondo que esse desenvolvimento: 
  
+\
 A) defina seus projetos a partir dos interesses 
 coletivos. 
 B) guie-se por interesses econômicos, prescri-
@@ -1563,7 +1572,8 @@ E) tenha gestão própria, com o objetivo de me-
 lhor apropriação da natureza. 
  
  
-Questão 44 (2011.1) 
+\
+@44 (2011.1) 
 Um volume imenso de pesquisas tem sido pro-
 duzido para tentar avaliar os efeitos dos pro-
 gramas de televisão. A maioria desses estudos 
@@ -1584,6 +1594,7 @@ rais da televisão na vida do ser humano. E as
 crianças, em particular, são as mais vulneráveis 
 a essas influências, porque: 
  
+\
 A) codificam informações transmitidas nos pro-
 gramas infantis por meio da observação. 
 B) adquirem conhecimentos variados que incen-
@@ -1596,7 +1607,8 @@ E) apreendem modelos de sociedade pautados
 na observância das leis. 
  
  
-Questão 45 (2011.1) 
+\
+@45 (2011.1) 
 Em geral, os nossos tupinambás ficam bem 
 admirados ao ver os franceses e os outros dos 
 países longínquos terem tanto trabalho para 
@@ -1609,17 +1621,13 @@ madeira em vossa terra?”
  
 (LÉRY, J. Viagem à Terra do Brasil. In: FERNANDES, 
 F. Mudanças Sociais no Brasil. São Paulo: Difel, 74) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-14 
-novocadernoenem@gmail.com 
 O viajante francês Jean de Léry (1534-1611) 
 reproduz um diálogo travado, em 1557, com um 
 ancião tupinambá, o qual demonstra uma dife-
 rença entre a sociedade europeia e a indígena 
 no sentido: 
  
+\
 A) do destino dado ao produto do trabalho nos 
 seus sistemas culturais. 
 B) da preocupação com a preservação dos re-
@@ -1632,7 +1640,8 @@ E) da preocupação com o armazenamento de
 madeira para os períodos de inverno. 
  
  
-Questão 46 (2011.1) 
+\
+@46 (2011.1) 
 A Lei 10.639, de 9 de janeiro de 2003, inclui no 
 currículo dos estabelecimentos de ensino fun-
 damental e médio, oficiais e particulares, a obri-
@@ -1655,6 +1664,7 @@ A referida lei representa um avanço não só para
 a educação nacional, mas também para a soci-
 edade brasileira, porque: 
  
+\
 A) legitima o ensino das ciências humanas nas 
 escolas. 
 B) divulga conhecimentos para a população 
@@ -1667,7 +1677,8 @@ E) impulsiona o reconhecimento da pluralidade
 étnico-racial do país. 
  
  
-Questão 47 (2011.2) 
+\
+@47 (2011.3) 
 As relações sociais, produzidas a partir da ex-
 pansão do mercado capitalista ― e o sistema 
 de fábrica é seu “estágio superior” ―, tornaram 
@@ -1691,6 +1702,7 @@ ma de fábrica”, expropriou o trabalhador do seu
 “saber fazer”, provocando, assim, 
  
  
+\
 A) a divisão e a hierarquização do processo 
 laboral, que ocasionaram o distanciamento do 
 trabalhador do seu produto final. 
@@ -1708,7 +1720,8 @@ praticadas pelos artesãos ingleses desde a Bai-
 xa Idade Média. 
  
  
-Questão 48 (2011.2) 
+\
+@48 (2011.3) 
 Vivemos nessa era interligada em que pessoas 
 de todo o planeta participam de uma única or-
 dem informacional das comunicações moder-
@@ -1729,6 +1742,7 @@ vida social das pessoas está sofrendo grandes
 alterações devidas: 
  
  
+\
 A) à maior disponibilidade de tempo para ativi-
 dades relacionadas ao lazer. 
 B) ao aumento nos níveis de desemprego entre 
@@ -1740,12 +1754,8 @@ das pelos meios convencionais de comunica-
 ção. 
 E) à diminuição na interação social entre os 
 indivíduos mais informatizados. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-15 
-novocadernoenem@gmail.com 
-Questão 49 (2011.2) 
+\
+@49 (2011.3) 
 A memória não é um simples lembrar ou recor-
 dar, mas revela uma das formas fundamentais 
 de nossa existência, que é a relação com o 
@@ -1763,6 +1773,7 @@ Com base no texto, qual é o significado da me-
 mória? 
  
  
+\
 A) É a perda de nossa relação com o presente, 
 preservando o passado. 
 B) É o esforço de apagar o passado e inaugurar 
@@ -1775,7 +1786,8 @@ E) É o potencial de evocar o passado apontan-
 do para o futuro. 
  
  
-Questão 50 (2011.2) 
+\
+@50 (2011.3) 
 “As tendências da moda, literatura, música, 
 cinema, esportes, política, vida familiar refletem 
 a mentalidade de uma época. E os mercados de 
@@ -1794,6 +1806,7 @@ uma determinada época, em que os fatores
 influenciadores são ações: 
  
  
+\
 A) psicológicas individuais. 
 B) intuitivas herdadas. 
 C) sociais interativas. 
@@ -1802,7 +1815,8 @@ D) culturais locais.
 E) econômicas isoladas. 
  
  
-Questão 51 (2011.2) 
+\
+@51 (2011.3) 
 Subjaz na propaganda tanto política quanto 
 comercial a ideia de que as massas podem ser 
 conquistadas, dominadas e conduzidas, e, por 
@@ -1814,6 +1828,7 @@ contém um elemento de coerção”.
 À luz do texto, qual a implicação da publicidade 
 de massa para a democracia contemporânea? 
  
+\
 A) A transparência política das ações do Esta-
 do. 
 B) O fortalecimento da sociedade civil. 
@@ -1825,7 +1840,8 @@ E) O declínio do debate político na esfera públi-
 ca. 
  
  
-Questão 52 (2011.2) 
+\
+@52 (2011.3) 
 Em uma das reuniões do GPH (Grupo de Pais 
 de Homossexuais) na rua Major Sertório, no 
 centro de São Paulo, mais de 80 jovens ocupam 
@@ -1852,6 +1868,7 @@ basa a criação de movimentos sociais como o
 GPH e de outros grupos LGBT com o mesmo 
 perfil? 
  
+\
 A) A participação político-partidária dos grupos 
 LGBT. 
 B) A necessidade de superar o medo e a dis-
@@ -1863,7 +1880,8 @@ E) A liberalidade frequente dos pais de homos-
 sexuais. 
  
  
-Questão 53 (2011.2) 
+\
+@53 (2011.3) 
 A Unesco define como Patrimônio Cultural Ima-
 terial “as práticas, representações, expressões, 
 conhecimentos e técnicas ― junto com os ins-
@@ -1873,11 +1891,6 @@ des, os grupos e, em alguns casos, os indiví-
 duos reconhecem como parte integrante de seu 
 patrimônio cultural.” São exemplos de bens 
 registrados como Patrimônio Imaterial no Brasil: 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-16 
-novocadernoenem@gmail.com 
 o Círio de Nazaré no Pará, o Samba de Roda 
 do Recôncavo Baiano, o Ofício das Baianas de 
 Acarajé, o Jongo no Sudeste, entre outros. 
@@ -1891,6 +1904,7 @@ grantes de seu Patrimônio Cultural Imaterial. O
 objetivo de se realizar e divulgar este tipo de 
 registro é: 
  
+\
 A) recuperar as características originais das 
 manifestações culturais dos povos nativos do 
 Brasil. 
@@ -1907,10 +1921,10 @@ cado, proporcionando retorno financeiro a seus
 produtores. 
  
  
-Questão 54 (2011.2) 
- 
+\
+@54 (2011.3)
 Texto I 
- 
+\L 
  
 Texto II 
 Em sentido antropológico, não falamos em Cul-
@@ -1929,6 +1943,7 @@ parte da premissa de que o respeito à diversi-
 dade cultural significa: 
  
  
+\
 A) exaltar os elementos de uma cultura. 
 B) proteger as minorias culturais. 
 C) promover a aceitação do outro. 
@@ -1936,7 +1951,8 @@ D) estimular as religiões monoteístas.
 E) incentivar a divisão de classes. 
  
  
-Questão 55 (2011.2) 
+\
+@55 (2011.3) 
 A confusão era grande e ficou ainda maior de-
 pois do discurso do presidente norte-americano 
 Barack Obama em defesa da guerra, ao receber 
@@ -1956,6 +1972,7 @@ defender a guerra em nome da paz constitui um
 tipo de raciocínio: 
  
  
+\
 A) indutivo. 
 B) paradoxal. 
 C) dedutivo. 
@@ -1963,7 +1980,8 @@ D) metafórico.
 E) analógico. 
  
  
-Questão 56 (2011.2) 
+\
+@56 (2011.3) 
  
 Texto I 
  
@@ -1995,11 +2013,6 @@ nos ensina a ler e a escrever.
  
 (HELAL, R. O que é Sociologia do Esporte?  
 São Paulo: Brasiliense, 1990) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-17 
-novocadernoenem@gmail.com 
 Chamado de ópio do povo por uns, paixão naci-
 onal por outros, o futebol, além de esporte mais 
 praticado no Brasil, pode ser considerado fato 
@@ -2008,6 +2021,7 @@ praticantes, seja pelos torcedores. Nesse senti-
 do, as fontes anteriores apresentam ideias se-
 melhantes, pois o: 
  
+\
 A) lazer aparece em ambos como a principal 
 função social do futebol. 
 B) esporte é visto como instrumento de divulga-
@@ -2020,7 +2034,8 @@ E) “tapete verde” e a “bola–sol” são metáforas
 do nacionalismo.  
  
  
-Questão 57 (2011.2) 
+\
+@57 (2011.3) 
 “Não à liberdade para os inimigos da liberdade”, 
 dizia Saint-Just. Isso significa dizer: não à tole-
 rância para os intolerantes. 
@@ -2036,6 +2051,7 @@ históricos. Com base no texto, qual é a principal
 contribuição da Ética para a estruturação políti-
 ca da sociedade contemporânea? 
  
+\
 A) Instituir princípios éticos que correspondam 
 ao interesse de cada grupo social. 
 B) Revisar as leis e o sistema político como 
@@ -2050,7 +2066,8 @@ fundado na prevenção da violência e na restri-
 ção da liberdade. 
  
  
-Questão 58 (2011.2) 
+\
+@58 (2011.3) 
 Parece-me bastante significativo que a questão 
 muito discutida sobre se o homem deve ser 
 “ajustado” à máquina ou se a máquina deve ser 
@@ -2067,6 +2084,7 @@ Com base no texto, as principais consequências
 da substituição da ferramenta manual pela má-
 quina são: 
  
+\
 A) o adestramento do corpo e a perda da auto-
 nomia do trabalhador. 
 B) a reformulação dos modos de produção e o 
@@ -2079,7 +2097,8 @@ E) a flexibilização do controle ideológico e a
 manutenção da liberdade do trabalhador. 
  
  
-Questão 59 (2011.2) 
+\
+@59 (2011.3) 
 Atualmente, a noção de que o bandido não está 
 protegido pela lei tende a ser aceita pelo senso 
 comum. Urge mobilizar todas as forças da soci-
@@ -2101,6 +2120,7 @@ deve ser igual para todos. A inobservância des-
 se princípio é uma ameaça à democracia, por-
 que: 
  
+\
 A) diminui o poder de contestação dos movi-
 mentos sociais organizados. 
 B) favorece a impunidade e a corrupção por 
@@ -2113,7 +2133,8 @@ E) consagra a ideia de que as diferenças devem
 se basear na capacidade de cada um. 
  
  
-Questão 60 (2011.2) 
+\
+@60 (2011.3) 
 A atuação do Judiciário deve ser avaliada mais 
 por seu aspecto geral, pois sua missão-mor 
 transcende os processos vistos isoladamente. 
@@ -2125,11 +2146,6 @@ dade, com suas diferenças e paradoxos, viver e
 se desenvolver de modo seguro. Por esse pris-
 ma, decisões questionáveis quando vistas iso-
 ladamente se justificam quando olhadas siste-
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-18 
-novocadernoenem@gmail.com 
 micamente, pois foram proferidas tendo em 
 vista a importância que trariam para a constru-
 ção da ordem. 
@@ -2141,6 +2157,7 @@ Considerando que a sociedade é uma estrutura
 complexa, com interesses contraditórios, se-
 gundo o texto, as decisões do Poder Judiciário: 
  
+\
 A) devem ser infalíveis e imparciais. 
 B) interferem na organização da sociedade. 
 C) constroem a ponte entre os demais poderes. 
@@ -2148,7 +2165,8 @@ D) eliminam as contradições e as diferenças.
 E) são inquestionáveis. 
  
  
-Questão 61 (2012.1) 
+\
+@61 (2012.1) 
 Esclarecimento é a saída do homem de sua 
 menoridade, da qual ele próprio é culpado. A 
 menoridade é a incapacidade de fazer uso de 
@@ -2175,6 +2193,7 @@ contexto filosófico da Modernidade. Esclareci-
 mento, no sentido empregado por Kant, repre-
 senta: 
  
+\
 A) a reivindicação de autonomia da capacidade 
 racional como expressão da maioridade. 
 B) o exercício da racionalidade como pressu-
@@ -2187,7 +2206,8 @@ E) a emancipação da subjetividade humana de
 ideologias produzidas pela própria razão. 
  
  
-Questão 62 (2012.1) 
+\
+@62 (2012.1) 
  
 Texto I 
  
@@ -2226,6 +2246,7 @@ zador, tal como descrito no Texto II, o argumen-
 to do Texto I acerca da violência e agressivida-
 de na sociedade brasileira expressa a: 
   
+\
 A) incompatibilidade entre os modos democráti-
 cos de convívio social e a presença de aparatos 
 de controle policial. 
@@ -2247,7 +2268,8 @@ legislativas em formular mecanismos de contro-
 le social específicos à realidade social brasileira. 
  
  
-Questão 63 (2012.1) 
+\
+@63 (2012.1) 
 Torna-se claro que quem descobriu a África no 
 Brasil, muito antes dos europeus, foram os pró-
 prios africanos trazidos como escravos. E esta 
@@ -2262,16 +2284,12 @@ mais profundos.
 (SLENES, R. Malungu, ngoma vem! África  
 coberta e descoberta do Brasil. Revista USP, n. 12, 
 dez./jan./fev. 1991-92 - adaptado) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-19 
-novocadernoenem@gmail.com 
 Com base no texto, ao favorecer o contato de 
 indivíduos de diferentes partes da África, a ex-
 periência da escravidão no Brasil tornou possí-
 vel a: 
  
+\
 A) formação de uma identidade cultural afro-
 brasileira. 
 B) superação de aspectos culturais africanos 
@@ -2284,7 +2302,8 @@ E) resistência à incorporação de elementos
 culturais indígenas. 
  
  
-Questão 64 (2012.1) 
+\
+@64 (2012.1) 
 É verdade que nas democracias o povo parece 
 fazer o que quer; mas a liberdade política não 
 consiste nisso. Deve-se ter sempre presente em 
@@ -2300,6 +2319,7 @@ Editora Nova Cultural, 1997 - adaptado)
 A característica de democracia ressaltada por 
 Montesquieu diz respeito: 
  
+\
 A) ao status de cidadania que o indivíduo adqui-
 re ao tomar as decisões por si mesmo. 
 B) ao condicionamento da liberdade dos cida-
@@ -2313,7 +2333,8 @@ E) ao direito do cidadão exercer sua vontade de
 acordo com seus valores pessoais. 
  
  
-Questão 65 (2012.1) 
+\
+@65 (2012.1) 
 Na regulação de matérias culturalmente delica-
 das, como, por exemplo, a linguagem oficial, os 
 currículos da educação pública, o status das 
@@ -2342,6 +2363,7 @@ rias, como exposto por Habermas, encontra
 amparo nas democracias contemporâneas, na 
 medida em que se alcança: 
  
+\
 A) a secessão, pela qual a minoria discriminada 
 obteria a igualdade de direitos na condição da 
 sua concentração espacial, num tipo de inde-
@@ -2366,24 +2388,22 @@ venções de comportamento, para compor a
 arena política a ser compartilhada. 
  
  
-Questão 66 (2012.1) 
- 
+\
+@66 (2012.1) 
+\L
  
 Na imagem do início do século XX, identifica-se 
 um modelo produtivo cuja forma de organização 
 fabril baseava-se na: 
  
+\
 A) autonomia do produtor direto. 
 B) adoção da divisão sexual do trabalho.  
 C) exploração do trabalho repetitivo. 
 D) utilização de empregados qualificados. 
 E) incentivo à criatividade dos funcionários. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-20 
-novocadernoenem@gmail.com 
-Questão 67 (2012.1) 
+\
+@67 (2012.1) 
 Nossa cultura lipofóbica muito contribui para a 
 distorção da imagem corporal, gerando gordos 
 que se veem magros e magros que se veem 
@@ -2404,6 +2424,7 @@ Acesso em: 3 abr. 2012 - adaptado)
 O texto apresenta um discurso de disciplinariza-
 ção dos corpos, que tem como consequência: 
  
+\
 A) a ampliação dos tratamentos médicos alter-
 nativos, reduzindo os gastos com remédios. 
 B) a democratização do padrão de beleza, tor-
@@ -2416,7 +2437,8 @@ E) o aumento da longevidade, resultando no
 crescimento populacional. 
  
  
-Questão 68 (2012.1) 
+\
+@68 (2012.1) 
 Para Platão, o que havia de verdadeiro em 
 Parmênides era que o objeto de conhecimento é 
 um objeto de razão e não de sensação, e era 
@@ -2435,6 +2457,7 @@ das Ideias de Platão (427 a.C.-346 a.C.). De
 acordo com o texto, como Platão se situa diante 
 dessa relação? 
  
+\
 A) Estabelecendo um abismo intransponível 
 entre as duas. 
 B) Privilegiando os sentidos e subordinando o 
@@ -2445,7 +2468,8 @@ D) Afirmando que a razão é capaz de gerar
 conhecimento, mas a sensação não. 
 E) Rejeitando a posição de Parmênides de que 
 a sensação é superior à razão. 
-Questão 69 (2012.1) 
+\
+@69 (2012.1) 
  
 TEXTO I 
 Anaxímenes de Mileto disse que o ar é o ele-
@@ -2485,6 +2509,7 @@ teses de Anaxímenes, filósofo grego antigo, e
 de Basílio, filósofo medieval, têm em comum na 
 sua fundamentação teorias que: 
  
+\
 A) eram baseadas nas ciências da natureza. 
 B) refutavam as teorias de filósofos da religião. 
 C) tinham origem nos mitos das civilizações 
@@ -2495,7 +2520,8 @@ E) defendiam que Deus é o princípio de todas
 as coisas. 
  
  
-Questão 70 (2012.1) 
+\
+@70 (2012.1) 
  
 TEXTO I 
 Experimentei algumas vezes que os sentidos 
@@ -2509,11 +2535,6 @@ TEXTO II
 Sempre que alimentarmos alguma suspeita de 
 que uma ideia esteja sendo empregada sem 
 nenhum significado, precisaremos apenas inda-
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-21 
-novocadernoenem@gmail.com 
 gar: de que impressão deriva esta suposta 
 ideia? E se for impossível atribuir-lhe qualquer 
 impressão sensorial, isso servirá para confirmar 
@@ -2527,6 +2548,7 @@ sobre a natureza do conhecimento humano. A
 comparação dos excertos permite assumir que 
 Descartes e Hume: 
  
+\
 A) defendem os sentidos como critério originário 
 para considerar um conhecimento legítimo. 
 B) entendem que é desnecessário suspeitar do 
@@ -2541,7 +2563,8 @@ sentidos no processo de obtenção do conheci-
 mento. 
  
  
-Questão 71 (2012.1) 
+\
+@71 (2012.1) 
 Não ignoro a opinião antiga e muito difundida de 
 que o que acontece no mundo é decidido por 
 Deus e pelo acaso. Essa opinião é muito aceita 
@@ -2561,6 +2584,7 @@ cício do poder em seu tempo. No trecho citado,
 o autor demonstra o vínculo entre o seu pensa-
 mento político e o humanismo renascentista ao: 
  
+\
 A) valorizar a interferência divina nos aconteci-
 mentos definidores do seu tempo. 
 B) rejeitar a intervenção do acaso nos proces-
@@ -2573,20 +2597,24 @@ E) redefinir a ação política com base na unidade
 entre fé e razão. 
  
  
-Questão 72 (2012.2) 
+\
+@72 (2012.3) 
 Em 1937, Guernica, na Espanha, foi bombarde-
 ada sob o comando da força aérea da Alema-
 nha nazista, que apoiou os franquistas durante 
 a Guerra Civil Espanhola (1936-1939). 
- 
+
+\L
 (PICASSO, P. Guernica. Pintura-mural) 
- 
+
+\L
 (Disponível em: www.museoreinasofia.es) 
  
 A pintura-mural de Picasso e a fotografia retra-
 tam os efeitos do bombardeio, ressaltando, res-
 pectivamente: 
  
+\
 A) Crítica social – conformismo político. 
 B) Sofrimento humano – destruição material. 
 C) Percepção individual – registro histórico. 
@@ -2595,7 +2623,8 @@ tica.
 E) Realismo acrítico – idealização romântica. 
  
  
-Questão 73 (2012.2) 
+\
+@73 (2012.3) 
 Pode-se viver sem ciência, pode-se adotar 
 crenças sem querer justificá-las racionalmente, 
 pode-se desprezar as evidências empíricas. No 
@@ -2616,29 +2645,26 @@ bos os autores que, em linhas gerais, refere-se
 à: 
  
  
+\
 A) adoção da experiência do senso comum 
 como critério de verdade. 
 B) incapacidade de a razão confirmar o conhe-
 cimento resultante de evidências empíricas. 
 C) pretensão de a experiência legitimar por si 
 mesma a verdade. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-22 
-novocadernoenem@gmail.com 
 D) defesa de que a honestidade condiciona a possibilidade de se pensar a verdade. 
 E) compreensão de que a verdade deve ser justificada racionalmente. 
  
  
-Questão 74 (2012.2) 
- 
- 
+\
+@74 (2012.3) 
+\L
  
 De acordo com algumas teorias políticas, a formação do Estado é explicada pela renúncia que os indiví-
 duos fazem de sua liberdade natural quando, em troca da garantia de direitos individuais, transferem a 
 um terceiro o monopólio do exercício da força. O conjunto dessas teorias é denominado de: 
  
+\
 A) despotismo.  
 B) contratualismo. 
 C) anarquismo.           D) liberalismo. 
@@ -2646,7 +2672,8 @@ C) anarquismo.           D) liberalismo.
  
  
  
-Questão 75 (2012.2) 
+\
+@75 (2012.3) 
 Quanto à deliberação, deliberam as pessoas 
 sobre tudo? São todas as coisas objetos de 
 possíveis deliberações? Ou será a deliberação 
@@ -2667,6 +2694,7 @@ considera-se que é possível ao homem delibe-
 rar sobre: 
  
  
+\
 A) fatos e ações mutáveis da natureza, já que 
 ele é parte dela. 
 B) fatos atingíveis pela ação humana, desde 
@@ -2679,7 +2707,8 @@ E) coisas imagináveis, já que ele não tem con-
 trole sobre os acontecimentos da natureza. 
  
  
-Questão 76 (2012.2) 
+\
+@76 (2012.3) 
 No contexto da polis grega, as leis comuns nas-
 ciam de uma convenção entre cidadãos, defini-
 da pelo confronto de suas opiniões em um ver-
@@ -2695,6 +2724,7 @@ No texto, está relatado um exemplo de exercício
 da cidadania associado ao seguinte modelo de 
 prática democrática: 
  
+\
 A) Direta. 
 B) Corporativista. 
  
@@ -2705,7 +2735,8 @@ D) Representativa.
 E) Sindical. 
  
  
-Questão 77 (2012.2) 
+\
+@77 (2012.3) 
 Outro importante método de racionalização do 
 trabalho industrial foi concebido graças aos 
 estudos desenvolvidos pelo engenheiro norte-
@@ -2726,15 +2757,11 @@ te modelo produtivo ainda no início do século
 XX, produzindo transformações na organização 
 da produção e, também, na organização da vida 
 social.  
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-23 
-novocadernoenem@gmail.com 
 A inovação técnica trazida pelo seu método foi 
 a: 
  
  
+\
 A) polivalência dos trabalhadores que passaram 
 a realizar funções diversificadas numa mesma 
 jornada. 
@@ -2749,15 +2776,16 @@ brica para estreitar a relação entre os emprega-
 dos. 
  
  
-Questão 78 (2012.2) 
- 
- 
+\
+@78 (2012.3) 
+\L
  
 A imagem registra uma especificidade do con-
 texto urbano em que a ausência ou ineficiência 
 das políticas públicas resultou em: 
  
  
+\
 A) mediação dos conflitos entre classes. 
 B) aumento da segregação socioespacial. 
 C) superação do déficit habitacional. 
@@ -2765,7 +2793,8 @@ D) controle da especulação imobiliária.
 E) garantia dos direitos humanos. 
  
  
-Questão 79 (2012.2) 
+\
+@79 (2012.3) 
 Um Estado é uma multidão de seres humanos 
 submetida a leis de direito. Todo Estado encerra 
 três poderes dentro de si, isto é, a vontade uni-
@@ -2782,6 +2811,7 @@ Bauru: EDIPRO, 2003)
 De acordo com o texto, em um Estado de direi-
 to: 
  
+\
 A) o Poder Legislativo deve submeter-se ao 
 Executivo, na pessoa do governante, pois ele 
 que é soberano. 
@@ -2797,7 +2827,8 @@ E) a vontade do governante deve ser obedeci-
 da, pois é ele que tem o verdadeiro poder. 
  
  
-Questão 80 (2012.2) 
+\
+@80 (2012.3) 
 A cultura ocidental acentuadamente antropocên-
 trica foi marcada por processos convergentes 
 de desenvolvimento técnico-científico e acumu-
@@ -2816,6 +2847,7 @@ degradação do meio natural. Do ponto de vista
 da cultura e do imaginário ocidental moderno, 
 isso se deveu à: 
  
+\
 A) concepção sacralizada de que a natureza, 
 enquanto obra da criação de Deus, devia servir 
 à contemplação estética e religiosa. 
@@ -2836,7 +2868,8 @@ gava a repartição igualitária do direito de acesso
 aos recursos naturais e agrícolas. 
  
  
-Questão 81 (2012.2) 
+\
+@81 (2012.3) 
 Apesar de todo o esforço em prol de uma língua 
 internacional artificial, até o momento a sensa-
 ção é de relativo fracasso. Praticamente ne-
@@ -2847,11 +2880,6 @@ difundidas internacionalmente continuam a ser
 as de países política ou economicamente domi-
 nantes, como inglês, francês, espanhol, russo e 
 chinês. Nem mesmo organismos supranacionais 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-24 
-novocadernoenem@gmail.com 
 como a ONU e a União Europeia, onde reina 
 uma babel de línguas, se mostraram até agora 
 inclinados a adotar uma língua artificial. 
@@ -2865,6 +2893,7 @@ gua artificial mais difundida atualmente. Entre-
 tanto, como o texto sugere, o desequilíbrio atual 
 de poder entre os países impõe a: 
  
+\
 A) recuperação das línguas mortas. 
 B) adoção de uma língua unificada. 
 C) busca de nova língua global. 
@@ -2872,7 +2901,8 @@ D) valorização das línguas nacionais.
 E) supremacia de algumas línguas naturais. 
  
  
-Questão 82 (2012.2) 
+\
+@82 (2012.3) 
 Ao longo dos anos 1990, a luta pelas condições 
 de circulação por parte das pessoas com ne-
 cessidades especiais foi uma constante na so-
@@ -2891,6 +2921,7 @@ As lutas pelo direito à acessibilidade, movidas,
 principalmente, a partir dos anos de 1990, visa-
 vam garantir a: 
  
+\
 A) distribuição de renda. 
 B) participação política. 
 C) inclusão social. 
@@ -2899,7 +2930,8 @@ D) igualdade jurídica.
 E) liberdade de expressão. 
  
  
-Questão 83 (2012.2) 
+\
+@83 (2012.3) 
 O homem natural é tudo para si mesmo; é a 
 unidade numérica, o inteiro absoluto, que só se 
 relaciona consigo mesmo ou com seu seme-
@@ -2919,6 +2951,7 @@ São Paulo: Martins Fontes, 1999)
 A visão de Rousseau em relação à natureza 
 humana, conforme expressa o texto, diz que: 
  
+\
 A) o homem civil é formado a partir do desvio de 
 sua própria natureza. 
 B) o homem civil é um todo no corpo social, pois 
@@ -2931,7 +2964,8 @@ E) as instituições sociais expressam a natureza
 humana, pois o homem é um ser político. 
  
  
-Questão 84 (2012.2) 
+\
+@84 (2012.3) 
 O Ofício das Baianas de Acarajé constitui um 
 bem cultural de natureza imaterial, inscrito no 
 Livro dos Saberes em 2005, que consiste em 
@@ -2950,6 +2984,7 @@ Patrimônio Histórico Artístico Nacional) como
 patrimônio imaterial, pois representa: 
  
  
+\
 A) um símbolo da vitalidade dessas mulheres e 
 de suas comunidades. 
 B) uma fusão de ritos das diferentes heranças e 
@@ -2962,7 +2997,8 @@ E) uma manifestação artística antiga e de
 abrangência nacional. 
  
  
-Questão 85 (2012.2) 
+\
+@85 (2012.3) 
 Seria até engraçado, se não fosse trágico, por-
 que na hora que a pessoa tem uma doença, ela 
 fica se achando responsável por ter a doença. E 
@@ -2981,17 +3017,13 @@ não é?
  
 (Entrevista de Dráuzio Varella no programa 
 Roda Viva em 30 ago. 2004) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-25 
-novocadernoenem@gmail.com 
 Dráuzio Varella discute a associação entre do-
 ença e costumes cotidianos. De acordo com o 
 argumento apresentado, essa associação indi-
 ca: 
  
  
+\
 A) a diminuição da fé religiosa, na modernidade, 
 rejeitando a vida celibatária. 
 B) o desejo de estender a qualidade de vida, 
@@ -3005,7 +3037,8 @@ E) o desenvolvimento da medicina, propondo
 terapêuticas que melhorem a vida do doente. 
  
  
-Questão 86 (2012.2) 
+\
+@86 (2012.3) 
 Assentado, portanto, que a Escritura, em muitas 
 passagens, não apenas admite, mas necessita 
 de exposições diferentes do significado aparen-
@@ -3023,6 +3056,7 @@ cute a relação entre ciência e fé, problemática
 cara no século XVII. A declaração de Galileu 
 defende que: 
  
+\
 A) a bíblia deve receber uma interpretação lite-
 ral porque, desse modo, não será desviada a 
 verdade natural. 
@@ -3040,7 +3074,8 @@ acerca da natureza na bíblia constitui uma refe-
 rência primeira. 
  
  
-Questão 87 (2012.2) 
+\
+@87 (2012.3) 
 Ao final do Ano da França no Brasil, aconteceu 
 na Bahia um encontro único entre a bossa nova 
 brasileira e a música francesa, no show do can-
@@ -3061,6 +3096,7 @@ O que representam encontros como o ocorrido
 na Bahia em 2009 para o patrimônio cultural das 
 sociedades brasileira e francesa? 
  
+\
 A) Tentativa de se evidenciar a semelhança 
 linguística do francês e do português, com o 
 intuito de unir as diferentes sociedades. 
@@ -3078,8 +3114,9 @@ posições e da distância cultural entre os dois
 países. 
  
  
-Questão 88 (2012.2) 
- 
+\
+@88 (2012.3) 
+\L 
 Lucio Costa. Plano Piloto de Brasília. 
  
 O arrojado projeto arquitetônico e urbanista da 
@@ -3089,6 +3126,7 @@ Humanidade pela Unesco, porque o Plano Pilo-
 to de Brasília concretizava os princípios do: 
  
  
+\
 A) projeto nacional desenvolvimentista do go-
 verno JK. 
 B) pensamento organicista das metrópoles bra-
@@ -3096,12 +3134,8 @@ sileiras.
 C) urbanismo modernista internacional. 
 D) plano de interiorização da capital. 
 E) modelo da arquitetura sacra europeia. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-26 
-novocadernoenem@gmail.com 
-Questão 89 (2012.2) 
+\
+@89 (2012.3) 
  
 TEXTO I 
 Em março de 2004, o Brasil reconheceu na 
@@ -3134,6 +3168,7 @@ Estão sugeridas nos textos duas situações de
 exclusão social, cuja superação exige, respecti-
 vamente, medidas de: 
  
+\
 A) nacionalização de empresas e aumento da 
 distribuição de renda. 
 B) redução de impostos e políticas de ações 
@@ -3146,7 +3181,8 @@ E) sindicalização dos trabalhadores e contenção
 da migração interna. 
  
  
-Questão 90 (2013.1) 
+\
+@90 (2013.1) 
 No dia 1º de julho de 2012, a cidade do Rio de 
 Janeiro tornou-se a primeira do mundo a rece-
 ber o título da Unesco de Patrimônio Mundial 
@@ -3168,6 +3204,7 @@ Acesso em: 7 mar. 2013 - adaptado)
 O reconhecimento da paisagem em questão 
 como patrimônio mundial deriva da: 
  
+\
 A) presença do corpo artístico local. 
 B) imagem internacional da metrópole. 
 C) herança de prédios da ex-capital do país. 
@@ -3176,7 +3213,8 @@ E) relação sociedade-natureza de caráter singu-
 lar. 
  
  
-Questão 91 (2013.1) 
+\
+@91 (2013.1) 
  
 TEXTO I 
 Há já algum tempo eu me apercebi de que, 
@@ -3210,6 +3248,7 @@ A exposição e a análise do projeto cartesiano
 indicam que, para viabilizar a reconstrução radi-
 cal do conhecimento, deve-se: 
  
+\
 A) retomar o método da tradição para edificar a 
 ciência com legitimidade. 
 B) questionar de forma ampla e profunda as 
@@ -3222,18 +3261,14 @@ E) encontrar ideias e pensamentos evidentes
 que dispensam ser questionados. 
  
  
-Questão 92 (2013.1) 
+\
+@92 (2013.1) 
 Nasce daqui uma questão: se vale mais ser 
 amado que temido ou temido que amado. Res-
 ponde-se que ambas as coisas seriam de dese-
 jar; mas porque é difícil juntá-las, é muito mais 
 seguro ser temido que amado, quando haja de 
 faltar uma das duas. Porque dos homens se 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-27 
-novocadernoenem@gmail.com 
 pode dizer, duma maneira geral, que são ingra-
 tos, volúveis, simuladores, covardes e ávidos de 
 lucro, e enquanto lhes fazes bem são inteira-
@@ -3249,6 +3284,7 @@ A partir da análise histórica do comportamento
 humano em suas relações sociais e políticas. 
 Maquiavel define o homem como um ser: 
  
+\
 A) munido de virtude, com disposição nata a 
 praticar o bem a si e aos outros. 
 B) possuidor de fortuna, valendo-se de riquezas 
@@ -3261,7 +3297,8 @@ E) sociável por natureza, mantendo relações
 pacíficas com seus pares. 
  
  
-Questão 93 (2013.1) 
+\
+@93 (2013.1) 
 No final do século XIX, as Grandes Sociedades 
 carnavalescas alcançaram ampla popularidade 
 entre os foliões cariocas. Tais sociedades culti-
@@ -3291,6 +3328,7 @@ mente reinventadas ao longo do tempo. A atua-
 mostra que o carnaval representava um mo-
 mento em que as: 
  
+\
 A) distinções sociais eram deixadas de lado em 
 nome da celebração 
 B) aspirações cosmopolitas da elite impediam a 
@@ -3303,13 +3341,15 @@ E) perseguições policiais tinham caráter xenófo-
 bo por repudiarem tradições estrangeiras. 
  
  
-Questão 94 (2013.1) 
- 
+\
+@94 (2013.1) 
+\L
  
 Na imagem, da década de 1930, há uma crítica 
 à conquista de um direito pelas mulheres, rela-
 cionado com a: 
  
+\
 A) redivisão do trabalho doméstico. 
 B) liberdade de orientação sexual. 
 C) garantia da equiparação salarial. 
@@ -3317,7 +3357,8 @@ D) aprovação do direito ao divórcio.
 E) obtenção da participação eleitoral. 
  
  
-Questão 95 (2013.1) 
+\
+@95 (2013.1) 
 Na produção social que os homens realizam, 
 eles entram em determinadas relações indis-
 pensáveis e independentes de sua vontade; tais 
@@ -3338,13 +3379,9 @@ Para o autor, a relação entre economia e políti-
 ca estabelecida no sistema capitalista faz com 
 que: 
  
+\
 A) o proletariado seja contemplado pelo proces-
 so de mais-valia. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-28 
-novocadernoenem@gmail.com 
 B) o trabalho se constitua como o fundamento 
 real da produção material. 
 C) a consolidação das forças produtivas seja 
@@ -3355,7 +3392,8 @@ E) a burguesia revolucione o processo social de
 formação da consciência de classe. 
  
  
-Questão 96 (2013.1) 
+\
+@96 (2013.1) 
 Um trabalhador em tempo flexível controla o 
 local do trabalho, mas não adquire maior contro-
 le sobre o processo em si. A essa altura, vários 
@@ -3373,6 +3411,7 @@ Comparada à organização do trabalho caracte-
 rística do taylorismo e do fordismo, a concepção 
 de tempo analisada no texto pressupõe que: 
  
+\
 A) as tecnologias de informação sejam usadas 
 para democratizar as relações laborais. 
 B) as estruturas burocráticas sejam transferidas 
@@ -3386,7 +3425,8 @@ dos dos processos para os resultados do traba-
 lho. 
  
  
-Questão 97 (2013.1) 
+\
+@97 (2013.1) 
 A África também já serviu como ponto de parti-
 da para comédias bem vulgares, mas de muito 
 sucesso, como Um príncipe em Nova York e 
@@ -3407,6 +3447,7 @@ sobre a África e seus habitantes. Essa memória
 enfatiza e negligencia, respectivamente, os se-
 guintes aspectos do continente africano: 
  
+\
 A) A história e a natureza. 
 B) O exotismo e as culturas. 
 C) A sociedade e a economia. 
@@ -3414,7 +3455,8 @@ D) O comércio e o ambiente.
 E) A diversidade e a política. 
  
  
-Questão 98 (2013.1) 
+\
+@98 (2013.1) 
 Para que não haja abuso, é preciso organizar as 
 coisas de maneira que o poder seja contido pelo 
 poder. Tudo estaria perdido se o mesmo ho-
@@ -3437,6 +3479,7 @@ são condições necessárias para que possa ha-
 ver liberdade em um Estado. Isso pode ocorrer 
 apenas sob um modelo político em que haja: 
  
+\
 A) exercício de tutela sobre atividades jurídicas 
 e políticas. 
 B) consagração do poder político pela autorida-
@@ -3449,7 +3492,8 @@ E) reunião das funções de legislar, julgar e exe-
 cutar nas mãos de um governante eleito. 
  
  
-Questão 99 (2013.1) 
+\
+@99 (2013.1) 
 Quando ninguém duvida da existência de um 
 outro mundo, a morte é uma passagem que 
 deve ser celebrada entre parentes e vizinhos. O 
@@ -3468,22 +3512,19 @@ Ao comparar as maneiras com que as socieda-
 des têm lidado com a morte, o autor considera 
 que houve um processo de: 
  
+\
 A) mercantilização das crenças religiosas. 
 B) transformação das representações sociais. 
 C) disseminação do ateísmo nos países de 
 maioria cristã. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-29 
-novocadernoenem@gmail.com 
 D) diminuição da distância entre saber científico 
 e eclesiástico. 
 E) amadurecimento da consciência ligada à 
 civilização moderna. 
  
  
-Questão 100 (2013.1) 
+\
+@100 (2013.1) 
 O edifício é circular. Os apartamentos dos prisi-
 oneiros ocupam a circunferência. Você pode 
 chamá-los, se quiser, de celas. O apartamento 
@@ -3504,6 +3545,7 @@ como panóptico, um modelo que mostra o poder
 da disciplina nas sociedades contemporâneas, 
 exercido preferencialmente por mecanismos: 
  
+\
 A) religiosos, que se constituem como um olho 
 divino controlador que tudo vê. 
 B) ideológicos, que estabelecem limites pela 
@@ -3520,12 +3562,14 @@ se na compreensão dos benefícios gerais de se
 ter as próprias ações controladas. 
  
  
-Questão 101 (2013.1) 
- 
+\
+@101 (2013.1) 
+\L
  
 A charge revela uma crítica aos meios de co-
 municação, em especial à internet, porque: 
  
+\
 A) questiona a integração das pessoas nas re-
 des virtuais de relacionamento. 
 B) considera as relações sociais como menos 
@@ -3539,7 +3583,8 @@ espaço mais eficaz para a construção de rela-
 ções sociais. 
  
  
-Questão 102 (2013.1) 
+\
+@102 (2013.1) 
 Durante a realeza, e nos primeiros anos republi-
 canos, as leis eram transmitidas oralmente de 
 uma geração para outra. A ausência de uma 
@@ -3556,6 +3601,7 @@ São Paulo. Martins Fontes, 2000)
 A superação da tradição jurídica oral no mundo 
 antigo, descrita no texto, esteve relacionada à: 
  
+\
 A) adoção do sufrágio universal masculino. 
 B) extensão da cidadania aos homens livres. 
 C) afirmação de instituições democráticas. 
@@ -3563,7 +3609,8 @@ D) implantação de direitos sociais.
 E) tripartição dos poderes políticos. 
  
  
-Questão 103 (2013.1) 
+\
+@103 (2013.1) 
 A felicidade é, portanto, a melhor, a mais nobre 
 e a mais aprazível coisa do mundo, e esses 
 atributos não devem estar separados como na 
@@ -3581,22 +3628,19 @@ Ao reconhecer na felicidade a reunião dos mais
 excelentes atributos, Aristóteles a identifica co-
 mo: 
  
+\
 A) busca por bens materiais e títulos de nobre-
 za. 
 B) plenitude espiritual e ascese pessoal. 
 C) finalidade das ações e condutas humanas. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-30 
-novocadernoenem@gmail.com 
 D) conhecimento de verdades imutáveis e per-
 feitas. 
 E) expressão do sucesso individual e reconhe-
 cimento público. 
  
  
-Questão 104 (2013.1) 
+\
+@104 (2013.1) 
 Seguiam-se vinte criados custosamente vesti-
 dos e montados em soberbos cavalos; depois 
 destes, marchava o Embaixador do Rei do Con-
@@ -3614,6 +3658,7 @@ Originária dos tempos coloniais, as festas da
 Coroação do Rei do Congo evidencia um pro-
 cesso de: 
  
+\
 A) exclusão social. 
 B) imposição religiosa. 
 C) acomodação política. 
@@ -3621,7 +3666,8 @@ D) supressão simbólica.
 E) ressignificação cultural. 
  
  
-Questão 105 (2013.1) 
+\
+@105 (2013.1) 
 Tendo encarado a besta do passado olho no 
 olho, tendo pedido e recebido perdão e tendo 
 feito correções, viremos agora a página — não 
@@ -3642,6 +3688,7 @@ No texto, relaciona-se a consolidação da demo-
 cracia na África do Sul à superação de um lega-
 do: 
  
+\
 A) populista, que favorecia a cooptação de dis-
 sidentes políticos. 
 B) totalitarista, que bloqueava o diálogo com os 
@@ -3652,7 +3699,8 @@ D) estagnacionista, que disseminava a pauperi-
 zação social. 
 E) fundamentalista, que engendrava conflitos 
 religiosos. 
-Questão 106 (2013.1) 
+\
+@106 (2013.1) 
 Até hoje admitia-se que nosso conhecimento se 
 devia regular pelos objetos; porém, todas as 
 tentativas para descobrir, mediante conceitos, 
@@ -3671,6 +3719,7 @@ ficou conhecido como revolução copernicana na
 filosofia. Nele, confrontam-se duas posições 
 filosóficas que: 
  
+\
 A) assumem pontos de vista opostos acerca da 
 natureza do conhecimento. 
 B) defendem que o conhecimento é impossível, 
@@ -3685,7 +3734,8 @@ do nosso conhecimento e são ambas recusadas
 por Kant. 
  
  
-Questão 107 (2013.1) 
+\
+@107 (2013.1) 
 A recuperação da herança cultural africana deve 
 levar em conta o que é próprio do processo 
 cultural: seu movimento, pluralidade e comple-
@@ -3704,6 +3754,7 @@ Com base no texto, a análise de manifestações
 culturais de origem africana, como a capoeira 
 ou o candomblé, deve considerar que elas: 
  
+\
 A) permanecem como reprodução dos valores e 
 costumes africanos. 
 B) perderam a relação com o seu passado his-
@@ -3714,12 +3765,8 @@ D) contribuem para o distanciamento cultural
 entre negros e brancos no Brasil atual. 
 E) demonstram a maior complexidade cultural 
 dos africanos em relação aos europeus. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-31 
-novocadernoenem@gmail.com 
-Questão 108 (2013.1) 
+\
+@108 (2013.1) 
  
 TEXTO I 
 Ela acorda tarde depois de ter ido ao teatro e à 
@@ -3748,6 +3795,7 @@ Acesso em: 20 maio 2013 - adaptado)
 A representação social do feminino comum aos 
 dois textos é o(a): 
  
+\
 A) submissão de gênero, apoiada pela concep-
 ção patriarcal de família. 
 B) acesso aos produtos de beleza, decorrência 
@@ -3760,7 +3808,8 @@ E) valorização do casamento cristão, respalda-
 do pelos interesses vinculados à herança. 
  
  
-Questão 109 (2013.1) 
+\
+@109 (2013.1) 
 Os produtos e seu consumo constituem a meta 
 declarada do empreendimento tecnológico. Es-
 sa meta foi proposta pela primeira vez no início 
@@ -3783,6 +3832,7 @@ cebem a ciência como uma forma de saber que
 almeja libertar o homem das intempéries da 
 natureza. Nesse contexto, a investigação cientí-
 fica consiste em: 
+\
 A) expor a essência da verdade e resolver defi-
 nitivamente as disputas teóricas ainda existen-
 tes. 
@@ -3800,7 +3850,8 @@ menos naturais e impor limites aos debates
 acadêmicos. 
  
  
-Questão 110 (2013.1) 
+\
+@110 (2013.1) 
 Tenho 44 anos e presenciei uma transformação 
 impressionante na condição de homens e mu-
 lheres gays nos Estados Unidos. Quando nasci, 
@@ -3818,6 +3869,7 @@ semelhantes.
 A dimensão política da transformação sugerida 
 no texto teve como condição necessária a: 
  
+\
 A) ampliação da noção de cidadania. 
 B) reformulação de concepções religiosas. 
 C) manutenção de ideologias conservadoras. 
@@ -3826,7 +3878,8 @@ E) alteração da composição étnica da popula-
 ção. 
  
  
-Questão 111 (2013.2) 
+\
+@111 (2013.3) 
 Ao longo das três últimas décadas, houve uma 
 explosão de movimentos sociais pelo mundo. 
 Essa diversidade de movimentos — que vão 
@@ -3844,13 +3897,9 @@ Uma explicação para a expansão dos chama-
 dos novos movimentos sociais nas últimas três 
 décadas é a: 
  
+\
 A) fragilidade das redes globais comunicacio-
 nais, como internet e telefonia. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-32 
-novocadernoenem@gmail.com 
 B) garantia dos direitos sociais constitucionais, 
 como educação e previdência. 
 C) crise das organizações representativas tradi-
@@ -3861,7 +3910,8 @@ E) consolidação das corporações transnacionais
 monopolistas, como petrolíferas e mineradoras. 
  
  
-Questão 112 (2013.2) 
+\
+@112 (2013.3) 
 Hobbes realiza o esforço supremo de atribuir ao 
 contrato uma soberania absoluta e indivisível. 
 Ensina que, por um único e mesmo ato, os ho-
@@ -3878,6 +3928,7 @@ Maquiavel a nossos dias. Rio de Janeiro: Agir, 1995)
 A proposta de organização da sociedade apre-
 sentada no texto encontra-se fundamentada na: 
  
+\
 A) imposição das leis e na respeitabilidade ao 
 soberano. 
 B) abdicação dos interesses individuais e na 
@@ -3890,7 +3941,8 @@ E) mobilização do povo e na autoridade do par-
 lamento. 
  
  
-Questão 113 (2013.2) 
+\
+@113 (2013.3) 
 Há dois pilares para a concepção multilateral de 
 justiça: a ideia de que a relação entre Estados é 
 baseada na igualdade jurídica e a noção de que 
@@ -3910,12 +3962,14 @@ normas jurídicas mencionadas é a condição
 indispensável para a efetivação do seguinte 
 aspecto político: 
  
+\
 A) Voto censitário. 
 B) Sufrágio universal. 
 C) Soberania nacional. 
 D) Nacionalismo separatista. 
 E) Governo presidencialista. 
-Questão 114 (2013.2) 
+\
+@114 (2013.3) 
 Do outro lado do Atlântico, a coisa é bem dife-
 rente. A classe média europeia não está acos-
 tumada com a moleza. Toda pessoa normal que 
@@ -3932,6 +3986,7 @@ A diferença entre os costumes assinalados no
 texto e os da classe média brasileira é conse-
 quência da ocorrência no Brasil de: 
  
+\
 A) automação do trabalho nas fábricas, relacio-
 nada à expansão tecnológica. 
 B) ampliação da oferta de empregos, vinculada 
@@ -3944,7 +3999,8 @@ E) consolidação da estabilidade econômica,
 ligada à industrialização acelerada. 
  
  
-Questão 115 (2013.2) 
+\
+@115 (2013.3) 
 Ninguém vive sem ocupar espaço, sem respirar, 
 sem alimentar-se, sem ter um teto para abrigar-
 se e, na Modernidade, sem o que se incorporou 
@@ -3963,6 +4019,7 @@ O texto defende que duas mudanças provoca-
 das pela ação humana na Modernidade são 
 o(a): 
  
+\
 A) alteração no modo de vida das comunidades 
 e a delimitação dos problemas ambientais em 
 escala local. 
@@ -3978,12 +4035,8 @@ produtivas.
 E) esgotamento das reservas naturais e a desa-
 celeração da produção de bens de consumo 
 humano. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-33 
-novocadernoenem@gmail.com 
-Questão 116 (2013.2) 
+\
+@116 (2013.3) 
  
 Fronteira. Condição antidemocrática de exis-
 tência das democracias, distinguindo os cida-
@@ -4007,6 +4060,7 @@ No texto, a análise da relação entre democracia,
 cidadania e fronteira apresenta sob uma pers-
 pectiva crítica a necessidade de: 
  
+\
 A) reestruturação efetiva do Estado-nação. 
 B) liberalização controlada dos mercados. 
 C) contestação popular do voto censitário. 
@@ -4014,7 +4068,8 @@ D) garantia jurídica da lealdade nacional.
 E) afirmação constitucional dos territórios. 
  
  
-Questão 117 (2013.2) 
+\
+@117 (2013.3) 
 O contrário de um fato qualquer é sempre pos-
 sível, pois, além de jamais implicar uma contra-
 dição, o espírito o concebe com a mesma facili-
@@ -4039,6 +4094,7 @@ acontecem no mundo. Com relação ao conhe-
 cimento referente a tais eventos, Hume conside-
 ra que os fenômenos: 
  
+\
 A) acontecem de forma inquestionável, ao se-
 rem apreensíveis pela razão humana. 
 B) ocorrem de maneira necessária, permitindo 
@@ -4054,7 +4110,8 @@ tinto do conhecimento baseado em cálculo abs-
 trato. 
  
  
-Questão 118 (2013.2) 
+\
+@118 (2013.3) 
  
 TEXTO I 
  
@@ -4080,6 +4137,7 @@ texto histórico de construção e consolidação da
 Modernidade. A comparação entre essas visões 
 expressa, respectivamente: 
  
+\
 A) Articulação entre ciência e fé — pensamento 
 científico independente. 
 B) Poder secular acima do poder religioso — 
@@ -4092,7 +4150,8 @@ E) Autonomia do pensamento religioso — fo-
 mento à fé por meio da ciência. 
  
  
-Questão 119 (2013.2) 
+\
+@119 (2013.3) 
 Imagine uma festa. São centenas de pessoas 
 aparentemente viajadas, inteligentes, abertas a 
 novas amizades. Você seleciona uma delas e 
@@ -4110,16 +4169,12 @@ relevantes. São janelas e mais janelas abertas.
  
 (Disponível em: http://revistagalileu.globo.com.  
 Acesso em: 19 fev. 2013 - adaptado) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-34 
-novocadernoenem@gmail.com 
 Refletindo sobre a correlação entre meios de 
 comunicação e vida social, o texto associa a 
 internet a um padrão de sociabilidade que se 
 caracteriza pelo(a): 
  
+\
 A) isolamento das pessoas. 
 B) intelectualização dos internautas. 
 C) superficialidade das interações. 
@@ -4127,7 +4182,8 @@ D) mercantilização das relações.
 E) massificação dos gostos. 
  
  
-Questão 120 (2013.2) 
+\
+@120 (2013.3) 
 A substância é um Ser capaz de Ação. Ela é 
 simples ou composta. A substância simples é 
 aquela que não tem partes. O composto é a 
@@ -4152,6 +4208,7 @@ mento muitas vezes é resumida a partir do con-
 ceito de substância, que para ele se refere a 
 algo que é: 
  
+\
 A) complexo por natureza, constituindo a unida-
 de mínima do cosmo. 
 B) estabilizador da realidade, dada a exigência 
@@ -4165,7 +4222,8 @@ E) essencial na estrutura do que existe no mun-
 do, sem deixar de contribuir para o movimento. 
  
  
-Questão 121 (2013.2) 
+\
+@121 (2013.3) 
  
 TEXTO I 
  
@@ -4194,6 +4252,7 @@ como os indivíduos se organizam socialmente.
 Tais visões apontam, respectivamente, para as 
 concepções: 
  
+\
 A) Liberal, em defesa da liberdade e da proprie-
 dade privada — Conflituosa, exemplificada pela 
 luta de classes. 
@@ -4211,7 +4270,8 @@ Contraditória, na qual vigora o estado de natu-
 reza. 
  
  
-Questão 122 (2013.2) 
+\
+@122 (2013.3) 
 O antropólogo americano Marius Barbeau es-
 creveu o seguinte: sempre que se cante a uma 
 criança uma cantiga de ninar; sempre que se 
@@ -4234,6 +4294,7 @@ mesmo sendo uma manifestação associada à
 preservação das raízes e da memória dos gru-
 pos sociais, 
  
+\
 A) está sujeito a mudanças e reinterpretações. 
 B) deve ser apresentado de forma escrita. 
 C) segue os padrões de produção da moderna 
@@ -4242,12 +4303,8 @@ D) tende a ser materializado em peças e obras
 de arte eruditas. 
 E) expressa as vivências contemporâneas e os 
 anseios futuros desses grupos. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-35 
-novocadernoenem@gmail.com 
-Questão 123 (2013.2) 
+\
+@123 (2013.3) 
  
 TEXTO I 
  
@@ -4291,6 +4348,7 @@ Os dois aspectos ressaltados pelos textos sobre
 a história do futebol na sociedade brasileira são 
 respectivamente: 
  
+\
 A) Simbolismo político — poder manipulador. 
 B) Caráter coletivo — ligação com as demandas 
 populares. 
@@ -4302,7 +4360,8 @@ E) Dimensão folclórica — exercício da domina-
 ção de classes. 
  
  
-Questão 124 (2013.2) 
+\
+@124 (2013.3) 
 Há cerca de um ano, 248 famílias de baixa ren-
 da que moravam em área de deslizamento do 
 Morro do Preventório, em Niterói (RJ), ganha-
@@ -4322,6 +4381,7 @@ dição descrita e uma ação que reduziria seus
 efeitos estão identificadas, respectivamente, 
 em: 
  
+\
 A) Financeira – expansão das linhas de crédito 
 para as classes médias. 
 B) Habitacional – apoio a geração de emprego e 
@@ -4334,7 +4394,8 @@ E) Educacional – combate ao analfabetismo e a
 evasão escolar em comunidades pobres. 
  
  
-Questão 125 (2013.2) 
+\
+@125 (2013.3) 
 Pense no crescimento tecnológico de sua cida-
 de nos últimos 10 ou 15 anos e perceberá que, 
 embora ela tenha crescido, a maioria dos novos 
@@ -4357,6 +4418,7 @@ apropriam-se dos espaços irregularmente. Dian-
 te dessa situação, o poder público deve criar 
 políticas capazes de gerar: 
  
+\
 A) adaptação das moradias para oferecer quali-
 dade de vida às pessoas. 
 B) locais de moradia dignos e infraestrutura 
@@ -4369,15 +4431,11 @@ E) situações de regularização de seus terrenos,
 mesmo que em áreas inadequadas. 
  
  
-Questão 126 (2013.2) 
+\
+@126 (2013.3) 
 O Baile Charme, uma das mais conhecidas 
 manifestações culturais do povo carioca, fica 
 cadastrado como bem cultural de natureza ima-
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-36 
-novocadernoenem@gmail.com 
 terial da cidade. O decreto considera o Baile 
 Charme uma genuína invenção carioca, e des-
 taca a riqueza de sua origem na musicalidade 
@@ -4397,6 +4455,7 @@ Charme como bem imaterial da cidade do Rio
 de Janeiro ocorreu porque essa manifestação 
 cultural: 
  
+\
 A) possui um grande apelo de público. 
 B) simboliza uma região de relevância social. 
 C) contém uma pluralidade de gêneros musi-
@@ -4407,7 +4466,8 @@ E) representa uma diversidade de costumes
 populares. 
  
  
-Questão 127 (2013.2) 
+\
+@127 (2013.3) 
 O termo injusto se aplica tanto às pessoas que 
 infringem a lei quanto às pessoas ambiciosas 
 (no sentido de quererem mais do que aquilo a 
@@ -4422,6 +4482,7 @@ São Paulo: Nova Cultural: 1996 - adaptado)
 Segundo Aristóteles, pode-se reconhecer uma 
 ação justa quando ela observa o: 
  
+\
 A) compromisso com os movimentos desvincu-
 lados da legalidade. 
 B) benefício para o maior número possível de 
@@ -4434,7 +4495,8 @@ E) princípio de dar a cada um o que lhe é devi-
 do. 
  
  
-Questão 128 (2013.2) 
+\
+@128 (2013.3) 
 Mas, sendo minha intenção escrever algo de útil 
 para quem por tal se interesse, pareceu-me 
 mais conveniente ir em busca da verdade extra-
@@ -4450,6 +4512,7 @@ A partir do texto, é possível perceber a crítica
 maquiaveliana à filosofia política de Platão, pois 
 há nesta a: 
  
+\
 A) elaboração de um ordenamento político com 
 fundamento na bondade infinita de Deus. 
 B) explicitação dos acontecimentos políticos do 
@@ -4462,7 +4525,8 @@ E) idealização de um mundo político perfeito
 existente no mundo das ideias. 
  
  
-Questão 129 (2013.2) 
+\
+@129 (2013.3) 
 O servo pertence à terra e rende frutos ao dono 
 da terra. O operário urbano livre, ao contrário, 
 vende-se a si mesmo e, além disso, por partes. 
@@ -4480,6 +4544,7 @@ dos espaços urbanos e rurais com a implemen-
 tação do sistema capitalista, devido às mudan-
 ças tecnossociais ligadas ao: 
  
+\
 A) desenvolvimento agrário e ao regime de ser-
 vidão. 
 B) aumento da produção rural, que fixou a popu-
@@ -4492,7 +4557,8 @@ E) desenvolvimento da produção urbana asso-
 ciada às relações servis de trabalho. 
  
  
-Questão 130 (2014.1) 
+\
+@130 (2014.1) 
 É o caráter radical do que se procura que exige 
 a radicalização do próprio processo de busca. 
 Se todo o espaço for ocupado pela dúvida, 
@@ -4504,15 +4570,11 @@ mesma dúvida.
  
 (SILVA, F. l. Descartes: a metafísica da modernidade. 
 São Paulo: Moderna, 2001 - adaptado) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-37 
-novocadernoenem@gmail.com 
 Apesar de questionar os conceitos da tradição, 
 a dúvida radical da filosofia cartesiana tem cará-
 ter positivo por contribuir para o(a): 
  
+\
 A) dissolução do saber científico. 
 B) recuperação dos antigos juízos. 
 C) exaltação do pensamento clássico. 
@@ -4520,7 +4582,8 @@ D) surgimento do conhecimento inabalável.
 E) fortalecimento dos preconceitos religiosos. 
  
  
-Questão 131 (2014.1) 
+\
+@131 (2014.1) 
 O cidadão norte-americano desperta num leito 
 construído segundo padrão originário do Oriente 
 Próximo, mas modificado na Europa Setentrio-
@@ -4543,6 +4606,7 @@ gia. São Paulo: Martins. 1959 - adaptado)
 A situação descrita é um exemplo de como os 
 costumes resultam da: 
  
+\
 A) assimilação de valores de povos exóticos. 
 B) experimentação de hábitos sociais variados. 
 C) recuperação de heranças da Antiguidade 
@@ -4553,7 +4617,8 @@ E) valorização de comportamento de grupos
 privilegiados. 
  
  
-Questão 132 (2014.1) 
+\
+@132 (2014.1) 
 Compreende-se assim o alcance de uma reivin-
 dicação que surge desde o nascimento da cida-
 de na Grécia antiga: a redação das leis. Ao es-
@@ -4569,6 +4634,7 @@ Para o autor, a reivindicação atendida na Grécia
 antiga, ainda vigente no mundo contemporâneo, 
 buscava garantir o seguinte princípio: 
  
+\
 A) Isonomia — igualdade de tratamento aos 
 cidadãos. 
 B) Transparência — acesso às informações 
@@ -4581,7 +4647,8 @@ E) Elegibilidade – permissão para candidatura
 aos cargos públicos. 
  
  
-Questão 133 (2014.1) 
+\
+@133 (2014.1) 
 Panayiotis Zavos “quebrou” o último tabu da 
 clonagem humana – transferiu embriões para o 
 útero de mulheres, que os gerariam. Esse pro-
@@ -4605,6 +4672,7 @@ A clonagem humana é um importante assunto
 de reflexão no campo da bioética que, entre 
 outras questões, dedica-se a: 
  
+\
 A) refletir sobre as relações entre o conheci-
 mento da vida e os valores éticos do homem. 
 B) legitimar o predomínio da espécie humana 
@@ -4619,7 +4687,8 @@ pesquisas sobre células-tronco para uso em
 seres humanos. 
  
  
-Questão 134 (2014.1) 
+\
+@134 (2014.1) 
 Uma norma só deve pretender validez quando 
 todos os que possam ser concernidos por ela 
 cheguem (ou possam chegar), enquanto partici-
@@ -4632,20 +4701,17 @@ tivo. Rio de Janeiro: Tempo Brasileiro, 1989)
 Segundo Habermas, a validez de uma norma 
 deve ser estabelecida pelo(a): 
  
+\
 A) liberdade humana, que consagra a vontade. 
 B) razão comunicativa, que requer um consen-
 so. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-38 
-novocadernoenem@gmail.com 
 C) conhecimento filosófico, que expressa a verdade. 
 D) técnica científica, que aumenta o poder do homem. 
 E) poder político, que se concentra no sistema partidário. 
  
  
-Questão 135 (2014.1) 
+\
+@135 (2014.1) 
  
 Queijo de Minas vira patrimônio cultural brasileiro 
  
@@ -4661,8 +4727,14 @@ está representado em:
  
  
  
- 
-Questão 136 (2014.1) 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
+\
+@136 (2014.1) 
 Alguns dos desejos são naturais e necessários; 
 outros, naturais e não necessários; outros, nem 
 naturais nem necessários, mas nascidos de vã 
@@ -4678,6 +4750,7 @@ Rio de Janeiro: Eduff, 1974)
 No fragmento da obra filosófica de Epicuro, o 
 homem tem como fim: 
  
+\
 A) alcançar o prazer moderado e a felicidade. 
 B) valorizar os deveres e as obrigações sociais. 
 C) aceitar o sofrimento e o rigorismo da vida 
@@ -4687,20 +4760,16 @@ pela divindade.
 E) defender a indiferença e a impossibilidade de 
 se atingir o saber. 
  
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-39 
-novocadernoenem@gmail.com 
-Questão 137 (2014.1) 
- 
- 
+\
+@137 (2014.1) 
+\L 
  
 A discussão levantada na charge, publicada 
 logo após a promulgação da Constituição de 
 1988, faz referência ao seguinte conjunto de 
 direitos: 
  
+\
 A) Civis, como o direito à vida, à liberdade de 
 expressão e à propriedade. 
 B) Sociais, como direito à educação, ao trabalho 
@@ -4716,16 +4785,16 @@ do, à soberania popular e à participação demo-
 crática.  
  
  
-Questão 138 (2014.1) 
- 
- 
- 
+\
+@138 (2014.1) 
+\L 
 (SANZIO, R. Detalhe do afresco A Escola de Atenas) 
  
 No centro da imagem, o filósofo Platão é retra-
 tado apontando para o alto. Esse gesto significa 
 que o conhecimento se encontra em uma ins-
 tância na qual o homem descobre a: 
+\
 A) suspensão do juízo como reveladora da ver-
 dade. 
 B) realidade inteligível por meio do método dia-
@@ -4738,7 +4807,8 @@ E) ordem intrínseca ao mundo por meio da sen-
 sibilidade. 
  
  
-Questão 139 (2014.1) 
+\
+@139 (2014.1) 
 A filosofia encontra-se escrita neste grande livro 
 que continuamente se abre perante nossos 
 olhos (isto é, o universo), que não se pode 
@@ -4758,6 +4828,7 @@ No contexto da Revolução Científica do século
 XVII, assumir a posição de Galileu significava 
 defender a: 
  
+\
 A) continuidade do vínculo entre ciência e fé 
 dominante na Idade Média. 
 B) necessidade de o estudo linguístico ser 
@@ -4770,7 +4841,8 @@ E) inadequação da matemática para elaborar
 uma explicação racional da natureza. 
  
  
-Questão 140 (2014.1) 
+\
+@140 (2014.1) 
 Parecer CNE/CP n.o 3/2004, que instituiu as 
 Diretrizes Curriculares Nacionais para a Educa-
 ção das Relações Étnico-Raciais e para o Ensi-
@@ -4791,15 +4863,11 @@ direitos garantidos.
 (BRASIL. Conselho Nacional de Educação.  
 Disponível em: www.semesp.org.br.  
 Acesso em: 21 novo 2013 - adaptado) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-40 
-novocadernoenem@gmail.com 
 A orientação adotada por esse parecer funda-
 menta uma política pública e associa o princípio 
 da inclusão social a: 
  
+\
 A) práticas de valorização identitária. 
 B) medidas de compensação econômica. 
 C) dispositivos de liberdade de expressão. 
@@ -4807,7 +4875,8 @@ D) estratégias de qualificação profissional.
 E) instrumentos de modernização jurídica. 
  
  
-Questão 141 (2014.1) 
+\
+@141 (2014.1) 
 A Praça da Concórdia, antiga Praça Luís XV, é 
 a maior praça pública de Paris. Inaugurada em 
 1763, tinha em seu centro uma estátua do rei. 
@@ -4826,6 +4895,7 @@ Acesso em: 12 dez. 2012)
 A constituição do espaço público da Praça da 
 Concórdia ao longo dos anos manifesta o(a): 
  
+\
 A) lugar da memória na história nacional. 
 B) caráter espontâneo das festas populares. 
 C) lembrança da antiguidade da cultura local. 
@@ -4833,7 +4903,8 @@ D) triunfo da nação sobre os países africanos.
 E) declínio do regime de monarquia absolutista. 
  
  
-Questão 142 (2014.1) 
+\
+@142 (2014.1) 
 Existe uma cultura política que domina o siste-
 ma e é fundamental para entender o conserva-
 dorismo brasileiro. Há um argumento, partilhado 
@@ -4856,6 +4927,7 @@ em: www.unicamp.br. Acesso em: 28 mar. 2014)
 A característica do sistema político brasileiro, 
 ressaltada no texto, obtém sua legitimidade da: 
  
+\
 A) dispersão regional do poder econômico. 
 B) polarização acentuada da disputa partidária. 
 C) orientação radical dos movimentos popula-
@@ -4866,7 +4938,8 @@ E) sustentação ideológica das desigualdades
 existentes. 
  
  
-Questão 143 (2014.2) 
+\
+@143 (2014.3) 
  
 Maria da Penha 
  
@@ -4895,6 +4968,7 @@ A letra da canção faz referência a uma iniciativa
 destinada a combater um tipo de desrespeito e 
 exclusão social associado, principalmente, à(s): 
  
+\
 A) mudanças decorrentes da entrada da mulher 
 no mercado de trabalho. 
 B) formas de ameaça doméstica que se restrin-
@@ -4906,7 +4980,8 @@ nada à pobreza.
 E) ingestão excessiva de álcool pelos homens. 
  
  
-Questão 144 (2014.2) 
+\
+@144 (2014.3) 
  
 Sempre teceremos panos de seda  
 E nem por isso vestiremos melhor  
@@ -4924,11 +4999,7 @@ dado pelos estudos históricos mais recentes.
 Algumas fontes são importantes para essa 
 abordagem, tal como o poema apresentado, 
 que alude à: 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-41 
-novocadernoenem@gmail.com 
+\
 A) inserção das mulheres em atividades tradici-
 onalmente masculinas. 
 B) ambição das mulheres em ocupar lugar pre-
@@ -4941,19 +5012,21 @@ E) servidão feminina como tipo de mão de obra
 vigente nas tecelagens europeias. 
  
  
-Questão 145 (2014.2) 
+\
+@145 (2014.3) 
  
 Figura 01 
- 
+\L
 Princesa Alexandra 
  
 Figura 02 
- 
+\L 
 Duquesa de Cambridge, kate Middleton 
  
 As figuras indicam mudanças no universo femi-
 nino, como a: 
  
+\
 A) decadência da Monarquia, revelada pela 
 aparição solitária e informal das nobres. 
 B) redução na escolaridade, simbolizada pela 
@@ -4966,7 +5039,8 @@ co.
 E) valorização do corpo, salientada pelo uso de 
 roupas mais curtas e pela postura mais relaxa-
 da. 
-Questão 146 (2014.2) 
+\
+@146 (2014.3) 
 Quem acompanhasse os debates na Câmara 
 dos Deputados em 1884 poderia ouvir a leitura 
 de uma moção de fazendeiros do Rio de Janei-
@@ -4997,6 +5071,7 @@ Folha de S. Paulo, 3 jun. 2009)
 O argumento elaborado pelo autor sugere que 
 as censuras às cotas raciais são: 
  
+\
 A) politicamente ignoradas. 
 B) socialmente justificadas. 
 C) culturalmente qualificadas. 
@@ -5004,7 +5079,8 @@ D) historicamente equivocadas.
 E) economicamente fundamentadas. 
  
  
-Questão 147 (2014.2) 
+\
+@147 (2014.3) 
 O próprio movimento operário não pode ser 
 reduzido a um conflito de interesses econômi-
 cos ou a uma reação contra a proletarização. 
@@ -5024,17 +5100,14 @@ Considerando a caracterização apresentada
 pelo texto, a busca pela igualdade pressupõe 
 o(a): 
  
+\
 A) estímulo da luta política. 
 B) adoção da ideologia marxista. 
 C) coletivização dos meios de produção. 
 D) aprofundamento dos conflitos sociais. 
 E) intensificação do crescimento econômico. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-42 
-novocadernoenem@gmail.com 
-Questão 148 (2014.2) 
+\
+@148 (2014.3) 
 Ao falar do caráter de um homem não dizemos 
 que ele é sábio ou que possui entendimento, 
 mas que é calmo ou temperante. No entanto, 
@@ -5047,6 +5120,7 @@ São Paulo: Nova Cultural, 1973)
 Em Aristóteles, o conceito de virtude ética ex-
 pressa a: 
  
+\
 A) excelência de atividades praticadas em con-
 sonância com o bem comum. 
 B) concretização utilitária de ações que revelam 
@@ -5059,7 +5133,8 @@ E) manifestação de ações estéticas, coroadas
 de adorno e beleza. 
  
  
-Questão 149 (2014.2) 
+\
+@149 (2014.3) 
 No sistema democrático de Schumpeter, os 
 únicos participantes plenos são os membros de 
 elites políticas em partidos e em instituições 
@@ -5075,6 +5150,7 @@ Belo Horizonte: Paideia, 1987)
 O modelo de sistema democrático apresentado 
 pelo texto pressupõe a: 
  
+\
 A) consolidação da racionalidade comunicativa. 
 B) adoção dos institutos do plebiscito e do refe-
 rendo. 
@@ -5086,7 +5162,8 @@ E) deliberação dos líderes políticos com restri-
 ção da participação das massas. 
  
  
-Questão 150 (2014.2) 
+\
+@150 (2014.3) 
 Desde 2002, o Instituto do Patrimônio Histórico 
 e Artístico Nacional (lphan) tem registrado cer-
 tos bens imateriais como patrimônio cultural do 
@@ -5111,6 +5188,7 @@ necessidade de se protegerem certas manifes-
 tações históricas para que continuem existindo, 
 destacando-se nesse caso a: 
  
+\
 A) mistura de tradições africanas, indígenas e 
 portuguesas no preparo do alimento por parte 
 das cozinheiras baianas. 
@@ -5128,7 +5206,8 @@ baianas a fim de resgatar o modo tradicional de
 preparo do acarajé, que remonta à escravidão. 
  
  
-Questão 151 (2014.2) 
+\
+@151 (2014.3) 
 A justiça é a primeira virtude das instituições 
 sociais, como a verdade o é dos sistemas de 
 pensamento. Cada pessoa possui uma inviolabi-
@@ -5146,6 +5225,7 @@ mo um importante fundamento da organização
 social e aponta como seu elemento de ação e 
 funcionamento o: 
  
+\
 A) povo. 
 B) Estado. 
 C) Governo. 
@@ -5153,16 +5233,12 @@ D) Indivíduo.
 E) magistrado. 
  
  
-Questão 152 (2014.2) 
+\
+@152 (2014.3) 
 Sendo os homens, por natureza, todos livres, 
 iguais e independentes, ninguém pode ser ex-
 pulso de sua propriedade e submetido ao poder 
 político de outrem sem dar consentimento. A 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-43 
-novocadernoenem@gmail.com 
 maneira única em virtude da qual uma pessoa 
 qualquer renuncia à liberdade natural e se re-
 veste dos laços da sociedade civil consiste em 
@@ -5180,6 +5256,7 @@ Segundo a Teoria da Formação do Estado, de
 John Locke, para viver em sociedade, cada 
 cidadão deve: 
  
+\
 A) manter a liberdade do estado de natureza, 
 direito inalienável. 
 B) abrir mão de seus direitos individuais em prol 
@@ -5192,7 +5269,8 @@ E) renunciar à posse jurídica de seus bens, mas
 não a sua independência. 
  
  
-Questão 153 (2014.2) 
+\
+@153 (2014.3) 
 A introdução da organização científica taylorista 
 do trabalho e sua fusão com o fordismo acaba-
 ram por representar a forma mais avançada da 
@@ -5207,6 +5285,7 @@ O objetivo desse modelo de organização do
 trabalho é o alcance da eficiência máxima no 
 processo produtivo industrial que, para tanto, 
  
+\
 A) adota estruturas de produção horizontaliza-
 das, privilegiando as terceirizações. 
 B) requer trabalhadores qualificados, polivalen-
@@ -5222,7 +5301,8 @@ jornada de trabalho para que eles definam o
 ritmo de execução de suas tarefas. 
  
  
-Questão 154 (2014.2) 
+\
+@154 (2014.3) 
 Os movimentos sociais do século XXI, ações 
 coletivas deliberadas que visam à transforma-
 ção de valores e instituições da sociedade, ma-
@@ -5244,6 +5324,7 @@ em processos políticos pode utilizar a rede
 mundial de computadores como recurso para 
 mobilização, pois a internet caracteriza-se por: 
  
+\
 A) diminuir a insegurança do sistema eleitoral. 
 B) reforçar a possibilidade de maior participação 
 qualificada. 
@@ -5255,15 +5336,16 @@ E) ampliar a participação pela solução da es-
 cassez de tempo dos cidadãos. 
  
  
-Questão 155 (2014.2) 
- 
- 
+\
+@155 (2014.3) 
+\L
  
 As redes sociais tornaram-se espaços importan-
 tes de relacionamento e comunicação. A charge 
 apresenta o impacto da internet na vida dos 
 indivíduos quando faz referência à: 
  
+\
 A) ampliação do poder dos clérigos no controle 
 dos fiéis.    
 B) adequação dos ritos sacramentais ao cotidi-
@@ -5273,16 +5355,12 @@ D) reinterpretação da noção de pecado.
 E) modernização das instituições religiosas.    
  
  
-Questão 156 (2014.3) 
+\
+@156 (2014.2) 
 O Ministério da Verdade — ou Miniver, em Novi-
 língua — era completamente diferente de qual-
 quer outro objeto visível. Era uma enorme pirâ-
 mide de alvíssimo cimento branco, erguendo-se 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-44 
-novocadernoenem@gmail.com 
 terraço sobre terraço, trezentos metros sobre o 
 solo. De onde Winston conseguia ler, em letras 
 elegantes colocadas na fachada, os três lemas 
@@ -5296,6 +5374,7 @@ existentes ao longo do século XX. O mecanismo
 de dominação social utilizado pela instituição 
 descrita no texto promoveria: 
  
+\
 A) o enaltecimento do sentimento nacionalista. 
 B) o investimento maciço nas forças militares. 
 C) a exaltação de uma liderança carismática. 
@@ -5303,9 +5382,9 @@ D) a pratica de reelaborarão da memória.
 E) a valorização de direitos coletivos. 
  
  
-Questão 157 (2014.2) 
- 
- 
+\
+@157 (2014.3) 
+\L 
  
 A Estátua do Laçador, tombada como patrimô-
 nio em 2001, é um monumento de Porto Ale-
@@ -5317,6 +5396,7 @@ Acessado em: 3 ago. 2012 - adaptado)
  
 O monumento identifica um(a): 
  
+\
 A) exemplo de bem imaterial. 
 B) forma de exposição da individualidade. 
 C) modo de enaltecer os ideais de liberdade. 
@@ -5325,7 +5405,8 @@ lação.
 E) maneira de propor mudanças nos costumes. 
  
  
-Questão 158 (2014.3) 
+\
+@158 (2014.2) 
 Outro remédio eficiente a organizar colônias, em 
 alguns lugares, as quais virão a ser como gri-
 lhões impostos a província, porque isto a ne-
@@ -5349,6 +5430,7 @@ Em O príncipe, Maquiavel apresenta conselhos
 para a manutenção do poder político, como o 
 deste trecho, que tem como objeto a: 
  
+\
 A) transferência dos inimigos da metrópole para 
 a colônia. 
 B) substituição de leis, costumes e impostos da 
@@ -5361,7 +5443,8 @@ E) distribuição de terras para a parcela do povo
 dominado, que possui maior poder político. 
  
  
-Questão 159 (2014.3) 
+\
+@159 (2014.2) 
 Bastar-se a si mesma a uma meta a que tende 
 a produção da natureza e também o mais per-
 feito estado. É, portanto, evidente que toda ci-
@@ -5378,6 +5461,7 @@ http://.cfh.ufsc.br - adaptado)
  
 Para Aristóteles, a cidade resulta de um(a): 
  
+\
 A) desenvolvimento da razão e suas leis que 
 visam aperfeiçoar a natureza humana. 
 B) convenção social, que pretende proteger a 
@@ -5390,16 +5474,12 @@ E) contrato político, que beneficia de modo igua-
 litário os membros das castas sociais. 
  
  
-Questão 160 (2014.3) 
+\
+@160 (2014.2) 
 E importante não confundir moralidade — certo 
 e errado — com lei. E claro que a moralidade e 
 a lei muitas vezes coincidem. Por exemplo, rou-
 bar e matar e moralmente errado. Também é 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-45 
-novocadernoenem@gmail.com 
 contra a lei. Mas a moralidade e a lei não preci-
 sam coincidir. 
 (LAW, S. Os arquivos filosóficos.  
@@ -5408,6 +5488,7 @@ São Paulo: Martins Fontes, 2003)
 Quando ha discordância entre moralidade e 
 legalidade na sociedade, ocorre a existência de: 
  
+\
 A) uma legalidade laica. 
 B) leis fundadas em valores morais. 
 C) ações ilegais como sendo imorais. 
@@ -5415,7 +5496,8 @@ D) leis injustas na sociedade.
 E) normas que opõem lei e justiça. 
  
  
-Questão 161 (2014.3) 
+\
+@161 (2014.2) 
 Em pesquisa realizada, revelou-se que o Brasil 
 é o país onde os empregadores mais utilizam os 
 sites e redes sociais para contratação. O estudo 
@@ -5433,6 +5515,7 @@ Acesso em: 30 jul. 2012 - adaptado)
 Nesse contexto, a forma de inserção no mundo 
 do trabalho na atualidade é: 
  
+\
 A) resultado das transformações ocorridas a 
 partir de processos tecnológicos inovadores, 
 como o advento da internet. 
@@ -5450,7 +5533,8 @@ exige do candidato pleno domínio das ferramen-
 tas virtuais de comunicação. 
  
  
-Questão 162 (2014.3) 
+\
+@162 (2014.2) 
 Quando um carpinteiro apanha um martelo, o 
 martelo se torna, do ponto de vista do seu cére-
 bro, parte da sua mão. Quando um soldado leva 
@@ -5469,6 +5553,7 @@ tomam uma extensão do ser humano. Quando
 um blogueiro utiliza a internet como veiculo de 
 informação crítico, o seu pensamento é: 
  
+\
 A) expressão da sua própria consciência, mas 
 com perda da noção de pertencimento. 
 B) projeto individual de difícil repercussão cole-
@@ -5483,7 +5568,8 @@ determinado público de modo planejado e espe-
 cifico. 
  
  
-Questão 163 (2014.3) 
+\
+@163 (2014.2) 
 Para o sociólogo Don Slater, as pessoas com-
 pram a versa° mais cara de um produto não 
 porque tem maior valor de use do que a versão 
@@ -5500,6 +5586,7 @@ presas como forma de vender seus produtos,
 fazem parte do cotidiano social e tem por um de 
 seus objetivos induzir as pessoas a um(a): 
  
+\
 A) vida livre de ideologias. 
 B) pensamento reflexivo e critico. 
 C) consumo desprovido de modismos. 
@@ -5507,7 +5594,8 @@ D) atitude consumista massificadora.
 E) postura despreocupada com estilos. 
  
  
-Questão 164 (2014.3) 
+\
+@164 (2014.2) 
 Nas ultimas décadas, a capoeira esta cada vez 
 mais presente no ambiente escolar, seja por 
 intermédio de estudantes que a praticam nos 
@@ -5522,15 +5610,11 @@ derada a 14ª expressão artística do país, regis-
 trada como patrimônio imaterial pelo IPHAN. 
 Sua pratica representa nas escolas um(a): 
  
+\
 A) atividade que proporciona diálogo e inclusão 
 para os praticantes. 
 B) alternativa que contraria o ECA (Estatuto da 
 Criança e do Adolescente). 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-46 
-novocadernoenem@gmail.com 
 C) meio didático desvinculado da cultura popu-
 lar. 
 D) movimento teórico e intelectual sem práxis 
@@ -5538,7 +5622,8 @@ coletiva.
 E) pratica sem vinculo identitário e cultural. 
  
  
-Questão 165 (2014.3) 
+\
+@165 (2014.2) 
 Tecnocracia e democracia são antitéticas: se o 
 protagonista da sociedade industrial é o especi-
 alista, impossível que venha a ser o cidadão 
@@ -5556,6 +5641,7 @@ decisões deve ser a mais ampla possível. De
 acordo com o texto, o exercício pleno da demo-
 cracia pressupõe: 
  
+\
 A) que as decisões sejam tomadas a partir de 
 um principio democrático, ou seja, todos tem o 
 direito de opinar a respeito de tudo. 
@@ -5573,7 +5659,8 @@ critério de julgamento, visto que ele serviria para
 agilizar o processo de escolha. 
  
  
-Questão 166 (2014.3) 
+\
+@166 (2014.2) 
  
 TEXTO I 
 Art. 233 — O marido é o chefe da sociedade 
@@ -5602,6 +5689,7 @@ comparar o Código Civil de 1916 e a Lei Maria
 da Penha, as mudanças na definição jurídica do 
 conceito de família no Brasil: 
  
+\
 A) sinalizam a inclusão das união homoafetivas 
 no conceito de família, criando um marco legal 
 para os movimentos que lutam pela diversidade 
@@ -5622,7 +5710,8 @@ dendo a família a função de manter a estabili-
 dade social. 
  
  
-Questão 167 (2014.3) 
+\
+@167 (2014.2) 
  
 Capítulo XIII 
 Dos vadios e capoeiras 
@@ -5651,6 +5740,7 @@ www.senado.gov.br. Acesso em: 31 jul. 2012)
 A mudança diante da pratica cultural descrita 
 esta relacionada: 
  
+\
 A) verificação de que a ampliação do patrimônio 
 possibilita novos mercados de trabalho. 
 B) compreensão de que a capoeira deixou de 
@@ -5662,12 +5752,8 @@ componente fundamental da cultura brasileira.
 E) crença de que uma etnia minoritária precisa 
 ter seus costumes preservados pelos legislado-
 res. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-47 
-novocadernoenem@gmail.com 
-Questão 168 (2014.3) 
+\
+@168 (2014.2) 
 Uma vez que a razão me persuade de que devo 
 impedir-me de dar crédito às coisas que não 
 são inteiramente certas e indubitáveis tanto 
@@ -5684,6 +5770,7 @@ busca alcançar uma certeza capaz de re-fundar,
 sobre princípios sólidos, a ciência e a filosofia.  
 Seu procedimento teórico indica: 
  
+\
 A) a capacidade de o entendimento humano 
 duvidar das certezas claras e distintas. 
 B) a ideia de que o ceticismo é base suficiente 
@@ -5698,12 +5785,13 @@ consolidar a tradição escolástica de pensamen-
 to. 
  
  
-Questão 169 (2014.3) 
- 
- 
+\
+@169 (2014.2) 
+\L
  
 Alternativas ao tipo de consumo cultural apresentado nas tiras resultariam de: 
  
+\
 A) democratização do acesso a outras esferas de produção cultural. 
 B) emissoras comprometidas com princípios cívicos. 
 C) censura moralista diante das informações veiculadas. 
@@ -5711,7 +5799,8 @@ D) acesso da população aos canais de sinal fechado.
 E) movimento das Igrejas cristas em defesa da família. 
  
  
-Questão 170 (2014.3) 
+\
+@170 (2014.2) 
 O modo como cada sociedade se organizou 
 determinou a intensidade dos impactos ambien-
 tais.  
@@ -5729,6 +5818,7 @@ O texto apresenta contradições inerentes aos
 sistemas de organização da vida social, que são 
 causadas pela: 
  
+\
 A) dependência da natureza em relação as ati-
 vidades humanas. 
 B) necessidade de crescimento econômico e 
@@ -5739,12 +5829,8 @@ D) produção de matéria-prima e consumo de
 produtos industrializados. 
 E) incompatibilidade entre as formas de vida e a 
 realidade física do planeta. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-48 
-novocadernoenem@gmail.com 
-Questão 171 (2014.3) 
+\
+@171 (2014.2) 
 A abordagem do patrimônio cultural, centrada 
 nos aspectos técnicos da conservação e da 
 restauração, tende a ocultar a ideia de que a 
@@ -5767,6 +5853,7 @@ como patrimônio imaterial.
  
 Essa concepção de patrimônio expressa-se: 
  
+\
 A) no conjunto de bens culturais classificados 
 segundo a sua natureza: arqueológica, histórica 
 e etnográfica. 
@@ -5784,7 +5871,8 @@ como os livros e a conservação de pinturas e
 esculturas. 
  
  
-Questão 172 (2014.3) 
+\
+@172 (2014.2) 
 Numa época de revisão geral, em que valores 
 são contestados, reavaliados, substituídos e 
 muitas vezes recriados, a crítica tem papel pre-
@@ -5800,6 +5888,7 @@ O Iluminismo tece criticas aos valores estabele-
 cidos sob a rubrica da autoridade e, nesse sen-
 tido, propõe: 
  
+\
 A) a defesa do pensamento dos enciclopedistas 
 que, com seus escritos, mantinham o ideário 
 religioso. 
@@ -5817,7 +5906,8 @@ e avançando na dimensão da cidadania e da
 ciência. 
  
  
-Questão 173 (2015.1) 
+\
+@173 (2015.1) 
 Dominar a luz implica tanto um avanço tecnoló-
 gico quanto uma certa liberação dos ritmos cí-
 clicos da natureza, com a passagem das esta-
@@ -5838,6 +5928,7 @@ Em relação ao mundo do trabalho, a transfor-
 mação apontada no texto teve como conse-
 quência a: 
  
+\
 A) melhoria da qualidade da produção industrial. 
 B) redução da oferta de emprego nas zonas 
 rurais. 
@@ -5849,7 +5940,8 @@ E) ampliação do período disponível para a jor-
 nada de trabalho. 
  
  
-Questão 174 (2015.1) 
+\
+@174 (2015.1) 
 Apesar de seu disfarce de iniciativa e otimismo, 
 o homem moderno está esmagado por um pro-
 fundo sentimento de impotência que o faz olhar 
@@ -5869,19 +5961,16 @@ Paulo Freire defende que a superação das difi-
 culdades e a apreensão da realidade atual será 
 obtida pelo(a): 
  
+\
 A) desenvolvimento do pensamento autônomo. 
 B) obtenção de qualificação profissional. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-49 
-novocadernoenem@gmail.com 
 C) resgate de valores tradicionais. 
 D) realização de desejos pessoais. 
 E) aumento da renda familiar. 
  
  
-Questão 175 (2015.1) 
+\
+@175 (2015.1) 
  
 Voz do sangue 
  
@@ -5918,6 +6007,7 @@ Nesse poema, o líder angolano Agostinho Neto,
 na década de 1940, evoca o pan-africanismo 
 com o objetivo de: 
  
+\
 A) incitar a luta por políticas de ações afirmati-
 vas América e na África. 
 B) reconhecer as desigualdades sociais entre os 
@@ -5933,7 +6023,8 @@ tes países a apoiar as lutas por igualdade e
 independência. 
  
  
-Questão 176 (2015.1) 
+\
+@176 (2015.1) 
 Iniciou-se em 1903 a introdução de obras de 
 arte com representações de bandeirantes no 
 acervo do Museu Paulista, mediante a aquisição 
@@ -5957,6 +6048,7 @@ A prática governamental descrita no texto, com
 a escolha dos temas das obras, tinha como 
 propósito a construção de uma memória que: 
  
+\
 A) afirmava a centralidade de um estado na 
 política do país. 
 B) resgatava a importância da resistência es-
@@ -5969,7 +6061,8 @@ E) destacava a presença do indígena no des-
 bravamento do território colonial. 
  
  
-Questão 177 (2015.1) 
+\
+@177 (2015.1) 
 Trasímaco estava impaciente porque Sócrates e 
 os seus amigos presumiam que a justiça era 
 algo real e importante. Trasímaco negava isso. 
@@ -5986,6 +6079,7 @@ no diálogo A República, de Platão, sustentava
 que a correlação entre justiça e ética é resultado 
 de: 
  
+\
 A) determinações biológicas impregnadas na 
 natureza humana. 
 B) verdades objetivas com fundamento anterior 
@@ -5998,16 +6092,12 @@ E) sentimentos experimentados diante de de-
 terminadas atitudes humanas. 
  
  
-Questão 178 (2015.1) 
+\
+@178 (2015.1) 
 Em sociedade de origens tão nitidamente per-
 sonalistas como a nossa, é compreensível que 
 os simples vínculos de pessoa a pessoa, inde-
 pendentes e até exclusivos de qualquer tendên-
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-50 
-novocadernoenem@gmail.com 
 cia para a cooperação autêntica entre os indiví-
 duos, tenham sido quase sempre os mais deci-
 sivos. As agregações e relações pessoais, em-
@@ -6028,6 +6118,7 @@ Um traço formador da vida pública brasileira
 expressa-se, segundo a análise do historiador, 
 na: 
  
+\
 A) rigidez das normas jurídicas. 
 B) prevalência dos interesses privados. 
 C) solidez da organização institucional. 
@@ -6035,7 +6126,8 @@ D) legitimidade das ações burocráticas.
 E) estabilidade das estruturas políticas. 
  
  
-Questão 179 (2015.1) 
+\
+@179 (2015.1) 
 Todo o poder criativo da mente se reduz a nada 
 mais do que a faculdade de compor, transpor, 
 aumentar ou diminuir os materiais que nos for-
@@ -6055,6 +6147,7 @@ mano. São Paulo: Abril Cultural, 1995)
 Hume estabelece um vínculo entre pensamento 
 e impressão ao considerar que: 
  
+\
 A) os conteúdos das ideias no intelecto têm 
 origem na sensação. 
 B) o espírito é capaz de classificar os dados da 
@@ -6067,7 +6160,8 @@ E) as ideias têm como fonte específica o senti-
 mento cujos dados são colhidos na empiria. 
  
  
-Questão 180 (2015.1) 
+\
+@180 (2015.1) 
 Ora, em todas as coisas ordenadas a algum fim, 
 é preciso haver algum dirigente, pelo qual se 
 atinja diretamente o devido fim. Com efeito, um 
@@ -6089,6 +6183,7 @@ Aquino. Petrópolis: Vozes, 1995 - adaptado)
 No trecho citado, Tomás de Aquino justifica a 
 monarquia como o regime de governo capaz de: 
  
+\
 A) refrear os movimentos religiosos contestató-
 rios. 
 B) promover a atuação da sociedade civil na 
@@ -6101,7 +6196,8 @@ E) dissociar a relação política entre os poderes
 temporal e espiritual. 
  
  
-Questão 181 (2015.1) 
+\
+@181 (2015.1) 
 A natureza fez os homens tão iguais, quanto às 
 faculdades do corpo e do espírito, que, embora 
 por vezes se encontre um homem manifesta-
@@ -6119,6 +6215,7 @@ Para Hobbes, antes da constituição da socieda-
 de civil, quando dois homens desejavam o 
 mesmo objeto, eles: 
  
+\
 A) entravam em conflito. 
 B) recorriam aos clérigos. 
 C) consultavam os anciãos. 
@@ -6126,7 +6223,8 @@ D) apelavam aos governantes.
 E) exerciam a solidariedade. 
  
  
-Questão 182 (2015.1) 
+\
+@182 (2015.1) 
 O que implica o sistema da pólis é uma extraor-
 dinária preeminência da palavra sobre todos os 
 outros instrumentos do poder. A palavra consti-
@@ -6136,15 +6234,11 @@ jogo intelectual, assim como do jogo político.
  
 (VERNANT, J. P.As origens do pensamento grego. 
 Rio de Janeiro: Bertrand, 1992 - adaptado) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-51 
-novocadernoenem@gmail.com 
 Na configuração política da democracia grega, 
 em especial a ateniense, a ágora tinha por fun-
 ção: 
  
+\
 A) agregar os cidadãos em torno de reis que 
 governavam em prol da cidade. 
 B) permitir aos homens livres o acesso às deci-
@@ -6160,7 +6254,8 @@ sentantes com direito a pronunciar-se em as-
 sembleias. 
  
  
-Questão 183 (2015.1) 
+\
+@183 (2015.1) 
 A filosofia grega parece começar com uma ideia 
 absurda, com a proposição: a água é a origem e 
 a matriz de todas as coisas. Será mesmo ne-
@@ -6178,6 +6273,7 @@ socráticos. São Paulo: Nova Cultural, 1999)
 O que, de acordo com Nietzsche, caracteriza o 
 surgimento da filosofia dos gregos? 
  
+\
 A) O impulso para transformar, mediante justifi-
 cativas, os elementos sensíveis em verdades 
 racionais. 
@@ -6191,7 +6287,8 @@ E) A tentativa de justificar, a partir de elementos
 empíricos, o que existe no real. 
  
  
-Questão 184 (2015.1) 
+\
+@184 (2015.1) 
 Quanto ao "choque de civilizações" é bom lem-
 brar a carta de uma menina americana de sete 
 anos cujo pai era piloto na Guerra do Afeganis-
@@ -6213,6 +6310,7 @@ São Paulo: Bom Tempo, 2003)
 A situação imaginária proposta pelo autor expli-
 cita o desafio cultural do(a): 
  
+\
 A) prática da diplomacia. 
 B) exercício da alteridade. 
 C) expansão da democracia. 
@@ -6220,7 +6318,8 @@ D) universalização do progresso.
 E) conquista da autodeterminação. 
  
  
-Questão 185 (2015.1) 
+\
+@185 (2015.1) 
 No início foram as cidades. O intelectual da 
 Idade Média — no Ocidente — nasceu com 
 elas. Foi com o desenvolvimento urbano ligado 
@@ -6241,6 +6340,7 @@ Rio de Janeiro: José Olympio, 2010)
 O surgimento da categoria mencionada no perí-
 odo em destaque no texto evidencia o(a): 
  
+\
 A) apoio dado pela Igreja ao trabalho abstrato. 
 B) relação entre desenvolvimento urbano e divi-
 são do trabalho. 
@@ -6251,7 +6351,8 @@ E) acúmulo de trabalho dos professores e erudi-
 tos. 
  
  
-Questão 186 (2015.1) 
+\
+@186 (2015.1) 
 Na sociedade contemporânea, onde as relações 
 sociais tendem a reger-se por imagens midiáti-
 cas, a imagem de um indivíduo, principalmente 
@@ -6265,11 +6366,6 @@ tempo que acena democraticamente para as
 massas com supostos "ganhos distributivos" (a 
 informação ilimitada, a quebra das supostas 
 hierarquias culturais), afeta a velha cultura dis-
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-52 
-novocadernoenem@gmail.com 
 seminada na esfera pública. A participação nas 
 redes sociais, a obsessão dos selfies, tanto falar 
 e ser falado quanto ser visto são índices do 
@@ -6282,6 +6378,7 @@ Acesso em: 9 fev. 2015 - adaptado)
 A crítica contida no texto sobre a sociedade 
 contemporânea enfatiza: 
  
+\
 A) a prática identitária autorreferente. 
 B) a dinâmica política democratizante. 
 C) a produção instantânea de notícias. 
@@ -6289,7 +6386,8 @@ D) os processos difusores de informações.
 E) os mecanismos de convergência tecnológica. 
  
  
-Questão 187 (2015.1) 
+\
+@187 (2015.1) 
 A crescente intelectualização e racionalização 
 não indicam um conhecimento maior e geral das 
 condições sob as quais vivemos. Significa a 
@@ -6306,6 +6404,7 @@ Tal como apresentada no texto, a proposição de
 Max Weber a respeito do processo de desen-
 cantamento do mundo evidencia o(a): 
  
+\
 A) progresso civilizatório como decorrência da 
 expansão do industrialismo. 
 B) extinção do pensamento mítico como um 
@@ -6318,7 +6417,8 @@ E) fim do monoteísmo como condição para a
 consolidação da ciência. 
  
  
-Questão 188 (2015.1) 
+\
+@188 (2015.1) 
 Diante de ameaças surgidas com a engenharia 
 genética de alimentos, vários grupos da socie-
 dade civil conceberam o chamado "princípio da 
@@ -6339,6 +6439,7 @@ desenvolvimento de mecanismos de acautela-
 mento ou administração de riscos tem como 
 objetivo: 
  
+\
 A) priorizar os interesses econômicos em rela-
 ção aos seres humanos e à natureza. 
 B) negar a perspectiva científica e suas conquis-
@@ -6351,7 +6452,8 @@ E) romper o equilíbrio entre benefícios e riscos
 do avanço tecnológico e científico. 
  
  
-Questão 189 (2015.1) 
+\
+@189 (2015.1) 
 Ninguém nasce mulher: torna-se mulher. Ne-
 nhum destino biológico, psíquico, econômico 
 define a forma que a fêmea humana assume no 
@@ -6366,6 +6468,7 @@ Na década de 1960, a proposição de Simone de
 Beauvoir contribuiu para estruturar um movi-
 mento social que teve como marca o(a): 
  
+\
 A) ação do Poder Judiciário para criminalizar a 
 violência sexual. 
 B) pressão do Poder Legislativo para impedir a 
@@ -6378,7 +6481,8 @@ E) estabelecimento de políticas governamentais
 para promover ações afirmativas. 
  
  
-Questão 190 (2015.1) 
+\
+@190 (2015.1) 
 Só num sentido muito restrito, o indivíduo cria 
 com seus próprios recursos o modo de falar e 
 de pensar que lhe são atribuídos. Fala o idioma 
@@ -6397,11 +6501,7 @@ Porto Alegre: Globo, 1950 - adaptado)
 Ilustrando uma proposição básica da sociologia 
 do conhecimento, o argumento de Karl Man-
 nheim defende que o(a): 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-53 
-novocadernoenem@gmail.com 
+\
 A) conhecimento sobre a realidade é condicio-
 nado socialmente. 
 B) submissão ao grupo manipula o conhecimen-
@@ -6414,7 +6514,8 @@ E) domínio das línguas universaliza o conheci-
 mento. 
  
  
-Questão 191 (2015.1) 
+\
+@191 (2015.1) 
 A Unesco condenou a destruição da antiga capi-
 tal assíria de Nimrod, no Iraque, pelo Estado 
 Islâmico, com a agência da ONU considerando 
@@ -6431,6 +6532,7 @@ O tipo de atentado descrito no texto tem como
 consequência para as populações de países 
 como o Iraque a desestruturação do(a): 
  
+\
 A) homogeneidade cultural. 
 B) patrimônio histórico. 
 C) controle ocidental. 
@@ -6438,7 +6540,8 @@ D) unidade étnica.
 E) religião oficial. 
  
  
-Questão 192 (2015.2) 
+\
+@192 (2015.3) 
 A população negra teve que enfrentar sozinha o 
 desafio da ascenção social, e frequentemente 
 procurou fazê-lo por rotas originais, como o 
@@ -6460,6 +6563,7 @@ Em relação ao argumento de que no Brasil exis-
 te uma democracia racial, o autor demonstra 
 que: 
  
+\
 A) essa ideologia equipara a nação a outros 
 países modernos. 
 B) esse modelo de democracia foi possibilitado 
@@ -6472,7 +6576,8 @@ E) essa dinâmica politica depende da participa-
 ção ativa de todas as etnias. 
  
  
-Questão 193 (2015.2) 
+\
+@193 (2015.3) 
 Uma dimensão de flexibilização do tempo de 
 trabalho é a sutileza cada vez maior das frontei-
 ras que separam o espaço de trabalho e o do 
@@ -6495,6 +6600,7 @@ Campinas: IE/Unicamp; Brasilia: MTE, 2006)
 A relação entre mudanças tecnológicas e tempo 
 de trabalho apresentada pelo texto implica o: 
  
+\
 A) prolongamento da jornada de trabalho com a 
 intensificação da exploração. 
 B) aumento da fragmentação da produção com 
@@ -6507,7 +6613,8 @@ E) declínio dos salários pagos aos empregados
 mais idosos. 
  
  
-Questão 194 (2015.2) 
+\
+@194 (2015.3) 
 O reconhecimento da união homo afetiva levou 
 o debate à esfera pública, dividindo opiniões. A 
 pesar da grande repercussão gerada pela mí-
@@ -6526,14 +6633,10 @@ Acesso em: 1 mar. 2012 - adaptado)
 As decisões em favor das minorias, tomadas 
 pelo Poder Judiciário, foram possíveis pela or-
 ganização desses grupos.  
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-54 
-novocadernoenem@gmail.com 
 Ainda que não sejam assimiladas por toda a 
 população, essas mudanças: 
  
+\
 A) contribuem para a manutenção da ordem 
 social. 
 B) reconhecem a legitimidade desses pleitos. 
@@ -6544,7 +6647,8 @@ político.
 E) excedem o principio da isonomia jurídica. 
  
  
-Questão 195 (2015.2) 
+\
+@195 (2015.3) 
 Na sociedade democrática, as opiniões de cada 
 um não são fortalezas ou castelos para que 
 neles nos encerremos como forma de autoafir-
@@ -6564,6 +6668,7 @@ A ideia de democracia presente no texto, base-
 ada na concepção de Habermas acerca do dis-
 curso, defende que a verdade é um(a): 
  
+\
 A) alvo objetivo alcançável por cada pessoa, 
 como agente racional autônomo. 
 B) critério acima dos homens, de acordo com o 
@@ -6580,7 +6685,8 @@ nos espíritos elevados, a quem cabe a tarefa de
 convencer os outros. 
  
  
-Questão 196 (2015.2) 
+\
+@196 (2015.3) 
  
 TEXTO I 
 Não é possível passar das trevas da ignorância 
@@ -6612,6 +6718,7 @@ distintos sobre as mudanças culturais ocorridas
 no século XII no Ocidente. Comparando os tex-
 tos, os autores discutem o(a): 
  
+\
 A) produção do conhecimento face à manuten-
 ção dos argumentos de autoridade da Igreja. 
 B) caráter dinâmico do pensamento laico frente 
@@ -6623,7 +6730,8 @@ opor fé e razão.
 E) construção de um saber teológico científico. 
  
  
-Questão 197 (2015.2) 
+\
+@197 (2015.3) 
 Suponha homens numa morada subterrânea, 
 em forma de caverna, cuja entrada, aberta à luz, 
 se estende sobre todo o comprimento da facha-
@@ -6648,6 +6756,7 @@ nifestação cultural do pensamento grego antigo,
 cuja ideia central, do ponto de vista filosófico, 
 evidencia o (a): 
  
+\
 A) caráter antropológico, descrevendo as ori-
 gens do homem primitivo. 
 B) sistema penal da época, criticando o sistema 
@@ -6659,12 +6768,8 @@ mento da pólis e da democracia ateniense.
 E) teoria do conhecimento, expondo a passa-
 gem do mundo ilusório para o mundo das idei-
 as. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-55 
-novocadernoenem@gmail.com 
-Questão 198 (2015.2) 
+\
+@198 (2015.3) 
 Se os nossos adversários, que admitem a exis-
 tência de uma natureza não criada por Deus, o 
 Sumo Bem, quisessem admitir que essas consi-
@@ -6682,6 +6787,7 @@ Sétimo Selo, 2005 - adaptado)
 Para Agostinho, não se deve atribuir a Deus a 
 origem do mal porque: 
  
+\
 A) o surgimento do mal é anterior à existência 
 de Deus. 
 B) o mal, enquanto princípio ontológico, inde-
@@ -6694,7 +6800,8 @@ E) Deus se limita a administrar a dialética exis-
 tente entre o bem e o mal. 
  
  
-Questão 199 (2015.2) 
+\
+@199 (2015.3) 
 Mediante o Código de Posturas de 1932, o po-
 der público enumera e prevê, para os habitantes 
 de Fortaleza, uma série de proibições condicio-
@@ -6715,6 +6822,7 @@ perimentaram, na primeira metade do século
 XX, um novo tipo de vida urbana, marcado por 
 condutas que evidenciam uma: 
  
+\
 A) experiência temporal regida pelo tempo or-
 gânico e pessoal. 
 B) experiência que flexibilizava a obediência ao 
@@ -6725,7 +6833,8 @@ D) normatização do tempo com vistas à discipli-
 na dos corpos na cidade. 
 E) cultura urbana capaz de conviver com dife-
 rentes experiências temporais. 
-Questão 200 (2015.2) 
+\
+@200 (2015.3) 
  
 TEXTO I 
  
@@ -6767,6 +6876,7 @@ São Paulo: Nova Cultural, 1999)
 A aproximação entre a letra da canção e a críti-
 ca de Adorno indica o(a): 
  
+\
 A) lado efêmero e restritivo da indústria cultural. 
 B) baixa renovação da indústria de entreteni-
 mento. 
@@ -6778,7 +6888,8 @@ E) declínio da forma musical em prol de outros
 meios de entretenimento. 
  
  
-Questão 201 (2015.2) 
+\
+@201 (2015.3) 
 A pura lealdade na amizade, embora até o pre-
 sente não tenha existido nenhum amigo leal, é 
 imposta a todo homem, essencialmente, pelo 
@@ -6789,14 +6900,10 @@ princípios a priori.
  
 (KANT, I. Fundamentação da metafísica dos costu-
 mes. São Paulo: Barcarolla, 2009) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-56 
-novocadernoenem@gmail.com 
 A passagem citada expõe um pensamento ca-
 racterizado pela: 
  
+\
 A) eficácia prática da razão empírica. 
 B) transvaloração dos valores judaico-cristãos. 
 C) recusa em fundamentar a moral pela experi-
@@ -6807,7 +6914,8 @@ E) importância dos valores democráticos nas
 relações de amizade. 
  
  
-Questão 202 (2015.2) 
+\
+@202 (2015.3) 
 Após ter examinado cuidadosamente todas as 
 coisas, cumpre enfim concluir e ter por constan-
 te que esta proposição, eu sou, eu existo, é 
@@ -6822,6 +6930,7 @@ um dos momentos mais importantes na ruptura
 da filosofia do século XVII com os padrões da 
 reflexão medieval, por: 
  
+\
 A) estabelecer o ceticismo como opção legítima. 
 B) utilizar silogismos linguísticos como prova 
 ontológica. 
@@ -6833,7 +6942,8 @@ E) questionar a relação entre a filosofia e o tema
 da existência de Deus. 
  
  
-Questão 203 (2015.2) 
+\
+@203 (2015.3) 
 O impulso para o ganho, a perseguição do lu-
 cro, do dinheiro, da maior quantidade possível 
 de dinheiro não tem, em si mesma, nada que 
@@ -6857,6 +6967,7 @@ talismo. São Paulo: Martin Claret, 2001 - adaptado)
 O capitalismo moderno, segundo Max Weber, 
 apresenta como característica fundamental a: 
  
+\
 A) competitividade decorrente da acumulação 
 de capital. 
 B) implementação da flexibilidade produtiva e 
@@ -6867,7 +6978,8 @@ D) socialização das condições de produção.
 E) mercantilização da força de trabalho. 
  
  
-Questão 204 (2015.2) 
+\
+@204 (2015.3) 
 O filósofo Auguste Comte (1798 - 1857) preen-
 che sua doutrina com uma imagem do progres-
 so social na qual se conjugam ciência e política 
@@ -6888,6 +7000,7 @@ A característica do Estado positivo que lhe per-
 mite garantir não só a ordem, como também o 
 desejado progresso das nações, é ser: 
  
+\
 A) espaço coletivo, onde as carências e desejos 
 da população se realizam por meio das leis. 
 B) produto científico da física social, transcen-
@@ -6904,7 +7017,8 @@ a cada revolução, por impor pelo menos um
 curto período de ordem. 
  
  
-Questão 205 (2015.2) 
+\
+@205 (2015.3) 
 Se vamos ter mais tempo de lazer no futuro 
 automatizado, o problema não é como as pes-
 soas vão consumir essas unidades adicionais 
@@ -6921,16 +7035,12 @@ vida.
  
 (THOMPSON, E. P. Costumes em comum: estudos 
 sobre a cultura popular. São Paulo: Cia. Letras, 1998) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-57 
-novocadernoenem@gmail.com 
 A partir da reflexão do historiador, um argumen-
 to contrário à transformação promovida pela 
 Revolução Industrial na relação dos homens 
 com o uso do tempo livre é o(a): 
  
+\
 A) intensificação da busca do lucro econômico. 
 B) flexibilização dos períodos de férias trabalhis-
 tas. 
@@ -6942,15 +7052,16 @@ E) multiplicação das possibilidades de entrete-
 nimento virtual. 
  
  
-Questão 206 (2015.2) 
- 
- 
+\
+@206 (2015.3) 
+\L
  
 O cartum evidencia um desafio que o tema da 
 inclusão social impõe às democracias contem-
 porâneas. Esse desafio exige a combinação 
 entre: 
  
+\
 A) participação política e formação profissional 
 diferenciada. 
 B) exercício da cidadania e políticas de transfe-
@@ -6963,7 +7074,8 @@ E) crescimento econômico e flexibilização dos
 processos seletivos. 
  
  
-Questão 207 (2015.2) 
+\
+@207 (2015.3) 
 A razão principal que leva o capitalismo como 
 sistema a ser tão terrivelmente destrutivo da 
 biosfera é que, na maioria dos casos, os produ-
@@ -6983,6 +7095,7 @@ A pressão dos movimentos socioambientais, na
 tentativa de reverter a lógica descrita no texto, 
 aponta para a: 
  
+\
 A) emergência de um sistema econômico global 
 que secundariza os lucros. 
 B) redução dos custos de tratamento de resí-
@@ -6995,7 +7108,8 @@ E) minimização do papel do Estado em detri-
 mento das organizações não governamentais. 
  
  
-Questão 208 (2015.2) 
+\
+@208 (2015.3) 
 A utilidade do escravo é semelhante à do ani-
 mal. Ambos prestam serviços corporais para 
 atender às necessidades da vida. A natureza 
@@ -7010,6 +7124,7 @@ trabalho braçal, porém apto à vida do cidadão.
 O trabalho braçal é considerado, na filosofia 
 aristotélica, como: 
  
+\
 A) indicador da imagem do homem no estado 
 de natureza. 
 B) condição necessária para a realização da 
@@ -7022,7 +7137,8 @@ E) mecanismo de aperfeiçoamento do trabalho
 por meio da experiência. 
  
  
-Questão 209 (2016.1) 
+\
+@209 (2016.1) 
 Hoje, a indústria cultural assumiu a herança 
 civilizatória da democracia de pioneiros e em-
 presários, que tampouco desenvolvera uma 
@@ -7032,11 +7148,6 @@ do mesmo modo que, desde a neutralização
 histórica da religião, são livres para entrar em 
 qualquer uma das inúmeras seitas. Mas a liber-
 dade de escolha da ideologia, que reflete sem-
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-58 
-novocadernoenem@gmail.com 
 pre a coerção econômica, revela-se em todos 
 os setores como a liberdade de escolher o que 
 é sempre a mesma coisa. 
@@ -7047,6 +7158,7 @@ esclarecimento. Rio de Janeiro: Zahar, 1985)
 A liberdade de escolha na civilização ocidental, 
 de acordo com a análise do texto, é um(a): 
  
+\
 A) legado social. 
 B) patrimônio político. 
 C) produto da moralidade. 
@@ -7054,7 +7166,8 @@ D) conquista da humanidade.
 E) ilusão da contemporaneidade. 
  
  
-Questão 210 (2016.1) 
+\
+@210 (2016.1) 
 Sentimos que toda satisfação de nossos dese-
 jos advinda do mundo assemelha-se à esmola 
 que mantém hoje o mendigo vivo, porém pro-
@@ -7071,6 +7184,7 @@ uma tradição filosófica ocidental, segundo a
 qual a felicidade se mostra indissociavelmente 
 ligada à: 
  
+\
 A) a consagração de relacionamentos afetivos. 
 B) administração da independência interior. 
 C) fugacidade do conhecimento empírico. 
@@ -7078,10 +7192,10 @@ D) liberdade de expressão religiosa.
 E) busca de prazeres efêmeros. 
  
  
-Questão 211 (2016.1) 
- 
+\
+@211 (2016.1) 
 TEXTO I 
- 
+\L
  
  
 TEXTO II 
@@ -7101,6 +7215,7 @@ O texto chama a atenção para a importância da
 proteção de bens que, como aquele apresenta-
 do na imagem, se identificam como: 
  
+\
 A) Artefatos sagrados. 
 B) Heranças materiais. 
 C) Objetos arqueológicos. 
@@ -7108,7 +7223,8 @@ D) Peças comercializáveis.
 E) Conhecimentos tradicionais. 
  
  
-Questão 212 (2016.1) 
+\
+@212 (2016.1) 
 Vi os homens sumirem-se numa grande tristeza. 
 Os melhores cansaram-se das suas obras. Pro-
 clamou-se uma doutrina e com ela circulou uma 
@@ -7129,6 +7245,7 @@ O texto exprime uma construção alegórica, que
 traduz um entendimento da doutrina niilista, 
 uma vez que: 
  
+\
 A) reforça a liberdade do cidadão. 
 B) desvela os valores do cotidiano. 
 C) exorta as relações de produção. 
@@ -7136,7 +7253,8 @@ D) destaca a decadência da cultura.
 E) amplifica o sentimento de ansiedade. 
  
  
-Questão 213 (2016.1) 
+\
+@213 (2016.1) 
 Quanto mais complicada se tornou a produção 
 industrial, mais numerosos passaram a ser os 
 elementos da indústria que exigiam garantia de 
@@ -7155,14 +7273,10 @@ dentes.
  
 (POLANYI, K. A grande transformação: as origens de 
 nossa época. Rio de Janeiro: Campus, 2000) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-59 
-novocadernoenem@gmail.com 
 A consequência do processo de transformação 
 socioeconômica abordado no texto é a: 
  
+\
 A) expansão das terras comunais. 
 B) limitação do mercado como meio de especu-
 lação. 
@@ -7174,7 +7288,8 @@ E) adequação do dinheiro como elemento pa-
 drão das transações. 
  
  
-Questão 214 (2016.1) 
+\
+@214 (2016.1) 
  
 Ser ou não ser – eis a questão. 
 Morrer – dormir – Dormir! Talvez sonhar.  
@@ -7191,6 +7306,7 @@ Este solilóquio pode ser considerado um pre-
 cursor do existencialismo ao enfatizar a tensão 
 entre: 
  
+\
 A) consciência de si e angústia humana. 
 B) inevitabilidade do destino e incerteza moral. 
 C) tragicidade da personagem e ordem do mun-
@@ -7201,12 +7317,13 @@ E) dependência paterna e impossibilidade de
 ação. 
  
  
-Questão 215 (2016.1) 
- 
+\
+@215 (2016.1) 
 TEXTO I 
- 
+\L 
 Tradução: “As mulheres do futuro farão da Lua 
 um lugar mais limpo para se viver'”. 
+
 TEXTO II 
  
 Metade da nova equipe da Nasa é  
@@ -7227,6 +7344,7 @@ A comparação entre o anúncio publicitário de
 1968 e a repercussão da notícia de 2016 mostra 
 a: 
  
+\
 A) elitização da carreira científica. 
 B) qualificação da atividade doméstica. 
 C) ambição de indústrias patrocinadoras. 
@@ -7235,7 +7353,8 @@ E) equiparação de papéis nas relações familia-
 res. 
  
  
-Questão 216 (2016.1) 
+\
+@216 (2016.1) 
 Ser moderno é encontrar-se em um ambiente 
 que promete aventura, poder, alegria, cresci-
 mento, autotransformação e transformação das 
@@ -7255,6 +7374,7 @@ Cia. das Letras. 1986 - adaptado)
 O texto apresenta uma interpretação da moder-
 nidade que a caracteriza como um(a): 
  
+\
 A) dinâmica social contraditória. 
 B) interação coletiva harmônica. 
 C) fenômeno econômico estável. 
@@ -7262,7 +7382,8 @@ D) sistema internacional decadente.
 E) processo histórico homogeneizador. 
  
  
-Questão 217 (2016.1) 
+\
+@217 (2016.1) 
 Não estou mais pensando como costumava 
 pensar. Percebo isso de modo mais acentuado 
 quando estou lendo. Mergulhar num livro, ou 
@@ -7270,11 +7391,6 @@ num longo artigo, costumava ser fácil. Isso ra-
 ramente ocorre atualmente. Agora minha aten-
 ção começa a divagar depois de duas ou três 
 páginas. Creio que sei o que está acontecendo. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-60 
-novocadernoenem@gmail.com 
 Por mais de uma década venho passando mais 
 tempo on-line, procurando e surfando e algumas 
 vezes acrescentando informação à grande bibli-
@@ -7298,6 +7414,7 @@ Em relação à internet, a perspectiva defendida
 pelo autor ressalta um paradoxo que se caracte-
 riza por: 
  
+\
 A) associar uma experiência superficial à abun-
 dância de informações. 
 B) condicionar uma capacidade individual à 
@@ -7310,7 +7427,8 @@ E) equiparar uma ferramenta digital à tecnologia
 analógica. 
  
  
-Questão 218 (2016.1) 
+\
+@218 (2016.1) 
 A sociologia ainda não ultrapassou a era das 
 construções e das sínteses filosóficas. Em vez 
 de assumir a tarefa de lançar luz sobre uma 
@@ -7331,6 +7449,7 @@ São Paulo: Martins Fontes, 2000)
 O texto expressa o esforço de Émile Durkheim 
 em construir uma sociologia com base na: 
  
+\
 A) vinculação com a filosofia como saber unifi-
 cado. 
 B) reunião de percepções intuitivas para de-
@@ -7343,7 +7462,8 @@ E) incorporação de um conhecimento alimenta-
 do pelo engajamento político. 
  
  
-Questão 219 (2016.1) 
+\
+@219 (2016.1) 
 Pirro afirmava que nada é nobre nem vergonho-
 so, justo ou injusto; e que, da mesma maneira, 
 nada existe do ponto de vista da verdade; que 
@@ -7361,6 +7481,7 @@ ilustres. Brasília: Editora UnB, 1988)
 O ceticismo, conforme sugerido no texto, carac-
 teriza-se por: 
  
+\
 A) Desprezar quaisquer convenções e obriga-
 ções da sociedade. 
 B) Atingir o verdadeiro prazer como o princípio e 
@@ -7373,7 +7494,8 @@ E) Agir de forma virtuosa e sábia a fim de enal-
 tecer o homem bom e belo. 
  
  
-Questão 220 (2016.1) 
+\
+@220 (2016.1) 
 A democracia deliberativa afirma que as partes 
 do conflito político devem deliberar entre si e, 
 por meio de argumentação razoável, tentar che-
@@ -7399,11 +7521,7 @@ Política. n. 13. jan.-abr. 2014)
 As concepções de democracia deliberativa e de 
 democracia ativista apresentadas no texto tra-
 tam como imprescindíveis, respectivamente, 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-61 
-novocadernoenem@gmail.com 
+\
 A) a decisão da maioria e a uniformização de 
 direitos. 
 B) a organização de eleições e o movimento 
@@ -7416,7 +7534,8 @@ E) a imposição de resistência e o monitoramen-
 to da liberdade. 
  
  
-Questão 221 (2016.1) 
+\
+@221 (2016.1) 
 A promessa da tecnologia moderna se conver-
 teu em uma ameaça, ou esta se associou àque-
 la de forma indissolúvel. Ela vai além da consta-
@@ -7438,6 +7557,7 @@ da no texto impulsionam a necessidade de
 construção de um novo padrão de comporta-
 mento, cujo objetivo consiste em garantir o(a): 
  
+\
 A) pragmatismo da escolha individual. 
 B) sobrevivência de gerações futuras. 
 C) fortalecimento de políticas liberais. 
@@ -7445,7 +7565,8 @@ D) valorização de múltiplas etnias.
 E) promoção da inclusão social. 
  
  
-Questão 222 (2016.1) 
+\
+@222 (2016.1) 
 Nunca nos tornaremos matemáticos, por exem-
 plo, embora nossa memória possua todas as 
 demonstrações feitas por outros, se nosso espí-
@@ -7463,18 +7584,20 @@ Em sua busca pelo saber verdadeiro, o autor
 considera o conhecimento, de modo crítico, 
 como resultado da: 
  
+\
 A) investigação de natureza empírica. 
 B) retomada da tradição intelectual. 
 C) imposição de valores ortodoxos. 
 D) autonomia do sujeito pensante. 
 E) liberdade do agente moral. 
-Questão 223 (2016.1) 
- 
- 
+\
+@223 (2016.1) 
+\L 
  
 A memória recuperada pela autora apresenta a 
 relação entre: 
  
+\
 A) conflito trabalhista e engajamento sindical. 
 B) organização familiar e proteção à infância. 
 C) centralização econômica e pregação religio-
@@ -7485,7 +7608,8 @@ E) transformação política e modificação de cos-
 tumes. 
  
  
-Questão 224 (2016.1) 
+\
+@224 (2016.1) 
  
 TEXTO I 
 Fragmento B91: Não se pode banhar duas ve-
@@ -7507,15 +7631,11 @@ gerar-se?
  
 (PARMÊNIDES. Da natureza. São Paulo:  
 Loyola, 2002 -adaptado) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-62 
-novocadernoenem@gmail.com 
 Os fragmentos do pensamento pré-socrático 
 expõem uma oposição que se insere no campo 
 das: 
  
+\
 A) investigações do pensamento sistemático. 
 B) preocupações do período mitológico. 
 C) discussões de base ontológica. 
@@ -7523,7 +7643,8 @@ D) habilidades da retórica sofística.
 E) verdades do mundo sensível. 
  
  
-Questão 225 (2016.2) 
+\
+@225 (2016.2) 
 A característica fundamental é que ele não é 
 mais somente um agricultor ou um pecuarista: 
 ele combina atividades agropecuárias com ou-
@@ -7540,6 +7661,7 @@ Economia, n. 1, maio 1997 - adaptado)
 Essa nova forma de organização social do tra-
 balho é denominada: 
  
+\
 A) terceirização. 
 B) pluriatividade. 
 C) agronegócio. 
@@ -7547,7 +7669,8 @@ D) cooperativismo.
 E) associativismo. 
  
  
-Questão 226 (2016.2) 
+\
+@226 (2016.2) 
  
 [...] O SERVIDOR — Diziam ser filho do rei... 
 ÉDIPO — Foi ela quem te entregou a criança? 
@@ -7579,6 +7702,7 @@ deveria matar!
 O trecho da obra de Sófocles, que expressa o 
 núcleo da tragédia grega, revela o(a): 
  
+\
 A) condenação eterna dos homens pela prática 
 injustificada do incesto. 
 B) legalismo estatal ao punir com a prisão per-
@@ -7591,7 +7715,8 @@ E) impossibilidade de o homem fugir do destino
 predeterminado pelos deuses. 
  
  
-Questão 227 (2016.2) 
+\
+@227 (2016.2) 
 A Justiça de São Paulo decidiu multar os su-
 permercados que não fornecerem embalagens 
 de papel ou material biodegradável. De acordo 
@@ -7607,6 +7732,7 @@ Acesso em: 31 jul. 2012 - adaptado)
 A legislação e os atos normativos descritos es-
 tão ancorados na seguinte concepção: 
  
+\
 A) Implantação da ética comercial. 
 B) Manutenção da livre concorrência. 
 C) Garantia da liberdade de expressão. 
@@ -7614,7 +7740,8 @@ D) Promoção da sustentabilidade ambiental.
 E) Enfraquecimento dos direitos do consumidor. 
  
  
-Questão 228 (2016.2) 
+\
+@228 (2016.2) 
 Ações de educação patrimonial são realizadas 
 em diferentes contextos e localidades e têm 
 mostrado resultados surpreendentes ao trazer à 
@@ -7632,24 +7759,21 @@ A valorização dos bens mencionados encontra-
 se correlacionada a ações educativas que pro-
 movem a(s): 
  
+\
 A) evolução de atividades artesanais herdadas 
 do passado. 
 B) representações sociais formadoras de identi-
 dades coletivas. 
 C) mobilizações políticas criadoras de tradições 
 culturais urbanas. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-63 
-novocadernoenem@gmail.com 
 D) hierarquização de festas folclóricas pratica-
 das por grupos locais. 
 E) formação escolar dos jovens para o trabalho 
 realizado nas comunidades. 
  
  
-Questão 229 (2016.2) 
+\
+@229 (2016.2) 
 A justiça e a conformidade ao contrato consis-
 tem em algo com que a maioria dos homens 
 parece concordar. Constitui um princípio julgado 
@@ -7666,6 +7790,7 @@ De acordo com Locke, até a mais precária cole-
 tividade depende de uma noção de justiça, pois 
 tal noção: 
  
+\
 A) identifica indivíduos despreparados para a 
 vida em comum. 
 B) contribui com a manutenção da ordem e do 
@@ -7678,7 +7803,8 @@ E) representa os interesses da coletividade,
 expressos pela vontade da maioria. 
  
  
-Questão 230 (2016.2) 
+\
+@230 (2016.2) 
 A demanda da comunidade afro-brasileira por 
 reconhecimento, valorização e afirmação de 
 direitos, no que diz respeito à educação, passou 
@@ -7695,6 +7821,7 @@ Ministério da Educação, 2005)
 A alteração legal no Brasil contemporâneo des-
 crita no texto é resultado do processo de: 
  
+\
 A) aumento da renda nacional. 
 B) mobilização do movimento negro. 
 C) melhoria da infraestrutura escolar. 
@@ -7702,7 +7829,8 @@ D) ampliação das disciplinas obrigatórias.
 E) politização das universidades públicas. 
  
  
-Questão 231 (2016.2) 
+\
+@231 (2016.2) 
 Os andróginos tentaram escalar o céu para 
 combater os deuses. No entanto, os deuses em 
 um primeiro momento pensam em matá-los de 
@@ -7721,6 +7849,7 @@ jando formar um único ser.
 No trecho da obra O banquete, Platão explicita, 
 por meio de uma alegoria, o: 
  
+\
 A) bem supremo como fim do homem. 
 B) prazer perene como fundamento da felicida-
 de. 
@@ -7731,7 +7860,8 @@ E) autoconhecimento como caminho da verda-
 de. 
  
  
-Questão 232 (2016.2) 
+\
+@232 (2016.2) 
  
 TEXTO I 
  
@@ -7771,14 +7901,10 @@ nho, como uma força independente do produtor.
  
 (MARX, K. Manuscritos econômicos-filosóficos (Os 
 Primeiros). São Paulo: Boitempo Editorial, 2004) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-64 
-novocadernoenem@gmail.com 
 Com base nos textos. a relação entre trabalho e 
 modo de produção capitalista é: 
  
+\
 A) baseada na desvalorização do trabalho es-
 pecializado e no aumento da demanda social 
 por novos postos de emprego. 
@@ -7794,7 +7920,8 @@ E) derivada do aumento da riqueza e da amplia-
 ção da exploração do trabalhador. 
  
  
-Questão 233 (2016.2) 
+\
+@233 (2016.2) 
 Pode-se admitir que a experiência passada dá 
 somente uma informação direta e segura sobre 
 determinados objetos em determinados perío-
@@ -7820,6 +7947,7 @@ humano. São Paulo: Abril cultural, 1995)
 O problema descrito no texto tem como conse-
 quência a: 
  
+\
 A) universabilidade do conjunto das proposições 
 de observação. 
 B) normatividade das teorias científicas que se 
@@ -7832,7 +7960,8 @@ E) correspondência entre afirmações singulares
 e afirmações universais. 
  
  
-Questão 234 (2016.2) 
+\
+@234 (2016.2) 
 A favela é vista como um lugar sem ordem, 
 capaz de ameaçar os que nela não se incluem. 
 Atribuir-lhe a ideia de perigo é o mesmo que 
@@ -7855,6 +7984,7 @@ favela. Rio de Janeiro, Editora FGV. 1998)
 O estigma apontado no texto tem como conse-
 quência o(a): 
  
+\
 A) aumento da impunidade criminal. 
 B) enfraquecimento dos direitos civis. 
 C) distorção na representação política. 
@@ -7862,7 +7992,8 @@ D) crescimento dos índices de criminalidade.
 E) ineficiência das medidas socioeducativas. 
  
  
-Questão 235 (2016.2) 
+\
+@235 (2016.2) 
 A história não corresponde exatamente ao que 
 foi realmente conservado na memória popular, 
 mas àquilo que foi selecionado, escrito, descrito, 
@@ -7883,6 +8014,7 @@ Uma vez que a neutralidade é inalcançável na
 atividade mencionada, é tarefa do profissional 
 envolvido: 
  
+\
 A) criticar as ideias dominantes. 
 B) respeitar os interesses sociais. 
 C) defender os direitos das minorias. 
@@ -7890,18 +8022,15 @@ D) explicitar as escolhas realizadas.
 E) satisfazer os financiadores de pesquisas. 
  
  
-Questão 236 (2016.2) 
+\
+@236 (2016.2) 
+\L
  
- 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-65 
-novocadernoenem@gmail.com 
 A forma de organização interna da indústria 
 citada gera a seguinte consequência para a 
 mão de obra nela inserida: 
  
+\
 A) Ampliação da jornada diária. 
 B) Melhoria da qualidade do trabalho. 
 C) Instabilidade nos cargos ocupados. 
@@ -7909,7 +8038,8 @@ D) Eficiência na prevenção de acidentes.
 E) Desconhecimento das etapas produtivas. 
  
  
-Questão 237 (2016.2) 
+\
+@237 (2016.2) 
  
 Arrependimentos terminais 
  
@@ -7934,6 +8064,7 @@ O texto compara hipoteticamente dois padrões
 morais que divergem por se basearem respecti-
 vamente em: 
  
+\
 A) satisfação pessoal e valores tradicionais. 
 B) relativismo cultural e postura ecumênica. 
 C) tranquilidade espiritual e costumes liberais. 
@@ -7943,7 +8074,8 @@ E) engajamento político e princípios nacionalis-
 tas. 
  
  
-Questão 238 (2016.2) 
+\
+@238 (2016.2) 
  
 TEXTO I 
 Até aqui expus a natureza do homem (cujo or-
@@ -7977,6 +8109,7 @@ ligados à natureza humana e ao Estado. Tho-
 mas Hobbes, diferentemente de John Locke, 
 entende o estado de natureza como um(a): 
  
+\
 A) condição de guerra de todos contra todos, 
 miséria universal, insegurança e medo da morte 
 violenta. 
@@ -7994,7 +8127,8 @@ destruído pela civilização, que perturba as rela-
 ções sociais e violenta a humanidade. 
  
  
-Questão 239 (2016.2) 
+\
+@239 (2016.2) 
 O Movimento Negro Unificado (MNU) distingue-
 se do Teatro Experimental do Negro (TEN) por 
 sua crítica ao discurso nacional hegemônico. 
@@ -8019,15 +8153,11 @@ rentes contextos históricos: o TEN, em 1944, e
 o MNU, em 1978. Ao assumir uma postura di-
 vergente da do TEN, o MNU pretendia: 
  
+\
 A) pressionar o governo brasileiro a decretar a 
 igualdade racial. 
 B) denunciar a permanência do racismo nas 
 relações sociais. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-66 
-novocadernoenem@gmail.com 
 C) contestar a necessidade da igualdade entre 
 negros e brancos. 
 D) defender a assimilação do negro por meios 
@@ -8036,7 +8166,8 @@ E) divulgar a ideia da miscigenação como marca
 da nacionalidade. 
  
  
-Questão 240 (2016.2) 
+\
+@240 (2016.2) 
 Ninguém delibera sobre coisas que não podem 
 ser de outro modo, nem sobre as que lhe é im-
 possível fazer. Por conseguinte, como o conhe-
@@ -8062,6 +8193,7 @@ ao campo do saber prático. Nesse sentido, ela
 difere-se dos outros saberes porque é caracteri-
 zada como: 
  
+\
 A) conduta definida pela capacidade racional de 
 escolha. 
 B) capacidade de escolher de acordo com pa-
@@ -8074,7 +8206,8 @@ E) política estabelecida de acordo com padrões
 democráticos de deliberação. 
  
  
-Questão 241 (2016.2) 
+\
+@241 (2016.2) 
 Simples, saborosa e, acima de tudo, exótica. Se 
 a culinária brasileira tem o tempero do estra-
 nhamento, esta verdade decorre de dois ele-
@@ -8090,6 +8223,7 @@ n. 29. mar. 2006 - adaptado)
  
 O processo de formação identitária descrito no 
 texto está associado à: 
+\
 A) imposição de rituais sagrados. 
 B) assimilação de tradições culturais. 
 C) tipificação de hábitos comunitários. 
@@ -8097,7 +8231,8 @@ D) hierarquização de conhecimentos tribais.
 E) superação de diferenças etnorraciais. 
  
  
-Questão 242 (2016.2) 
+\
+@242 (2016.2) 
 Fundamos, como afirmam alguns cientistas, o 
 antropoceno: uma nova era geológica com altís-
 simo poder de destruição, fruto dos últimos sé-
@@ -8120,6 +8255,7 @@ A ética da responsabilidade protagonizada pelo
 filósofo alemão Hans Jonas e reivindicada no 
 texto é expressa pela máxima: 
  
+\
 A) “A tua ação possa valer como norma para 
 todos os homens.” 
 B) “A norma aceita por todos advenha da ação 
@@ -8132,7 +8268,8 @@ E) “O efeito de tuas ações não destrua a possi-
 bilidade futura da vida das novas gerações.” 
  
  
-Questão 243 (2016.2) 
+\
+@243 (2016.2) 
 O mercado tende a gerir e regulamentar todas 
 as atividades humanas. Até há pouco, certos 
 campos – cultura, esporte, religião – ficavam 
@@ -8148,17 +8285,14 @@ No texto é apresentada uma lógica que constitui
 uma característica central do seguinte sistema 
 socioeconômico: 
  
+\
 A) Socialismo. 
 B) Feudalismo. 
 C) Capitalismo. 
 D) Anarquismo. 
 E) Comunitarismo. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-67 
-novocadernoenem@gmail.com 
-Questão 244 (2016.2) 
+\
+@244 (2016.2) 
 O processo de justiça é um processo ora de 
 diversificação do diverso, ora de unificação do 
 idêntico. A igualdade entre todos os seres hu-
@@ -8175,6 +8309,7 @@ ca e as lições. Rio de Janeiro: Campus, 2000)
 De acordo com o texto, a construção de uma 
 sociedade democrática fundamenta-se em: 
  
+\
 A) A norma estabelecida pela disciplina social. 
 B) A pertença dos indivíduos à mesma catego-
 ria. 
@@ -8186,16 +8321,16 @@ E) A garantia da segurança das pessoas e valo-
 res sociais. 
  
  
-Questão 245 (2016.3) 
- 
- 
- 
+\
+@245 (2016.3) 
+\L
 (Disponível em: www.cultura.ba.gov.br.  
 Acesso em: 15 jan. 2014) 
  
 A imagem retrata uma prática cultural brasileira 
 cuja raiz histórica está associada à: 
  
+\
 A) liberdade religiosa. 
 B) migração forçada. 
 C) devoção ecumênica. 
@@ -8203,7 +8338,8 @@ D) atividade missionária.
 E) mobilização política. 
  
  
-Questão 246 (2016.3) 
+\
+@246 (2016.3) 
 Tendo se livrado do entulho do maquinário vo-
 lumoso e das enormes equipes de fábrica, o 
 capital viaja leve, apenas com a bagagem de 
@@ -8223,6 +8359,7 @@ No texto, faz-se referência a um processo de
 transformação do mundo produtivo cuja conse-
 quência é o(a): 
  
+\
 A) regulamentação de leis trabalhistas mais 
 rígidas. 
 B) fragilização das relações hierárquicas de 
@@ -8235,7 +8372,8 @@ E) desvalorização dos postos de gerenciamento
 corporativo. 
  
  
-Questão 247 (2016.3) 
+\
+@247 (2016.3) 
 Estamos, pois, de acordo quando, ao ver algum 
 objeto, dizemos: "Este objeto que estou vendo 
 agora tem tendência para assemelhar-se a um 
@@ -8252,6 +8390,7 @@ tamente.
 Na epistemologia platônica, conhecer um de-
 terminado objeto implica: 
  
+\
 A) estabelecer semelhanças entre o que é ob-
 servado em momentos distintos. 
 B) comparar o objeto observado com uma des-
@@ -8264,7 +8403,8 @@ E) identificar outro exemplar idêntico ao obser-
 vado. 
  
  
-Questão 248 (2016.3) 
+\
+@248 (2016.3) 
 Enquanto o pensamento de Santo Agostinho 
 representa o desenvolvimento de uma filosofia 
 cristã inspirada em Platão, o pensamento de 
@@ -8272,11 +8412,6 @@ São Tomás reabilita a filosofia de Aristóteles -
 até então vista sob suspeita pela Igreja -, mos-
 trando ser possível desenvolver uma leitura de 
 Aristóteles compatível com a doutrina cristã. O 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-68 
-novocadernoenem@gmail.com 
 aristotelismo de São Tomás abriu caminho para 
 o estudo da obra aristotélica e para a legitima-
 ção do interesse pelas ciências naturais, um dos 
@@ -8290,6 +8425,7 @@ A Igreja Católica por muito tempo impediu a
 divulgação da obra de Aristóteles pelo fato de a 
 obra aristotélica: 
  
+\
 A) valorizar a investigação científica, contrarian-
 do certos dogmas religiosos. 
 B) declarar a inexistência de Deus, colocando 
@@ -8303,7 +8439,8 @@ mentos antirreligiosos, seguindo sua teoria polí-
 tica. 
  
  
-Questão 249 (2016.3) 
+\
+@249 (2016.3) 
 A importância dos argumentos de Hobbes está 
 em parte no fato de que ele se ampara em su-
 posições bastante plausíveis sobre as condi-
@@ -8326,6 +8463,7 @@ política. São Paulo: WMF, 2012 - adaptado)
 O texto apresenta uma concepção de filosofia 
 política conhecida como: 
  
+\
 A) alienação ideológica. 
 B) microfísica do poder. 
 C) estado de natureza. 
@@ -8333,7 +8471,8 @@ D) contrato social.
 E) vontade geral. 
  
  
-Questão 250 (2016.3) 
+\
+@250 (2016.3) 
 A atividade atualmente chamada de ciência tem 
 se mostrado fator importante no desenvolvimen-
 to da civilização liberal: serviu para eliminar 
@@ -8348,6 +8487,7 @@ São Paulo: Cultrix, 1975 - adaptado)
 Quais características permitem conceber a ci-
 ência com os aspectos críticos mencionados? 
  
+\
 A) Apresentar explicações em uma linguagem 
 determinada e isenta de erros. 
 B) Possuir proposições que são reconhecidas 
@@ -8360,7 +8500,8 @@ E) Constituir-se como saber organizado ao per-
 mitir classificações deduzidas da realidade. 
  
  
-Questão 251 (2016.3) 
+\
+@251 (2016.3) 
 Todas as coisas são diferenciações de uma 
 mesma coisa e são a mesma coisa. E isto é 
 evidente. Porque se as coisas que são agora 
@@ -8389,6 +8530,7 @@ pensadores, denominados pré-socráticos. Para
 eles, a principal preocupação filosófica era de 
 ordem: 
  
+\
 A) cosmológica, propondo uma explicação raci-
 onal do mundo fundamentada nos elementos da 
 natureza. 
@@ -8402,19 +8544,14 @@ D) estética, procurando investigar a aparência
 dos entres sensíveis. 
 E) hermenêutica, construindo uma explicação 
 unívoca da realidade. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-69 
-novocadernoenem@gmail.com 
-Questão 252 (2016.3) 
- 
- 
- 
+\
+@252 (2016.3) 
+\L
 (Disponível em: www.malvados.com.br. Acesso em: 11 dez. 2012) 
  
 A tirinha compara dois veículos de comunicação, atribuindo destaque à: 
  
+\
 A) resistência do campo virtual à adulteração de dados. 
 B) interatividade dos programas de entretenimento abertos. 
 C) confiança do telespectador nas notícias veiculadas. 
@@ -8422,24 +8559,21 @@ D) credibilidade das fontes na esfera computacional.
 E) autonomia do internauta na busca de informações. 
  
  
-Questão 253 (2016.3) 
- 
- 
+\
+@253 (2016.3) 
+\L
  
 A figura do inquilino ao qual a personagem da tirinha se refere á o(a): 
  
+\
 A) constrangimento por olhares de reprovação. 
 B) costume imposto aos filhos por coação. 
 C) consciência da obrigação moral. 
 D) pessoa habitante da mesma casa. 
 E) temor de possível castigo. 
  
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-70 
-novocadernoenem@gmail.com 
-Questão 254 (2016.3) 
+\
+@254 (2016.3) 
  
 Flor da Negritude 
  
@@ -8465,6 +8599,7 @@ No início dos anos 1950, a fundação do Renas-
 cença Clube, como espaço de convivência, 
 demonstra o(a): 
  
+\
 A) inexperiência associativa que levou a elite 
 negra a imitar os clubes dos brancos. 
 B) isolamento da comunidade destacada que 
@@ -8477,7 +8612,8 @@ E) criação de um racismo invertido que impedia
 a presença de pessoas brancas nesses clubes. 
  
  
-Questão 255 (2016.3) 
+\
+@255 (2016.3) 
 Uma fábrica na qual os operários fossem, efeti-
 va e integralmente, simples peças de máquinas 
 executando cegamente as ordens da direção 
@@ -8494,6 +8630,7 @@ O texto destaca, além da dinâmica material do
 capitalismo, a importância da dimensão simbóli-
 ca da sociedade, que consiste em: 
  
+\
 A) elaborar significações e valores no mundo 
 para dotá-lo de um sentido que transcende a 
 concretude da vida. 
@@ -8511,7 +8648,8 @@ al, por meio de práticas assistenciais, na defesa
 dos menos favorecidos. 
  
  
-Questão 256 (2016.3) 
+\
+@256 (2016.3) 
 Quando refletimos sobre a questão da justiça, 
 algumas associações são feitas quase intuiti-
 vamente, tais como a de equilíbrio entre as par-
@@ -8531,6 +8669,7 @@ Trans/Form/Ação, n. 1, 2001 - adaptado)
 A relação entre justiça e pluralidade, apresenta 
 pela autora, está indicada em: 
  
+\
 A) A complexidade da sociedade limita o exercí-
 cio da justiça e a impede de atuar a favor da 
 diversidade cultural. 
@@ -8548,7 +8687,8 @@ cio de dominação e controle, evitando a desin-
 tegração de uma sociedade diversificada. 
  
  
-Questão 257 (2016.3) 
+\
+@257 (2016.3) 
 A eugenia, tal como originalmente concebida, 
 era a aplicação de boas práticas de melhora-
 mento" ao aprimoramento da espécie humana. 
@@ -8563,11 +8703,7 @@ Rio de Janeiro: Zahar, 2000 - adaptado)
 Um resultado da aplicação dessa teoria, disse-
 minada a partir da segunda metade do século 
 XIX, foi o(a): 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-71 
-novocadernoenem@gmail.com 
+\
 A) aprovação de medidas de inclusão social. 
 B) adoção de crianças com diferentes caracte-
 rísticas físicas. 
@@ -8579,7 +8715,8 @@ E) desenvolvimento de próteses que possibilita-
 vam a reabilitação de pessoas deficientes. 
  
  
-Questão 258 (2016.3) 
+\
+@258 (2016.3) 
 Nossas vidas são dominadas não só pelas inuti-
 lidades de nossos contemporâneos, como tam-
 bém pelas de homens que já morreram há vá-
@@ -8600,6 +8737,7 @@ Segundo a perspectiva apresentada no texto, os
 indivíduos de diferentes gerações convivem, 
 numa mesma sociedade, com tradições que: 
  
+\
 A) permanecem como determinações da orga-
 nização social. 
 B) promovem o esquecimento dos costumes. 
@@ -8608,7 +8746,8 @@ D) sobrevivem com heranças sociais.
 E) atuam como aptidões instintivas. 
  
  
-Questão 259 (2016.3) 
+\
+@259 (2016.3) 
  
 TEXTO I 
  
@@ -8645,9 +8784,7 @@ conseguem iludir.
 Commercio, 11 Jan. 1918 - adaptado) 
  
 TEXTO III 
- 
- 
- 
+\L
 (MALFATTI, A. O homem amarelo, 1915-1916.  
 Óleo sobre tela, 61 x 51 cm. Disponível em: 
 www.estadao.com.br. Acesso em: 28 fev. 2013) 
@@ -8657,6 +8794,7 @@ monstra que o cenário artístico brasileiro no
 primeiro quartel do século XX era caracterizado 
 pelo(a): 
  
+\
 A) domínio do academicismo, que dificultava a 
 recepção da vertente realista na obra de Anita 
 Malfatti. 
@@ -8674,7 +8812,8 @@ peus da vanguarda, que levava os modernistas
 a copiarem suas técnicas e temáticas. 
  
  
-Questão 260 (2016.3) 
+\
+@260 (2016.3) 
 As informações sugeridas por Antônio Manuel 
 estão imersas em um jornal dividido entre o 
 "real" e o que podemos chamar de "situacional". 
@@ -8685,15 +8824,11 @@ contra a estrutura de poder de um Estado auto-
 ritário. 
  
 (SCOVINO, F. Revista da Biblioteca n. 84, set. 2012) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-72 
-novocadernoenem@gmail.com 
 No contexto histórico descrito, a estratégia ado-
 tada por alguns segmentos da imprensa para a 
 construção de uma crítica sociopolítica foi a de: 
  
+\
 A) burlar a censura, contribuindo para a análise 
 da vida social. 
 B) justificar o regime vigente, apresentando 
@@ -8706,7 +8841,8 @@ E) manipular a visão coletiva, promovendo in-
 terpretações distorcidas das notícias oficiais. 
  
  
-Questão 261 (2016.3) 
+\
+@261 (2016.3) 
 Os ricos adquiriram uma obrigação relativamen-
 te à coisa pública, uma vez que devem sua exis-
 tência ao ato de submissão à sua proteção e 
@@ -8726,6 +8862,7 @@ povo.
  
 Segundo esse texto de Kant, o Estado: 
  
+\
 A) deve sustentar todas as pessoas que vivem 
 sob seu poder, a fim de que a distribuição seja 
 partidária. 
@@ -8743,7 +8880,8 @@ imposições pecuniárias dos pobres, pois os
 ricos pagam mais impostos. 
  
  
-Questão 262 (2016.3) 
+\
+@262 (2016.3) 
 Objetos trivializados por seu largo uso, os reló-
 gios são mais que instrumentos indispensáveis 
 à rotina diária: apontam para um modo histori-
@@ -8767,6 +8905,7 @@ tempo, experimentada, sobretudo no espaço
 urbano, traz indícios de uma cultura marcada 
 pela: 
  
+\
 A) organização do tempo de modo orgânico e 
 pessoal. 
 B) recusa ao controle do tempo exercido pelos 
@@ -8779,10 +8918,9 @@ E) utilização do relógio como experiência natural
 de elaboração. 
  
  
-Questão 263 (2016.3) 
- 
- 
- 
+\
+@263 (2016.3) 
+\L
 (OITICICA, H. Parangolé. Disponível em: 
 www.muhka.be. Acesso em: 23 maio 2012) 
  
@@ -8791,6 +8929,7 @@ apresentada se opunha à concepção de patri-
 mônio vigente nas décadas de 1960 e 1970 na 
 medida em que: 
  
+\
 A) se apropriava das expressões da cultura 
 popular para produzir uma arte efêmera desti-
 nada ao protesto. 
@@ -8805,12 +8944,8 @@ construir representações da identidade brasilei-
 ra. 
 E) incorporava elementos da cultura de massa 
 para atender às exigências dos museus. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-73 
-novocadernoenem@gmail.com 
-Questão 264 (2017.1) 
+\
+@264 (2017.1) 
 E venham, então, os alegres incendiários de 
 dedos carbonizados! Vamos! Ateiem fogo às 
 estantes das bibliotecas! Desviem o curso dos 
@@ -8826,6 +8961,7 @@ a várias correntes artísticas e culturais das pri-
 meiras três décadas do Século XX está desta-
 cado no texto? 
  
+\
 A) A tradição é uma força incontornável. 
 B) A arte é expressão da memória Coletiva. 
 C) A modernidade é a superação decisiva da 
@@ -8836,7 +8972,8 @@ E) A memória é um elemento Crucial da identi-
 dade Cultural. 
  
  
-Questão 265 (2017.1) 
+\
+@265 (2017.1) 
 Uma sociedade é uma associação mais ou me-
 nos autossuficiente de pessoas que em suas 
 relações mútuas reconhecem certas regras de 
@@ -8856,6 +8993,7 @@ Martins Fontes, 1997 - adaptado)
 A visão expressa nesse texto do século XX re-
 mete a qual aspecto do pensamento moderno? 
  
+\
 A) A relação entre liberdade e autonomia do 
 Liberalismo. 
 B) A independência entre poder e moral do Ra-
@@ -8868,7 +9006,8 @@ E) A contraposição entre bondade e condição
 selvagem do Naturalismo. 
  
  
-Questão 266 (2017.1) 
+\
+@266 (2017.1) 
 A representação de Demócrito é semelhante à 
 de Anaxágoras, na medida em que um infinita-
 mente múltiplo é a origem; mas nele a determi-
@@ -8889,6 +9028,7 @@ pensamento de Demócrito, segundo o qual o
 “princípio Constitutivo das coisas” estava repre-
 sentado pelo(a): 
  
+\
 A) número, que fundamenta a criação dos deu-
 ses.  
 B) devir, que simboliza o constante movimento 
@@ -8900,7 +9040,8 @@ atemporal.
 E) átomo, que explica o surgimento dos entes. 
  
  
-Questão 267 (2017.1) 
+\
+@267 (2017.1) 
 Uma conversação de tal natureza transforma o 
 ouvinte: o contato de Sócrates paralisa embara-
 ça, leva a refletir sobre si mesmo, a imprimir à 
@@ -8918,6 +9059,7 @@ São Paulo. Mestre JOL. 1977)
 O texto evidencia características do modo de 
 Vida socrático, que se baseava na: 
  
+\
 A) Contemplação da tradição mítica. 
 B) sustentação do método dialético. 
 C) relativização do saber verdadeiro. 
@@ -8925,7 +9067,8 @@ D) valorização da argumentação retórica.
 E) investigação dos fundamentos da natureza. 
  
  
-Questão 268 (2017.1) 
+\
+@268 (2017.1) 
 A moralidade, Bentham exortava, não é uma 
 questão de agradar a Deus, muito menos de 
 fidelidade a regras abstratas. A moralidade é a 
@@ -8934,11 +9077,6 @@ de possível neste mundo.
  
 Ao decidir o que fazer, deveríamos portanto, 
 perguntar qual curso de conduta promoveria a 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-74 
-novocadernoenem@gmail.com 
 maior quantidade de felicidade para todos aque-
 les que serão afetados. 
  
@@ -8948,6 +9086,7 @@ moral Barueri-SP, Manole, 2005)
 Os parâmetros da ação indicados no texto estão 
 em conformidade com uma: 
  
+\
 A) fundamentação científica de viés positivista. 
 B) convenção social de orientação normativa 
 C) transgressão Comportamental religiosa 
@@ -8955,7 +9094,8 @@ D) racionalidade de caráter pragmático.
 E) inclinação de natureza passional. 
  
  
-Questão 269 (2017.1) 
+\
+@269 (2017.1) 
  
 TEXTO I 
  
@@ -8991,6 +9131,7 @@ O ponto de Convergência entre as realidades
 sociopolíticas indicadas nos textos consiste na 
 ideia de que a: 
  
+\
 A) discussão de preceitos formais estabeleceu a 
 democracia. 
 B) invenção de códigos jurídicos desarticulou as 
@@ -9001,7 +9142,8 @@ D) definição de princípios morais encerrou os
 Conflitos de interesses. 
 E) criação de normas coletivas diminuiu as de-
 sigualdades de tratamento. 
-Questão 270 (2017.1) 
+\
+@270 (2017.1) 
 Muitos países se caracterizam por terem popu-
 lações multiétnicas. Com frequência, evoluíram 
 desse modo ao longo de séculos. Outras socie-
@@ -9017,6 +9159,7 @@ Do ponto de vista do funcionamento das demo-
 cracias contemporâneas, o modelo de socieda-
 de descrito demanda, simultaneamente, 
  
+\
 A) defesa do patriotismo e rejeição ao hibridis-
 mo. 
 B) universalização de direitos e respeito à diver-
@@ -9029,7 +9172,8 @@ E) padronização da cultura e repressão aos
 particularismos. 
  
  
-Questão 271 (2017.1) 
+\
+@271 (2017.1) 
 Fala-se muito nos dias de hoje em direitos do 
 homem. Pois bem: foi no século XVIII – em 
 1789, precisamente que uma Assembleia Cons-
@@ -9047,6 +9191,7 @@ Correlacionando temporalidades históricas, o
 texto apresenta uma concepção de pensamento 
 que tem como uma de suas bases a: 
  
+\
 A) modernização da educação escolar 
 B) atualização da disciplina moral cristã. 
 C) divulgação de costumes aristocráticos. 
@@ -9055,7 +9200,8 @@ E) Universalização do princípio da igualdade
 civil. 
  
  
-Questão 272 (2017.1) 
+\
+@272 (2017.1) 
  
 Art. 231 
 São reconhecidos aos índios sua organização 
@@ -9064,11 +9210,6 @@ os direitos originários sobre as terras que tradi-
 cionalmente ocupam, competindo à União de-
 marcá-las, proteger e fazer respeitar todos os 
 seus bens. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-75 
-novocadernoenem@gmail.com 
 (BRASIL Constituição da República Federativa do 
 Brasil de 1988 Disponível em www.planalto.gov.br 
 Acesso em 27 abr 2017) 
@@ -9077,6 +9218,7 @@ A persistência das reivindicações relativas à
 aplicação desse preceito normativo tem em 
 vista a vinculação histórica fundamental entre: 
  
+\
 A) etnia e miscigenação racial 
 B) sociedade e igualdade jurídica. 
 C) espaço e sobrevivência cultural. 
@@ -9084,7 +9226,8 @@ D) progresso e educação ambiental.
 E) bem-estar e modernização econômica. 
  
  
-Questão 273 (2017.1) 
+\
+@273 (2017.1) 
 A grande maioria dos países ocidentais demo-
 cráticos adotou o Tribunal Constitucional como 
 mecanismo de Controle dos demais poderes. A 
@@ -9106,6 +9249,7 @@ O texto faz referência a uma importante mudan-
 contemporâneos que, no caso brasileiro, teve 
 como consequência a: 
  
+\
 A) adoção de eleições para a alta magistratura. 
 B) diminuição das tensões entre os entes fede-
 rativos. 
@@ -9117,7 +9261,8 @@ E) profissionalização do quadro de funcionários
 da Justiça. 
  
  
-Questão 274 (2017.1) 
+\
+@274 (2017.1) 
 A participação da mulher no processo de deci-
 são política ainda é extremamente limitada em 
 praticamente todos os países, independente-
@@ -9136,6 +9281,7 @@ tentativa de reverter esse quadro de sub-
 representação tem envolvido a implementação, 
 pelo Estado, de: 
  
+\
 A) leis de combate à violência doméstica. 
 B) Cotas de gênero nas candidaturas partidárias 
 C) Programas de mobilização política nas esco-
@@ -9144,7 +9290,8 @@ D) propagandas de incentivo ao voto consciente
 E) apoio financeiro às lideranças femininas. 
  
  
-Questão 275 (2017.1) 
+\
+@275 (2017.1) 
 Sou filho natural de uma negra, africana livre, da 
 Costa da Mina (Nagô de Nação), de nome Luiza 
 Mahin, pagã, que sempre recusou o batismo e a 
@@ -9166,6 +9313,7 @@ Nova Fronteira, 1998 - adaptado)
 Nesse trecho de suas memórias, Luiz Gama 
 ressalta a importância dos(as): 
  
+\
 A) laços de solidariedade familiar 
 B) estratégias de resistência Cultural. 
 C) mecanismos de hierarquização tribal. 
@@ -9173,7 +9321,8 @@ D) instrumentos de dominação religiosa.
 E) limites da concessão de alforria. 
  
  
-Questão 276 (2017.1) 
+\
+@276 (2017.1) 
 O Conceito de democracia, no pensamento de 
 Habermas, é construído a partir de uma dimen-
 são procedimental, calcada no discurso e na 
@@ -9193,11 +9342,7 @@ O Conceito de democracia proposto por Jürgen
 Habermas pode favorecer processos de inclu-
 são social. De acordo com o texto, é uma condi-
 ção para que isso aconteça o(a): 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-76 
-novocadernoenem@gmail.com 
+\
 A) participação direta periódica do Cidadão. 
 B) debate livre e racional entre Cidadãos e Es-
 tado. 
@@ -9209,7 +9354,8 @@ E) controle do poder político por cidadãos mais
 esclarecidos. 
  
  
-Questão 277 (2017.1) 
+\
+@277 (2017.1) 
 Uma pessoa vê-se forçada pela necessidade a 
 pedir dinheiro emprestado. Sabe muito bem que 
 não poderá pagar, mas vê também que não lhe 
@@ -9230,6 +9376,7 @@ São Paulo: Abril Cultural, 1980)
 De acordo com a moral kantiana, a “falsa pro-
 messa de pagamento” representada no texto: 
  
+\
 A) assegura que a ação seja aceita por todos a 
 partir da livre discussão participativa. 
 B) garante que os efeitos das ações não destru-
@@ -9242,7 +9389,8 @@ E) permite que a ação individual produza a mais
 ampla felicidade para as pessoas envolvidas. 
  
  
-Questão 278 (2017.1) 
+\
+@278 (2017.1) 
 Se, pois, para as coisas que fazemos existe um 
 fim que desejamos por ele mesmo e tudo o mais 
 é desejado no interesse desse fim; evidente-
@@ -9274,6 +9422,7 @@ São Paulo: Nova Cultural, 1991 Adaptado)
 Para Aristóteles, a relação entre o sumo bem e 
 a organização da pólis pressupõe que: 
  
+\
 A) o bem dos indivíduos consiste em cada um 
 perseguir seus interesses 
 B) o sumo bem é dado pela fé de que os deuses 
@@ -9286,18 +9435,14 @@ E) a democracia protege as atividades políticas
 necessárias para o bem comum. 
  
  
-Questão 279 (2017.1) 
- 
- 
+\
+@279 (2017.1) 
+\L
  
 Elaborada em 1969, a releitura contida na Figu-
 ra 2 revela aspectos de uma trajetória e obra 
 dedicadas à: 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-77 
-novocadernoenem@gmail.com 
+\
 A) valorização de uma representação tradicional 
 da mulher. 
 B) descaracterização de referências do folclore 
@@ -9308,7 +9453,8 @@ D) massificação do consumo de uma arte local.
 E) criação de uma estética de resistência. 
  
  
-Questão 280 (2017.2) 
+\
+@280 (2017.3) 
 Em um governo que deriva sua legitimidade de 
 eleições livres e regulares, a ativação de uma 
 corrente comunicativa entre a sociedade política 
@@ -9327,6 +9473,7 @@ Esse papel exercido pelos meios de comunica-
 ção favorece uma transformação democrática 
 em função do(a): 
  
+\
 A) limitação dos gastos públicos. 
 B) interesse de grupos corporativos. 
 C) dissolução de conflitos ideológicos.  
@@ -9334,7 +9481,8 @@ D) fortalecimento da participação popular.
 E) autonomia dos órgãos governamentais. 
  
  
-Questão 281 (2017.2) 
+\
+@281 (2017.3) 
 Na antiga Vila de São José del Rei, a atual ci-
 dade de Tiradentes (MG), na primeira metade 
 do século XVIII, mais de cinco mil escravos 
@@ -9360,6 +9508,7 @@ Acesso em: 4 jul. 2012)
 Na lógica analisada, as duas festividades reto-
 madas recentemente, na cidade mineira de 
 Tiradentes, têm como propósito: 
+\
 A) valorizar a cultura afrodescendente e suas 
 tradições religiosas. 
 B) retomar a veneração católica aos valores do 
@@ -9372,7 +9521,8 @@ E) produzir eventos turísticos voltados a religi-
 ões de origem africana. 
  
  
-Questão 282 (2017.2) 
+\
+@282 (2017.3) 
  
 TEXTO I 
  
@@ -9402,6 +9552,7 @@ Rio de Janeiro: José Olympio, 1993)
 A administração pública no Brasil possui raízes 
 históricas marcadas pela: 
  
+\
 A) valorização do mérito individual. 
 B) punição dos desvios de conduta. 
 C) distinção entre o público e o privado. 
@@ -9409,7 +9560,8 @@ D) prevalência das vontades particulares.
 E) obediência a um ordenamento impessoal. 
  
  
-Questão 283 (2017.2) 
+\
+@283 (2017.3) 
 Penso, pois, que o Carnaval põe o Brasil de 
 ponta-cabeça. Num país onde a liberdade é 
 privilégio de uns poucos e é sempre lida por seu 
@@ -9425,15 +9577,11 @@ reguladores.
 (DAMATTA, R. O que o Carnaval diz do Brasil.  
 Disponível em: http://revistaepoca.globo.com. 
  Acesso em: 29 fev. 2012) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-78 
-novocadernoenem@gmail.com 
 Ressaltando os seus aspectos simbólicos, a 
 abordagem apresentada associa o Carnaval 
 ao(à): 
  
+\
 A) inversão de regras e rotinas estabelecidas. 
 B) reprodução das hierarquias de poder existen-
 tes. 
@@ -9445,7 +9593,8 @@ E) consagração dos aspectos autoritários da
 sociedade brasileira. 
  
  
-Questão 284 (2017.2) 
+\
+@284 (2017.3) 
 A definição de Aristóteles para enigma é total-
 mente desligada de qualquer fundo religioso: 
 dizer coisas reais associando coisas impossí-
@@ -9461,6 +9610,7 @@ Campinas: Unicamp, 1996 - adaptado)
 Segundo o texto, Aristóteles inovou a forma de 
 pensar sobre o enigma, ao argumentar que: 
  
+\
 A) a contradição que caracteriza o enigma é 
 desprovida de relevância  filosófica. 
 B) os enigmas religiosos são contraditórios por-
@@ -9475,7 +9625,8 @@ irreais, porque ela é desligada de seu fundo
 religioso. 
  
  
-Questão 285 (2017.2) 
+\
+@285 (2017.3) 
 Art. 1º – O estrangeiro que, por qualquer motivo, 
 comprometer a segurança nacional ou a tranqui-
 lidade pública, pode ser expulso de parte ou de 
@@ -9502,6 +9653,7 @@ No início do século XX, na transição do trabalho
 escravo para o livre, os objetivos da legislação 
 citada eram: 
  
+\
 A) disciplinar o trabalhador e evitar sua partici-
 pação em movimentos políticos contrários ao 
 governo. 
@@ -9515,7 +9667,8 @@ E) estimular o trabalho urbano e disciplinar as
 famílias estrangeiras nas fábricas. 
  
  
-Questão 286 (2017.2) 
+\
+@286 (2017.3) 
 A luta contra o racismo, no Brasil, tomou um 
 rumo contrário ao imaginário nacional e ao con-
 senso científico, formado a partir dos anos 
@@ -9537,6 +9690,7 @@ São Paulo: Editora 34, 2012)
 A estratégia utilizada por esse movimento tinha 
 como objetivo: 
  
+\
 A) eliminar privilégios de classe. 
 B) alterar injustiças econômicas. 
 C) combater discriminações étnicas. 
@@ -9544,7 +9698,8 @@ D) identificar preconceitos religiosos.
 E) reduzir as desigualdades culturais. 
  
  
-Questão 287 (2017.2) 
+\
+@287 (2017.3) 
 Dado que, dos hábitos racionais com os quais 
 captamos a verdade, alguns são sempre verda-
 deiros, enquanto outros admitem o falso, como 
@@ -9556,11 +9711,6 @@ exceto a intuição, e, por outro lado, os princípios
 são mais conhecidos que as demonstrações, e 
 dado que todo conhecimento científico constitui-
 se de maneira argumentativa, não pode haver 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-79 
-novocadernoenem@gmail.com 
 conhecimento científico dos princípios, e dado 
 que não pode haver nada mais verdadeiro que o 
 conhecimento científico, exceto a intuição, a 
@@ -9572,6 +9722,7 @@ História da filosofia antiga. São Paulo: Loyola, 1994)
 Os princípios, base da epistemologia aristotéli-
 ca, pertencem ao domínio do(a): 
  
+\
 A) opinião, pois fazem parte da formação da 
 pessoa. 
 B) cálculo, pois são demonstrados por argumen-
@@ -9584,7 +9735,8 @@ E) prática de hábitos racionais, pois com ela se
 capta a verdade. 
  
  
-Questão 288 (2017.2) 
+\
+@288 (2017.3) 
 Pude entender o discurso do cacique Aniceto, 
 na assembleia dos bispos, padres e missioná-
 rios, em que exigia nada mais, nada menos que 
@@ -9602,6 +9754,7 @@ O objetivo do posicionamento do cacique xavan-
 te em relação ao sistema religioso externo às 
 tribos era: 
  
+\
 A) flexibilizar a crença católica e seus rituais 
 como forma de evolução cultural. 
 B) acatar a cosmologia cristã e suas divindades 
@@ -9616,7 +9769,8 @@ instrumento de resistência da comunidade indí-
 gena. 
  
  
-Questão 289 (2017.2) 
+\
+@289 (2017.3) 
 XI. Jamais, a respeito de coisa alguma, digas: 
 "Eu a perdi", mas sim: "Eu a restituí". O filho 
 morreu? Foi restituído. A mulher morreu? Foi 
@@ -9636,6 +9790,7 @@ São Cristóvão: UFS, 2012 - adaptado)
 A característica do estoicismo presente nessa 
 citação do filósofo grego Epicteto é: 
  
+\
 A) explicar o mundo com números. 
 B) identificar a felicidade com o prazer. 
 C) aceitar os sofrimentos com serenidade. 
@@ -9644,7 +9799,8 @@ E) considerar as convenções sociais com des-
 prezo. 
  
  
-Questão 290 (2017.2) 
+\
+@290 (2017.3) 
 A política de pacificação não resolve todos os 
 problemas da favela carioca, ela é apenas um 
 primeiro e indispensável passo para que seus 
@@ -9666,6 +9822,7 @@ O Globo, 28 jul. 2012)
 Para o autor, a consolidação da cidadania nas 
 comunidades carentes está condicionada à: 
  
+\
 A) efetivação de direitos sociais. 
 B) continuidade da ação ofensiva. 
 C) superação dos conflitos de classe.  
@@ -9673,7 +9830,8 @@ D) interferência de entidades religiosas.
 E) integração das forças de segurança. 
  
  
-Questão 291 (2017.2) 
+\
+@291 (2017.3) 
 No Brasil, assim como em vários outros países, 
 os modernos movimentos LGBT representam 
 um desafio às formas de condenação e perse-
@@ -9688,14 +9846,10 @@ fonte de estigmas, intolerância, opressão.
 estigma, diversidade e cidadania. In: BOTELHO, A.; 
 SCHWARCZ, L. M. Cidadania, um projeto em cons-
 trução. São Paulo: Claro Enigma, 2012 - adaptado) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-80 
-novocadernoenem@gmail.com 
 O movimento social abordado justifica-se pela 
 defesa do direito de: 
  
+\
 A) organização sindical. 
 B) participação partidária. 
 C) manifestação religiosa. 
@@ -9703,7 +9857,8 @@ D) formação profissional.
 E) afirmação identitária. 
  
  
-Questão 292 (2017.2) 
+\
+@292 (2017.3) 
 A crítica é uma questão de distância certa. O 
 olhar hoje mais essencial, o olho mercantil que 
 penetra no coração das coisas, chama-se pro-
@@ -9727,6 +9882,7 @@ Walter Benjamin, segundo o qual a propaganda
 dificulta o procedimento de análise crítica em 
 virtude do(a): 
  
+\
 A) caráter ilusório das imagens. 
 B) evolução constante da tecnologia. 
 C) aspecto efêmero dos acontecimentos. 
@@ -9734,7 +9890,8 @@ D) conteúdo objetivo das informações.
 E) natureza emancipadora das opiniões. 
  
  
-Questão 293 (2017.2) 
+\
+@293 (2017.3) 
 O povo que exerce o poder não é sempre o 
 mesmo povo sobre quem o poder é exercido, e 
 o falado self-government [autogoverno] não é o 
@@ -9752,6 +9909,7 @@ No que tange à participação popular no gover-
 no, a origem da preocupação enunciada no 
 texto encontra-se na: 
  
+\
 A) conquista do sufrágio universal. 
 B) criação do regime parlamentarista. 
 C) institucionalização do voto feminino. 
@@ -9759,7 +9917,8 @@ D) decadência das monarquias hereditárias.
 E) consolidação da democracia representativa. 
  
  
-Questão 294 (2017.2) 
+\
+@294 (2017.3) 
  
 TEXTO I 
 Frantz Fanon publicou pela primeira vez, em 
@@ -9795,6 +9954,7 @@ na constituição identitária frente à discriminação
 racial. No Brasil, o desdobramento dessa mu-
 dança revela o(a): 
  
+\
 A) valorização de traços culturais. 
 B) utilização de resistência violenta. 
 C) fortalecimento da organização partidária. 
@@ -9802,7 +9962,8 @@ D) enfraquecimento dos vínculos comunitários.
 E) aceitação de estruturas de submissão social. 
  
  
-Questão 295 (2017.2) 
+\
+@295 (2017.3) 
 Enquanto persistirem as grandes diferenças 
 sociais e os níveis de exclusão que conhece-
 mos hoje no Brasil, as políticas sociais compen-
@@ -9814,17 +9975,14 @@ Revista de Estudos Avançados, n. 51, ago. 2004)
 As ações referidas são legitimadas por uma 
 concepção de política pública: 
  
+\
 A) focada no vínculo clientelista. 
 B) pautada na liberdade de iniciativa. 
 C) baseada em relações de parentesco. 
 D) orientada por organizações religiosas. 
 E) centrada na regulação de oportunidades. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-81 
-novocadernoenem@gmail.com 
-Questão 296 (2017.2) 
+\
+@296 (2017.3) 
 O rapaz que pretende se casar não nasceu com 
 esse imperativo. Ele foi insuflado pela socieda-
 de, reforçado pelas incontáveis pressões de 
@@ -9839,6 +9997,7 @@ humanística. Petrópolis: Vozes, 1986 - adaptado)
 O casamento, conforme é tratado no texto, pos-
 sui como característica o(a): 
  
+\
 A) consolidação da igualdade sexual. 
 B) ordenamento das relações sociais. 
 C) conservação dos direitos naturais. 
@@ -9846,7 +10005,8 @@ D) superação das tradições culturais.
 E) questionamento dos valores cristãos. 
  
  
-Questão 297 (2017.2) 
+\
+@297 (2017.3) 
 O racismo institucional é a negação coletiva de 
 uma organização em prestar serviços adequa-
 dos para pessoas por causa de sua cor, cultura 
@@ -9864,6 +10024,7 @@ dade e justifica a institucionalização de políticas
 antirracismo. No Brasil, um exemplo desse tipo 
 de política é a: 
  
+\
 A) reforma do Código Penal. 
 B) elevação da renda mínima. 
 C) adoção de ações afirmativas  
@@ -9871,7 +10032,8 @@ D) revisão da legislação eleitoral.
 E) censura aos meios de comunicação. 
  
  
-Questão 298 (2017.2) 
+\
+@298 (2017.3) 
 Os direitos civis, surgidos na luta contra o Abso-
 lutismo real, ao se inscreverem nas primeiras 
 constituições modernas, aparecem como se 
@@ -9886,6 +10048,7 @@ São Paulo: Ática, 1992 - adaptado)
 O conjunto de direitos ao qual o texto se refere 
 inclui: 
  
+\
 A) voto secreto e candidatura em eleições. 
 B) moradia digna e vagas em universidade. 
 C) previdência social e saúde de qualidade. 
@@ -9894,7 +10057,8 @@ E) filiação partidária e participação em sindica-
 tos. 
  
  
-Questão 299 (2017.2) 
+\
+@299 (2017.3) 
 As primeiras ações acerca do patrimônio históri-
 co no Brasil datam da década de 1930, com a 
 criação do Serviço do Patrimônio Histórico e 
@@ -9914,6 +10078,7 @@ educação patrimonial no ensino médio.
 Considerando o contexto mencionado, a criação 
 dessa política patrimonial objetivou a: 
  
+\
 A) consolidação da historiografia oficial.  
 B) definição do mercado cultural.  
 C) afirmação da identidade nacional.  
@@ -9921,7 +10086,8 @@ D) divulgação de sítios arqueológicos.
 E) universalização de saberes museológicos. 
  
  
-Questão 300 (2018.1) 
+\
+@300 (2018.1) 
 O filósofo reconhece-se pela posse inseparável 
 do gosto da evidência e do sentido da ambigui-
 dade. Quando se limita a suportar a ambiguida-
@@ -9942,6 +10108,7 @@ O texto apresenta um entendimento acerca dos
 elementos constitutivos da atividade do filósofo, 
 que se caracteriza por 
  
+\
 A) reunir os antagonismos das opiniões ao mé-
 todo dialético. 
 B) ajustar a clareza do conhecimento ao inatis-
@@ -9952,12 +10119,8 @@ D) conciliar o rigor da investigação à inquietude
 do questionamento. 
 E) compatibilizar as estruturas do pensamento 
 aos princípios fundamentais. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-82 
-novocadernoenem@gmail.com 
-Questão 301 (2018.1) 
+\
+@301 (2018.1) 
 Desde que tenhamos compreendido o significa-
 do da palavra “Deus”, sabemos, de imediato, 
 que Deus existe. Com efeito, essa palavra de-
@@ -9977,6 +10140,7 @@ Rio de Janeiro: Loyola, 2002)
 O texto apresenta uma elaboração teórica de 
 Tomás de Aquino caracterizada por 
  
+\
 A) reiterar a ortodoxia religiosa contra os heréti-
 cos. 
 B) sustentar racionalmente doutrina alicerçada 
@@ -9989,7 +10153,8 @@ E) justificar pragmaticamente crença livre de
 dogmas. 
  
  
-Questão 302 (2018.1) 
+\
+@302 (2018.1) 
  
 TEXTO I 
 Tudo aquilo que é válido para um tempo de 
@@ -10019,6 +10184,7 @@ Os trechos apresentam divergências conceituais
 entre autores que sustentam um entendimento 
 segundo o qual a igualdade entre os homens se 
 dá em razão de uma:  
+\
 A) predisposição ao conhecimento. 
 B) submissão ao transcendente. 
 C) tradição epistemológica. 
@@ -10026,7 +10192,8 @@ D) condição original.
 E) vocação política. 
  
  
-Questão 303 (2018.1) 
+\
+@303 (2018.1) 
 O século XVIII é, por diversas razões, um sécu-
 lo diferenciado. Razão e experimentação se 
 aliavam no que se acreditava ser o verdadeiro 
@@ -10044,6 +10211,7 @@ No ambiente cultural do Antigo Regime, a dis-
 cussão filosófica mencionada no texto tinha 
 como uma de suas características a: 
  
+\
 A) aproximação entre inovação e saberes anti-
 gos. 
 B) conciliação entre revelação e metafísica pla-
@@ -10056,7 +10224,8 @@ E) contraposição entre clericalismo e liberdade
 de pensamento. 
  
  
-Questão 304 (2018.1) 
+\
+@304 (2018.1) 
 A primeira fase da dominação da economia 
 sobre a vida social acarretou, no modo de defi-
 nir toda realização humana, uma evidente de-
@@ -10075,17 +10244,14 @@ Janeiro: Contraponto, 2015)
 Uma manifestação contemporânea do fenôme-
 no descrito no texto é o(a): 
  
+\
 A) valorização dos conhecimentos acumulados. 
 B) exposição nos meios de comunicação. 
 C) aprofundamento da vivência espiritual. 
 D) fortalecimento das relações interpessoais. 
 E) reconhecimento na esfera artística. 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-83 
-novocadernoenem@gmail.com 
-Questão 305 (2018.1) 
+\
+@305 (2018.1) 
  
 A quem não basta pouco, nada basta. 
  
@@ -10095,6 +10261,7 @@ São Paulo: Abril Cultural, 1985)
 Remanescente do período helenístico, a máxi-
 ma apresentada valoriza a seguinte virtude: 
  
+\
 A) Esperança, tida como confiança no porvir. 
 B) Justiça, interpretada como retidão de caráter. 
 C) Temperança, marcada pelo domínio da von-
@@ -10105,7 +10272,8 @@ E) Prudência, caracterizada pelo correto uso da
 razão. 
  
  
-Questão 306 (2018.1) 
+\
+@306 (2018.1) 
 Em algumas línguas de Moçambique não existe 
 a palavra “pobre”. O indivíduo é pobre quando 
 não tem parentes. A pobreza é a solidão, a rup-
@@ -10125,6 +10293,7 @@ intervenções. Portugal: Caminho, 2009 - adaptado)
 Em uma leitura que extrapola a esfera econômi-
 ca, o autor associa o acirramento da pobreza à: 
  
+\
 A) afirmação das origens ancestrais. 
 B) fragilização das redes de sociabilidade. 
 C) padronização das políticas educacionais. 
@@ -10133,7 +10302,8 @@ E) globalização das tecnologias de comunica-
 ção. 
  
  
-Questão 307 (2018.1) 
+\
+@307 (2018.1) 
 Não é verdade que estão ainda cheios de velhi-
 ce espiritual aqueles que nos dizem: “Que fazia 
 Deus antes de criar o céu e a terra? Se estava 
@@ -10152,6 +10322,7 @@ A questão da eternidade, tal como abordada
 pelo autor, é um exemplo da reflexão filosófica 
 sobre a(s): 
  
+\
 A) essência da ética cristã. 
 B) natureza universal da tradição. 
 C) certezas inabaláveis da experiência. 
@@ -10159,7 +10330,8 @@ D) abrangência da compreensão humana.
 E) interpretações da realidade circundante. 
  
  
-Questão 308 (2018.1) 
+\
+@308 (2018.1) 
 No início da década de 1990, dois biólogos im-
 portantes, Redford e Robinson, produziram um 
 modelo largamente aceito de “produção susten-
@@ -10184,6 +10356,7 @@ dade de reconstrução desse modelo, conforme
 exposto no texto, foi determinada pelo confronto 
 com um(a): 
  
+\
 A) conclusão operacional obtida por lógica de-
 dutiva. 
 B) visão de mundo marcada por preconceitos 
@@ -10196,7 +10369,8 @@ E) padrão de preservação construído por expe-
 rimentação dirigida. 
  
  
-Questão 309 (2018.1) 
+\
+@309 (2018.1) 
 Um dos teóricos da democracia moderna, Hans 
 Kelsen, considera elemento essencial da demo-
 cracia real (não da democracia ideal, que não 
@@ -10212,15 +10386,11 @@ altar".
  
 (BOBBIO, N. Teoria geral da política. Rio de Janeiro: 
 EIsevier, 2000 - adaptado) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-84 
-novocadernoenem@gmail.com 
 As metáforas utilizadas no texto referem-se a 
 uma concepção de democracia fundamentada 
 no(a): 
  
+\
 A) justificação teísta do direito. 
 B) rigidez da hierarquia de classe. 
 C) ênfase formalista na administração. 
@@ -10228,7 +10398,8 @@ D) protagonismo do Executivo no poder.
 E) centralidade do indivíduo na sociedade. 
  
  
-Questão 310 (2018.2) 
+\
+@310 (2018.3) 
 Demócrito julga que a natureza das coisas eter-
 nas são pequenas substâncias infinitas, em 
 grande número. E julga que as substâncias são 
@@ -10244,6 +10415,7 @@ socráticos. São Paulo: Nova Cultural, 1996)
  
 A Demócrito atribui-se a origem do conceito de: 
  
+\
 A) porção mínima da matéria, o átomo. 
 B) princípio móvel do universo, a arché. 
 C) qualidade única dos seres, a essência. 
@@ -10251,7 +10423,8 @@ D) quantidade variante da massa, o corpus.
 E) substrato constitutivo dos elementos, physis. 
  
  
-Questão 311 (2018.2) 
+\
+@311 (2018.3) 
 Nas décadas de 1860 e 1870, as escolas cria-
 das ou recriadas, em geral, previam a presença 
 de meninas, mas se atrapalhavam na hora de 
@@ -10271,6 +10444,7 @@ Belo Horizonte: Autêntica, 2003 - adaptado)
 As dificuldades retratadas estavam associadas 
 ao seguinte aspecto daquele contexto histórico: 
  
+\
 A) Formação enciclopédica dos currículos. 
 B) Restrição do papel da mulher à esfera priva-
 da. 
@@ -10280,7 +10454,8 @@ D) Vinculação da mão de obra feminina às
 áreas rurais. 
 E) Oferta reduzida de profissionais do magisté-
 rio público. 
-.Questão 312 (2018.2) 
+\
+@312 (2018.3) 
  
 TEXTO I 
  
@@ -10320,6 +10495,7 @@ Nesses textos do século X, percebem-se visões
 distintas sobre os livros e as bibliotecas em uma 
 sociedade marcada pela: 
  
+\
 A) difusão da cultura favorecida pelas atividades 
 urbanas. 
 B) laicização do saber, que era facilitada pela 
@@ -10332,7 +10508,8 @@ E) publicização das escrituras, que era promo-
 vida pelos sábios religiosos. 
  
  
-Questão 313 (2018.2) 
+\
+@313 (2018.3) 
 O justo e o bem são complementares no sentido 
 de que uma concepção política deve apoiar-se 
 em diferentes ideias do bem. Na teoria da justi-
@@ -10344,14 +10521,10 @@ de justiça e nela desempenhar um certo papel.
  
 (RAWLS, J. Justiça e democracia. São Paulo: Martins 
 Fontes, 2000 - adaptado) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-85 
-novocadernoenem@gmail.com 
 Segundo Rawls, a concepção de justiça legisla 
 sobre ideias do bem, de forma que: 
  
+\
 A) as ações individuais são definidas como efei-
 tos determinados por fatores naturais ou cons-
 trangimentos sociais. 
@@ -10369,10 +10542,9 @@ e livre ao mesmo tempo, já que a liberdade limi-
 ta-se a um conjunto de condições objetivas. 
  
  
-Questão 314 (2018.2) 
- 
- 
- 
+\
+@314 (2018.3) 
+\L
 (Disponível em: http://une.org.br. 
  Acesso em: 30 jul. 2015 - adaptado) 
  
@@ -10380,6 +10552,7 @@ Considerando o funcionamento do regime de-
 mocrático, o episódio retratado na imagem está 
 associado ao(à): 
  
+\
 A) legalidade dos partidos políticos. 
 B) valorização das políticas afirmativas. 
 C) esgotamento do movimento sindical. 
@@ -10388,7 +10561,8 @@ E) emergência das organizações não governa-
 mentais. 
  
  
-Questão 315 (2018.2) 
+\
+@315 (2018.3) 
 Em Utopia, tudo é comum a todos. A distribui-
 ção dos bens lá não é um problema, não se vê 
 nem pobre nem mendigo e, embora ninguém 
@@ -10402,6 +10576,7 @@ Retirado da obra de Thomas Morus, escrita no
 século XVI, esse trecho influenciou movimentos 
 sociais do século XIX que lutaram para: 
  
+\
 A) inibir a ascensão da burguesia. 
 B) evitar a destruição da natureza. 
 C) combater o domínio do capital. 
@@ -10409,7 +10584,8 @@ D) eliminar a intolerância religiosa.
 E) superar o atraso tecnológico. 
  
  
-Questão 316 (2018.2) 
+\
+@316 (2018.3) 
 Temos vivido, como nação, atormentados pelos 
 males modernos e pelos males do passado, 
 pelo velho e pelo novo, sem termos podido co-
@@ -10430,6 +10606,7 @@ gunda metade do século XX. De acordo com a
 análise, uma característica desse processo re-
 side na(s): 
  
+\
 A) uniformização técnica dos espaços de produ-
 ção. 
 B) construção municipalista do regime represen-
@@ -10442,7 +10619,8 @@ E) restrições financeiras no encaminhamento
 das demandas ruralistas. 
  
  
-Questão 317 (2018.2) 
+\
+@317 (2018.3) 
 Os níveis de desigualdade construídos histori-
 camente não se referem apenas a uma questão 
 de mérito individual, mas à falta de condições 
@@ -10460,16 +10638,12 @@ modo particular, os negros.
 (MUNANGA, K.; GOMES, N. L. Para entender o ne-
 gro no Brasil de hoje: história, realidades, problemas 
 e caminhos. São Paulo: Global; Educativa, 2004) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-86 
-novocadernoenem@gmail.com 
 O conjunto de ações adotado pelo Estado brasi-
 leiro, a partir da última década do século XX, 
 para enfrentar os problemas sociais descritos no 
 texto resultaram na: 
  
+\
 A) ampliação de planos viários de urbanização. 
 B) democratização da instrução escolar pública. 
 C) manutenção da rede hospitalar universitária. 
@@ -10479,7 +10653,8 @@ E) descentralização do sistema nacional de
 habitação. 
  
  
-Questão 318 (2018.2) 
+\
+@318 (2018.3) 
 Apesar da grande distância geográfica em rela-
 ção ao território japonês, os otakus (jovens afi-
 cionados em cultura pop japonesa) brasileiros 
@@ -10504,6 +10679,7 @@ cação e formação de identidades tal como é
 abordada no texto, a noção que explica este 
 fenômeno na atualidade é a de: 
  
+\
 A) tribalismo das culturas juvenis. 
 B) alienação das novas gerações. 
 C) hierarquização das matrizes culturais. 
@@ -10511,7 +10687,8 @@ D) passividade das relações de consumo.
 E) deterioração das referências nacionais. 
  
  
-Questão 319 (2018.2) 
+\
+@319 (2018.3) 
 O representante das associações de moradores 
 (integrante de um conselho de saúde) fez várias 
 ponderações: “As prestações de contas, de 
@@ -10528,6 +10705,7 @@ Rio de Janeiro: Fiocruz, 2000 - adaptado)
  
 A forma de atuação política indicada caracteriza 
 uma prática associada ao(à): 
+\
 A) poder disciplinar. 
 B) gestão participativa. 
 C) processo burocrático. 
@@ -10535,7 +10713,8 @@ D) autoridade carismática.
 E) deliberação autocrática. 
  
  
-Questão 320 (2018.2) 
+\
+@320 (2018.3) 
 Num país que conviveu com o trabalho escravo 
 durante quatro séculos, o trabalho doméstico é 
 ainda considerado um subemprego. E os indiví-
@@ -10554,6 +10733,7 @@ educação. Belo Horizonte: Mazza, 2011)
 Objeto de legislação recente, o enfrentamento 
 do problema mencionado resultou na: 
  
+\
 A) criação de novos ofícios. 
 B) ampliação de direitos sociais. 
 C) redução da desigualdade de gênero. 
@@ -10561,7 +10741,8 @@ D) fragilização da representação sindical.
 E) erradicação da atividade informal. 
  
  
-Questão 321 (2018.2) 
+\
+@321 (2018.3) 
 Uma criança com deficiência mental deve ser 
 mantida em casa ou mandada a uma institui-
 ção? Um parente mais velho que costuma cau-
@@ -10577,6 +10758,7 @@ possuem uma relevância filosófica à medida
 que problematizam conflitos que estão nos do-
 mínios da: 
  
+\
 A) política e da esfera pública. 
 B) teologia e dos valores religiosos. 
 C) lógica e da validade dos raciocínios. 
@@ -10584,18 +10766,14 @@ D) ética e dos padrões de comportamento.
 E) epistemologia e dos limites do conhecimento. 
  
  
-Questão 322 (2018.2) 
+\
+@322 (2018.3) 
 A elaboração da Lei n. 11.340/06 (Lei Maria da 
 Penha) partiu, em grande medida, de uma pers-
 pectiva crítica aos resultados obtidos pela cria-
 ção dos Juizados Especiais Criminais direcio-
 nada à banalização do conflito de gênero, ob-
 servada na prática corriqueira da aplicação de 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-87 
-novocadernoenem@gmail.com 
 medidas alternativas correspondentes ao pa-
 gamento de cestas básicas pelos acusados. 
  
@@ -10606,6 +10784,7 @@ Acesso em: 11 dez. 2012 - adaptado)
 No contexto descrito, a lei citada pode alterar a 
 situação da mulher ao proporcionar sua: 
  
+\
 A) atuação como provedora do lar. 
 B) inserção no mercado de trabalho. 
 C) presença em instituições policiais. 
@@ -10613,7 +10792,8 @@ D) proteção contra ações de violência.
 E) participação enquanto gestora pública. 
  
  
-Questão 323 (2018.2) 
+\
+@323 (2018.3) 
 A maioria das necessidades comuns de des-
 cansar, distrair-se, comportar-se, amar e odiar o 
 que os outros amam e odeiam pertence a essa 
@@ -10629,6 +10809,7 @@ Segundo Marcuse, um dos pesquisadores da
 chamada Escola de Frankfurt, tais forças exter-
 nas são resultantes de: 
  
+\
 A) aspirações de cunho espiritual. 
 B) propósitos solidários de classes. 
 C) exposição cibernética crescente. 
@@ -10636,7 +10817,8 @@ D) interesses de ordem socioeconômica.
 E) hegemonia do discurso médico-científico. 
  
  
-Questão 324 (2018.2) 
+\
+@324 (2018.3) 
 Jamais deixou de haver sangue, martírio e sa-
 crifício, quando o homem sentiu a necessidade 
 de criar em si uma memória; os mais horrendos 
@@ -10654,12 +10836,14 @@ O fragmento evoca uma reflexão sobre a condi-
 distintivo entre homens e animais, marcado 
 pelo(a): 
  
+\
 A) racionalidade científica. 
 B) determinismo biológico. 
 C) degradação da natureza. 
 D) domínio da contingência. 
 E) consciência da existência. 
-Questão 325 (2018.2) 
+\
+@325 (2018.3) 
 De certo modo o toxicômano diz a verdade so-
 bre nossa condição social atual, quer dizer, 
 temos a tendência de tornarmo-nos todos adic-
@@ -10677,6 +10861,7 @@ No trecho, o autor propõe uma analogia entre o
 vício individual e as práticas de consumo sus-
 tentada no argumento da: 
  
+\
 A) exposição da vida privada. 
 B) reinvenção dos valores tradicionais. 
 C) dependência das novas tecnologias. 
@@ -10684,7 +10869,8 @@ D) recorrência de transtornos mentais.
 E) banalização de substâncias psicotrópicas. 
  
  
-Questão 326 (2018.2) 
+\
+@326 (2018.3) 
 Quer um conselho? Vá conhecer alguma coisa 
 da terra e deixe os homens em paz... Os ho-
 mens mudam, a terra é inalterável. Vá por aí 
@@ -10704,6 +10890,7 @@ O texto literário evidencia uma percepção dual
 sobre a cidade e o campo, fundamentada na 
 ideia de: 
  
+\
 A) progresso científico. 
 B) evolução da sociedade. 
 C) valorização da natureza. 
@@ -10711,7 +10898,8 @@ D) racionalidade econômica.
 E) democratização do espaço. 
  
  
-Questão 327 (2018.2) 
+\
+@327 (2018.3) 
 Quando analisamos nossos pensamentos ou 
 ideias, por mais complexos e sublimes que se-
 jam, sempre descobrimos que se resolvem em 
@@ -10723,710 +10911,12 @@ derivadas dela.
  
 (HUME, D. Investigação sobre o entendimento hu-
 mano. São Paulo: Abril Cultural, 1973) 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-88 
-novocadernoenem@gmail.com 
 Depreende-se deste excerto da obra de Hume que o conhecimento tem a sua gênese na: 
  
+\
 A) convicção inata. 
 B) dimensão apriorística. 
 C) elaboração do intelecto. 
 D) percepção dos sentidos. 
 E) realidade transcendental. 
- 
-GABARITO 
- 
-1 
-D 
-2 
-D 
-3 
-E 
-4 
-C 
-5 
-A 
-6 
-B 
-7 
-E 
-8 
-E 
-9 
-D 
-10 
-E 
-11 
-E 
-12 
-C 
-13 
-B 
-14 
-C 
-15 
-A 
-16 
-D 
-17 
-D 
-18 
-C 
-19 
-E 
-20 
-E 
-21 
-D 
-22 
-B 
-23 
-E 
-24 
-A 
-25 
-E 
-26 
-D 
-27 
-C 
-28 
-B 
-29 
-D 
-30 
-D 
-31 
-E 
-32 
-C 
-33 
-E 
-34 
-B 
-35 
-D 
-36 
-C 
-37 
-E 
-38 
-C 
-39 
-D 
-40 
-C 
-41 
-B 
-42 
-B 
-43 
-A 
-44 
-C 
-45 
-A 
-46 
-E 
-47 
-A 
-48 
-C 
-49 
-E 
-50 
-C 
-51 
-E 
-52 
-B 
-53 
-B 
-54 
-C 
-55 
-B 
-56 
-C 
-57 
-D 
-58 
-A 
-59 
-D 
-60 
-B 
-61 
-A 
-62 
-D 
-63 
-A 
-64 
-B 
-65 
-C 
-66 
-C 
-67 
-D 
-68 
-D 
-69 
-D 
-70 
-E 
-71 
-C 
-72 
-B 
-73 
-E 
-74 
-B 
-75 
-B 
-76 
-A 
-77 
-B 
-78 
-B 
-79 
-D 
-80 
-D 
-81 
-E 
-82 
-C 
-83 
-A 
-84 
-D 
-85 
-D 
-86 
-C 
-87 
-B 
-88 
-B 
-89 
-D 
-90 
-E 
-91 
-B 
-92 
-C 
-93 
-D 
-94 
-E 
-95 
-B 
-96 
-E 
-97 
-B 
-98 
-D 
-99 
-B 
-100 
-D 
-101 
-A 
-102 
-B 
-103 
-C 
-104 
-E 
-105 
-C 
-106 
-A 
-107 
-C 
-108 
-A 
-109 
-C 
-110 
-A 
-111 
-C 
-112 
-B 
-113 
-C 
-114 
-D 
-115 
-C 
-116 
-A 
-117 
-E 
-118 
-A 
-119 
-C 
-120 
-E 
-121 
-A 
-122 
-A 
-123 
-D 
-124 
-B 
-125 
-B 
-126 
-E 
-127 
-E 
-128 
-E 
-129 
-B 
-130 
-D 
-131 
-D 
-132 
-A 
-133 
-A 
-134 
-B 
-135 
-C 
-136 
-A 
-137 
-B 
-138 
-B 
-139 
-C 
-140 
-A 
-141 
-A 
-142 
-E 
-143 
-C 
-144 
-D 
-145 
-E 
-146 
-D 
-147 
-E 
-148 
-A 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-89 
-novocadernoenem@gmail.com 
-149 
-E 
-150 
-B 
-151 
-D 
-152 
-D 
-153 
-D 
-154 
-D 
-155 
-C 
-156 
-D 
-157 
-D 
-158 
-D 
-159 
-D 
-160 
-D 
-161 
-A 
-162 
-D 
-163 
-D 
-164 
-A 
-165 
-A 
-166 
-A 
-167 
-D 
-168 
-C 
-169 
-A 
-170 
-B 
-171 
-D 
-172 
-E 
-173 
-E 
-174 
-A 
-175 
-E 
-176 
-A 
-177 
-D 
-178 
-B 
-179 
-A 
-180 
-C 
-181 
-A 
-182 
-C 
-183 
-C 
-184 
-B 
-185 
-B 
-186 
-A 
-187 
-D 
-188 
-C 
-189 
-C 
-190 
-A 
-191 
-B 
-192 
-D 
-193 
-A 
-194 
-B 
-195 
-C 
-196 
-A 
-197 
-E 
-198 
-D 
-199 
-D 
-200 
-A 
-201 
-C 
-202 
-D 
-203 
-C 
-204 
-C 
-205 
-C 
-206 
-D 
-207 
-D 
-208 
-C 
-209 
-E 
-210 
-B 
-211 
-E 
-212 
-D 
-213 
-C 
-214 
-A 
-215 
-D 
-216 
-A 
-217 
-A 
-218 
-D 
-219 
-C 
-220 
-C 
-221 
-B 
-222 
-D 
-223 
-E 
-224 
-C 
-225 
-B 
-226 
-E 
-227 
-D 
-228 
-B 
-229 
-B 
-230 
-B 
-231 
-D 
-232 
-E 
-233 
-C 
-234 
-B 
-235 
-D 
-236 
-E 
-237 
-A 
-238 
-A 
-239 
-B 
-240 
-A 
-241 
-B 
-242 
-E 
-243 
-C 
-244 
-B 
-245 
-B 
-246 
-C 
-247 
-D 
-248 
-A 
-249 
-C 
-250 
-D 
-251 
-A 
-252 
-E 
-253 
-C 
-254 
-C 
-255 
-A 
-256 
-D 
-258 
-D 
-259 
-D 
-260 
-A 
-261 
-B 
-262 
-D 
-263 
-A 
-264 
-C 
-265 
-A 
-266 
-E 
-267 
-B 
-268 
-D 
-269 
-E 
-270 
-B 
-271 
-E 
-272 
-C 
-273 
-D 
-274 
-B 
-275 
-B 
-276 
-B 
-277 
-C 
-278 
-C 
-279 
-E 
-280 
-D 
-281 
-A 
-282 
-D 
-283 
-A 
-284 
-C 
-285 
-A 
-286 
-C 
-287 
-D 
-288 
-C 
-289 
-C 
-290 
-A 
-291 
-E 
-292 
-A 
-293 
-E 
-294 
-A 
-295 
-E 
-296 
-B 
-297 
-C 
-298 
-D 
-299 
-C 
-300 
-D 
-301 
-B 
-302 
-D 
-303 
-E 
-304 
-B 
-305 
-C 
-306 
-B 
-307 
-D 
-308 
-D 
-309 
-E 
-310 
-A 
-311 
-B 
-312 
-A 
-313 
-D 
-314 
-D 
-315 
-C 
-316 
-D 
-317 
-B 
-318 
-A 
-319 
-B 
-320 
-B 
-321 
-D 
-322 
-D 
-323 
-D 
-324 
-E 
-325 
-C 
-326 
-C 
-327 
-D 
-CADERNO FILOSOFIA - SOCIOLOGIA 
-ENEM 2009 a 2018 
- 
-90 
-novocadernoenem@gmail.com 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
+\ 

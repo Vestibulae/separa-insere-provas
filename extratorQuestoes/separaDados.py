@@ -5,7 +5,7 @@
 # # = nova alternativa
 # @@ = materia
 from util.models import *
-from util.controller import insertProva, insertQuestao, insertRespostas, getIdProva, insertGabarito
+from util.controller import insertProva, insertQuestao, insertRespostas, getIdProva, insertGabarito, getResposta
 from util.db import db
 
 
@@ -111,8 +111,10 @@ def separaRespostas(nome_prova, dados_prova, questao, prova, gabarito):
     if lista_respostas:
         insertRespostas(lista_respostas)
         gabarito = gabarito.strip(" \n").split()
+        r = getResposta(prova=questao.prova_id,
+                        questao=questao.id, alternativa=gabarito[1])
         insertGabarito(prova_id=questao.prova_id,
-                       questao_id=questao.id, alternativa=gabarito[1])
+                       questao_id=questao.id, resposta_id=r)
     else:
         print(
             f"ERROR - Lista de Respostas Vazia! Respostas da questão {questao} não inseridas!")
@@ -125,6 +127,6 @@ db.close()
 
 
 # print(insertGabarito("Provas/2020_GB_impresso_D1_CD4.txt"))
-separaDados("Provas/txt/matematica.txt",
-            "Provas/txt/gabaritos/gabarito_matematica.txt")
+separaDados("Provas/txt/provas/filosofia_sociologia.txt",
+            "Provas/txt/gabaritos/gabarito_filosofia_sociologia.txt")
 # teste("Provas/2020_PV_impresso_D1_CD4_superampliada.txt")

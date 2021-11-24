@@ -1,40 +1,28 @@
-ENEM 2009.1 - Prova Anulada 2009 
-ENEM 2009.2 - Prova Oficial 2009 
-ENEM 2009.3 - Prova Unidades Prisionais 2009 
- 
-ENEM 2010.1 - Prova Oficial 2010 
-ENEM 2010.2 - Prova Unidades Prisionais 2010 
- 
-ENEM 2011.1 - Prova Oficial 2011 
-ENEM 2011.2 - Prova Unidades Prisionais 2011 
- 
-ENEM 2012.1 - Prova Oficial 2012 
-ENEM 2012.2 - Prova Unidades Prisionais 2012 
- 
-ENEM 2013.1 - Prova Oficial 2013 
-ENEM 2013.2 - Prova Unidades Prisionais 2013 
- 
-ENEM 2014.1 - Prova Oficial 2014 (1ª Aplicação) 
-ENEM 2014.2 - Prova Unidades Prisionais 2014 
-ENEM 2014.3 - Prova Oficial 2014 (2ª Aplicação) 
- 
-ENEM 2015.1 - Prova Oficial 2015 
-ENEM 2015.2 - Prova Unidades Prisionais 2015 
- 
-ENEM 2016.1 - Prova Oficial 2016 (1ª Aplicação) 
-ENEM 2016.2 - Prova Oficial 2016 (2ª Aplicação) 
-ENEM 2016.3 - Prova Unidades Prisionais 2016 
- 
-ENEM 2017.1 - Prova Oficial 2017 
-ENEM 2017.2 - Prova Unidades Prisionais 2017 
- 
-ENEM 2018.1 - Prova Oficial 2018 
-ENEM 2018.2 - Prova Unidades Prisionais 2018 
-QUIMICA
- 
-1 
-Ajude esse projeto: moduloenem2017@gmail.com 
-Questão 01 (2009.1) 
+|ENEM;2009;1;Prova Oficial 2009 
+|ENEM;2009;3;Prova Unidades Prisionais 2009
+|ENEM;2009;4;Prova Anulada 2009 
+|ENEM;2010;1;Prova Oficial 2010 
+|ENEM;2010;3;Prova Unidades Prisionais 2010 
+|ENEM;2011;1;Prova Oficial 2011 
+|ENEM;2011;3;Prova Unidades Prisionais 2011 
+|ENEM;2012;1;Prova Oficial 2012 
+|ENEM;2012;3;Prova Unidades Prisionais 2012 
+|ENEM;2013;1;Prova Oficial 2013 
+|ENEM;2013;3;Prova Unidades Prisionais 2013 
+|ENEM;2014;1;Prova Oficial 2014 (1ª Aplicação) 
+|ENEM;2014;2;Prova Oficial 2014 (2ª Aplicação) 
+|ENEM;2014;3;Prova Unidades Prisionais 2014 
+|ENEM;2015;1;Prova Oficial 2015 
+|ENEM;2015;3;Prova Unidades Prisionais 2015 
+|ENEM;2016;1;Prova Oficial 2016 (1ª Aplicação) 
+|ENEM;2016;2;Prova Oficial 2016 (2ª Aplicação) 
+|ENEM;2016;3;Prova Unidades Prisionais 2016 
+|ENEM;2017;1;Prova Oficial 2017 
+|ENEM;2017;3;Prova Unidades Prisionais 2017 
+|ENEM;2018;1;Prova Oficial 2018 
+|ENEM;2018;3;Prova Unidades Prisionais 2018  
+@@QUIMICA
+@01 (2009.4) 
 O ciclo da água é fundamental para a preserva-
 ção da vida no planeta. As condições climáticas 
 da Terra permitem que a água sofra mudanças 
@@ -52,6 +40,7 @@ Acesso em: 30 mar. 2009 - adaptado)
  
 A transformação mencionada no texto é a: 
  
+\
 A) fusão. 
 B) liquefação. 
 C) evaporação. 
@@ -59,7 +48,8 @@ D) solidificação.
 E) condensação. 
  
  
-Questão 02 (2009.1) 
+\
+@02 (2009.4) 
 O lixo radioativo ou nuclear é resultado da ma-
 nipulação de materiais radioativos, utilizados 
 hoje na agricultura, na indústria, na medicina, 
@@ -84,6 +74,7 @@ na medicina.
  
  
 As informações fornecidas mostram que: 
+\
 A) quanto maior é a meia-vida de uma substân-
 cia mais rápido ela se desintegra. 
 B) apenas 1/8 de uma amostra de rádio/226 terá 
@@ -98,7 +89,8 @@ dade pela metade a cada intervalo de 1.620
 anos devido à desintegração radioativa. 
  
  
-Questão 03 (2009.1) 
+\
+@03 (2009.4) 
 Vários combustíveis alternativos estão sendo 
 procurados para reduzir a demanda por com-
 bustíveis fósseis, cuja queima prejudica o meio 
@@ -125,6 +117,7 @@ maior massa de dióxido de carbono (massa
 molar igual a 44 g mol–1), foram, respectivamen-
 te, 
  
+\
 A) o etanol, que teve apenas 46 g de massa 
 consumida, e o metano, que produziu 900 g de 
 CO2.    
@@ -139,13 +132,9 @@ consumida, e o metano, que produziu 176 g de
 CO2.    
 E) o hidrogênio, que teve apenas 2 g de massa 
 consumida, e o etanol, que produziu 1350 g de 
-CO2. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-2 
-novocadernoenem@gmail.com 
-Questão 04 (2009.1) 
+CO2.  
+\
+@04 (2009.4) 
  
  
  
@@ -154,6 +143,7 @@ tinuamente dados referentes à qualidade do ar na região metropolitana de São 
 tada corresponde a dados hipotéticos que poderiam ter sido obtidos pela CETESB em determinado dia. 
 Se esses dados fossem verídicos, então, seria mais provável encontrar problemas de visibilidade: 
  
+\
 A) no Parque Dom Pedro II. 
  
 B) em São Caetano do Sul. 
@@ -165,7 +155,8 @@ D) em Osasco.
 E) em Pinheiros. 
  
  
-Questão 05 (2009.1) 
+\
+@05 (2009.4) 
 O controle de qualidade é uma exigência da 
 sociedade moderna na qual os bens de consu-
 mo são produzidos em escala industrial. Nesse 
@@ -191,21 +182,18 @@ combustível.
 A respeito das amostras ou do densímetro, po-
 de-se afirmar que: 
  
+\
 A) a densidade da bola escura deve ser igual a 
 0,811 g/cm3. 
 B) a amostra 1 possui densidade menor do que 
-a permitida. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-3 
-novocadernoenem@gmail.com 
+a permitida.  
 C) a bola clara tem densidade igual à densidade da bola escura. 
 D) a amostra que está dentro do padrão estabelecido é a de número 2. 
 E) o sistema poderia ser feito com uma única bola de densidade entre 0,805 g/cm3 e 0,811 g/cm3. 
  
  
-Questão 06 (2009.1) 
+\
+@06 (2009.4) 
 Duas matérias-primas encontradas em grande quantidade no Rio Grande do Sul, a quitosana, um biopo-
 límero preparado a partir da carapaça do camarão, e o poliol, obtido do óleo do grão da soja, são os 
 principais componentes de um novo material para incorporação de partículas ou princípios ativos utiliza-
@@ -219,6 +207,7 @@ A fórmula estrutural da quitosana está apresentada em seguida.
  
 Com relação às características do material descrito, pode-se afirmar que: 
  
+\
 A) o uso da quitosana é vantajoso devido a suas propriedades, pois não existem mudanças em sua pu-
 reza e peso molecular, características dos polímeros, além de todos os seus benefícios ambientais.    
 B) a quitosana tem em sua constituição grupos amina, pouco reativos e não disponíveis para reações 
@@ -232,7 +221,8 @@ E) a quitosana é um polímero de baixa massa molecular, e o produto constituíd
 amida é vantajoso para aplicações ambientais em comparação com os polímeros petroquímicos. 
  
  
-Questão 07 (2009.1) 
+\
+@07 (2009.4) 
 Pilhas e baterias são dispositivos tão comuns 
 em nossa sociedade que, sem percebermos, 
 carregamos vários deles junto ao nosso corpo; 
@@ -245,6 +235,7 @@ pilha de óxido de prata.
  
 Pode-se afirmar que esta pilha: 
  
+\
 A) é uma pilha ácida. 
 B) apresenta o óxido de prata como o ânodo. 
 C) apresenta o zinco como o agente oxidante. 
@@ -252,7 +243,8 @@ D) tem como reação da célula a seguinte reação
  
 E) apresenta fluxo de elétrons na pilha do ele-
 trodo de Ag2O para o Zn. 
-Questão 08 (2009.1) 
+\
+@08 (2009.4) 
 O pó de café jogado no lixo caseiro e, princi-
 palmente, as grandes quantidades descartadas 
 em bares e restaurantes poderão se transformar 
@@ -273,12 +265,8 @@ lizante para jardim.
 Considere o processo descrito e a densidade do 
 biodiesel igual a 900 kg/m³. A partir da quanti-
 dade de pó de café jogada no lixo por ano, a 
-produção de biodiesel seria equivalente a: 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-4 
-novocadernoenem@gmail.com 
+produção de biodiesel seria equivalente a:  
+\
 A) 1,08 bilhões de litros. 
 B) 1,20 bilhões de litros. 
 C) 1,33 bilhões de litros. 
@@ -286,7 +274,8 @@ D) 8,00 bilhões de litros.
 E) 8,80 bilhões de litros. 
  
  
-Questão 09 (2009.1) 
+\
+@09 (2009.4) 
 Os exageros do final de semana podem levar o 
 indivíduo a um quadro de azia.  
  
@@ -306,6 +295,7 @@ ingerir 9 mL de leite de magnésia?
 Dados: Massas molares (em g mol-1): Mg= 24,3; 
 CI=35,4; O=16; H=1. 
  
+\
 A) 20 mol 
 B) 0,58 mol 
 C) 0,2 mol 
@@ -314,7 +304,8 @@ E) 0,01 mol
  
  
  
-Questão 10 (2009.1) 
+\
+@10 (2009.4) 
 Potencializado pela necessidade de reduzir as 
 emissões de gases causadores do efeito estufa, 
 o desenvolvimento de fontes de energia renová-
@@ -333,6 +324,7 @@ carboidratos.
 Considerando as fontes de hidrogênio citadas, a 
 de menor impacto ambiental seria: 
  
+\
 A) aquela obtida de hidrocarbonetos, pois pos-
 suem maior proporção de hidrogênio por molé-
 cula. 
@@ -350,21 +342,18 @@ dos a carbonos tetraédricos, ou seja, que apre-
 sentam apenas ligações simples. 
  
  
-Questão 11 (2009.1) 
+\
+@11 (2009.4) 
 Na atual estrutura social, o abastecimento de água tratada desempenha um papel fundamental para a 
 prevenção de doenças. Entretanto, a população mais carente é a que mais sofre com a falta de água 
 tratada, em geral, pela falta de estações de tratamento capazes de fornecer o volume de água necessá-
 rio para o abastecimento ou pela falta de distribuição dessa água. 
  
- 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-5 
-novocadernoenem@gmail.com 
+  
 No sistema de tratamento de água apresentado na figura anterior, a remoção do odor e a desinfecção da 
 água coletada ocorrem, respectivamente, nas etapas: 
  
+\
 A) 1 e 3.             
 B) 1 e 5.            
 C) 2 e 4.             
@@ -372,7 +361,8 @@ D) 2 e 5.
 E) 3 e 4. 
  
  
-Questão 12 (2009.2) 
+\
+@12 (2009.1) 
 Sabões são sais de ácidos carboxílicos de cadeia longa utilizados com a finalidade de facilitar, durante 
 processos de lavagem, a remoção de substâncias de baixa solubilidade em água, por exemplo, óleos e 
 gorduras. A figura a seguir representa a estrutura de uma molécula de sabão. 
@@ -390,6 +380,7 @@ para a direita.
  
 Com base nas informações do texto, é correto concluir que os sabões atuam de maneira: 
  
+\
 A) mais eficiente em pH básico. 
 B) mais eficiente em pH ácido. 
 C) mais eficiente em pH neutro. 
@@ -397,7 +388,8 @@ D) eficiente em qualquer faixa de pH.
 E) mais eficiente em pH ácido ou neutro. 
  
  
-Questão 13 (2009.2) 
+\
+@13 (2009.1) 
 Para que apresente condutividade elétrica ade-
 quada a muitas aplicações, o cobre bruto obtido 
 por métodos térmicos é purificado eletrolitica-
@@ -427,17 +419,14 @@ xo do ânodo de cobre são:
  
  
  
+\
 A) Au, Pt, Ag, Zn, Ni e Pb. 
 B) Au, Pt e Ag. 
 C) Zn, Ni e Pb. 
 D) Au e Zn. 
-E) Ag e Pb. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-6 
-novocadernoenem@gmail.com 
-Questão 14 (2009.2) 
+E) Ag e Pb.  
+\
+@14 (2009.1) 
 Os núcleos dos átomos são constituídos de prótons e nêutrons, sendo ambos os principais responsáveis 
 pela sua massa. Nota-se que, na maioria dos núcleos, essas partículas não estão presentes na mesma 
 proporção. O gráfico mostra a quantidade de nêutrons (N) em função da quantidade de prótons (Z) para 
@@ -447,6 +436,7 @@ os núcleos estáveis conhecidos.
 O antimônio é um elemento químico que possui 50 prótons e possui vários isótopos ― átomos que só se 
 diferem pelo número de nêutrons. De acordo com o gráfico, os isótopos estáveis do antimônio possuem: 
  
+\
 A) entre 12 e 24 nêutrons a menos que o número de prótons. 
 B) exatamente o mesmo número de prótons e nêutrons. 
 C) entre 0 e 12 nêutrons a mais que o número de prótons. 
@@ -454,7 +444,8 @@ D) entre 12 e 24 nêutrons a mais que o número de prótons.
 E) entre 0 e 12 nêutrons a menos que o número de prótons. 
  
  
-Questão 15 (2009.2) 
+\
+@15 (2009.1) 
 O processo de industrialização tem gerado sé-
 rios problemas de ordem ambiental, econômica 
 e social, entre os quais se pode citar a chuva 
@@ -471,16 +462,12 @@ concentração do ácido formado, como também
 do tipo de ácido. Essa pode ser uma informação 
 útil na elaboração de estratégias para minimizar 
 esse problema ambiental.  
- 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-7 
-novocadernoenem@gmail.com 
+  
 Se consideradas concentrações idênticas, quais 
 dos ácidos citados no texto conferem maior 
 acidez às águas das chuvas? 
  
+\
 A) HNO3 e HNO2. 
 B) H2SO4 e H2SO3. 
 C) H2SO3 e HNO2. 
@@ -488,7 +475,8 @@ D) H2SO4 e HNO3.
 E) H2CO3 e H2SO3. 
  
  
-Questão 16 (2009.2) 
+\
+@16 (2009.1) 
 Cerca de 1% do lixo urbano é constituído por 
 resíduos sólidos contendo elementos tóxicos.  
  
@@ -522,6 +510,7 @@ definitivamente com o problema da poluição
 ambiental por metais pesados relatado no texto 
 seria: 
  
+\
 A) deixar de consumir aparelhos elétricos que 
 utilizem pilha ou bateria como fonte de energia. 
 B) usar apenas pilhas ou baterias recarregáveis 
@@ -539,7 +528,8 @@ E) exigir que fabricantes invistam em pesquisa
 para a substituição desses metais tóxicos por 
 substâncias menos nocivas ao homem e ao 
 ambiente, e que não sejam bioacumulativas. 
-Questão 17 (2009.2) 
+\
+@17 (2009.1) 
 Considere um equipamento capaz de emitir 
 radiação eletromagnética com comprimento de 
 onda bem menor que a da radiação ultravioleta.  
@@ -562,6 +552,7 @@ Dentre os fenômenos decorrentes da interação
 entre a radiação e os átomos do indivíduo que 
 permitem a obtenção desta imagem inclui-se a:  
  
+\
 A) absorção da radiação eletromagnética e a 
 consequente ionização dos átomos de cálcio, 
 que se transformam em átomos de fósforo. 
@@ -574,13 +565,9 @@ cálcio.
 D) maior refração ao atravessar os átomos de 
 carbono que os átomos de cálcio. 
 E) maior ionização de moléculas de água que 
-de átomos de carbono. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-8 
-novocadernoenem@gmail.com 
-Questão 18 (2009.2) 
+de átomos de carbono.  
+\
+@18 (2009.1) 
 O uso de protetores solares em situações de grande exposição aos raios solares como, por exemplo, 
 nas praias, é de grande importância para a saúde. As moléculas ativas de um protetor apresentam, usu-
 almente, anéis aromáticos conjugados com grupos carbonila, pois esses sistemas são capazes de ab-
@@ -596,7 +583,8 @@ para funcionar como molécula ativa de protetores solares?
  
   
  
-Questão 19 (2009.2) 
+\
+@19 (2009.1) 
 Nas últimas décadas, o efeito estufa tem-se intensificado de maneira preocupante, sendo esse efeito 
 muitas vezes atribuído à intensa liberação de CO2 durante a queima de combustíveis fósseis para gera-
 ção de energia. O quadro traz as entalpias-padrão de combustão a 25ºC (∆𝐻25
@@ -612,17 +600,14 @@ gás liquefeito de petróleo (GLP) e da gasolina, respectivamente, então, a par
 possível concluir que, do ponto de vista da quantidade de calor obtido por mol de CO2 gerado, a ordem 
 crescente desses três combustíveis é: 
  
+\
 A) gasolina, GLP e gás natural. 
 B) gás natural, gasolina e GLP. 
 C) gasolina, gás natural e GLP. 
 D) gás natural, GLP e gasolina. 
-E) GLP, gás natural e gasolina. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-9 
-novocadernoenem@gmail.com 
-Questão 20 (2009.2) 
+E) GLP, gás natural e gasolina.  
+\
+@20 (2009.1) 
 Na manipulação em escala nanométrica, os 
 átomos revelam características peculiares, po-
 dendo apresentar tolerância à temperatura, 
@@ -640,6 +625,7 @@ e Saúde. Disponível em: http://www.comciencia.br)
 A utilização de nanopartículas na indústria e na 
 medicina requer estudos mais detalhados, pois: 
  
+\
 A) as partículas, quanto menores, mais potentes 
 e radiativas se tornam. 
 B) as partículas podem ser manipuladas, mas 
@@ -657,7 +643,8 @@ tam a mesma dimensão das bactérias (um bilio-
 nésimo de metro). 
  
  
-Questão 21 (2009.2) 
+\
+@21 (2009.1) 
 O álcool hidratado utilizado como combustível 
 veicular é obtido por meio da destilação fracio-
 nada de soluções aquosas geradas a partir da 
@@ -674,6 +661,7 @@ ses dados, é correto concluir que a destilação
 em questão gerou um resíduo com uma concen-
 tração de etanol em massa: 
  
+\
 A) de 0%. 
 B) de 8,0%. 
 C) entre 8,4% e 8,6%. 
@@ -681,7 +669,8 @@ D) entre 9,0% e 9,2%.
 E) entre 13% e 14%. 
  
  
-Questão 22 (2009.3) 
+\
+@22 (2009.3) 
 Os cientistas conseguem determinar a idade de 
 um fóssil com menos de 40.000 anos de idade 
 utilizando o método do carbono-14 (14C) ou car-
@@ -711,6 +700,7 @@ De acordo com o texto, para se descobrir a ida-
 de de um fóssil que não poderia ter mais de 
 40.000 anos, é relevante determinar: 
  
+\
 A) a meia-vida do carbono-14. 
 B) se o fóssil é animal ou vegetal. 
 C) se o fóssil tem mais de 5.730 anos. 
@@ -719,7 +709,8 @@ E) a relação entre as quantidades de carbono-
 14 em uma parte do fóssil e no fóssil todo. 
  
  
-Questão 23 (2009.3) 
+\
+@23 (2009.3) 
 O ácido acetilsalicílico (AAS) é uma substância 
 utilizada como fármaco analgésico no alívio das 
 dores de cabeça. A figura abaixo é a represen-
@@ -730,17 +721,15 @@ tação estrutural da molécula do AAS.
 Considerando-se essa representação, é correto 
 afirmar que a fórmula molecular do AAS é: 
  
+\
 A) C7O2H3COOH. 
 B) C7O2H7 COOH. 
 C) C8O2H3COOH. 
 D) C8O2H7COOH. 
 E) C8O2H16COOH. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-10 
-novocadernoenem@gmail.com 
-Questão 24 (2009.3) 
+\
+@24 (2009.3) 
 A ciência propõe formas de explicar a natureza 
 e seus fenômenos que, muitas vezes, confron-
 tam o conhecimento popular ou o senso co-
@@ -757,6 +746,7 @@ Considerando-se as representações das molé-
 culas de água nos três estados físicos e seu 
 comportamento anômalo, é correto afirmar que: 
  
+\
 A) sólidos afundam na água. 
 B) a interação entre as moléculas está restrita 
 ao estado sólido. 
@@ -769,7 +759,8 @@ substância à medida que a temperatura aumen-
 ta. 
  
  
-Questão 25 (2010.1) 
+\
+@25 (2010.1) 
 O crescimento da produção de energia elétrica 
 ao longo do tempo tem influenciado decisiva-
 mente o progresso da humanidade, mas tam-
@@ -795,6 +786,7 @@ energia elétrica por meio da célula a combustí-
 vel hidrogênio/oxigênio diferencia-se dos pro-
 cessos convencionais porque: 
  
+\
 A) transforma energia química em energia elé-
 trica, sem causar danos ao meio ambiente, por-
 que o principal subproduto formado é a água. 
@@ -817,7 +809,8 @@ energia química, sem que ocorra a produção de
 gases poluentes nocivos ao meio ambiente. 
  
  
-Questão 26 (2010.1) 
+\
+@26 (2010.1) 
 As misturas efervescentes, em pó ou comprimi-
 dos, são comuns para a administração de vita-
 mina C ou de medicamentos para azia. Essa 
@@ -847,19 +840,17 @@ A ionização, a dissociação iônica, a formação
 do ácido e a liberação do gás ocorrem, respecti-
 vamente, nas seguintes etapas: 
  
+\
 A) IV, I, II e III         
 B) I, IV, III e II          
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-11 
-novocadernoenem@gmail.com 
 C) IV, III, I e II           
 D) I, IV, II e III        
 E) IV, I, III e II 
  
  
-Questão 27 (2010.1) 
+\
+@27 (2010.1) 
 Um ambiente capaz de asfixiar todos os animais 
 conhecidos do planeta foi colonizado por pelo 
 menos três espécies diferentes de invertebrados 
@@ -884,6 +875,7 @@ Que substâncias poderiam ter a mesma função
 do O2 na respiração celular realizada pelos lori-
 cíferos? 
  
+\
 A) S e CH4 
 B) S e NO3
 − 
@@ -892,7 +884,8 @@ D) CO2 e CH4
 E) H2 e CO2 
  
  
-Questão 28 (2010.1) 
+\
+@28 (2010.1) 
 O abastecimento de nossas necessidades 
 energéticas futuras dependerá certamente do 
 desenvolvimento de tecnologias para aproveitar 
@@ -922,6 +915,7 @@ E analisando-a como potencial mecanismo para
 aproveitamento posterior da energia solar, con-
 clui-se que se trata de uma estratégia: 
  
+\
 A) insatisfatória, pois a reação apresentada não 
 permite que a energia presente no meio externo 
 seja absorvida pelo sistema para ser utilizada 
@@ -947,7 +941,8 @@ obtenção de energia a realização de trabalho
 útil. 
  
  
-Questão 29 (2010.1) 
+\
+@29 (2010.1) 
 No que tange à tecnologia de combustíveis al-
 ternativos, muitos especialistas em energia 
 acreditam que os alcoóis vão crescer em impor-
@@ -971,14 +966,11 @@ de produção de ambos os alcoóis seja o mes-
 mo. Dessa forma, do ponto de vista econômico, 
 é mais vantajoso utilizar: 
  
+\
 A) metanol, pois sua combustão completa for-
 nece, aproximadamente, 22,7 kJ de energia por 
 litro de combustível queimado. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-12 
-novocadernoenem@gmail.com 
 B) etanol, pois sua combustão completa forne-
 ce, aproximadamente, 29,7 kJ de energia por 
 litro de combustível queimado. 
@@ -993,7 +985,8 @@ ce, aproximadamente, 33,7 MJ de energia por
 litro de combustível queimado. 
  
  
-Questão 30 (2010.1) 
+\
+@30 (2010.1) 
 Todos os organismos necessitam de água e 
 grande parte deles vive em rios, lagos e ocea-
 nos. Os processos biológicos, como respiração 
@@ -1023,6 +1016,7 @@ CH2O e massa molar a 30 g/mol) são dissolvi-
 dos em um litro de água; em quanto a DBO será 
 aumentada? 
  
+\
 A) 0,4 mg de O2/litro 
 B) 1,7 mg de O2/litro 
 C) 2,7 mg de O2/litro 
@@ -1030,7 +1024,8 @@ D) 9,4 mg de O2/litro
 E)10,7 mg de O2/litro 
  
  
-Questão 31 (2010.1) 
+\
+@31 (2010.1) 
 A composição média de uma bateria automotiva 
 esgotada é de aproximadamente 32% Pb, 3% 
 PbO2 e 36% PbSO4. A média de massa da pas-
@@ -1072,6 +1067,7 @@ do uma massa de pasta residual de uma bateria
 de 6 kg, qual quantidade aproximada, em quilo-
 gramas, de PbCO3 é obtida? 
  
+\
 A) 1,7 kg         
 B) 1,9 kg         
 C) 2,9 kg         
@@ -1079,7 +1075,8 @@ D) 3,3 kg
 E) 3,6 kg 
  
  
-Questão 32 (2010.1) 
+\
+@32 (2010.1) 
 A eletrólise é muito empregada na indústria com 
 o objetivo de reaproveitar parte dos metais su-
 cateados. O cobre, por exemplo, é um dos me-
@@ -1099,17 +1096,15 @@ recuperada é de, aproximadamente:
 Dados: Constante de Faraday F = 96.500 C/mol; 
 Massa molar em g/mol: Cu = 63,5. 
  
+\
 A) 0,02 g.        
 B) 0,04 g.        
 C) 2,40 g.        
 D) 35,5 g.        
 E) 71,0 g. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-13 
-novocadernoenem@gmail.com 
-Questão 33 (2010.1) 
+\
+@33 (2010.1) 
 No ano de 2004, diversas mortes de animais por 
 envenenamento no zoológico de São Paulo 
 foram evidenciadas. Estudos técnicos apontam 
@@ -1127,6 +1122,7 @@ tiva e ao acúmulo de amônia na circulação.
 O monofluoracetato de sódio pode ser obtido 
 pela: 
  
+\
 A) desidratação do ácido monofluoracético, com 
 liberação de água. 
 B) hidrólise do ácido monofluoracético, sem 
@@ -1141,7 +1137,8 @@ estrutura do ácido monofluoracético, sem for-
 mação de água. 
  
  
-Questão 34 (2010.1) 
+\
+@34 (2010.1) 
 As mobilizações para promover um planeta 
 melhor para as futuras gerações são cada vez 
 mais frequentes. A maior parte dos meios de 
@@ -1162,6 +1159,7 @@ do que o carro entre em movimento. A equação
 que representa a reação química desse proces-
 so demonstra que: 
  
+\
 A) no processo há liberação de oxigênio, sob a 
 forma de O2. 
 B) o coeficiente estequiométrico para a água é 
@@ -1174,7 +1172,8 @@ E) o coeficiente estequiométrico para o gás
 carbônico é de 9 para 1 octano. 
  
  
-Questão 35 (2010.1) 
+\
+@35 (2010.1) 
 Os pesticidas modernos são divididos em várias 
 classes, entre as quais se destacam os organo-
 fosforados, materiais que apresentam efeito 
@@ -1198,12 +1197,9 @@ estrutural, está representado em:
  
  
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-14 
-novocadernoenem@gmail.com 
-Questão 36 (2010.1) 
+\
+@36 (2010.1) 
 As baterias de Ni-Cd muito utilizadas no nosso cotidiano não devem ser descartadas em lixos comuns 
 uma vez que uma considerável quantidade de cádmio é volatilizada e emitida para o meio ambiente 
 quando as baterias gastas são incineradas como componente do lixo. Com o objetivo de evitar a emis-
@@ -1229,6 +1225,7 @@ A reação descrita no texto mostra o processo de extração dos metais por meio
 orgânicas, X e Y. Considerando-se as estruturas de X e Y e o processo de separação descrito, pode-se 
 afirmar que: 
  
+\
 A) as moléculas X e Y atuam como extratores catiônicos uma vez que a parte polar da molécula troca o 
 íon H+ pelo cátion do metal. 
 B) as moléculas X e Y atuam como extratores aniônicos uma vez que a parte polar da molécula troca o 
@@ -1243,12 +1240,9 @@ E) as moléculas X e Y fazem ligações com os íons metálicos resultando em co
 lar o que justifica a eficácia da extração. 
  
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-15 
-novocadernoenem@gmail.com 
-Questão 37 (2010.1) 
+\
+@37 (2010.1) 
 Ao colocar um pouco de açúcar Na água e me-
 xer até a obtenção de uma só fase, prepara-se 
 uma solução. O mesmo acontece ao se adicio-
@@ -1267,6 +1261,7 @@ cafezinho, tenha utilizado 3,42 g de sacarose
 ra de 50 ml do líquido. Qual é a concentração 
 final em mol/l de sacarose nesse cafezinho? 
  
+\
 A) 0,02.        
 B) 0,2.        
 C) 2.        
@@ -1274,7 +1269,8 @@ D) 200.
 E) 2.000. 
  
  
-Questão 38 (2010.1) 
+\
+@38 (2010.1) 
 Decisão de asfaltamento da rodovia MG-010, 
 acompanha da introdução de espécies exóticas, 
 e a prática de incêndios criminosos, ameaçam o 
@@ -1301,6 +1297,7 @@ centes à rodovia MG-010.
  
 Essa afirmação baseia-se no uso de cimento-
 solo, mistura rica em cálcio que: 
+\
 A) inibe a toxicidade do alumínio, elevando o pH 
 dessas áreas. 
 B) inibe a toxicidade do alumínio, reduzindo o 
@@ -1313,7 +1310,8 @@ E) neutraliza a toxicidade do alumínio, reduzin-
 do o pH dessas áreas. 
  
  
-Questão 39 (2010.2) 
+\
+@39 (2010.3) 
 Alguns fatores podem alterar a rapidez das rea-
 ções químicas. A seguir destacam-se três 
 exemplos no contexto da preparação e da con-
@@ -1341,6 +1339,7 @@ influenciam a rapidez das transformações quí-
 micas relacionadas aos exemplos 1, 2 e 3, res-
 pectivamente? 
  
+\
 A) Temperatura, superfície de contato e concen-
 tração. 
 B) Concentração, superfície de contato e catali-
@@ -1352,7 +1351,8 @@ tração.
 E) Temperatura, concentração e catalisadores. 
  
  
-Questão 40 (2010.2) 
+\
+@40 (2010.3) 
 Às vezes, ao abrir um refrigerante, percebe-se 
 que uma parte do produto vaza rapidamente 
 pela extremidade do recipiente.  
@@ -1363,14 +1363,11 @@ tre alguns dos ingredientes do produto, de acor-
 do com a equação: 
  
 CO2(g) + H2O(l) ↔ H2CO3(aq) 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-16 
-novocadernoenem@gmail.com 
 A alteração do equilíbrio anterior, relacionada ao vazamento do refrigerante nas condições descritas, tem 
 como consequência a: 
  
+\
 A) liberação de CO2 para o ambiente. 
 B) elevação da temperatura do recipiente. 
 C) elevação da pressão interna no recipiente. 
@@ -1378,7 +1375,8 @@ D) elevação da concentração de CO2 no líquido.
 E) formação de uma quantidade significativa de H2O. 
  
  
-Questão 41 (2010.2) 
+\
+@41 (2010.3) 
 O Brasil é um dos países que obtêm melhores resultados na reciclagem de latinhas de alumínio. O es-
 quema a seguir representa as várias etapas desse processo: 
  
@@ -1386,6 +1384,7 @@ quema a seguir representa as várias etapas desse processo:
  
 A temperatura do forno em que o alumínio é fundido é útil também porque: 
  
+\
 A) sublima outros metais presentes na lata. 
 B) evapora substâncias radioativas remanescentes. 
 C) impede que o alumínio seja eliminado em altas temperaturas. 
@@ -1393,7 +1392,8 @@ D) desmagnetiza as latas que passaram pelo processo de triagem.
 E) queima os resíduos de tinta e outras substâncias presentes na lata. 
  
  
-Questão 42 (2010.2) 
+\
+@42 (2010.3) 
 Fator de emissão (carbon footprint) é um termo 
 utilizado para expressar a quantidade de gases 
 que contribuem para o aquecimento global, 
@@ -1431,17 +1431,14 @@ CO2 = 44; CaCO3 = 100; CaO = 56.
 (TREPTOW, R. S. Journal of Chemical Education.  
 v. 87 nº 2, fev. 2010 - adaptado) 
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-17 
-novocadernoenem@gmail.com 
 Considerando as informações apresentadas no 
 texto, qual é, aproximadamente, o fator de 
 emissão de CO2 quando 1 tonelada de cimento 
 for produzida, levando-se em consideração 
 apenas a etapa de obtenção do óxido de cálcio? 
  
+\
 A) 4,9 x 10-4 
 B) 7,9 x 10-4 
 C) 3,8 x 10-1 
@@ -1449,7 +1446,8 @@ D) 4,9 x 10-1
 E) 7,9 x 10-1 
  
  
-Questão 43 (2010.2) 
+\
+@43 (2010.3) 
 O pH do solo pode variar em uma faixa signifi-
 cativa devido a várias causas.  
  
@@ -1474,6 +1472,7 @@ aditivo a cal virgem (CaO).
  
 Nesse caso, a remediação: 
  
+\
 A) foi realizada, pois o caráter básico da cal 
 virgem promove o deslocamento do equilíbrio 
 descrito para a direita, em decorrência da ele-
@@ -1499,7 +1498,8 @@ virgem promove o deslocamento do equilíbrio
 descrito para a esquerda, em decorrência da 
 manutenção de pH do meio. 
  
-Questão 44 (2010.2) 
+\
+@44 (2010.3) 
 O rótulo de uma garrafa de água mineral natural 
 contém as seguintes informações: 
  
@@ -1511,6 +1511,7 @@ com seu gosto, seu cheiro, sua aparência, sua
 função, entre outras. As informações da tabela 
 permitem concluir que essa água é: 
  
+\
 A) gasosa.    
 B) insípida.    
 C) levemente azeda. 
@@ -1518,7 +1519,8 @@ D) um pouco alcalina.
 E) radioativa na fonte.   
  
  
-Questão 45 (2010.2) 
+\
+@45 (2010.3) 
 Vários materiais, quando queimados, podem 
 levar à formação de dioxinas, um composto do 
 grupo dos organoclorados. Mesmo quando a 
@@ -1542,14 +1544,11 @@ A molécula do 2,3,7,8-TCDD é popularmente
 conhecida pelo nome „dioxina‟, sendo a mais 
 tóxica dos 75 isômeros de compostos clorados 
 de dibenzo-p-dioxina existentes. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-18 
-novocadernoenem@gmail.com 
 Com base no texto e na estrutura apresentada, as propriedades químicas das dioxinas que permitem 
 sua bioacumulação nos organismos estão relacionadas ao seu caráter: 
  
+\
 A) básico, pois a eliminação de materiais alcalinos é mais lenta do que a dos ácidos. 
 B) ácido, pois a eliminação de materiais ácidos é mais lenta do que a dos alcalinos. 
 C) redutor, pois a eliminação de materiais redutores é mais lenta do que a dos oxidantes. 
@@ -1557,7 +1556,8 @@ D) lipofílico, pois a eliminação de materiais lipossolúveis é mais lenta do
 E) hidrofílico, pois a eliminação de materiais hidrossolúveis é mais lenta do que a dos lipossolúveis. 
  
  
-Questão 46 (2010.2) 
+\
+@46 (2010.3) 
 O Cádmio, presente nas baterias, pode chegar ao solo quando esses materiais são descartados de ma-
 neira irregular no meio ambiente ou quando são incinerados. Diferentemente da forma metálica, os íons 
 Cd2+ são extremamente perigosos para o organismo, pois eles podem substituir íons Ca2+, ocasionando 
@@ -1571,6 +1571,7 @@ Raios atômicos e iônicos de alguns metais.
  
 Com base no texto, a toxicidade do cádmio em sua forma iônica é consequência de esse elemento: 
  
+\
 A) Apresentar baixa energia de ionização, o que favorece a formação do íon e facilita sua ligação a ou-
 tros compostos. 
 B) Possuir tendência de atuar em processos biológicos mediados por cátions metálicos com cargas que 
@@ -1583,20 +1584,18 @@ E) Apresentar carga +2, o que permite que ele cause interferência nos processos
 normalmente, íons com cargas menores participam. 
  
  
-Questão 47 (2010.2) 
+\
+@47 (2010.3) 
 A curcumina, substância encontrada no pó amarelo-alaranjado extraído da raiz da curcuma ou açafrão-
 da-índia (Curcuma longa), aparentemente, pode ajudar a combater vários tipos de câncer, o mal de Par-
 kinson e o de Alzheimer e até mesmo retardar o envelhecimento. Usada há quatro milênios por algumas 
 culturas orientais, apenas nos últimos anos passou a ser investigada pela ciência ocidental. 
  
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-19 
-novocadernoenem@gmail.com 
 Na estrutura da curcumina, identificam-se grupos característicos das funções: 
  
+\
 A) éter e álcool.  
  
  
@@ -1610,7 +1609,8 @@ D) aldeído e enol.
 E) aldeído e éster. 
  
  
-Questão 48 (2010.2) 
+\
+@48 (2010.3) 
 O flúor é usado de forma ampla na prevenção de cáries. Por reagir com a hidroxiapatita 
 [Ca10(PO4)6(OH)2] presente nos esmaltes dos dentes, o flúor forma a fluorapatita [Ca10(PO4)6F2], um mi-
 neral mais resistente ao ataque ácido decorrente da ação de bactérias específicas presentes nos açúca-
@@ -1626,6 +1626,7 @@ Dados: Massas molares em g/mol [Ca10(PO4)6(OH2)] = 1004; HPO4
 Supondo-se que o esmalte dentário seja constituído exclusivamente por hidroxiapatita, o ataque ácido 
 que dissolve completamente 1 mg desse material ocasiona a formação de, aproximadamente, 
  
+\
 A) 0,14 mg de íons totais. 
 B) 0,40 mg de íons totais. 
 C) 0,58 mg de íons totais. 
@@ -1633,7 +1634,8 @@ D) 0,97 mg de íons totais.
 E) 1,01 mg de íons totais. 
  
  
-Questão 49 (2010.2) 
+\
+@49 (2010.3) 
 Devido ao seu teor de sais, a água do mar é 
 imprópria para o consumo humano e para a 
 maioria dos usos da água doce. No entanto, 
@@ -1658,6 +1660,7 @@ mar a 25ºC, por meio da precipitação fraciona-
 da. Se essa amostra contiver somente os sais 
 destacados na tabela, a seguinte ordem de pre-
 cipitação será verificada: 
+\
 A) Carbonato de cálcio, sulfato de cálcio, cloreto 
 de sódio e sulfato de magnésio, cloreto de mag-
 nésio e, por último, brometo de sódio. 
@@ -1675,7 +1678,8 @@ bonato de cálcio, sulfato de cálcio, cloreto de
 magnésio e, por último, brometo de sódio. 
  
  
-Questão 50 (2010.2) 
+\
+@50 (2010.3) 
 Cientistas da Austrália descobriram um meio de 
 produzir roupas que se limpam sozinhas. A 
 equipe de pesquisadores usou nanocristais de 
@@ -1692,11 +1696,7 @@ destruição das paredes celulares de microrga-
 nismos que provocam infecções. O termo nano 
 vem da unidade de medida nanômetro, que é a 
 bilionésima parte de 1 metro. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-20 
-novocadernoenem@gmail.com 
 A partir dos resultados obtidos pelos pesquisa-
 dores em relação ao uso de nanocristais de 
 dióxido de titânio na produção de tecidos e con-
@@ -1705,6 +1705,7 @@ tância no combate às infecções hospitalares,
 pode-se associar que os nanocristais de dióxido 
 de titânio: 
  
+\
 A) são pouco eficientes em ambientes fechados 
 e escuros.    
 B) possuem dimensões menores que as de 
@@ -1717,7 +1718,8 @@ E) interagem fortemente com material orgânico
 devido à sua natureza apolar.   
  
  
-Questão 51 (2010.2) 
+\
+@51 (2010.3) 
 Com a frequente adulteração de combustíveis, 
 além de fiscalização, há necessidade de prover 
 meios para que o consumidor verifique a quali-
@@ -1745,6 +1747,7 @@ ações de temperatura.
  
 De acordo com o texto, a coluna vertical de 
 mercúrio, quando aquecida, 
+\
 A) indica a variação da densidade do combustí-
 vel com a temperatura. 
 B) mostra a diferença de altura da coluna a ser 
@@ -1757,7 +1760,8 @@ E) corrige a altura de referência de acordo com
 a densidade do líquido. 
  
  
-Questão 52 (2011.1) 
+\
+@52 (2011.1) 
 Um dos problemas dos combustíveis que con-
 têm carbono é que sua queima produz dióxido 
 de carbono. Portanto, uma característica impor-
@@ -1777,6 +1781,7 @@ queimado completamente, libera mais dióxido
 de carbono no ambiente pela mesma quantida-
 de de energia produzida? 
  
+\
 A) Benzeno. 
 B) Metano. 
 C) Glicose. 
@@ -1784,7 +1789,8 @@ D) Octano.
 E) Etanol. 
  
  
-Questão 53 (2011.1) 
+\
+@53 (2011.1) 
 Belém é cercada por 39 ilhas, e suas popula-
 ções convivem com ameaças de doenças. O 
 motivo, apontado por especialistas, é a poluição 
@@ -1802,11 +1808,8 @@ O procedimento adequado para tratar a água
 dos rios, a fim de atenuar os problemas de saú-
 de causados por microrganismos a essas popu-
 lações ribeirinhas é a: 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-21 
-novocadernoenem@gmail.com 
+\
 A) filtração. 
 B) cloração. 
 C) coagulação. 
@@ -1814,7 +1817,8 @@ D) fluoretação.
 E) decantação. 
  
  
-Questão 54 (2011.1) 
+\
+@54 (2011.1) 
 Certas ligas estanho-chumbo com composição 
 específica formam um estético simples, o que 
 significa que uma liga com essas características 
@@ -1845,6 +1849,7 @@ Com base no texto e na análise realizada pelo
 técnico, as amostras que atendem às normas 
 internacionais são: 
  
+\
 A) I e II. 
 B) I e III. 
 C) II e IV. 
@@ -1852,7 +1857,8 @@ D) III e V.
 E) IV e V. 
  
  
-Questão 55 (2011.1) 
+\
+@55 (2011.1) 
 No processo de industrialização da mamona, 
 além do óleo que contém vários ácidos graxos, 
 é obtida uma massa orgânica, conhecida como 
@@ -1872,6 +1878,7 @@ A característica presente nas substâncias tóxi-
 cas e alergênicas, que inviabiliza sua solubiliza-
 ção no óleo de mamona, é a: 
  
+\
 A) lipofilia. 
 B) hidrofilia. 
 C) hipocromia. 
@@ -1879,7 +1886,8 @@ D) cromatofilia.
 E) hiperpolarização. 
  
  
-Questão 56 (2011.1) 
+\
+@56 (2011.1) 
 A pele humana, quando está bem hidratada, 
 adquire boa elasticidade e aspecto macio e 
 suave. Em contrapartida, quando está resseca-
@@ -1897,6 +1905,7 @@ interação dos grupos hidroxila dos agentes
 umectantes com a umidade contida no ambiente 
 por meio de: 
  
+\
 A) ligações iônicas. 
 B) forças de London. 
 C) ligações covalentes. 
@@ -1904,7 +1913,8 @@ D) forças dipolo-dipolo.
 E) ligações de hidrogênio. 
  
  
-Questão 57 (2011.1) 
+\
+@57 (2011.1) 
 A cal (óxido de cálcio, CaO), cuja suspensão em 
 água é muito usada como uma tinta de baixo 
 custo, dá uma tonalidade branca aos troncos de 
@@ -1917,13 +1927,10 @@ benéficos para a árvore.
  
 (Disponível em: http://super.abril.com.br.  
 Acesso em: 1 abr. 2010 - adaptado) 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-22 
-novocadernoenem@gmail.com 
 A destruição do microambiente, no tronco de árvores pintadas com cal, é devida ao processo de: 
  
+\
 A) difusão, pois a cal se difunde nos corpos dos seres do microambiente e os intoxica. 
 B) osmose, pois a cal retira água do microambiente, tornando-o inviável ao desenvolvimento de micror-
 ganismos. 
@@ -1935,7 +1942,8 @@ E) vaporização, pois a cal facilita a volatilização da água para a atmosfer
 microambiente. 
  
  
-Questão 58 (2011.1) 
+\
+@58 (2011.1) 
 A eutrofização é um processo em que rios, lagos e mares adquirem níveis altos de nutrientes, especial-
 mente fosfatos e nitratos, provocando posterior acúmulo de matéria orgânica em decomposição. Os nu-
 trientes são assimilados pelos produtores primários e o crescimento desses é controlado pelo nutriente 
@@ -1948,18 +1956,16 @@ A análise da água de um lago que recebe a descarga de águas residuais proveni
 badas revelou as concentrações dos elementos carbono (21,2 mol/L), nitrogênio (1,2 mol/L) e fósforo 
 (0,2 mol/L). Nessas condições, o nutriente limítrofe é o: 
  
+\
 A) C. 
 B) N. 
 C) P. 
 D) CO2. 
 E) PO4
 −3 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-23 
-novocadernoenem@gmail.com 
-Questão 59 (2011.1) 
+\
+@59 (2011.1) 
 Os refrigerantes têm-se tornado cada vez mais o alvo de políticas públicas de saúde.  Os de cola apre-
 sentam ácido-fosfórico, substância prejudicial à fixação de cálcio, o mineral que é o principal componente 
 da matriz dos dentes. A cárie é um processo dinâmico de desequilíbrio do processo de desmineralização 
@@ -1974,6 +1980,7 @@ equação química seguinte representa esse processo:
 Considerando que uma pessoa consuma refrigerantes diariamente, poderá ocorrer um processo de 
 desmineralização dentária, devido ao aumento da concentração de: 
  
+\
 A) OH-, que reage com os íons Ca2+, deslocando o equilíbrio para a direita. 
 B) H+, que reage com as hidroxilas OH-, deslocando o equilíbrio para a direita. 
 C) OH-, que reage com os íons Ca2+, deslocando o equilíbrio para a esquerda. 
@@ -1981,7 +1988,8 @@ D) H+, que reage com as hidroxilas OH-, deslocando o equilíbrio para a esquerda
 E) Ca2+, que reage com as hidroxilas OH-, deslocando o equilíbrio para a esquerda. 
  
  
-Questão 60 (2011.1) 
+\
+@60 (2011.1) 
 A bile é produzida pelo fígado, armazenada na 
 vesícula biliar e tem papel fundamental na di-
 gestão de lipídeos. Os sais biliares são esteroi-
@@ -1999,12 +2007,14 @@ taurina origina a função amida, formada pela
 reação entre o grupo amina desses aminoáci-
 dos e o grupo: 
  
+\
 A) carboxila do ácido cólico. 
 B) aldeído do ácido cólico. 
 C) hidroxila do ácido cólico. 
 D) cetona do ácido cólico. 
 E) éster do ácido cólico. 
-Questão 61 (2011.1) 
+\
+@61 (2011.1) 
 O peróxido de hidrogênio é comumente utilizado 
 como antisséptico e alvejante. Também pode 
 ser empregado em trabalhos de restauração de 
@@ -2022,6 +2032,7 @@ sio necessária para reagir completamente com
 20,0 mL de uma solução 0,1 mol/L de peróxido 
 de hidrogênio é igual a: 
  
+\
 A) 2,0×100 mol. 
 B) 2,0×10−1 mol. 
 C) 8,0×10−1mol. 
@@ -2029,7 +2040,8 @@ D) 8,0×10−4 mol.
 E) 5,0×10−3 mol. 
  
  
-Questão 62 (2011.1) 
+\
+@62 (2011.1) 
 O etanol é considerado um biocombustível pro-
 missor, pois, sob o ponto de vista do balanço de 
 carbono, possui uma taxa de emissão pratica-
@@ -2037,11 +2049,7 @@ mente igual a zero. Entretanto, esse não é o
 único ciclo biogeoquímico associado à produção 
 de etanol. O plantio da cana-de-açúcar, matéria-
 prima para a produção de etanol, envolve a 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-24 
-novocadernoenem@gmail.com 
 adição de macronutrientes como enxofre, nitro-
 gênio, fósforo e potássio, principais elementos 
 envolvidos no crescimento de um vegetal. 
@@ -2053,6 +2061,7 @@ quência da atividade descrita anteriormente, é
 transformado em nitrogênio ativo e afetará o 
 meio ambiente, causando: 
  
+\
 A) o acúmulo de sais insolúveis, desencadean-
 do um processo de salinificação do solo. 
 B) a eliminação de microorganismos existentes 
@@ -2072,7 +2081,8 @@ do tipo NO2, NO3
 −, N2O. 
  
  
-Questão 63 (2011.1) 
+\
+@63 (2011.1) 
  
  
  
@@ -2085,6 +2095,7 @@ tribuição maior que a do setor de transportes. A
 criação de gado em larga escala contribui para 
 o aquecimento global por meio da emissão de: 
  
+\
 A) metano durante o processo de digestão. 
 B) óxido nitroso durante o processo de rumina-
 ção 
@@ -2093,7 +2104,8 @@ carne.
 D) óxido nitroso durante o processo respiratório. 
 E) dióxido de enxofre durante o consumo de 
 pastagens. 
-Questão 64 (2011.2) 
+\
+@64 (2011.3) 
 Considera-se combustível aquele material que, 
 quando em combustão, consegue gerar energia. 
 No caso dos biocombustíveis, suas principais 
@@ -2116,6 +2128,7 @@ melhor rendimento energético em massa é pro-
 veniente: 
  
  
+\
 A) do babaçu. 
 B) da cana-de-açúcar. 
 C) do dendê. 
@@ -2123,7 +2136,8 @@ D) da soja.
 E) da mamona. 
  
  
-Questão 65 (2011.2) 
+\
+@65 (2011.3) 
 Iniciativas do poder público para prevenir o uso 
 de bebidas alcoólicas por motoristas, causa de 
 muitos acidentes nas estradas do país, trouxe-
@@ -2150,11 +2164,7 @@ mões da pessoa testada, é lida numa escala
 que é proporcional ao teor de álcool no sangue. 
 O esquema de funcionamento desse detector 
 de etanol pode ser visto na figura. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-25 
-novocadernoenem@gmail.com 
  
  
 As reações eletroquímicas envolvidas no pro-
@@ -2172,6 +2182,7 @@ caracterizar os materiais, as reações e os pro-
 cessos envolvidos. Nesse contexto, a pilha que 
 compõe o bafômetro apresenta o: 
  
+\
 A) eletrodo A como cátodo. 
 B) fluxo de elétrons do eletrodo B para o eletro-
 do A. 
@@ -2180,7 +2191,8 @@ D) etanol como agente oxidante.
 E) eletrodo B como polo positivo. 
  
  
-Questão 66 (2011.2) 
+\
+@66 (2011.3) 
 A reciclagem exerce impacto considerável sobre 
 a eficiência energética. Embora restaurar mate-
 riais que foram descartados também consuma 
@@ -2208,6 +2220,7 @@ A energia gasta na obtenção do alumínio a par-
 tir do seu material primário é maior do que a do 
 aço, porque o alumínio: 
  
+\
 A) requer 200 vezes mais energia para ser iso-
 lado do seu minério do que o ferro. 
 B) requer praticamente o dobro de energia para 
@@ -2222,7 +2235,8 @@ enquanto o ferro pode apresentar normalmente
 duas valências. 
  
  
-Questão 67 (2011.2) 
+\
+@67 (2011.3) 
 Radioisótopos são frequentemente utilizados 
 em diagnósticos por imagem. Um exemplo é 
 aplicação de iodo-131 para detectar possíveis 
@@ -2246,6 +2260,7 @@ www.qmc.ufsc.br. Acesso em: 28 jul. 2010 - adp)
 No decaimento radioativo do iodo-131, tem-se 
 a: 
  
+\
 A) redução de sua massa a um quarto da mas-
 sa inicial em menos de meia hora. 
 B) produção de uma partícula subatômica com 
@@ -2258,16 +2273,13 @@ E) formação de um elemento químico com dife-
 rente número de massa. 
  
  
-Questão 68 (2011.2) 
+\
+@68 (2011.3) 
 O biodiesel é um biocombustível que pode ser 
 obtido a partir do processo químico em que 
 óleos ou gorduras são transformados em éste-
 res metílicos ou etílicos de ácidos graxos.  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-26 
-novocadernoenem@gmail.com 
  
 Suas principais vantagens de uso relacionam-se principalmente ao fato de serem oriundos de fontes 
 renováveis e produzirem muito menos poluição do que os derivados de combustíveis fósseis. A figura 
@@ -2279,17 +2291,15 @@ De acordo com o descrito, a etapa que representa efetivamente a formação das m
 combustíveis que compõem o biodiesel está representada na figura pelo número: 
  
  
+\
 A) 2. 
 B) 5. 
 C) 4. 
 D) 3. 
 E) 1. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-27 
-novocadernoenem@gmail.com 
-Questão 69 (2011.2) 
+\
+@69 (2011.3) 
 A matéria-prima básica para a fabricação de calçados plásticos é a resina de PVC. A seguir é apresen-
 tado o fluxograma de fabricação do PVC e sua fórmula química. 
  
@@ -2299,6 +2309,7 @@ Siglas: PVC - policloreto de vinila; EDC - dicloro etano; MVC - monocloreto de v
  
 Para a produção do PVC, a obtenção do cloro é proveniente do processo de: 
  
+\
 A) filtração a vácuo. 
 B) fusão ígnea. 
 C) eletrólise. 
@@ -2306,7 +2317,8 @@ D) precipitação fracionada.
 E) destilação. 
  
  
-Questão 70 (2011.2) 
+\
+@70 (2011.3) 
 Três amostras de minérios de ferro de regiões distintas foram analisadas e os resultados, com valores 
 aproximados, estão na tabela: 
  
@@ -2325,17 +2337,15 @@ Os minérios que apresentam, respectivamente, a maior pureza e o menor consumo d
 lada de ferro produzido são os das regiões: 
  
  
+\
 A) A com 90% e B com 200 kg. 
 B) B com 80% e A com 161 kg. 
 C) C com 85% e B com 107 kg. 
 D) A com 75% e C com 143 kg. 
 E) B com 95% e A com 161 kg. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-28 
-novocadernoenem@gmail.com 
-Questão 71 (2011.2) 
+\
+@71 (2011.3) 
 A explosão de uma plataforma de petróleo em 
 frente à costa americana e o vazamento de 
 cerca de mil barris de petróleo por dia no mar 
@@ -2358,6 +2368,7 @@ mando uma nuvem negra denominada fuligem,
 que é proveniente da combustão: 
  
  
+\
 A) incompleta de compostos sulfurados. 
 B) completa de hidrocarbonetos. 
 C) completa de compostos nitrogenados. 
@@ -2365,7 +2376,8 @@ D) incompleta de hidrocarbonetos.
 E) completa de compostos sulfurados. 
  
  
-Questão 72 (2011.2) 
+\
+@72 (2011.3) 
 As chamadas estruturas metal-orgânicas são 
 cristais metálicos porosos e estáveis, capazes 
 de absorver e comprimir gases em espaços 
@@ -2383,6 +2395,7 @@ A maior eficiência destes materiais em absorver
 gás carbônico é consequência: 
  
  
+\
 A) da grande superfície de contato entre os 
 cristais porosos e o gás carbônico. 
 B) da alta densidade apresentada pelos materi-
@@ -2394,7 +2407,8 @@ E) da capacidade de comprimir os gases ocu-
 pando grandes áreas. 
  
  
-Questão 73 (2011.2) 
+\
+@73 (2011.3) 
 A produção mundial de alimentos poderia se 
 reduzir a 40% da atual sem a aplicação de con-
 trole sobre as pragas agrícolas. Por outro lado, 
@@ -2412,6 +2426,7 @@ Identifique as funções orgânicas presentes si-
 multaneamente nas estruturas dos dois biopes-
 ticidas apresentados: 
  
+\
 A) Éter e éster. 
 B) Cetona e éster. 
 C) Álcool e cetona. 
@@ -2419,7 +2434,8 @@ D) Aldeído e cetona.
 E) Éter e ácido carboxílico. 
  
  
-Questão 74 (2012.1) 
+\
+@74 (2012.1) 
 O rótulo de um desodorante aerossol informa ao 
 consumidor que o produto possui em sua com-
 posição os gases isobutano, butano e propano, 
@@ -2442,11 +2458,8 @@ prejudicial à vida.
  
 A finalidade da utilização dos gases isobutano, 
 butano e propano neste aerossol é: 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-29 
-novocadernoenem@gmail.com 
+\
 A) substituir o CFC, pois não reagem com o 
 ozônio, servindo como gases propelentes em 
 aerossóis. 
@@ -2469,7 +2482,8 @@ no (CO2), que é inofensivo para a camada de
 ozônio. 
  
  
-Questão 75 (2012.1) 
+\
+@75 (2012.1) 
 A própolis é um produto natural conhecido por 
 suas propriedades anti-inflamatórias e cicatri-
 zantes. Esse material contém mais de 200 com-
@@ -2484,6 +2498,7 @@ O ácido carboxílico e o álcool capazes de pro-
 duzir o éster em apreço por meio da reação de 
 esterificação são, respectivamente, 
  
+\
 A) ácido benzoico e etanol. 
 B) ácido propanoico e hexanol. 
 C) ácido fenilacético e metanol. 
@@ -2491,7 +2506,8 @@ D) ácido propiônico e cicloexanol.
 E) ácido acético e álcool benzílico. 
  
  
-Questão 76 (2012.1) 
+\
+@76 (2012.1) 
 No Japão, um movimento nacional para a pro-
 moção da luta contra o aquecimento global leva 
 o slogan: 1 pessoa, 1 dia, 1 kg de CO2 a me-
@@ -2512,6 +2528,7 @@ com esse gesto, é de:
  
 Dados: CO2 (44 g/mol); C4H10 (58 g/mol) 
  
+\
 A) 0,25 kg. 
 B) 0,33 kg. 
 C) 1,0 kg. 
@@ -2519,7 +2536,8 @@ D) 1,3 kg.
 E) 3,0 kg. 
  
  
-Questão 77 (2012.1) 
+\
+@77 (2012.1) 
 O benzeno é um hidrocarboneto aromático pre-
 sente no petróleo, no carvão e em condensados 
 de gás natural.  
@@ -2545,15 +2563,12 @@ reação apresentada, as estruturas químicas
 encontradas em I, II e III são, respectivamente: 
  
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-30 
-novocadernoenem@gmail.com 
  
  
  
-Questão 78 (2012.1) 
+ 
+\
+@78 (2012.1) 
 Uma dona de casa acidentalmente deixou cair 
 na geladeira a água proveniente do degelo de 
 um peixe, o que deixou um cheiro forte e desa-
@@ -2570,6 +2585,7 @@ pensa em utilizar na limpeza da geladeira.
 Dentre os materiais listados, quais são apropri-
 ados para amenizar esse odor? 
  
+\
 A) Álcool ou sabão. 
 B) Suco de limão ou álcool. 
 C) Suco de limão ou vinagre. 
@@ -2577,7 +2593,8 @@ D) Suco de limão, leite ou sabão.
 E) Sabão ou carbonato de sódio/barrilha. 
  
  
-Questão 79 (2012.1) 
+\
+@79 (2012.1) 
 Em uma planície, ocorreu um acidente ambien-
 tal em decorrência do derramamento de grande  
 quantidade de um hidrocarboneto que se apre-
@@ -2591,6 +2608,7 @@ desse acidente.
 Essa intervenção produz resultados positivos 
 para o ambiente porque: 
  
+\
 A) promove uma reação de substituição no hi-
 drocarboneto, tornando-o menos letal ao ambi-
 ente. 
@@ -2607,7 +2625,8 @@ cação do hidrocarboneto, o que facilita sua reti-
 rada do ambiente. 
  
  
-Questão 80 (2012.1) 
+\
+@80 (2012.1) 
 Os tubos de PVC, material organoclorado sinté-
 tico, são normalmente utilizados como encana-
 mento na construção civil. Ao final da sua vida 
@@ -2623,6 +2642,7 @@ Entre as alternativas possíveis para o tratamen-
 to, é apropriado canalizar e borbulhar os gases 
 provenientes da incineração em: 
  
+\
 A) água dura. 
 B) água de cal. 
 C) água salobra. 
@@ -2630,7 +2650,8 @@ D) água destilada.
 E) água desmineralizada. 
  
  
-Questão 81 (2012.1) 
+\
+@81 (2012.1) 
 O armazenamento de certas vitaminas no orga-
 nismo apresenta grande dependência de sua 
 solubilidade.  
@@ -2644,15 +2665,12 @@ sua carência.
 A seguir são apresentadas as estruturas quími-
 cas de cinco vitaminas necessárias ao organis-
 mo. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-31 
-novocadernoenem@gmail.com 
  
  
 Dentre as vitaminas apresentadas na figura, aquela que necessita de maior suplementação diária é: 
  
+\
 A) I. 
 B) II. 
 C) III. 
@@ -2660,7 +2678,8 @@ D) IV.
 E) V. 
  
  
-Questão 82 (2012.1) 
+\
+@82 (2012.1) 
 O boato de que os lacres das latas de alumínio 
 teriam um alto valor comercial levou muitas 
 pessoas a juntarem esse material na expectati-
@@ -2685,6 +2704,7 @@ proteger o alumínio da oxidação nos fornos e
 não deixar diminuir o rendimento da sua recicla-
 gem?  
  
+\
 A) Somente o lítio, pois ele possui o menor po-
 tencial de redução. 
 B) Somente o cobre, pois ele possui o maior 
@@ -2698,7 +2718,8 @@ tenciais de redução são menores do que o do
 alumínio. 
  
  
-Questão 83 (2012.1) 
+\
+@83 (2012.1) 
 A falta de conhecimento em relação ao que vem 
 a ser um material radioativo e quais os efeitos, 
 consequências e usos da irradiação pode gerar 
@@ -2707,14 +2728,11 @@ como a apresentada no exemplo a seguir. “Uma
 companhia aérea negou-se a transportar mate-
 rial médico por este portar um certificado de 
 esterilização por irradiação.”  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-32 
-novocadernoenem@gmail.com 
 A decisão tomada pela companhia é equivoca-
 da, pois: 
  
+\
 A) o material é incapaz de acumular radiação, 
 não se tornando radioativo por ter sido irradiado. 
 B) a utilização de uma embalagem é suficiente 
@@ -2730,7 +2748,8 @@ suficiente para que o material não emita mais
 radiação. 
  
  
-Questão 84 (2012.1) 
+\
+@84 (2012.1) 
 Quando colocados em água, os fosfolipídeos 
 tendem a formar lipossomos, estruturas forma-
 das por uma bicamada lipídica, conforme mos-
@@ -2742,6 +2761,7 @@ tende a se reorganizar em um novo lipossomo.
 Esse arranjo característico se deve ao fato de 
 os fosfolipídios apresentarem uma natureza: 
  
+\
 A) polar, ou seja, serem inteiramente solúveis 
 em água. 
 B) apolar, ou seja, não serem solúveis em solu-
@@ -2754,7 +2774,8 @@ E) anfifílica, ou seja, possuírem uma parte hidro-
 fílica e outra hidrofóbica. 
  
  
-Questão 85 (2012.1) 
+\
+@85 (2012.1) 
 Osmose é um processo espontâneo que ocorre 
 em todos os organismos vivos e é essencial à 
 manutenção da vida. Uma solução 0,15 mol/L 
@@ -2765,6 +2786,7 @@ A imersão de uma célula humana em uma solu-
 ção 0,20 mol/L de NaCℓ tem, como consequên-
 cia, a: 
  
+\
 A) absorção de íons Na+ sobre a superfície da 
 célula. 
 B) difusão rápida de íons Na+ para o interior da 
@@ -2777,7 +2799,8 @@ E) transferência de moléculas de água do interi-
 or da célula para a solução. 
  
  
-Questão 86 (2012.1) 
+\
+@86 (2012.1) 
 Aspartame é um edulcorante artificial (adoçante 
 dietético) que apresenta potencial adoçante 200 
 vezes maior que o açúcar comum, permitindo 
@@ -2798,6 +2821,7 @@ ral pode ingerir por dia é mais próxima de:
   
 (Dado: massa molar do aspartame = 294 g/mol) 
  
+\
 A) 1,3 × 10−4 
 B) 9,5 × 10−3 
 C) 4 × 10−2 
@@ -2805,7 +2829,8 @@ D) 2,6
 E) 823 
  
  
-Questão 87 (2012.2) 
+\
+@87 (2012.3) 
 O senso comum nos diz que os polímeros orgâ-
 nicos (plásticos) em geral são isolantes elétri-
 cos. Entretanto, os polímeros condutores são 
@@ -2822,18 +2847,15 @@ do material.
 (FRANCISCO, R. H. P. Polímeros condutores. Revis-
 ta Eletrônica de Ciências, n. 4, fev. 2002. Disponível 
 em: www.cdcc.usp.br. Acesso em: 29 fev. 2012) 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-33 
-novocadernoenem@gmail.com 
 De acordo com o texto, qual dos polímeros se-
 guintes seria condutor de eletricidade? 
  
  
  
  
-Questão 88 (2012.2) 
+\
+@88 (2012.3) 
 O quadro apresenta o teor de cafeína em dife-
 rentes bebidas comumente consumidas pela 
 população. 
@@ -2844,6 +2866,7 @@ Da análise do quadro conclui-se que o menor
 teor de cafeína por unidade de volume está 
 presente no: 
  
+\
 A) café expresso. 
 B) chá preto. 
 C) chocolate quente. 
@@ -2851,7 +2874,8 @@ D) café filtrado.
 E) refrigerante de cola. 
  
  
-Questão 89 (2012.2) 
+\
+@89 (2012.3) 
 O polímero PET (tereftalato de polietileno), ma-
 terial presente em diversas embalagens descar-
 táveis, pode levar centenas de anos para ser 
@@ -2880,6 +2904,7 @@ Dados: Constante dos gases R = 0,082 L atm/mol K;
 Massa molar do monômero do PET = 192 g/mol; 
 Equação de estado dos gases ideais: PV = nRT 
  
+\
 A) 40 e 60 litros. 
 B) 0 e 20 litros. 
 C) 80 e 100 litros. 
@@ -2887,7 +2912,8 @@ D) 60 e 80 litros.
 E) 20 e 40 litros. 
  
  
-Questão 90 (2012.2) 
+\
+@90 (2012.3) 
 Com o aumento da demanda por alimentos e a 
 abertura de novas fronteiras agrícolas no Brasil, 
 faz-se cada vez mais necessária a correção da 
@@ -2910,17 +2936,15 @@ O engenheiro, após verificar as propriedades
 desses sais, indicou ao fazendeiro o: 
  
  
+\
 A) CaCO3 
 B) NH4Cℓ 
 C) KCℓ 
 D) Na2SO4 
 E) Ba(NO3)2 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-34 
-novocadernoenem@gmail.com 
-Questão 91 (2012.2) 
+\
+@91 (2012.3) 
 Um aquecedor solar consiste essencialmente em uma serpentina de metal, a ser exposta ao sol, por 
 meio da qual flui água a ser aquecida. A parte inferior da serpentina é soldada a uma chapa metálica, 
 que é o coletor solar. A forma da serpentina tem a finalidade de aumentar a área de contato com o cole-
@@ -2936,6 +2960,7 @@ res:
 Os aquecedores solares mais eficientes e, portanto, mais atrativos do ponto de vista econômico, devem 
 ser construídos utilizando como material metálico e material seletivo quente, respectivamente, 
  
+\
 A) cobre e material seletivo quente A. 
 B) zinco e material seletivo quente B. 
 C) aço e material seletivo quente B. 
@@ -2943,7 +2968,8 @@ D) aço e material seletivo quente A.
 E) cobre e material seletivo quente C. 
  
  
-Questão 92 (2012.2) 
+\
+@92 (2012.3) 
 A fosfatidilserina é um fosfolipídio aniônico cuja interação com cálcio livre regula processos de transdu-
 ção celular e vem sendo estudada no desenvolvimento de biossensores nanométricos. A figura repre-
 senta a estrutura da fosfatidilserina: 
@@ -2956,6 +2982,7 @@ tipo:
 Dado: número atômico do elemento cálcio: 20 
  
  
+\
 A) iônica somente com o grupo aniônico fosfato, já que o cálcio livre é um cátion monovalente. 
 B) iônica com os grupos aniônicos fosfato e carboxila, porque o cálcio em sua forma livre é um cátion 
 divalente. 
@@ -2964,12 +2991,9 @@ D) covalente com qualquer dos grupos não carregados da fosfatidilserina, uma ve
 doar elétrons ao cálcio livre para formar a ligação. 
 E) covalente com qualquer grupo catiônico da fosfatidilserina, visto que o cálcio na sua forma livre pode-
 rá compartilhar seus elétrons com tais grupos. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-35 
-novocadernoenem@gmail.com 
-Questão 93 (2012.2) 
+\
+@93 (2012.3) 
 Um dos métodos de produção de biodiesel envolve a transesterificação do óleo de soja utilizando meta-
 nol em meio básico (NaOH ou KOH), que precisa ser realizada na ausência de água. A figura mostra o 
 esquema reacional da produção de biodiesel, em que R representa as diferentes cadeias hidrocarbôni-
@@ -2979,6 +3003,7 @@ cas dos ésteres de ácidos graxos.
  
 A ausência de água no meio reacional se faz necessária para: 
  
+\
 A) evitar a diminuição da temperatura da mistura reacional. 
 B) manter o meio reacional no estado sólido. 
 C) manter a elevada concentração do meio reacional. 
@@ -2986,7 +3011,8 @@ D) manter constante o volume de óleo no meio reacional.
 E) evitar a hidrólise dos ésteres no meio reacional e a formação de sabão. 
  
  
-Questão 94 (2012.2) 
+\
+@94 (2012.3) 
 Pesquisadores conseguiram produzir grafita 
 magnética por um processo inédito em forno 
 com atmosfera controlada e em temperaturas 
@@ -3004,6 +3030,7 @@ massa de CO2 igual a:
 Dados: Massa molar em g/mol: C = 12; O = 16; 
 Cu = 64 
  
+\
 A) 3,7 g. 
 B) 4,4 g. 
 C) 5,5 g. 
@@ -3011,7 +3038,8 @@ D) 2,2 g.
 E) 2,8 g. 
  
  
-Questão 95 (2012.2) 
+\
+@95 (2012.3) 
 A grafita é uma variedade alotrópica do carbo-
 no. Trata-se de um sólido preto, macio e escor-
 regadio, que apresenta brilho característico e 
@@ -3019,6 +3047,7 @@ boa condutibilidade elétrica. Considerando es-
 sas propriedades, a grafita tem potencial de 
 aplicabilidade em: 
  
+\
 A) Ferramentas para riscar ou cortar materiais, 
 nanoestruturas capazes de transportar drogas 
 com efeito radioterápico e cátodos de baterias 
@@ -3035,7 +3064,8 @@ E) Lubrificantes, condutores de eletricidade e
 cátodos de baterias alcalinas. 
  
  
-Questão 96 (2012.2) 
+\
+@96 (2012.3) 
 Para preparar uma massa básica de pão, deve-
 se misturar apenas farinha, água, sal e fermen-
 to. Parte do trabalho deixa-se para o fungo pre-
@@ -3051,6 +3081,7 @@ Esse período de espera é importante para que a
 massa cresça, pois é quando ocorre a: 
  
  
+\
 A) liberação de energia pelos fungos. 
 B) formação de dióxido de carbono. 
 C) evaporação do álcool formado na decompo-
@@ -3060,18 +3091,15 @@ E) transformação da água líquida em vapor
 d’água. 
  
  
-Questão 97 (2012.2) 
+\
+@97 (2012.3) 
 Motores a combustão interna apresentam me-
 lhor rendimento quando podem ser adotadas 
 taxas de compressão mais altas nas suas câ-
 maras de combustão, sem que o combustível 
 sofra ignição espontânea. Combustíveis com 
 maiores índices de resistência à compressão, 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-36 
-novocadernoenem@gmail.com 
 ou seja, maior octanagem, estão associados a 
 compostos com cadeias carbônicas menores, 
 com maior número de ramificações e com rami-
@@ -3083,6 +3111,7 @@ tente à compressão.
 Com base nas informações do texto, qual dentre 
 os isômeros seguintes seria esse composto? 
  
+\
 A) 2,5-dimetil-hexano. 
 B) 2,4-dimetil-hexano. 
 C) n-octano. 
@@ -3090,7 +3119,8 @@ D) 2,2,4-trimetilpentano.
 E) 2-metil-heptano. 
  
  
-Questão 98 (2012.2) 
+\
+@98 (2012.3) 
 Ácido muriático (ou ácido clorídrico comercial) é 
 bastante utilizado na limpeza pesada de pisos 
 para remoção de resíduos de cimento, por 
@@ -3105,6 +3135,7 @@ A fórmula do gás citado no texto e um teste que
 pode ser realizado para confirmar sua presença 
 são, respectivamente: 
  
+\
 A) H2 e borbulhá-lo em solução de NaOH. 
 B) CO2 e borbulhá-lo em solução de KCℓ. 
 C) CO2 e borbulhá-lo em solução Ba(OH)2. 
@@ -3112,7 +3143,8 @@ D) CO2 e borbulhá-lo em solução de HNO3.
 E) H2 e borbulhá-lo em solução de H2SO4. 
  
  
-Questão 99 (2013.1) 
+\
+@99 (2013.1) 
 O brasileiro consome em média 500 miligramas 
 de cálcio por dia, quando a quantidade reco-
 mendada é o dobro. Uma alimentação balance-
@@ -3129,12 +3161,14 @@ ma diária de átomos de cálcio a ser ingerida
 para que uma pessoa supra suas necessida-
 des? 
  
+\
 A) 7,5 x 1021 
 B) 1,5 x 1022 
 C) 7,5 x 1023 
 D) 1,5 x 1025 
 E) 4,8 x 1025 
-Questão 100 (2013.1) 
+\
+@100 (2013.1) 
 Glicose marcada com nuclídeos de carbono-11 
 é utilizada na medicina para se obter imagens 
 tridimensionais do cérebro, por meio de tomo-
@@ -3154,6 +3188,7 @@ g do carbono-11, a massa, em miligramas, do
 nuclídeo restante, apos a aquisição da imagem, 
 é mais próxima de: 
  
+\
 A) 0,200.  
 B) 0,969. 
 C) 9,80. 
@@ -3161,7 +3196,8 @@ D) 31,3.
 E) 200. 
  
  
-Questão 101 (2013.1) 
+\
+@101 (2013.1) 
 O uso de embalagens plásticas descartáveis 
 vem crescendo em todo o mundo, juntamente 
 com o problema ambiental gerado por seu des-
@@ -3183,17 +3219,15 @@ Com base nas informações do texto, uma alter-
 nativa para a obtenção de etilenoglicol a partir 
 do PET é a: 
  
+\
 A) solubilização dos objetos. 
 B) combustão dos objetos. 
 C) trituração dos objetos. 
 D) hidrólise dos objetos. 
 E) fusão dos objetos. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-37 
-novocadernoenem@gmail.com 
-Questão 102 (2013.1) 
+\
+@102 (2013.1) 
 O citral, substância de odor fortemente cítrico, é obtido a partir de algumas plantas como o capim-limão, 
 cujo óleo essencial possui aproximadamente 80%, em massa, da substância.  
  
@@ -3209,7 +3243,8 @@ deve estar presente em alta concentração no produto a ser utilizado é:
  
  
  
-Questão 103 (2013.1) 
+\
+@103 (2013.1) 
 Uma das etapas do tratamento da água é a desinfecção, sendo a cloração o método mais empregado. 
 Esse método consiste na dissolução do gás cloro numa solução sob pressão e sua aplicação na água a 
 ser desinfectada. As equações das reações químicas envolvidas são: 
@@ -3221,6 +3256,7 @@ de 80 vezes superior ao ânion hipoclorito. O pH do meio é importante, porque i
 com que o ácido hipocloroso se ioniza. Para que a desinfecção seja mais efetiva, o pH da água a ser 
 tratada deve estar mais próximo de: 
  
+\
 A) 0. 
 B) 5. 
 C) 7. 
@@ -3228,20 +3264,18 @@ D) 9.
 E) 14. 
  
  
-Questão 104 (2013.1) 
+\
+@104 (2013.1) 
 Plantas terrestres que ainda estão em fase de crescimento fixam grandes quantidades de CO2, utilizan-
 do-o para formar novas moléculas orgânicas, e liberam grande quantidade de O2. No entanto, em flores-
 tas maduras, cujas árvores já atingiram o equilíbrio, o consumo de O pela respiração tende a igualar sua 
 produção pela fotossíntese. A morte natural de árvores nessas florestas afeta temporariamente a con-
 centração de O2 e de CO2 próximo à superfície do solo onde elas caíram. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-38 
-novocadernoenem@gmail.com 
 A concentração de O2 próximo ao solo, no local 
 da queda, será: 
  
+\
 A) menor, pois haverá consumo de O2 durante a 
 decomposição dessas árvores. 
 B) maior, pois haverá economia de O2 pela au-
@@ -3254,7 +3288,8 @@ E) menor, pois haverá redução de O2 pela falta
 da fotossíntese realizada pelas árvores mortas. 
  
  
-Questão 105 (2013.1) 
+\
+@105 (2013.1) 
 O glifosato (C3H8NO5P) é um herbicida perten-
 cente ao grupo químico das glicinas, classifica-
 do como não seletivo. Esse composto possui os 
@@ -3263,7 +3298,8 @@ to. A degradação do glifosato no solo é muito
 rápida e realizada por grande variedade de mi-
 crorganismos, que usam o produto como fonte 
 de energia e fósforo. Os produtos da degrada-
-ção são o ácido aminometilfosfônico (AMPA) e o 
+ção são o ácido aminometilfosfônico (AMP\
+A) e o 
 N-metilglicina (sarcosina): 
  
  
@@ -3276,7 +3312,8 @@ senta o glifosato é:
  
  
  
-Questão 106 (2013.1) 
+\
+@106 (2013.1) 
 A formação frequente de grandes volumes de 
 pirita (FeS2) em uma variedade de depósitos 
 minerais favorece a formação de soluções áci-
@@ -3296,6 +3333,7 @@ Para corrigir os problemas ambientais causados
 por essa drenagem, a substância mais reco-
 mendada a ser adicionada ao meio é o: 
  
+\
 A) sulfeto de sódio. 
 B) cloreto de amônio 
 C) dióxido de enxofre. 
@@ -3303,7 +3341,8 @@ D) dióxido de carbono.
 E) carbonato de cálcio. 
  
  
-Questão 107 (2013.1) 
+\
+@107 (2013.1) 
 A varfarina é um fármaco que diminui a agrega-
 ção plaquetária, e por isso é utilizada como 
 anticoagulante, desde que esteja presente no 
@@ -3323,17 +3362,14 @@ sa, com concentração de 3,0 mg/mL. Um indiví-
 duo adulto, com volume sanguíneo total de 5,0 
 L, será submetido a um tratamento com solução 
 injetável desse medicamento. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-39 
-novocadernoenem@gmail.com 
 Qual é o máximo volume da solução do medi-
 camento que pode ser administrado a esse indi-
 víduo, pela via intravenosa, de maneira que não 
 ocorram hemorragias causadas pelo anticoagu-
 lante? 
  
+\
 A) 1,0 mL. 
 B) 1,7 mL. 
 C) 2,7 mL. 
@@ -3341,7 +3377,8 @@ D) 4,0 mL.
 E) 6,7 mL. 
  
  
-Questão 108 (2013.1) 
+\
+@108 (2013.1) 
 Eu também podia decompor a água, se fosse 
 salgada ou acidulada, usando a pilha de Daniell 
 como fonte de força. Lembro o prazer extraordi-
@@ -3362,6 +3399,7 @@ a separação dos elementos que compõem a
 água. O princípio do método apresentado é 
 utilizado industrialmente na: 
  
+\
 A) obtenção de ouro a partir de pepitas. 
 B) obtenção de calcário a partir de rochas. 
 C) obtenção de alumínio a partir de bauxita. 
@@ -3370,7 +3408,8 @@ E) obtenção de amônia a partir de hidrogênio e
 nitrogênio. 
  
  
-Questão 109 (2013.1) 
+\
+@109 (2013.1) 
 A produção de aço envolve o aquecimento do 
 minério de ferro, junto com carvão (carbono) e 
 ar atmosférico em uma série de reações de 
@@ -3395,6 +3434,7 @@ Considerando que um forno foi alimentado com
 carbônico formada, em quilogramas, na produ-
 ção de aço doce, é mais próxima de: 
  
+\
 A) 28. 
 B) 75. 
 C) 175. 
@@ -3402,7 +3442,8 @@ D) 275.
 E) 303. 
  
  
-Questão 110 (2013.1) 
+\
+@110 (2013.1) 
 Entre as substâncias usadas para o tratamento 
 de água está o sulfato de alumínio que, em 
 meio alcalino, forma partículas em suspensão 
@@ -3413,6 +3454,7 @@ O método de separação comumente usado para
 retirar o sulfato de alumínio com as impurezas 
 aderidas é a: 
  
+\
 A) flotação. 
 B) levigação. 
 C) ventilação. 
@@ -3420,7 +3462,8 @@ D) peneiração.
 E) centrifugação. 
  
  
-Questão 111 (2013.1) 
+\
+@111 (2013.1) 
 As fraldas descartáveis que contêm o polímero 
 poliacrilato de sódio (1) são mais eficientes na 
 retenção de água que as fraldas de pano con-
@@ -3432,6 +3475,7 @@ vencionais, constituídas de fibras de celulose
 A maior eficiência dessas fraldas descartáveis, 
 em relação às de pano, deve-se às: 
  
+\
 A) interações dipolo-dipolo mais fortes entre o 
 poliacrilato e a água, em relação as ligações de 
 hidrogênio entre a celulose e as moléculas de 
@@ -3444,11 +3488,7 @@ C) ligações de hidrogênio mais fortes entre o
 poliacrilato e a água, em relação às interações 
 íon-dipolo entre a celulose e as moléculas de 
 água. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-40 
-novocadernoenem@gmail.com 
 D) ligações de hidrogênio mais fortes entre o 
 poliacrilato e as moléculas de água, em relação 
 às interações dipolo induzido-dipolo induzido 
@@ -3459,7 +3499,8 @@ ligações de hidrogênio entre a celulose e as
 moléculas de água. 
  
  
-Questão 112 (2013.1) 
+\
+@112 (2013.1) 
 As moléculas de nanoputians lembram figuras 
 humanas e foram criadas para estimular o inte-
 resse de jovens na compreensão da linguagem 
@@ -3472,6 +3513,7 @@ representado na figura:
 Em que parte do corpo do NanoKid existe car-
 bono quaternário? 
  
+\
 A) Mãos. 
 B) Cabeça. 
 C) Tórax. 
@@ -3479,7 +3521,8 @@ D) Abdômen.
 E) Pés. 
  
  
-Questão 113 (2013.2) 
+\
+@113 (2013.3) 
 Após o desmonte da bateria automotiva, é obti-
 da uma pasta residual de 6 kg, em que 19%, em 
 massa, é dióxido de chumbo(IV), 60%, sulfato 
@@ -3508,6 +3551,7 @@ partir de sulfato de chumbo(II) na pasta residual,
 pelo processo hidrometalúrgico, as etapas 1, 2 e 
 3 objetivam, respectivamente, 
  
+\
 A) a lixiviação básica e dessulfuração; a lixivia-
 ção ácida e solubilização; a redução do Pb0 em 
 Pb2+. 
@@ -3525,7 +3569,8 @@ E) a lixiviação básica e dessulfuração; a lixivia-
 Pb0. 
  
  
-Questão 114 (2013.2) 
+\
+@114 (2013.3) 
 Se dermos uma mordida em um pedaço de 
 papel alumínio colocado em cima de uma obtu-
 ração de amálgama (combinação do mercúrio 
@@ -3540,6 +3585,7 @@ O contato dos materiais metálicos citados pro-
 duz: 
  
  
+\
 A) uma solução eletrolítica, cujo fluxo de elé-
 trons é espontâneo. 
 B) um sistema galvânico, cujo fluxo de elétrons 
@@ -3550,18 +3596,16 @@ D) uma eletrólise, cujo fluxo de elétrons não é
 espontâneo. 
 E) uma pilha, cujo fluxo de elétrons é espontâ-
 neo. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-41 
-novocadernoenem@gmail.com 
-Questão 115 (2013.2) 
+\
+@115 (2013.3) 
  
  
  
 A transformação química em questão é representada pela equação: 
  
  
+\
 A) CH3COOH (aq) + NaHCO3 (s) → NaCO2+ (aq) + CH3COO− (aq) + H2O (l) 
 B) CH3COOH (aq) + NaHCO3 (s) → Na+ (aq) + CH3COO− (aq) + CO2 (g) + H2O (l) 
 C) CH3COOH (aq) + NaHCO3 (s) → Na+ (aq) + CH3COO− (aq) + H2 (g) + H2O (l) 
@@ -3569,7 +3613,8 @@ D) CH3COOH (aq) + NaHCO3 (s) → Na+ (aq) + CH3COO− (aq) + O2 (g) + H2O (l)
 E) CH3COOH (aq) + NaHCO3 (s) → Na+ (aq) + CH3COO− (aq) + H2O (l) 
  
  
-Questão 116 (2013.2) 
+\
+@116 (2013.3) 
 A qualidade de óleos de cozinha, compostos principalmente por moléculas de ácidos graxos, pode ser 
 medida pelo índice de iodo. Quanto maior o grau de insaturação da molécula, maior o índice de iodo 
 determinado e melhor a qualidade do óleo. Na figura, são apresentados alguns compostos que podem 
@@ -3580,17 +3625,15 @@ estar presentes em diferentes óleos de cozinha:
 Dentre os compostos apresentados, os dois que proporcionam melhor qualidade para os óleos de cozi-
 nha são os ácidos: 
  
+\
 A) palmítico e linolênico. 
 B) esteárico e oleico. 
 C) palmítico e esteárico. 
 D) linolênico e esteárico. 
 E) linolênico e linoleico. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-42 
-novocadernoenem@gmail.com 
-Questão 117 (2013.2) 
+\
+@117 (2013.3) 
 À medida que se expira sobre uma solução de 
 azul de bromotimol e hidróxido de sódio (Na-
 OH), sua coloração azul característica vai se 
@@ -3610,6 +3653,7 @@ H2CO3 + NaOH → NaHCO3 + H2O
 O que a pessoa irá observar à medida que expi-
 ra no recipiente contendo essa solução? 
  
+\
 A) A solução mudará de azul para verde e, em 
 seguida, de verde para azul. Isso ocorrerá em 
 função da neutralização de um meio inicialmen-
@@ -3639,7 +3683,8 @@ cesso de ácido carbônico no recipiente, o que
 reduzirá bruscamente o pH da solução. 
  
  
-Questão 118 (2013.2) 
+\
+@118 (2013.3) 
 Há processos industriais que envolvem reações 
 químicas na obtenção de diversos produtos ou 
 bens consumidos pelo homem. Determinadas 
@@ -3652,6 +3697,7 @@ Em processos industriais, uma das vantagens
 de se substituírem os catalisadores químicos 
 tradicionais por enzimas decorre do fato de es-
 tas serem: 
+\
 A) consumidas durante o processo. 
 B) inespecíficas para os substratos. 
 C) compostos orgânicos e biodegradáveis. 
@@ -3659,7 +3705,8 @@ D) estáveis em variações de temperatura.
 E) substratos nas reações químicas. 
  
  
-Questão 119 (2013.2) 
+\
+@119 (2013.3) 
 O mármore é um material empregado para re-
 vestimento de pisos e um de seus principais 
 constituintes é o carbonato de cálcio. Na limpe-
@@ -3667,6 +3714,7 @@ za desses pisos com solução ácida, ocorre efer-
 vescência. Nessa efervescência o gás liberado 
 é o: 
  
+\
 A) hidrogênio. 
 B) monóxido de carbono. 
 C) oxigênio. 
@@ -3674,7 +3722,8 @@ D) cloro.
 E) dióxido de carbono. 
  
  
-Questão 120 (2013.2) 
+\
+@120 (2013.3) 
 A hematita (𝛼-Fe2O3), além de ser utilizada para 
 obtenção do aço, também é utilizada como um 
 catalisador de processos químicos, como na 
@@ -3687,6 +3736,7 @@ Paulo, v. 32, n. 3, ago. 2010 - adaptado)
 O uso da hematita viabiliza economicamente a 
 produção da amônia, porque: 
  
+\
 A) aumenta o tempo do processamento da rea-
 ção. 
 B) diminui a energia de ativação da reação. 
@@ -3695,7 +3745,8 @@ D) aumenta a quantidade de produtos formados.
 E) diminui a rapidez da reação. 
  
  
-Questão 121 (2013.2) 
+\
+@121 (2013.3) 
 O Instituto Luiz Coimbra (UFRJ) lançou o pri-
 meiro ônibus urbano movido a hidrogênio do 
 Hemisfério Sul, com tecnologia inteiramente 
@@ -3711,15 +3762,12 @@ de combustível responsável pelo movimento do
 do(a): 
  
  
+\
 A) eletricidade gerada pela reação de oxirredu-
 ção do hidrogênio com o oxigênio. 
 B) contração gasosa causada pela reação entre 
 o hidrogênio e o oxigênio. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-43 
-novocadernoenem@gmail.com 
 C) expansão gasosa causada pela produção de 
 água. 
 D) calor liberado pela reação entre o hidrogênio 
@@ -3727,7 +3775,8 @@ e o oxigênio.
 E) calor absorvido na produção de água. 
  
  
-Questão 122 (2013.2) 
+\
+@122 (2013.3) 
 Industrialmente é possível separar os compo-
 nentes do ar, utilizando-se uma coluna de fraci-
 onamento. Com este processo, obtêm-se gases 
@@ -3741,6 +3790,7 @@ A ordem de separação dos gases na coluna de
 fracionamento está baseada em qual proprieda-
 de da matéria? 
  
+\
 A) Na pressão parcial dos gases, ou seja, o gás 
 com menor pressão parcial separa-se primeiro. 
 B) Na densidade dos gases, ou seja, o menos 
@@ -3755,7 +3805,8 @@ o gás que mais rápido absorve calor separa-se
 primeiro. 
  
  
-Questão 123 (2014.1) 
+\
+@123 (2014.1) 
 A 
 liberação 
 dos 
@@ -3773,6 +3824,7 @@ na figura.
 Quimicamente, a destruição do ozônio na at-
 mosfera por gases CFCs é decorrência da: 
  
+\
 A) clivagem da molécula de ozônio pelos CFCs 
 para produzir espécies radicalares. 
 B) produção de oxigênio molecular a partir de 
@@ -3787,7 +3839,8 @@ oxigênio na molécula de ozônio por átomos de
 cloro. 
  
  
-Questão 124 (2014.1) 
+\
+@124 (2014.1) 
 Para impedir a contaminação microbiana do 
 suprimento de água, deve-se eliminar as emis-
 sões de efluentes e, quando necessário, tratá-lo 
@@ -3805,6 +3858,7 @@ Visando eliminar da água o clorofórmio e outras
 moléculas orgânicas, o tratamento adequado é 
 a: 
  
+\
 A) filtração, com o uso de filtros de carvão ativo. 
 B) fluoretação, pela adição de fluoreto de sódio. 
 C) coagulação, pela adição de sulfato de alumí-
@@ -3815,7 +3869,8 @@ E) floculação, em tanques de concreto com a
 água em movimento. 
  
  
-Questão 125 (2014.1) 
+\
+@125 (2014.1) 
 Diesel é uma mistura de hidrocarbonetos que 
 também apresenta enxofre em sua composição. 
 Esse enxofre é um componente indesejável, 
@@ -3835,17 +3890,15 @@ A substituição do diesel usado nos anos 1980
 por aquele difundido em 2012 permitiu uma 
 redução percentual de emissão de SO3 de: 
  
+\
 A) 86,2%.  
 B) 96,2%.  
 C) 97,2%. 
 D) 99,6%.  
 E) 99,9%. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-44 
-novocadernoenem@gmail.com 
-Questão 126 (2014.1) 
+\
+@126 (2014.1) 
 O biodiesel não é classificado como uma substância pura, mas como uma mistura de ésteres derivados 
 dos ácidos graxos presentes em sua matéria-prima. As propriedades do biodiesel variam com a compo-
 sição do óleo vegetal ou gordura animal que lhe deu origem, por exemplo, o teor de ésteres saturados é 
@@ -3856,6 +3909,7 @@ do biocombustível. O quadro ilustra o teor médio de ácidos graxos de algumas 
  
 Qual das fontes oleaginosas apresentadas produziria um biodiesel de maior resistência à oxidação? 
  
+\
 A) Milho.  
 B) Palma. 
 C) Canola.  
@@ -3863,7 +3917,8 @@ D) Algodão.
 E) Amendoim. 
  
  
-Questão 127 (2014.1) 
+\
+@127 (2014.1) 
 Parte do gás carbônico da atmosfera é absorvida pela água do mar. O esquema representa reações que 
 ocorrem naturalmente, em equilíbrio, no sistema ambiental marinho. O excesso de dióxido de carbono na 
 atmosfera pode afetar os recifes de corais. 
@@ -3872,17 +3927,15 @@ atmosfera pode afetar os recifes de corais.
  
 O resultado desse processo nos corais é o(a): 
  
+\
 A) seu branqueamento, levando à sua morte e extinção. 
 B) excesso de fixação de cálcio, provocando calcificação indesejável. 
 C) menor incorporação de carbono, afetando seu metabolismo energético. 
 D) estímulo da atividade enzimática, evitando a descalcificação dos esqueletos. 
 E) dano à estrutura dos esqueletos calcários, diminuindo o tamanho das populações. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-45 
-novocadernoenem@gmail.com 
-Questão 128 (2014.1) 
+\
+@128 (2014.1) 
 A revelação das chapas de raios X gera uma 
 solução que contém íons prata na forma de 
 Ag(S2O3)2
@@ -3898,6 +3951,7 @@ apresenta semirreações de redução de alguns
 Das espécies apresentadas, a adequada para 
 essa recuperação é: 
  
+\
 A) Cu (s).  
 B) Pt (s).  
 C) Al3+(aq). 
@@ -3905,7 +3959,8 @@ D) Sn (s).
 E) Zn2+(aq). 
  
  
-Questão 129 (2014.1) 
+\
+@129 (2014.1) 
 A aplicação excessiva de fertilizantes nitrogena-
 dos na agricultura pode acarretar alterações no 
 solo e na água pelo acúmulo de compostos 
@@ -3922,12 +3977,14 @@ processo denominado desnitrificação.
  
 O processo citado está representado na etapa: 
  
+\
 A) I. 
 B) II. 
 C) III. 
 D) IV. 
 E) V. 
-Questão 130 (2014.1) 
+\
+@130 (2014.1) 
 O estudo de compostos orgânicos permite aos 
 analistas definir propriedades físicas e químicas 
 responsáveis pelas características de cada 
@@ -3938,6 +3995,7 @@ insaturada, heterogênea e ramificada.
 A fórmula que se enquadra nas características 
 da molécula investigada é: 
  
+\
 A) CH3 —(CH)2 —CH(OH)—CO—NH—CH3. 
 B) CH3 —(CH)2 —CH(CH3)—CO—NH—CH3. 
 C) CH3 —(CH)2—CH(CH3)—CO—NH2. 
@@ -3945,7 +4003,8 @@ D) CH3 —CH2 —CH(CH3)–CO—NH—CH3.
 E) C6H5 —CH2 —CO—NH—CH3. 
  
  
-Questão 131 (2014.1) 
+\
+@131 (2014.1) 
 Visando minimizar impactos ambientais, a legis-
 lação Abrasileira determina que resíduos quími-
 cos lançados diretamente no corpo receptor 
@@ -3961,6 +4020,7 @@ Para que o resíduo possa ser lançado direta-
 mente no corpo receptor, qual substância pode-
 ria ser empregada no ajuste do pH? 
  
+\
 A) CH3COOH  
 B) Na2SO4 
 C) CH3OH  
@@ -3968,7 +4028,8 @@ D) K2CO3
 E) NH4Cl 
  
  
-Questão 132 (2014.1) 
+\
+@132 (2014.1) 
 A capacidade de limpeza e a eficiência de um 
 sabão dependem de sua propriedade de formar 
 micelas estáveis, que arrastam com facilidade 
@@ -3985,17 +4046,15 @@ e sociedade. São Paulo: Nova Geração, 2005)
 A substância capaz de formar as estruturas 
 mencionadas é: 
  
+\
 A) C18H36. 
 B) C17H33COONa. 
 C) CH3CH2COONa. 
 D) CH3CH2CH2COOH. 
 E) CH3CH2CH2CH2OCH2CH2CH2CH3. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-46 
-novocadernoenem@gmail.com 
-Questão 133 (2014.1) 
+\
+@133 (2014.1) 
 A forma das moléculas, como representadas no papel, nem sempre é planar. Em um determinado fár-
 maco, a molécula contendo um grupo não planar é biologicamente ativa, enquanto moléculas contendo 
 substituintes planares são inativas. 
@@ -4005,7 +4064,8 @@ O grupo responsável pela bioatividade desse fármaco é:
  
  
  
-Questão 134 (2014.1) 
+\
+@134 (2014.1) 
 O principal processo industrial utilizado na produção de fenol é a oxidação do cumeno (isopropilbenze-
 no). A equação mostra que esse processo envolve a formação do hidroperóxido de cumila, que em se-
 guida é decomposto em fenol e acetona, ambos usados na indústria química como precursores de molé-
@@ -4017,6 +4077,7 @@ mercialização individual.
 Considerando as características físico-químicas dos dois insumos formados, o método utilizado para a 
 separação da mistura, em escala industrial, é a: 
  
+\
 A) filtração.  
 B) ventilação. 
 C) decantação.  
@@ -4024,7 +4085,8 @@ D) evaporação.
 E) destilação fracionada. 
  
  
-Questão 135 (2014.1) 
+\
+@135 (2014.1) 
 A utilização de processos de biorremediação de 
 resíduos gerados pela combustão incompleta de 
 compostos orgânicos tem se tornado crescente, 
@@ -4036,16 +4098,13 @@ subterrânea. A quantificação desse resíduo foi
 realizada em diferentes ambientes, utilizando-se 
 amostras de 500 g de solo e 100 mL de água, 
 conforme apresentado no quadro. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-47 
-novocadernoenem@gmail.com 
  
  
 O ambiente que necessita de biorremediação é 
 o(a): 
  
+\
 A) solo I.  
 B) solo II. 
 C) água I.  
@@ -4053,7 +4112,8 @@ D) água II.
 E) água III. 
  
  
-Questão 136 (2014.1) 
+\
+@136 (2014.1) 
 Grande quantidade dos maus odores do nosso 
 dia a dia está relacionada a compostos alcali-
 nos. Assim, em vários desses casos, pode-se 
@@ -4072,6 +4132,7 @@ cheiro. Quimica Nova na Escola. v. 33. n. 1. fev. 11)
 A eficiência do uso do vinagre nesse caso se 
 explica pela: 
  
+\
 A) sobreposição de odor, propiciada pelo cheiro 
 característico do vinagre. 
 B) solubilidade da piridina, de caráter ácido, na 
@@ -4085,7 +4146,8 @@ e a piridina, que resulta em compostos sem mau
 odor. 
  
  
-Questão 137 (2014.1) 
+\
+@137 (2014.1) 
 Grandes fontes de emissão do gás dióxido de 
 enxofre são as indústrias de extração de cobre 
 e níquel, em decorrência da oxidação dos miné-
@@ -4120,6 +4182,7 @@ Considerando um rendimento de 90% no pro-
 cesso, a massa de gesso obtida, em gramas, 
 por mol de gás retido é mais próxima de: 
  
+\
 A) 64.  
 B) 108.  
 C) 122.  
@@ -4127,7 +4190,8 @@ D) 136.
 E) 245. 
  
  
-Questão 138 (2014.2) 
+\
+@138 (2014.3) 
 Partículas beta, ao atravessarem a matéria viva, 
 colidem com uma pequena porcentagem de 
 moléculas e deixam atrás de si um rastro aleato-
@@ -4139,6 +4203,7 @@ sando danos celulares."
 A capacidade de gerar os efeitos descritos dá-
 se porque tal partícula é um: 
  
+\
 A) elétron e, por possuir massa relativa despre-
 zível, tem elevada energia cinética 
 translacional. 
@@ -4155,16 +4220,13 @@ possuir carga positiva, tem alta reatividade quí-
 mica. 
  
  
-Questão 139 (2014.2) 
+\
+@139 (2014.3) 
 Os bafômetros (etilômetros) indicam a quanti-
 dade de álcool, C2H6O (etanol), presente no 
 organismo de uma pessoa através do ar expira-
 do por ela.  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-48 
-novocadernoenem@gmail.com 
 Esses dispositivos utilizam células a combustí-
 vel que funcionam de acordo com as reações 
 químicas representadas: 
@@ -4175,6 +4237,7 @@ Na reação global de funcionamento do bafôme-
 tro, os reagentes e os produtos desse tipo de 
 célula são:  
  
+\
 A) o álcool expirado como reagente; água, elé-
 trons e H+ como produtos.    
 B) o oxigênio do ar e H+ como reagentes; água 
@@ -4187,7 +4250,8 @@ E) o oxigênio do ar e o álcool expirado como
 reagentes; água e C2H4O como produtos. 
  
  
-Questão 140 (2014.2) 
+\
+@140 (2014.3) 
 A água potável precisa ser límpida, ou seja, não 
 deve conter partículas em suspensão, tais como 
 terra ou restos de plantas, comuns nas águas 
@@ -4217,12 +4281,14 @@ de  uma  só  vez,  para  garantir  que  todas  as
 partículas  em suspensão sejam precipitadas, é 
 mais próxima de: 
  
+\
 A) 59g.     
 B) 493g.      
 C) 987g.      
 D) 1480g.      
 E) 2960g. 
-Questão 141 (2014.2) 
+\
+@141 (2014.3) 
 Em um caso de anemia, a quantidade de sulfato 
 de ferro (Il) (FeSO4, massa molar igual a 
 152g/mol) recomendada como suplemento de 
@@ -4241,6 +4307,7 @@ terá a concentração de sulfato de ferro (ll) mais
 próxima da recomendada é a do frasco de nú-
 mero: 
  
+\
 A) 1.         
 B) 2.        
 C) 3.         
@@ -4248,7 +4315,8 @@ D) 4.
 E) 5. 
  
  
-Questão 142 (2014.2) 
+\
+@142 (2014.3) 
 O álcool comercial (solução de etanol) é vendi-
 do na concentração de 96%, em volume. Entre-
 tanto, para que possa ser utilizado como desin-
@@ -4264,6 +4332,7 @@ mesma nos dois lotes, o volume de álcool a
 70%fornecido na troca deve ser mais próximo 
 de: 
  
+\
 A) 1042L.      
 B) 1371L.      
 C) 1428L.      
@@ -4271,16 +4340,13 @@ D) 1632L.
 E) 1700L 
  
  
-Questão 143 (2014.2) 
+\
+@143 (2014.3) 
 Água dura é aquela que contém concentrações 
 relativamente altas de íons Ca2+ e Mg2+ dissolvi-
 dos. Apesar de esses íons não representarem 
 risco para a saúde, eles podem tornar a água 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-49 
-novocadernoenem@gmail.com 
 imprópria para alguns tipos de consumo domés-
 tico ou industrial. Objetivando reduzir a concen-
 tração de íons Ca2+ e Mg2+ de uma amostra de 
@@ -4302,6 +4368,7 @@ O método considerado viável para tratar a água
 dura e aumentar seu potencial de utilização é 
 o(a): 
  
+\
 A) decantação, pois permite que esses íons se 
 depositem no fundo do recipiente.    
 B) filtração, pois assim os íons Ca+2 e Mg+2 são 
@@ -4316,7 +4383,8 @@ precipitar esses íons na forma de compostos
 insolúveis. 
  
  
-Questão 144 (2014.2) 
+\
+@144 (2014.3) 
 Um método para determinação do teor de etanol 
 na gasolina consiste em misturar volumes co-
 nhecidos de água e de gasolina em um frasco 
@@ -4329,6 +4397,7 @@ com a água.  Para explicar o comportamento do
 etanol antes e depois da adição de água, é ne-
 cessário conhecer: 
  
+\
 A) a densidade dos líquidos.    
 B) o tamanho das moléculas.    
 C) o ponto de ebulição dos líquidos.    
@@ -4336,7 +4405,8 @@ D) os átomos presentes nas moléculas.
 E) o tipo de interação entre as moléculas. 
  
  
-Questão 145 (2014.2) 
+\
+@145 (2014.3) 
 No Brasil e no mundo têm surgido movimentos 
 e leis para banir o uso de sacolas plásticas, em 
 supermercados, feitas de polietileno.   
@@ -4357,6 +4427,7 @@ O motivo pelo qual essas sacolas demoram
 muito tempo para se degradarem é que suas 
 moléculas:  
  
+\
 A) apresentam muitas insaturações.    
 B) contêm carbono em sua composição.    
 C) são formadas por elementos de alta massa 
@@ -4367,7 +4438,8 @@ E) têm origem no petróleo, que é uma matéria-
 prima não renovável. 
  
  
-Questão 146 (2014.2) 
+\
+@146 (2014.3) 
 O cobre, muito utilizado em fios da rede elétrica 
 e com considerável valor de mercado, pode ser 
 encontrado na natureza na forma de calcocita, 
@@ -4380,6 +4452,7 @@ A quantidade de matéria de cobre metálico pro-
 duzida a partir de uma tonelada de calcocita 
 com 7,95% (m/m) de pureza é: 
  
+\
 A) 1,0 x 103 mol 
 B) 5,0 x 102 mol 
 C) 1,0 x 100 mol 
@@ -4387,7 +4460,8 @@ D) 5,0 x 10-1 mol
 E) 4,0 x 10-3 mol       
  
  
-Questão 147 (2014.2) 
+\
+@147 (2014.3) 
 O bisfenol-A é um composto que serve de maté-
 ria-prima para a fabricação de polímeros utiliza-
 dos em embalagens plásticas de alimentos, em 
@@ -4404,16 +4478,13 @@ preparado pela condensação da propanona
 (massa molar igual a 58g/mol) com fenol (mas-
 sa molar igual a 94g/mol), em meio ácido, con-
 forme apresentado na equação química. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-50 
-novocadernoenem@gmail.com 
  
  
 Considerando que, ao reagir 580g de propanona com 3760g de fenol, obteve-se 1,14kg de bisfenol-A, de 
 acordo com a reação descrita, o rendimento real do processo foi de:  
  
+\
 A) 0,025%.       
 B) 0,05%.        
 C) 12,5%.        
@@ -4421,7 +4492,8 @@ D) 25%.
 E) 50%. 
  
  
-Questão 148 (2014.2) 
+\
+@148 (2014.3) 
 A tabela lista os valores de pH de algumas bebidas consumidas pela população. 
  
  
@@ -4433,6 +4505,7 @@ zação em meio ácido, de acordo com a equação química:
  
 Das bebidas listadas na tabela, aquela com menor potencial de desmineralização dos dentes é o: 
  
+\
 A) chá. 
 B) café.    
 C) vinho.    
@@ -4440,7 +4513,8 @@ D) refrigerante.
 E) suco de limão. 
  
  
-Questão 149 (2014.2) 
+\
+@149 (2014.3) 
 A formação de estalactites depende da reversibilidade de uma reação química. O carbonato de cálcio 
 (CaCO3) é encontrado em depósitos subterrâneos na forma de pedra calcária. Quando um volume de 
 água rica em CO2 dissolvido infiltra-se no calcário, o minério dissolve-se formando íons Ca+2 e HCO3
@@ -4453,18 +4527,16 @@ promovendo a liberação de CO2 e a deposição de CaCO3, de acordo com a equaç
 Considerando o equilíbrio que ocorre na segunda etapa, a formação de carbonato será favorecida pe-
 lo(a):  
  
+\
 A) diminuição da concentração de Íons OH− no meio.    
 B) aumento da pressão do ar no interior da caverna. 
 C) diminuição da concentração de HCO3
 - no meio.    
 D) aumento da temperatura no interior da caverna.   
 E) aumento da concentração de CO2 dissolvido.  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-51 
-novocadernoenem@gmail.com 
-Questão 150 (2014.2) 
+\
+@150 (2014.3) 
 Em um experimento, foram separados três reci-
 pientes A, B e C, contendo 200mL de líquidos 
 distintos: o recipiente A continha água, com 
@@ -4485,6 +4557,7 @@ uma pedra de gelo, com densidade próxima a
 No experimento apresentado, observou-se que 
 a pedra de gelo: 
  
+\
 A) flutuou em A, flutuou em B e flutuou em C. 
 B) flutuou em A, afundou em B e flutuou em C. 
 C) afundou em A, afundou em B e flutuou em C. 
@@ -4492,7 +4565,8 @@ D) afundou em A, flutuou em B e afundou em C.
 E) flutuou em A, afundou em B e afundou em C. 
  
  
-Questão 151 (2014.2) 
+\
+@151 (2014.3) 
 A escolha de uma determinada substância para 
 ser utilizada como combustível passa pela aná-
 lise da poluição que ela causa ao ambiente e 
@@ -4511,12 +4585,14 @@ gético, a substância mais eficiente para a ob-
 tenção de energia, na combustão de 1kg de 
 combustível, é o: 
  
+\
 A) etano.    
 B) etanol.    
 C) metanol.    
 D) acetileno.    
 E) hidrogênio. 
-Questão 152 (2014.2) 
+\
+@152 (2014.3) 
 Fertilizantes químicos mistos, denominados 
 NPK, são utilizados para aumentar a produtivi-
 dade agrícola, por fornecerem os nutrientes 
@@ -4536,6 +4612,7 @@ adubo, a diminuição do pH do solo deve ser
 atribuída à presença, no adubo, de uma quanti-
 dade significativa de:  
  
+\
 A) ureia.    
 B) fosfato de sódio.    
 C) nitrato de amônio.    
@@ -4543,7 +4620,8 @@ D) nitrato de potássio.
 E) cloreto de potássio.   
  
  
-Questão 153 (2014.3) 
+\
+@153 (2014.2) 
 Alguns materiais poliméricos não podem ser 
 utilizados para a produção de certos tipos de 
 artefatos, seja por limitações das propriedades 
@@ -4560,6 +4638,7 @@ A decomposição controlada de um artefato ge-
 rou a diamina H2N(CH2)6NH2 e o diácido 
 HO2C(CH2)4CO2H. Logo, o artefato era feito de: 
  
+\
 A) poliéster. 
 B) poliamida. 
 C) polietileno. 
@@ -4567,7 +4646,8 @@ D) poliacrilato.
 E) polipropileno. 
  
  
-Questão 154 (2014.3) 
+\
+@154 (2014.2) 
 A elevada acidez dos solos é um dos fatores 
 responsáveis por reduzir sua capacidade de 
 troca de cátions, intensificando a perda de sais 
@@ -4577,11 +4657,7 @@ baixo potencial produtivo. Uma estratégia usada
 no controle dessa acidez a aplicar óxidos capa-
 zes de formar bases pouco solúveis em meio 
 aquoso.  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-52 
-novocadernoenem@gmail.com 
 Inicialmente, para uma determinada aplicação, 
 são apresentados os seguintes Óxidos: NO, 
 CO2, SO2, CaO e Na20.  
@@ -4589,6 +4665,7 @@ CO2, SO2, CaO e Na20.
 Para essa aplicação, o óxido adequado para 
 minimizar o efeito de arraste é o: 
  
+\
 A) NO. 
 B) CO2. 
 C) SO2. 
@@ -4596,7 +4673,8 @@ D) CaO.
 E) Na20. 
  
  
-Questão 155 (2014.3) 
+\
+@155 (2014.2) 
 O entendimento de como as ligações químicas 
 se formam a um dos assuntos fundamentais da 
 ciência. A partir desses fundamentos, pode-se 
@@ -4617,6 +4695,7 @@ mar ligações.
 A estrutura que representa uma molécula com o 
 octeto expandido (exceção à regra do octeto) é: 
  
+\
 A) BF3. 
 B) NH3. 
 C) PCI5. 
@@ -4625,7 +4704,8 @@ E) All3.
  
  
  
-Questão 156 (2014.3) 
+\
+@156 (2014.2) 
  
  
  
@@ -4635,6 +4715,7 @@ res que a compõem. No quadro, estão relacionadas algumas propriedades de cinco
  
 Qual substância apresenta propriedades que caracterizam o cloreto de sódio (NaCI)? 
  
+\
 A) I 
 B) II 
 C) III 
@@ -4642,7 +4723,8 @@ D) IV
 E) V 
  
  
-Questão 157 (2014.3) 
+\
+@157 (2014.2) 
 Nos tempos atuais, grandes esforços são reali-
 zados para minimizar a dependência dos com-
 bustíveis derivados de fontes fosseis, buscando 
@@ -4659,17 +4741,15 @@ Sacarose → C6H12O6 → X + CO2
 Com base na equação, o referido combustível 
 renovável é o: 
  
+\
 A) etanol. 
 B) butano. 
 C) propano. 
 D) biodiesel. 
 E) gás natural. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-53 
-novocadernoenem@gmail.com 
-Questão 158 (2014.3) 
+\
+@158 (2014.2) 
 A baunilha a uma espécie de orquídea. A partir 
 de sua flor, a produzida a vanilina (conforme 
 representação química), que dá origem ao aro-
@@ -4680,6 +4760,7 @@ ma de baunilha.
 Na vanilina estão presentes as funções orgâni-
 cas: 
  
+\
 A) aldeído, éter e fenol. 
 B) álcool, aldeído e éter. 
 C) álcool, cetona e fenol. 
@@ -4687,7 +4768,8 @@ D) aldeído, cetona e fenol.
 E) acido carboxílico, aldeído e éter. 
  
  
-Questão 159 (2014.3) 
+\
+@159 (2014.2) 
 O cianeto de sódio, NaCN, e um poderoso 
 agente complexante, usado em laboratórios 
 químicos e em indústria de extração de ouro. 
@@ -4700,6 +4782,7 @@ químico:
 Esse equilíbrio químico é decorrente de uma 
 reação de: 
  
+\
 A) síntese. 
 B) hidrolise. 
 C) oxirredução. 
@@ -4707,7 +4790,8 @@ D) precipitação.
 E) decomposição. 
  
  
-Questão 160 (2014.3) 
+\
+@160 (2014.2) 
 Uma forma de poluição natural da água aconte-
 ce 
 em 
@@ -4733,6 +4817,7 @@ Ca(HCO3)2 e MgCO3.
 Uma técnica apropriada para obtenção da água 
 pura após o abrandamento: 
  
+\
 A) decantação. 
 B) sublimação. 
 C) dissolução fracionada. 
@@ -4740,7 +4825,8 @@ D) destilação fracionada.
 E) extração por solvente apolar. 
  
  
-Questão 161 (2014.3) 
+\
+@161 (2014.2) 
 As antocianinas (componente natural de frutas 
 roxas, como uva e açaí) são moléculas interes-
 santes para a produção de embalagens inteli-
@@ -4762,6 +4848,7 @@ Estas embalagens são capazes de identificar
 quando o alimento esta em decomposição, pois 
 se tornam: 
  
+\
 A) vermelho claro, pela formação de uma solu-
 ção neutra. 
 B) verde e azul, devido a presença de substan-
@@ -4774,7 +4861,8 @@ E) verde e azul, devido ao aumento de íons de
 hidrogênio no alimento. 
  
  
-Questão 162 (2014.3) 
+\
+@162 (2014.2) 
 Você já ouviu essa frase: rolou uma química 
 entre nós!  
  
@@ -4788,15 +4876,12 @@ mento da frequência respiratória.
 Essas sensações são transmitidas por neuro-
 transmissores, tais como adrenalina, noradrena-
 lina, feniletilamina, dopamina e as serotoninas. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-54 
-novocadernoenem@gmail.com 
  
  
 Os neurotransmissores citados possuem em grupo funcional característico da função: 
  
+\
 A) éter. 
 B) álcool. 
 C) amina. 
@@ -4804,7 +4889,8 @@ D) cetona.
 E) acido carboxílico. 
  
  
-Questão 163 (2014.3) 
+\
+@163 (2014.2) 
 O aquecimento de água em residências com o uso de energia solar é uma alternativa ao uso de outras 
 fontes de energia. A radiação solar, ao incidir nas placas, promove o aquecimento da água. O cobre e 
 um dos materiais empregados na produção dos tubos que conduzem a água nos coletores solares. Ou-
@@ -4817,6 +4903,7 @@ A tabela a seguir apresenta algumas propriedades de metais que poderiam substitu
 De acordo com as propriedades dos metais listadas na tabela, o melhor metal para substituir o cobre 
 seria o: 
  
+\
 A) alumínio. 
 B) chumbo. 
 C) ferro. 
@@ -4824,7 +4911,8 @@ D) níquel.
 E) zinco. 
  
  
-Questão 164 (2014.3) 
+\
+@164 (2014.2) 
 O Brasil e o segundo maior produtor de etanol 
 combustível do mundo, tendo fabricado 26,2 
 bilhões de litros em 2010. Em uma etapa de seu 
@@ -4836,15 +4924,12 @@ ponentes dessa mistura.
  
 (Industry Statistics: World Fuel Ethanol. Disponível 
 em: ethanolrfa.org. Acesso em: 1 mar. 2012) 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-55 
-novocadernoenem@gmail.com 
 Nesta faixa de concentração, a técnica física 
 mais indicada para separar o etanol da mistura 
 é a: 
  
+\
 A) filtração. 
 B) destilação. 
 C) sublimação. 
@@ -4852,7 +4937,8 @@ D) decantação.
 E) centrifugação. 
  
  
-Questão 165 (2015.1) 
+\
+@165 (2015.1) 
 Um grupo de pesquisadores desenvolveu um 
 método simples, barato e eficaz de remoção de 
 petróleo contaminante na água, que utiliza um 
@@ -4873,6 +4959,7 @@ em: www.faperj.br. Acesso em: 31 jul. 2012)
 Essa técnica considera dois processos de sepa-
 ração de misturas, sendo eles, respectivamente, 
  
+\
 A) flotação e decantação 
 B) decomposição e centrifugação. 
 C) floculação e separação magnética. 
@@ -4880,7 +4967,8 @@ D) destilação fracionada e peneiração.
 E) dissolução fracionada e magnetização. 
  
  
-Questão 166 (2015.1) 
+\
+@166 (2015.1) 
 A soda cáustica pode ser usada no desentupi-
 mento de encanamentos domésticos e tem, em 
 sua composição, o hidróxido de sódio como 
@@ -4893,6 +4981,7 @@ quando exposta ao ar por certo período.
  
 O fenômeno de “derretimento" decorre da: 
  
+\
 A) absorção da umidade presente no ar atmos-
 férico. 
 B) fusão do hidróxido pela troca de calor com o 
@@ -4903,7 +4992,8 @@ D) adsorção de gases atmosféricos na superfí-
 cie do sólido. 
 E) reação do hidróxido de sódio com o gás ni-
 trogênio presente no ar. 
-Questão 167 (2015.1) 
+\
+@167 (2015.1) 
 A hidroponia pode ser definida como uma técni-
 ca de produção de vegetais sem necessaria-
 mente a presença de solo. Uma das formas de 
@@ -4923,6 +5013,7 @@ Qual o valor mais próximo do volume da solu-
 ção nutritiva, em litros, que o produtor deve 
 adicionar ao tanque? 
  
+\
 A) 26 
 B) 41 
 C) 45 
@@ -4930,7 +5021,8 @@ D) 51
 E) 82 
  
  
-Questão 168 (2015.1) 
+\
+@168 (2015.1) 
 Alimentos em conserva são frequentemente 
 armazenados em latas metálicas seladas, fabri-
 cadas com um material chamado folha de flan-
@@ -4953,6 +5045,7 @@ Comprar uma lata de conserva amassada no
 supermercado é desaconselhável porque o 
 amassado pode: 
  
+\
 A) alterar a pressão no interior da lata, promo-
 vendo a degradação acelerada do alimento. 
 B) romper a camada de estanho, permitindo a 
@@ -4966,12 +5059,9 @@ to.
 E) desprender camadas de verniz, que se dis-
 solverão no meio aquoso, contaminando o ali-
 mento. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-56 
-novocadernoenem@gmail.com 
-Questão 169 (2015.1) 
+\
+@169 (2015.1) 
 Uma forma de organização de um sistema bio-
 lógico é a presença de sinais diversos utilizados 
 pelos indivíduos para se comunicarem. No caso 
@@ -4996,6 +5086,7 @@ As funções orgânicas que caracterizam os fe-
 romônios de trilha e de alarme são, respectiva-
 mente, 
  
+\
 A) álcool e éster. 
 B) aldeído e cetona. 
 C) éter e hidrocarboneto. 
@@ -5003,7 +5094,8 @@ D) enol e ácido carboxílico.
 E) ácido carboxílico e amida. 
  
  
-Questão 170 (2015.1) 
+\
+@170 (2015.1) 
 O permanganato de potássio (KMnO4) é um 
 agente oxidante forte muito empregado tanto 
 em nível laboratorial quanto industrial. Na oxi-
@@ -5017,6 +5109,7 @@ Os produtos obtidos na oxidação do alceno
 representado, em solução aquosa de KMnO4, 
 são: 
  
+\
 A) Ácido benzoico e ácido etanoico. 
 B) Ácido benzoico e ácido propanoico. 
 C) Ácido etanoico e ácido 2-feniletanoico. 
@@ -5024,7 +5117,8 @@ D) Ácido 2-feniletanoico e ácido metanoico.
 E) Ácido 2-feniletanoico e ácido propanoico. 
  
  
-Questão 171 (2015.1) 
+\
+@171 (2015.1) 
 Em um experimento, colocou-se água até a 
 metade da capacidade de um frasco de vidro e, 
 em seguida, adicionaram-se três gotas de solu-
@@ -5044,6 +5138,7 @@ A explicação para o desaparecimento da cor
 rosa é que, com a combustão do palito de fósfo-
 ro, ocorreu o(a): 
  
+\
 A) formação de óxidos de caráter ácido. 
 B) evaporação do indicador fenolftaleína. 
 C) vaporização de parte da água do frasco. 
@@ -5052,7 +5147,8 @@ E) aumento do pH da solução no interior do
 frasco. 
  
  
-Questão 172 (2015.1) 
+\
+@172 (2015.1) 
 A bomba reduz neutros e neutrinos, e abana-se 
 com o leque da reação em cadeia. 
  
@@ -5063,6 +5159,7 @@ Nesse fragmento de poema, o autor refere-se à
 bomba atômica de urânio. Essa reação é dita 
 "em cadeia" porque na: 
  
+\
 A) fissão do 235U ocorre liberação de grande 
 quantidade de calor, que dá continuidade à rea-
 ção. 
@@ -5077,12 +5174,9 @@ oativos.
 E) fusão do 235U com 238U ocorre formação de 
 outros elementos radioativos mais pesados, que 
 desencadeiam novos processos de fusão. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-57 
-novocadernoenem@gmail.com 
-Questão 173 (2015.1) 
+\
+@173 (2015.1) 
 Vários ácidos são utilizados em indústrias que descartam seus efluentes nos corpos d’água, como rios e 
 lagos, podendo afetar o equilíbrio ambiental. Para neutralizar a acidez, o sal carbonato de cálcio pode 
 ser adicionado ao efluente, em quantidades apropriadas, pois produz bicarbonato, que neutraliza a água. 
@@ -5093,6 +5187,7 @@ As equações envolvidas no processo são apresentadas:
 Com base nos valores das constantes de equilíbrio das reações II, III e IV a 25ºC, qual é o valor numéri-
 co da constante de equilíbrio da reação I? 
  
+\
 A) 4,5×10-26 
 B) 5,0×10-5 
 C) 0,8×10-9 
@@ -5100,7 +5195,8 @@ D) 0,2×105
 E) 2,2×1026 
  
  
-Questão 174 (2015.1) 
+\
+@174 (2015.1) 
 Hidrocarbonetos podem ser obtidos em laboratório por descarboxilação oxidativa anódica, processo co-
 nhecido como eletrossíntese de Kolbe. Essa reação é utilizada na síntese de hidrocarbonetos diversos, a 
 partir de óleos vegetais, os quais podem ser empregados como fontes alternativas de energia, em substi-
@@ -5110,6 +5206,7 @@ tuição aos hidrocarbonetos fósseis. O esquema ilustra simplificadamente esse 
  
 Com base nesse processo, o hidrocarboneto produzido na eletrólise do ácido 3,3-dimetil-butanoico é o: 
  
+\
 A) 2,2,7,7-tetrametil-octano. 
 B) 3,3,4,4-tetrametil-hexano. 
 C) 2,2,5,5-tetrametil-hexano. 
@@ -5117,7 +5214,8 @@ D) 3,3,6,6-tetrametil-octano.
 E) 2,2,4,4-tetrametil-hexano. 
  
  
-Questão 175 (2015.1) 
+\
+@175 (2015.1) 
 Para proteger estruturas de aço da corrosão, a 
 indústria utiliza uma técnica chamada galvani-
 zação. Um metal bastante utilizado nesse pro-
@@ -5138,18 +5236,16 @@ Que valor mais próximo de massa de zinco me-
 tálico, em quilogramas, será produzido a partir 
 de 100 kg de esfalerita? 
  
+\
 A) 25 
 B) 33 
 C) 40 
 D) 50 
 E) 54 
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-58 
-novocadernoenem@gmail.com 
-Questão 176 (2015.1) 
+\
+@176 (2015.1) 
 Pesticidas são substâncias utilizadas para pro-
 mover o controle de pragas. No entanto, após 
 sua aplicação em ambientes abertos, alguns 
@@ -5161,6 +5257,7 @@ lipídicos e lá se acumularem.
 A característica desses compostos, responsável 
 pelo processo descrito no texto, é o(a): 
  
+\
 A) baixa polaridade. 
 B) baixa massa molecular. 
 C) ocorrência de halogênios. 
@@ -5168,7 +5265,8 @@ D) tamanho pequeno das moléculas.
 E) presença de hidroxilas nas cadeias. 
  
  
-Questão 177 (2015.1) 
+\
+@177 (2015.1) 
 A calda bordalesa é uma alternativa empregada 
 no combate a doenças que afetam folhas de 
 plantas. Sua produção consiste na mistura de 
@@ -5191,7 +5289,8 @@ A equação química que representa a reação de
 formação da mancha avermelhada é: 
  
  
-Questão 178 (2015.1) 
+\
+@178 (2015.1) 
 O aproveitamento de resíduos florestais vem se 
 tornando cada dia mais atrativo, pois eles são 
 uma fonte renovável de energia. A figura repre-
@@ -5209,6 +5308,7 @@ A variação de entalpia, em kJ, para a queima de
 5g desse bio-óleo resultando em CO2 (gasoso) 
 e H2O (gasoso) é: 
  
+\
 A) -106. 
 B) -94,0. 
 C) -82,0. 
@@ -5216,7 +5316,8 @@ D) -21,2.
 E) -16,4. 
  
  
-Questão 179 (2015.2) 
+\
+@179 (2015.3) 
 O urânio é um elemento cujos átomos contêm 
 92 prótons, 92 elétrons e entre 135 e 148 nêu-
 trons. O isótopo de urânio 235U é utilizado como 
@@ -5239,16 +5340,13 @@ do carvão, o que diminui a emissão atmosférica
 de CO2 (gás com massa molar igual a 44 g/mol). 
 A queima do carvão é representada pela equa-
 ção química: 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-59 
-novocadernoenem@gmail.com 
  
  
 Qual é a massa de CO2, em toneladas, que deixa de ser liberada na atmosfera, para cada 100 g de pas-
 tilhas de urânio enriquecido utilizadas em substituição ao carvão como fonte de energia? 
  
+\
 A) 2,10 
 B) 7,70 
 C) 9,00 
@@ -5256,7 +5354,8 @@ D) 33,0
 E) 300 
  
  
-Questão 180 (2015.1) 
+\
+@180 (2015.1) 
 A química verde permite o desenvolvimento tecnológico com danos reduzidos ao meio ambiente, e en-
 contrar rotas limpas tem sido um grande desafio. Considere duras rotas diferentes utilizadas para a ob-
 tenção de ácido adípico, um insumo muito importante para a indústria têxtil e de plastificantes. 
@@ -5266,6 +5365,7 @@ tenção de ácido adípico, um insumo muito importante para a indústria têxti
 Que fator contribui positivamente para que a segunda rota de síntese seja verde em comparação à pri-
 meira: 
  
+\
 A) Etapa única na síntese. 
 B) Obtenção do produto puro. 
 C) Ausência de reagentes oxidantes. 
@@ -5273,22 +5373,20 @@ D) Ausência de elementos metálicos no processo.
 E) Gasto de energia nulo na separação do produto. 
  
  
-Questão 181 (2015.2) 
+\
+@181 (2015.3) 
 Sais de amônio são sólidos iônicos com alto ponto de fusão, muito mais solúveis em água que as aminas 
 originais e ligeiramente solúveis em solventes orgânicos apolares, sendo compostos convenientes para 
 serem usados em xaropes e medicamentos injetáveis. Um exemplo é a efedrina, que funde a 79°C, tem 
 um odor desagradável e oxida na presença do ar atmosférico formando produtos indesejáveis. O clori-
 drato de efedrina funde a 217°C, não se oxida e é inodoro, sendo o ideal para compor os medicamentos. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-60 
-novocadernoenem@gmail.com 
  
  
 De acordo com o texto, que propriedade química das aminas possibilita a formação de sais de amônio 
 estáveis, facilitando a manipulação de princípios ativos? 
  
+\
 A) Acidez. 
 B) Basicidade. 
 C) Solubilidade. 
@@ -5296,7 +5394,8 @@ D) Volatilidade.
 E) Aromaticidade. 
  
  
-Questão 182 (2015.2) 
+\
+@182 (2015.3) 
 O cobre presente nos fios elétricos e instrumen-
 tos musicais é obtido a partir da ustulação do 
 minério calcosita (Cu2S). Durante esse proces-
@@ -5318,6 +5417,7 @@ metal em uma reação cujo rendimento é de
 80%, a massa, em gramas, do minério necessá-
 ria para obtenção do cobre é igual a: 
  
+\
 A) 955. 
 B) 1018. 
 C) 1590. 
@@ -5325,7 +5425,8 @@ D) 2035.
 E) 3180. 
  
  
-Questão 183 (2015.2) 
+\
+@183 (2015.3) 
 Além de ser uma prática ilegal, a adulteração de 
 combustíveis é prejudicial ao meio ambiente, ao 
 governo e, especialmente, ao consumidor final. 
@@ -5337,6 +5438,7 @@ agregado.
 Considerando um combustível com 20% de 
 adulterante, a mistura em que a adulteração 
 seria identificada visualmente é: 
+\
 A) etanol e água. 
 B) etanol e acetona. 
 C) gasolina e água. 
@@ -5344,7 +5446,8 @@ D) gasolina e benzeno.
 E) gasolina e querosene. 
  
  
-Questão 184 (2015.2) 
+\
+@184 (2015.3) 
 A obtenção de sistemas coloidais estáveis de-
 pende das interações entre as partículas disper-
 sas e o meio onde se encontram. Em um siste-
@@ -5357,6 +5460,7 @@ preliminarmente dispersas.
 A desestabilização provocada pelo etanol ocorre 
 porque: 
  
+\
 A) a polaridade da água no sistema coloidal é 
 reduzida. 
 B) as cargas superficiais das partículas coloidais 
@@ -5369,7 +5473,8 @@ E) a intensidade dos movimentos brownianos
 das partículas coloidais é reduzida. 
  
  
-Questão 185 (2015.2) 
+\
+@185 (2015.3) 
 O papel tem na celulose sua matéria-prima, e 
 uma das etapas de sua produção é o branque-
 amento, que visa remover a lignina da celulose. 
@@ -5379,11 +5484,7 @@ por exemplo, cloro (Cl2), hipoclorito de sódio
 de hidrogênio (H2O2). Alguns processos de 
 branqueamento levam à formação de compos-
 tos organoclorados.  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-61 
-novocadernoenem@gmail.com 
 São apresentadas as estruturas de um fragmento da lignina e do tetracloroguaiacol, um dos organoclo-
 rados formados no processo de branqueamento. 
  
@@ -5391,6 +5492,7 @@ rados formados no processo de branqueamento.
  
 Os reagentes capazes de levar à formação de organoclorados no processo citado são: 
  
+\
 A) O2 e O3 . 
 B) Cl2 e O2 . 
 C) H2O2 e Cl2 . 
@@ -5399,7 +5501,8 @@ E) NaClO e Cl2 .
  
  
  
-Questão 186 (2015.2) 
+\
+@186 (2015.3) 
 O poli(ácido lático) ou PLA é um material de interesse tecnológico por ser um polímero biodegradável e 
 bioabsorvível. O ácido lático, um metabólito comum no organismo humano, é a matéria-prima para pro-
 dução do PLA, de acordo com a equação química simplificada: 
@@ -5409,18 +5512,16 @@ dução do PLA, de acordo com a equação química simplificada:
  
 Que tipo de polímero de condensação é formado nessa reação? 
  
+\
 A) Poliéster. 
 B) Polivinila. 
 C) Poliamida. 
 D) Poliuretana. 
 E) Policarbonato. 
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-62 
-novocadernoenem@gmail.com 
-Questão 187 (2015.2) 
+\
+@187 (2015.3) 
 Cinco indústrias de ramos diferentes foram ins-
 taladas ao longo do curso de um rio. O descarte 
 dos efluentes dessas indústrias acarreta impac-
@@ -5433,6 +5534,7 @@ e os resultados são apresentados no quadro.
 A indústria que descarta um efluente com carac-
 terísticas básicas é a: 
  
+\
 A) primeira. 
 B) segunda. 
 C) terceira. 
@@ -5440,7 +5542,8 @@ D) quarta.
 E) quinta. 
  
  
-Questão 188 (2015.2) 
+\
+@188 (2015.3) 
 Os calcários são materiais compostos por car-
 bonato de cálcio, que podem atuar como sor-
 ventes do dióxido de enxofre (SO2), um impor-
@@ -5456,6 +5559,7 @@ Considerando-se as reações envolvidas nesse
 processo de dessulfurização, a fórmula química 
 do sal de cálcio corresponde a: 
  
+\
 A) CaSO3 
 B) CaSO4 
 C) CaS2O8 
@@ -5463,7 +5567,8 @@ D) CaSO2
 E) CaS2O7 
  
  
-Questão 189 (2015.2) 
+\
+@189 (2015.3) 
 O alumínio é um metal bastante versátil, pois, a 
 partir dele, podem-se confeccionar materiais 
 amplamente utilizados pela sociedade. A obten-
@@ -5486,7 +5591,8 @@ reações que ocorrem no cátodo e ânodo são:
  
  
  
-Questão 190 (2015.2) 
+\
+@190 (2015.3) 
 O vinagre vem sendo usado desde a Antiguida-
 de como conservante de alimentos, bem como 
 agente de limpeza e condimento. Um dos prin-
@@ -5499,13 +5605,10 @@ concentrações de ácido acético, em mol/L, se
 encontram no quadro. 
  
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-63 
-novocadernoenem@gmail.com 
 A amostra de vinagre que se encontra dentro do limite de concentração tolerado é a: 
  
+\
 A) 1. 
 B) 2. 
 C) 3. 
@@ -5514,7 +5617,8 @@ E) 5.
  
  
  
-Questão 191 (2015.2) 
+\
+@191 (2015.3) 
 O Nylon® é um polímero (uma poliamida) obtido pela reação do ácido adípico com a hexametilenodiami-
 na, como indicado no esquema reacional. 
  
@@ -5526,6 +5630,7 @@ de átomos de carbono do diácido carboxílico, seguido do número de carbonos d
 De acordo com as informações do texto, o nome comercial de uma poliamida resultante da reação do 
 ácido butanodioico com o 1,2-diamino-etano é: 
  
+\
 A) Nylon 4,3. 
 B) Nylon 6,2. 
 C) Nylon 3,4. 
@@ -5534,25 +5639,24 @@ E) Nylon 2,6.
  
  
  
-Questão 192 (2015.2) 
+\
+@192 (2015.3) 
 O quadro apresenta a composição do petróleo. 
  
  
  
 Para a separação dos constituintes com o objetivo de produzir a gasolina, o método a ser utilizado é: 
  
+\
 A) filtração. 
 B) destilação. 
 C) decantação. 
 D) precipitação. 
 E) centrifugação. 
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-64 
-novocadernoenem@gmail.com 
-Questão 193 (2015.2) 
+\
+@193 (2015.3) 
 O álcool utilizado como combustível automotivo 
 (etanol hidratado) deve apresentar uma taxa 
 máxima de água em sua composição para não 
@@ -5580,6 +5684,7 @@ em determinado posto, tenha-se verificado que
 igual a 45,0 g. Qual é a fração percentual de 
 etanol nessa mistura? 
  
+\
 A) 7% 
 B) 10% 
 C) 55% 
@@ -5587,7 +5692,8 @@ D) 90%
 E) 93% 
  
  
-Questão 194 (2015.2) 
+\
+@194 (2015.3) 
 A cafeína é um alcaloide, identificado como 
 1,3,7-trimetilxantina (massa molar igual a 194 
 g/mol), cuja estrutura química contém uma uni-
@@ -5602,6 +5708,7 @@ volume de 200 mL de café, a concentração, em
 mol/L, de cafeína nessa xícara é mais próxima 
 de: 
  
+\
 A) 0,0004. 
 B) 0,002. 
 C) 0,4. 
@@ -5609,7 +5716,8 @@ D) 2.
 E) 4. 
  
  
-Questão 195 (2015.2) 
+\
+@195 (2015.3) 
 O acúmulo de plásticos na natureza pode levar 
 a impactos ambientais negativos, tanto em am-
 bientes terrestres quanto aquáticos. Uma das 
@@ -5635,6 +5743,7 @@ bem.
 Qual propriedade da matéria possibilita a utiliza-
 ção do procedimento descrito? 
  
+\
 A) Massa. 
 B) Volume. 
 C) Densidade. 
@@ -5642,7 +5751,8 @@ D) Porosidade.
 E) Maleabilidade. 
  
  
-Questão 196 (2016.1) 
+\
+@196 (2016.1) 
 O benzeno, um importante solvente para a in-
 dústria química, é obtido industrialmente pela 
 destilação do petróleo.  
@@ -5659,17 +5769,14 @@ calculada indiretamente pela variação de ental-
 pia das reações de combustão das substâncias 
 participantes, nas mesmas condições experi-
 mentais: 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-65 
-novocadernoenem@gmail.com 
  
  
 A variação de entalpia do processo de trimeri-
 zação, em kcal, para a formação de um mol de 
 benzeno é mais próxima de: 
  
+\
 A) –1090. 
 B) –150. 
 C) –50 
@@ -5677,7 +5784,8 @@ D) +157.
 E) +470. 
  
  
-Questão 197 (2016.1) 
+\
+@197 (2016.1) 
 A minimização do tempo e custo de uma reação 
 química, bem como o aumento na sua taxa de 
 conversão, caracterizam a eficiência de um 
@@ -5704,6 +5812,7 @@ metanol foram obtidos a partir de 142,5 g de
 brometo de metila e 80 g de hidróxido de sódio, 
 é mais próximo de: 
  
+\
 A) 22%. 
 B) 40%. 
 C) 50%. 
@@ -5711,7 +5820,8 @@ D) 67%.
 E) 75%. 
  
  
-Questão 198 (2016.1) 
+\
+@198 (2016.1) 
 Em sua formulação, o spray de pimenta contém 
 porcentagens variadas de oleorresina de Capsi-
 cum, cujo principio ativo é a capsaicina, e um 
@@ -5731,6 +5841,7 @@ Quando uma pessoa é atingida com o spray de
 pimenta nos olhos ou na pele, a lavagem da 
 região atingida com água é ineficaz porque a: 
  
+\
 A) reação entre etanol e água libera calor, in-
 tensificando o ardor. 
 B) solubilidade do princípio ativo em água é 
@@ -5744,7 +5855,8 @@ não permitindo que haja contato entre o óleo e o
 solvente. 
  
  
-Questão 199 (2016.1) 
+\
+@199 (2016.1) 
 A usina de Itaipu é uma das maiores hidrelétri-
 cas do mundo em geração de energia. Com 20 
 unidades geradoras e 14 000 MW de potência 
@@ -5762,6 +5874,7 @@ Acesso em: 11 maio 2013 - adaptado)
 Qual e a potência, em MW, não aproveitada em 
 cada unidade geradora de Itaipu? 
  
+\
 A) 0 
 B) 1,18 
 C) 116,96 
@@ -5769,7 +5882,8 @@ D) 816,96
 E) 13 183,04 
  
  
-Questão 200 (2016.1) 
+\
+@200 (2016.1) 
 O carvão ativado é um material que possui ele-
 vado teor de carbono, sendo muito utilizado 
 para a remoção de compostos orgânicos volá-
@@ -5779,14 +5893,11 @@ fenômeno ocorre por meio de interações do tipo
 intermoleculares entre a superfície do carvão 
 (adsorvente) e o benzeno (adsorvato, substân-
 cia adsorvida). 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-66 
-novocadernoenem@gmail.com 
 No caso apresentado, entre o adsorvente e a 
 substância adsorvida ocorre a formação de: 
  
+\
 A) Ligações dissulfeto. 
 B) Ligações covalentes. 
 C) Ligações de hidrogênio. 
@@ -5795,7 +5906,8 @@ E) Interações dipolo permanente – dipolo per-
 manente. 
  
  
-Questão 201 (2016.1) 
+\
+@201 (2016.1) 
 O aquecimento de um material por irradiação 
 com microondas ocorre por causa da interação 
 da onda eletro magnética com o dipolo elétrico 
@@ -5814,6 +5926,7 @@ No gráfico, qual solvente apresenta taxa média
 de aquecimento mais próxima de zero, no inter-
 valo de 0 s a 40 s? 
  
+\
 A) H2O 
 B) CH3OH 
 C) CH3CH2OH 
@@ -5821,7 +5934,8 @@ D) CH3CH2CH2OH
 E) CH3CH2CH2CH2CH2CH3 
  
  
-Questão 202 (2016.1) 
+\
+@202 (2016.1) 
 Em meados de 2003, mais de 20 pessoas mor-
 reram no Brasil após terem ingerido uma sus-
 pensão de sulfato de bário utilizada como con-
@@ -5842,6 +5956,7 @@ sobre o filtrado e observa-se por 30 min.
 A presença de íons bário solúveis na amostra é 
 indicada pela: 
  
+\
 A) liberação de calor. 
 B) alteração da cor para rosa. 
 C) precipitação de um sólido branco. 
@@ -5849,7 +5964,8 @@ D) formação de gás hidrogênio.
 E) volatilização de gás cloro. 
  
  
-Questão 203 (2016.1) 
+\
+@203 (2016.1) 
 Após seu desgaste completo, os pneus podem 
 ser queimados para a geração de energia. Den-
 tre os gases gerados na combustão completa 
@@ -5867,17 +5983,15 @@ Dentre as substâncias listadas no quadro, aque-
 la capaz de remover com maior eficiência os 
 gases poluentes é o(a): 
  
+\
 A) fenol. 
 B) piridina. 
 C) metilamina. 
 D) hidrogenofosfato de potássio. 
 E) hidrogenosulfato de potássio. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-67 
-novocadernoenem@gmail.com 
-Questão 204 (2016.1) 
+\
+@204 (2016.1) 
 Os feromônios são substâncias utilizadas na comunicação entre indivíduos de uma espécie. O primeiro 
 feromônio isolado de um inseto foi o bombicol, substância produzida pela mariposa do bicho-da-seda. 
  
@@ -5892,6 +6006,7 @@ empregados em determinados cultivos, conforme ilustrado no quadro.
 Considerando essas estruturas químicas, o tipo de estereoisomeria apresentada pelo bombicol é tam-
 bém apresentada pelo feromônio utilizado no controle do inseto: 
  
+\
 A) Sitophilus spp. 
  
  
@@ -5903,7 +6018,8 @@ D) Grapholita molesta.
       E) Scrobipalpuloides absoluta. 
  
  
-Questão 205 (2016.1) 
+\
+@205 (2016.1) 
 A lipofilia é um dos fatores fundamentais para o 
 planejamento de um fármaco. Ela mede o grau 
 de afinidade que a substância tem com ambien-
@@ -5914,6 +6030,7 @@ Em relação ao coeficiente de partição da testos-
 terona, as lipofilias dos compostos 1 e 2 são, 
 respectivamente, 
  
+\
 A) menor e menor que a lipofilia da testosterona. 
 B) menor e maior que a lipofilia da testosterona. 
 C) maior e menor que a lipofilia da testosterona. 
@@ -5921,7 +6038,8 @@ D) maior e maior que a lipofilia da testosterona.
 E) menor e igual à lipofilia da testosterona. 
  
  
-Questão 206 (2016.1) 
+\
+@206 (2016.1) 
  
 TEXTO I 
 Biocélulas combustíveis são uma alternativa 
@@ -5930,11 +6048,7 @@ vencionais. Em uma biocélula microbiológica,
 bactérias catalisam reações de oxidação de 
 substratos orgânicos. Liberam elétrons produzi-
 dos na respiração celular para um eletrodo, 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-68 
-novocadernoenem@gmail.com 
 onde fluem por um circuito externo até o cátodo 
 do sistema, produzindo corrente elétrica. Uma 
 reação típica que ocorre em biocélulas microbio-
@@ -5966,6 +6080,7 @@ biocélulas de acetato, ligadas em série, neces-
 sárias para se obter uma diferença de potencial 
 de 4,4 V? 
  
+\
 A) 3 
 B) 4 
 C) 6 
@@ -5973,7 +6088,8 @@ D) 9
 E) 15 
  
  
-Questão 207 (2016.1) 
+\
+@207 (2016.1) 
 O esquema representa, de maneira simplificada, 
 o processo de produção de etanol utilizando 
 milho como matéria-prima. 
@@ -5982,6 +6098,7 @@ milho como matéria-prima.
 A etapa de hidrólise na produção de etanol a 
 partir do milho é fundamental para que: 
  
+\
 A) a glicose seja convertida em sacarose. 
 B) as enzimas dessa planta sejam ativadas. 
 C) a maceração favorece a solubilização em 
@@ -5992,7 +6109,8 @@ E) os grãos com diferentes composições quími-
 cas sejam padronizados. 
  
  
-Questão 208 (2016.1) 
+\
+@208 (2016.1) 
 Primeiro, em relação àquilo a que chamamos 
 água, quando congela, parece-nos estar a olhar 
 para algo que se tornou pedra ou terra, mas 
@@ -6021,6 +6139,7 @@ Excetuando-se a fase de plasma, essas trans-
 formações sofridas pela matéria, em nível mi-
 croscópico, estão associadas a uma: 
  
+\
 A) troca de átomos entre as diferentes molécu-
 las do 
 material. 
@@ -6035,7 +6154,8 @@ E) alteração nas proporções dos diferentes isó-
 topos de cada elemento presente no material. 
  
  
-Questão 209 (2016.1) 
+\
+@209 (2016.1) 
 Para cada litro de etanol produzido em uma 
 indústria de cana-de-açúcar são gerados cerca 
 de 18 L de vinhaça que é utilizada na irrigação 
@@ -6048,15 +6168,12 @@ mente.
 Uso de vinhaça e impactos nas propriedades do solo 
 e lençol freático. Revista Brasileira de Engenharia 
 Agrícola e Ambiental. n. 1, 2007 - adaptado) 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-69 
-novocadernoenem@gmail.com 
 Na produção de 27000 L de etanol, a quantida-
 de total de fósforo, em kg, disponível na vinhaça 
 será mais próxima de: 
  
+\
 A) 1. 
 B) 29. 
 C) 60. 
@@ -6064,7 +6181,8 @@ D) 170.
 E) 1000. 
  
  
-Questão 210 (2016.1) 
+\
+@210 (2016.1) 
 Pesquisadores recuperaram DNA de ossos de 
 mamute (Mammuthus primigenius) encontrados 
 na Sibéria, que tiveram sua idade de cerca de 
@@ -6074,6 +6192,7 @@ na Sibéria, que tiveram sua idade de cerca de
 A técnica de datação apresentada no texto só é 
 possível devido à: 
  
+\
 A) proporção conhecida entre carbono-14 e 
 carbono-12 na atmosfera ao longo dos anos. 
 B) decomposição de todo o carbono-12 presen-
@@ -6086,7 +6205,8 @@ E) transformação do carbono-12 em carbono-14
 ao longo dos anos. 
  
  
-Questão 211 (2016.1) 
+\
+@211 (2016.1) 
 Nucleófilos (Nu–) são bases de Lewis que rea-
 gem com haletos de alquila, por meio de uma 
 reação chamada substituição nucleofílica (SN), 
@@ -6099,6 +6219,7 @@ A reação de SN entre metóxido de sódio (Nu– =
 CH3O–) e brometo de metila fornece um com-
 posto orgânico pertencente à função: 
  
+\
 A) éter. 
 B) éster. 
 C) álcool. 
@@ -6106,7 +6227,8 @@ D) haleto.
 E) hidrocarboneto. 
  
  
-Questão 212 (2016.1) 
+\
+@212 (2016.1) 
 Os tensoativos são compostos capazes de interagir com substâncias polares e apolares. A parte iônica 
 dos tensoativos interage com substâncias polares, e a parte lipofílica interage com as apolares. A estru-
 tura orgânica de um tensoativo pede ser representada por: 
@@ -6117,12 +6239,9 @@ Ao adicionar um tensoativo sobre a água, suas moléculas formam um arranjo orde
 representado esquematicamente por: 
  
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-70 
-novocadernoenem@gmail.com 
-Questão 213 (2016.2) 
+\
+@213 (2016.2) 
 Nos anos 1990, verificou-se que o rio Potomac 
 situado no estado norte-americano de Maryland, 
 tinha em parte de seu curso, águas extrema-
@@ -6143,6 +6262,7 @@ Janeiro. Livros Técnicos e Científicos. 2012)
 A explicação para o retorno da vida aquática 
 nesse rio é a: 
  
+\
 A) diluição das águas do rio pelo novo efluente 
 lançado nele. 
 B) precipitação do íon sulfato na presença do 
@@ -6155,7 +6275,8 @@ E) volatilização do ácido sulfúrico após contato
 com o novo efluente introduzido no rio. 
  
  
-Questão 214 (2016.2) 
+\
+@214 (2016.2) 
 A energia nuclear é uma alternativa aos com-
 bustíveis fósseis que, se não gerenciada de 
 forma correta, pode causar impactos ambientais 
@@ -6173,6 +6294,7 @@ vazamentos para o meio ambiente.
  
 Esse lixo é prejudicial, pois: 
  
+\
 A) favorece a proliferação de microrganismos 
 termófilos. 
 B) produz nêutrons livres que ionizam o ar, tor-
@@ -6183,7 +6305,8 @@ D) acentua o efeito estufa decorrente do calor
 produzido na fissão. 
 E) emite radiação capaz de provocar danos à 
 saúde dos seres vivos. 
-Questão 215 (2016.2) 
+\
+@215 (2016.2) 
 Para lavar e refrescar o ambiente, que estava a 
 40°C, uma pessoa resolveu jogar água sobre 
 um piso de granito. Ela observou que o líquido 
@@ -6196,6 +6319,7 @@ molhado.
 A molhabilidade da superfície foi melhorada em 
 função da: 
  
+\
 A) solubilidade do detergente em água ser alta. 
 B) tensão superficial da água ter sido reduzida. 
 C) pressão de vapor da água ter sido diminuída. 
@@ -6205,7 +6329,8 @@ E) viscosidade da solução ser menor que a da
 água. 
  
  
-Questão 216 (2016.2) 
+\
+@216 (2016.2) 
 Até 1824 acreditava-se que as máquinas térmi-
 cas, cujos exemplos são as máquinas a vapor e 
 os atuais motores a combustão. Poderiam ter 
@@ -6217,6 +6342,7 @@ rendimento.
  
 Tal limitação ocorre porque essas máquinas: 
  
+\
 A) realizam trabalho mecânico. 
 B) produzem aumento da entropia. 
 C) utilizam transformações adiabáticas. 
@@ -6225,7 +6351,8 @@ E) funcionam com temperatura igual à da fonte
 quente. 
  
  
-Questão 217 (2016.2) 
+\
+@217 (2016.2) 
 Em Bangladesh, mais da metade dos poços 
 artesianos cuja água serve à população local 
 está contaminada com arsênio proveniente de 
@@ -6244,11 +6371,8 @@ Acesso em: 11 dez. 2012 - adaptado)
  
 Com o uso desse kit, a população local pode 
 remover o elemento tóxico por meio de: 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-71 
-novocadernoenem@gmail.com 
+\
 A) fervura. 
 B) filtração. 
 C) destilação. 
@@ -6256,7 +6380,8 @@ D) calcinação.
 E) evaporação. 
  
  
-Questão 218 (2016.2) 
+\
+@218 (2016.2) 
 O soro fisiológico é uma solução aquosa de 
 cloreto de sódio (NaCl) comumente utilizada 
 para higienização ocular, nasal, de ferimentos e 
@@ -6267,6 +6392,7 @@ Qual massa de NaCl, em grama, deverá ser
 adicionada à água para preparar 500 mL desse 
 soro? 
  
+\
 A) 0,45 
 B) 0,90 
 C) 4,50 
@@ -6274,7 +6400,8 @@ D) 9,00
 E) 45,00 
  
  
-Questão 219 (2016.2) 
+\
+@219 (2016.2) 
 O principal componente do sal de cozinha é o 
 cloreto de sódio, mas o produto pode ter alumi-
 nossilicato de sódio em pequenas concentra-
@@ -6286,6 +6413,7 @@ O procedimento de laboratório adequado para
 verificar a presença do antiumectante em uma 
 amostra de sal de cozinha é o(a): 
  
+\
 A) realização do teste de chama. 
 B) medida do pH de uma solução aquosa. 
 C) medida da turbidez de uma solução aquosa. 
@@ -6295,7 +6423,8 @@ E) verificação da presença de cátions monova-
 lentes. 
  
  
-Questão 220 (2016.2) 
+\
+@220 (2016.2) 
 Algumas práticas agrícolas fazem uso de quei-
 madas, apesar de produzirem grandes efeitos 
 negativos. 
@@ -6317,6 +6446,7 @@ transformação
 química 
 quando: 
  
+\
 A) o etanol é armazenado em tanques de aço 
 inoxidável. 
 B) a palha de cana-de-açúcar é exposta ao sol 
@@ -6329,7 +6459,8 @@ E) os materiais particulados (MP) são espalha-
 dos no ar e sofrem deposição seca. 
  
  
-Questão 221 (2016.2) 
+\
+@221 (2016.2) 
 Utensílios de uso cotidiano e ferramentas que 
 contêm ferro em sua liga metálica tendem a 
 sofrer processo corrosivo e enferrujar. A corro-
@@ -6345,6 +6476,7 @@ equação química:
 Uma forma de impedir o processo corrosivo 
 nesses utensílios é: 
  
+\
 A) renovar sua superfície, polindo-a semanal-
 mente. 
 B) evitar o contato do utensílio com o calor, 
@@ -6357,7 +6489,8 @@ E) guardar os utensílios em embalagens, iso-
 lando-os do contato com outros objetos. 
  
  
-Questão 222 (2016.2) 
+\
+@222 (2016.2) 
 A bauxita é o minério utilizado na fabricação do 
 alumínio, a qual apresenta Al2O3 (alumina) em 
 sua composição. Após o trituramento e lavagem 
@@ -6372,14 +6505,11 @@ tituído unicamente por alumina. Finalmente,
 esse pó é aquecido até sua fusão e submetido a 
 uma eletrólise, cujos produtos são o metal puro 
 fundido (Al) e o gás carbônico (CO2). 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-72 
-novocadernoenem@gmail.com 
 Nesse processo, as funções das etapas A e B 
 são, respectivamente, 
  
+\
 A) oxidar a alumina e outras substâncias e re-
 duzir seletivamente a alumina. 
 B) solubilizar a alumina e outras substâncias e 
@@ -6392,7 +6522,8 @@ E) romper as ligações químicas da alumina e
 diminuir o calor de formação do alumínio. 
  
  
-Questão 223 (2016.2) 
+\
+@223 (2016.2) 
 A obtenção do alumínio dá-se a partir da bauxita 
 (Al2O3 ∙ 3 H2O), que é purificada e eletrolisada 
 numa temperatura de 1000°C. Na célula eletrolí-
@@ -6403,6 +6534,7 @@ cátodo é uma caixa de aço coberta de grafita.
  
 A etapa de obtenção do alumínio ocorre no: 
  
+\
 A) ânodo, com formação de gás carbônico. 
 B) cátodo, com redução do carvão na caixa de 
 aço. 
@@ -6414,7 +6546,8 @@ E) cátodo, com fluxo de elétrons das barras de
 grafita para a caixa de aço. 
  
  
-Questão 224 (2016.2) 
+\
+@224 (2016.2) 
 Os métodos empregados nas análises químicas 
 são ferramentas importantes para se conhecer a 
 com posição dos diversos materiais presentes 
@@ -6429,6 +6562,7 @@ tais ao longo do tempo.
 Na ocorrência de precipitação, o resultado da 
 análise pode ser subestimado, porque: 
  
+\
 A) ocorreu passagem de parte dos metais para 
 uma fase sólida. 
 B) houve volatilização de compostos dos metais 
@@ -6439,7 +6573,8 @@ D) formou-se uma nova fase líquida, imiscível
 com a solução original. 
 E) os metais reagiram com as paredes do reci-
 piente que contém a amostra. 
-Questão 225 (2016.2) 
+\
+@225 (2016.2) 
 O paclitaxel é um triterpeno poli-hidroxilado que 
 foi originalmente isolado da casca de Taxus 
 brevifolia, árvore de crescimento lento e em 
@@ -6460,6 +6595,7 @@ De acordo com a ação antitumoral descrita, que
 função celular é diretamente afetada pelo pacli-
 taxel? 
  
+\
 A) Divisão celular. 
 B) Transporte passivo. 
 C) Equilíbrio osmótico. 
@@ -6467,7 +6603,8 @@ D) Geração de energia.
 E) Síntese de proteínas. 
  
  
-Questão 226 (2016.2) 
+\
+@226 (2016.2) 
 Os gráficos representam a concentração na 
 atmosfera, em partes por milhão (ppm), bilhão 
 (ppb) ou trilhão (ppt), dos cinco gases respon-
@@ -6477,11 +6614,7 @@ do de 1978 a 2010.
  
  
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-73 
-novocadernoenem@gmail.com 
  
  
  
@@ -6490,6 +6623,7 @@ Qual gás teve o maior aumento percentual de
 concentração na atmosfera nas últimas duas 
 décadas? 
  
+\
 A) CO2  
 B) CH4  
 C) N2O 
@@ -6497,7 +6631,8 @@ D) CFC-12
 E) CFC-11 
  
  
-Questão 227 (2016.3) 
+\
+@227 (2016.3) 
 Benjamin Franklin (1706-1790), por volta de 
 1757, 
 percebeu 
@@ -6542,6 +6677,7 @@ Nas condições do experimento realizado por
 Franklin, as moléculas do óleo apresentam um 
 tamanho da ordem de: 
  
+\
 A) 10-3 m. 
 B) 10-5 m. 
 C) 10-7 m. 
@@ -6549,7 +6685,8 @@ D) 10-9 m.
 E) 10-11 m. 
  
  
-Questão 228 (2016.3) 
+\
+@228 (2016.3) 
 Adicionar quantidades de álcool à gasolina, 
 diferentes daquelas determinadas pela legisla-
 ção, é uma das formas de adulterá-la. Um teste 
@@ -6561,6 +6698,7 @@ sob análise.
 Essa metodologia de análise pode ser usada 
 porque o(a): 
  
+\
 A) água da solução salina interage com a gaso-
 lina da mistura, formando duas fases, uma delas 
 de álcool puro. 
@@ -6578,7 +6716,8 @@ da solução salina, formando duas fases, uma
 delas de gasolina mais água. 
  
  
-Questão 229 (2016.3) 
+\
+@229 (2016.3) 
 A crescente produção industrial lança ao ar 
 diversas substâncias tóxicas que podem ser 
 removidas pela passagem do ar contaminado 
@@ -6588,15 +6727,12 @@ nicos de baixa polaridade, ou para neutralização
 em soluções ácidas ou básicas. Um dos poluen-
 tes mais tóxicos liberados na atmosfera pela 
 atividade industrial é a 2,3,7,8-tetraclorodioxina. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-74 
-novocadernoenem@gmail.com 
  
  
 Esse poluente pode ser removido do ar pela passagem através de tanques contendo: 
  
+\
 A) hexano. 
  
  
@@ -6612,7 +6748,8 @@ D) ácido clorídrico aquoso.
 E) hidróxido de amônio aquoso. 
  
  
-Questão 230 (2016.3) 
+\
+@230 (2016.3) 
 O quadro apresenta alguns exemplos de combustíveis empregados em residências, indústrias e meios 
 de transporte. 
  
@@ -6620,6 +6757,7 @@ de transporte.
  
 São combustíveis líquidos à temperatura ambiente de 25ºC: 
  
+\
 A) Butano, etanol e metano. 
  
 B) Etano, metanol e octano.            C) Metano, metanol e octano. 
@@ -6628,7 +6766,8 @@ D) Metanol e metano.
 E) Octano e butano. 
  
  
-Questão 231 (2016.3) 
+\
+@231 (2016.3) 
 Um bafômetro simples consiste em um tubo contendo uma mistura sólida de dicromato de potássio em 
 sílica umedecida com ácido sulfúrico. Nesse teste, a detecção da embriaguez por consumo de álcool se 
 dá visualmente, pois a reação que ocorre é a oxidação do álcool a aldeído e a redução do dicromato 
@@ -6639,12 +6778,9 @@ dá visualmente, pois a reação que ocorre é a oxidação do álcool a aldeíd
 A equação balanceada da reação química que representa esse teste é: 
  
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-75 
-novocadernoenem@gmail.com 
-Questão 232 (2016.3) 
+\
+@232 (2016.3) 
 Climatério é o nome de um estágio no processo de amadurecimento de determinados frutos, caracteri-
 zado pelo aumento do nível da respiração celular e do gás etileno (C2H4). Como consequência, há o 
 escurecimento do fruto, o que representa a perda de muitas toneladas de alimentos a cada ano. 
@@ -6664,6 +6800,7 @@ g/mol, 39 g/mol e 55 g/mol.
 A fim de diminuir essas perdas, sem desperdício de reagentes, a massa mínima de KMnO4 por Kg de ar 
 é mais próxima de: 
  
+\
 A) 0,7 mg. 
 B) 1,0 mg. 
 C) 3,8 mg. 
@@ -6671,7 +6808,8 @@ D) 5,6mg.
 E) 8,5 mg. 
  
  
-Questão 233 (2016.3) 
+\
+@233 (2016.3) 
 A busca por substâncias capazes de minimizar a ação do inseto que ataca as plantações de tomate no 
 Brasil levou à síntese e ao emprego de um feromônio sexual com a seguinte fórmula estrutural: 
  
@@ -6685,12 +6823,9 @@ A fórmula estrutural do substituto adequado ao feromônio sexual obtido industr
  
  
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-76 
-novocadernoenem@gmail.com 
-Questão 234 (2016.3) 
+\
+@234 (2016.3) 
 Na preparação da massa do pão, presente na 
 mesa do café da maioria dos brasileiros, utiliza-
 se o fungo Saccharomyces cerevisiae vivo, con-
@@ -6701,6 +6836,7 @@ carbônico.
 Esse processo químico de liberação de gás é 
 causado pela: 
  
+\
 A) glicogênese lática. 
 B) fermentação alcoólica. 
 C) produção de ácido lático. 
@@ -6708,7 +6844,8 @@ D) produção de lactobacilos.
 E) formação do ácido pirúvico. 
  
  
-Questão 235 (2016.3) 
+\
+@235 (2016.3) 
 As águas dos oceanos apresentam uma alta 
 concentração de íons e pH entre 8,0 e 8,3. Den-
 tre esses íons estão em equilíbrio as espécies 
@@ -6732,6 +6869,7 @@ A composição dos oceanos é menos afetada
 pelo lançamento de efluentes ácidos, pois os 
 oceanos: 
  
+\
 A) contêm grande quantidade de cloreto de 
 sódio. 
 B) contêm um volume de água pura menor que 
@@ -6745,7 +6883,8 @@ bonato e bicarbonato, que atuam como sistema-
 tampão.   
  
  
-Questão 236 (2016.3) 
+\
+@236 (2016.3) 
 A água consumida na maioria das cidades bra-
 sileiras é obtida pelo tratamento da água de 
 mananciais. A parte inicial do tratamento consis-
@@ -6763,6 +6902,7 @@ para o consumo.
 No processo descrito, a precipitação de hidróxi-
 do de alumínio é viabilizada porque: 
  
+\
 A) a dissolução do alumínio resfria a solução. 
 B) o excesso de sódio impossibilita sua solubili-
 zação. 
@@ -6774,7 +6914,8 @@ E) o equilíbrio químico do carbonato em água
 torna o meio alcalino. 
  
  
-Questão 237 (2016.3) 
+\
+@237 (2016.3) 
 Para comparar a eficiência de diferentes com-
 bustíveis, costuma-se determinar a quantidade 
 de calor liberada na combustão por mol ou gra-
@@ -6794,6 +6935,7 @@ Porto Alegre: Bookman, 2007 - adaptado)
 Qual combustível apresenta maior liberação de 
 energia por grama? 
  
+\
 A) Hidrogênio. 
 B) Etanol. 
 C) Metano. 
@@ -6801,17 +6943,14 @@ D) Metanol.
 E) Octano. 
  
  
-Questão 238 (2016.3) 
+\
+@238 (2016.3) 
 Combustíveis automotivos têm sido adulterados 
 pela adição de substâncias ou materiais de bai-
 xo valor comercial. Esse tipo de contravenção 
 pode danificar os motores, aumentar o consumo 
 de combustível e prejudicar o meio ambiente.  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-77 
-novocadernoenem@gmail.com 
 Vários testes laboratoriais podem ser utilizados para identificar se um combustível está ou não adultera-
 do. A legislação brasileira estabelece que o diesel, obtido do petróleo, contenha certa quantidade de 
 biodiesel. O quadro apresenta valores de quatro propriedades do diesel, do biodiesel e do óleo vegetal, 
@@ -6823,6 +6962,7 @@ Com base nas informações apresentadas no quadro, quais são as duas propriedad
 empregadas tecnicamente para verificar se uma amostra de diesel comercial está ou não adulterada 
 com óleo vegetal? 
  
+\
 A) Densidade e viscosidade. 
 B) Teor de enxofre e densidade. 
 C) Viscosidade e teor de enxofre. 
@@ -6830,7 +6970,8 @@ D) Viscosidade e poder calorífico.
 E) Poder calorífico e teor de enxofre. 
  
  
-Questão 239 (2016.3) 
+\
+@239 (2016.3) 
 Atualmente, soldados em campo, seja em treinamento ou em combate, podem aquecer suas refeições , 
 prontas e embaladas em bolsas plásticas, utilizando aquecedores químicos, sem precisar fazer fogo. 
 Dentro dessas bolsas existe magnésio metálico em pó e, quando o soldado quer aquecer a comida, ele 
@@ -6840,6 +6981,7 @@ coloca água dentro da bolsa promovendo a reação descrita pela equação quím
  
 O aquecimento dentro da bolsa ocorre por causa da: 
  
+\
 A) redução sofrida pelo oxigênio, que é uma reação exotérmica. 
 B) oxidação sofrida pelo magnésio, que é uma reação exotérmica. 
 C) redução sofrida pelo magnésio, que é uma reação endotérmica. 
@@ -6847,7 +6989,8 @@ D) oxidação sofrida pelo hidrogênio, que é uma reação exotérmica.
 E) redução sofrida pelo hidrogênio, que é uma reação endotérmica. 
  
  
-Questão 240 (2016.3) 
+\
+@240 (2016.3) 
 O processo de dessulfurização é uma das etapas utilizadas na produção do diesel. Esse processo con-
 siste na oxidação do enxofre presente na forma de sulfeto de hidrogênio (H2S) a enxofre elementar (sóli-
 do) que é posteriormente removido. Um método para essa extração química é o processo Claus (SO2) e, 
@@ -6859,17 +7002,15 @@ utilizando fluidodinâmica computacional. São Paulo: USP, 2004 - adaptado)
  
 O benefício do processo Claus é que, na combustão do diesel, é minimizada a emissão de gases: 
  
+\
 A) formadores de hidrocarbonetos. 
 B) produtores de óxidos de nitrogênio. 
 C) emissores de monóxido de carbono. 
 D) promotores de acidificação da chuva. 
 E) determinantes para o aumento do efeito estufa. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-78 
-novocadernoenem@gmail.com 
-Questão 241 (2016.3) 
+\
+@241 (2016.3) 
 As emissões de dióxido de carbono (CO2) por veículos são dependentes da constituição de cada tipo de 
 combustível.  
  
@@ -6880,6 +7021,7 @@ percorreu 600km em um veículo que consome um litro de gasolina a cada 15km de p
 Considerando que o conteúdo de carbono em um litro dessa gasolina é igual a 0,6kg, a massa de CO2 
 emitida pelo veículo no ambiente, durante a viagem de férias descrita, é igual a: 
  
+\
 A) 24kg 
 B) 33kg 
 C) 40kg 
@@ -6887,7 +7029,8 @@ D) 88kg
 E) 147kg 
  
  
-Questão 242 (2016.3) 
+\
+@242 (2016.3) 
 A obtenção de energia por meio da fissão nuclear do 235U é muito superior quando comparada à com-
 bustão da gasolina.  
  
@@ -6895,6 +7038,7 @@ O calor liberado na fissão do 235U é 8 x 1010 J/g e na combustão da gasolina 
  
 A massa de gasolina necessária para obter a mesma energia na fissão de 1kg de  235U é da ordem de: 
  
+\
 A) 103 g. 
 B) 104 g. 
 C) 105 g. 
@@ -6902,7 +7046,8 @@ D) 106 g.
 E) 109 g. 
  
  
-Questão 243 (2017.1) 
+\
+@243 (2017.1) 
 A ozonólise, reação utilizada na indústria madeireira para a produção de papel, é também utilizada em 
 escala de laboratório na síntese de aldeídos e cetonas. As duplas ligações dos alcenos são clivadas pela 
 oxidação com o Ozônio (O3), em presença de água e zinco metálico, e a reação produz aldeídos e/ou 
@@ -6916,13 +7061,10 @@ Considere a ozonólise do composto 1-fenil-2-metilprop-1-eno:
  
  
 (MARTINO, A, Química, a ciência global, Goiânia: Editora W, 2014 - adaptado) 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-79 
-novocadernoenem@gmail.com 
 Quais são os produtos formados nessa reação? 
  
+\
 A) Benzaldeido e propanona. 
 B) Propanal e benzaldeido. 
 C) 2-fenil-etanale metanal. 
@@ -6930,7 +7072,8 @@ D) Benzeno e propanona.
 E) Benzaldeído e etanal. 
  
  
-Questão 244 (2017.1) 
+\
+@244 (2017.1) 
 Na Idade Média, para elaborar preparados a 
 partir de plantas produtoras de óleos essenciais, 
 as coletas das espécies eram realizadas ao 
@@ -6949,6 +7092,7 @@ quantidades de óleos essenciais.
 A explicação científica que justifica essa prática 
 se baseia na: 
  
+\
 A) volatilização das substâncias de interesse 
 B) polimerização dos óleos catalisada pela radi-
 ação solar 
@@ -6960,7 +7104,8 @@ E) liberação das moléculas de óleo durante o
 processo de fotossíntese. 
  
  
-Questão 245 (2017.1) 
+\
+@245 (2017.1) 
 Uma das estratégias para conservação de ali-
 mentos é o salgamento, adição de cloreto de 
 sódio (NaCl), historicamente utilizado por tropei-
@@ -6970,6 +7115,7 @@ nes de boi, porco e peixe.
 O que ocorre com as células presentes nos 
 alimentos preservados com essa técnica? 
  
+\
 A) O sal adicionado diminui a concentração de 
 solutos em Seu interior. 
 B) O sal adicionado desorganiza e destrói suas 
@@ -6981,7 +7127,8 @@ D) Os íons Na+ e CI provenientes da dissocia-
 E) A grande concentração de sal no meio extra-
 celular provoca a saída de água de dentro de-
 las. 
-Questão 246 (2017.1) 
+\
+@246 (2017.1) 
 Diversos produtos naturais podem ser obtidos 
 de plantas por processo de extração. O lapachol 
 é da classe das naftoquinonas. Sua estrutura 
@@ -7001,6 +7148,7 @@ Qual solução deve ser usada para extração do
 lapacho da serragem do ipê com maior eficiên-
 cia? 
  
+\
 A) Solução de Na2CO3, para formar um sal de 
 lapachol. 
 B) Solução-tampão ácido acético/acetato de 
@@ -7013,7 +7161,8 @@ E) Solução de HCl a fim de extraí-lo por meio de
 reação ácido-base. 
  
  
-Questão 247 (2017.1) 
+\
+@247 (2017.1) 
 A técnica do carbono-14 permite a datação de 
 fósseis pela medição dos valores de emissão 
 beta desse isótopo presente no fóssil. Para um 
@@ -7027,17 +7176,15 @@ lógico, e a medição de radiação apresentou
 6750 emissões beta por hora. A idade desse 
 fóssil, em anos, é: 
  
+\
 A) 450 
 B) 1433 
 C) 11460 
 D) 17190 
 E) 27000 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-80 
-novocadernoenem@gmail.com 
-Questão 248 (2017.1) 
+\
+@248 (2017.1) 
 A cromatografia em papel é um método de separação que se baseia na migração diferencial dos compo-
 nentes de uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a 
 fase estacionária e a fase móvel em movimento no papel. A fase estacionária consiste de celulose prati-
@@ -7057,6 +7204,7 @@ Química Nova na Escola, n.29, ago. 2008 - adaptado)
  
 A substância presente na mistura que migra mais lentamente é o(a): 
  
+\
 A) licopeno. 
 B) α-caroteno. 
 C) γ-caroteno. 
@@ -7064,7 +7212,8 @@ D) Capsorubina.
 E) α-Criptoxantina. 
  
  
-Questão 249 (2017.1) 
+\
+@249 (2017.1) 
 O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol) é sintetizado a partir da reação do ácido 
 salicílico (massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisa-
 dor, conforme a equação química: 
@@ -7075,14 +7224,11 @@ Após a síntese, o AAS é purificado e o rendimento final é de aproximadamente
 dades farmacológicas (antitérmico, analgésico e anti-inflamatório e antitrombótico), o AAS é utilizado 
 como medicamento nas formas de comprimidos, nos quais se emprega tipicamente uma massa de 
 500mg dessa substância. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-81 
-novocadernoenem@gmail.com 
 Uma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especi-
 ficações do texto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim? 
  
+\
 A) 293 
 B) 345 
 C) 414 
@@ -7090,7 +7236,8 @@ D) 690
 E) 828 
  
  
-Questão 250 (2017.1) 
+\
+@250 (2017.1) 
 O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe2O3), a magneti-
 ta (Fe3O4) e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em 
 altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de 
@@ -7105,6 +7252,7 @@ Considere as seguintes equações termoquímicas:
 O valor mais próximo de ΔrHӨ, em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO 
 (gasoso) é: 
  
+\
 A) -14. 
 B) - 17 
 C) -50 
@@ -7112,7 +7260,8 @@ D) -64.
 E) -100 
  
  
-Questão 251 (2017.1) 
+\
+@251 (2017.1) 
 O biodiesel é um biocombustível obtido a partir de fontes renováveis, que surgiu como alternativa ao uso 
 do diesel de petróleo para motores de combustão interna. Ele pode ser obtido pela reação entre triglice-
 rídeos, presentes em óleos vegetais e gorduras animais, entre outros, e álcoois de baixa massa molar, 
@@ -7122,17 +7271,15 @@ como o metanol ou etanol, na presença de um catalisador, de acordo com a equaç
  
 A função química presente no produto que representa o biodiesel é: 
  
+\
 A) éter. 
 B) éster. 
 C) álcool. 
 D) cetona. 
 E) ácido carboxílico. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-82 
-novocadernoenem@gmail.com 
-Questão 252 (2017.1) 
+\
+@252 (2017.1) 
 A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de 
 suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de 
 cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado. 
@@ -7144,6 +7291,7 @@ cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, co
  
 No processo eletrolítico Ilustrado anteriormente, o produto secundário obtido é o: 
  
+\
 A) vapor de água. 
 B) oxigênio molecular. 
 C) hipoclorito de sódio. 
@@ -7151,7 +7299,8 @@ D) hidrogênio molecular.
 E) cloreto de hidrogênio. 
  
  
-Questão 253 (2017.1) 
+\
+@253 (2017.1) 
 A invenção do LED azul, que permite a geração de outras cores para compor a luz branca, permitiu a 
 construção de lâmpadas energeticamente mais eficientes e mais duráveis do que as incandescentes e 
 fluorescentes. Em um experimento de laboratório, pretende-se associar duas pilhas em série para acen-
@@ -7159,16 +7308,13 @@ der um LED azul que requer 3,6 volts para o seu funcionamento. Considere as semi
 e seus respectivos potenciais mostrados no quadro. 
  
  
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-83 
-novocadernoenem@gmail.com 
 Qual associação em série de pilhas fornece diferença de potencial, nas condições-padrão, suficiente 
 para acender o LED azul? 
  
  
-Questão 254 (2017.1) 
+\
+@254 (2017.1) 
 Partículas microscópicas existentes na atmosfera funcionam como núcleos de condensação de vapor de 
 água que, sob condições adequadas de temperatura e pressão, propiciam a formação das nuvens e 
 consequentemente das chuvas. No ar atmosférico, tais partículas são formadas pela reação de ácidos 
@@ -7179,13 +7325,10 @@ HX (g) + NH3 (g) → NH4X (g)
  
 (FELIX, E.P.; CARDOSO, A, A, Fatores ambientais que afetam a precipitação úmida.  
 Química Nova na Escola, n. 21, maio 2005 - adaptado) 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-84 
-novocadernoenem@gmail.com 
 A fixação de moléculas de vapor de água pelos núcleos de condensação ocorre por: 
  
+\
 A) ligações iônicas. 
 B) interações dipolo-dipolo. 
 C) interações dipolo-dipolo induzido. 
@@ -7193,7 +7336,8 @@ D) interações íon-dipolo.
 E) ligações covalentes. 
  
  
-Questão 255 (2017.1) 
+\
+@255 (2017.1) 
 A farinha de linhaça dourada é um produto natural que oferece grandes benefícios para o nosso orga-
 nismo. A maior parte dos nutrientes da linhaça encontra-se no óleo desta semente, rico em substâncias 
 lipossolúveis com massas moleculares elevadas. A farinha também a presenta altos teores de fibras 
@@ -7206,6 +7350,7 @@ linhaça dourada.
  
 O óleo de linhaça será obtido na fração: 
  
+\
 A) Destilado 1. 
 B) Destilado 2. 
 C) Resíduo 2. 
@@ -7213,7 +7358,8 @@ D) Resíduo 3.
 D) Resíduo 4. 
  
  
-Questão 256 (2017.1) 
+\
+@256 (2017.1) 
 No ar que respiramos existem os chamados gases inertes”. Trazem curiosos nomes gregos, que signifi-
 cam “O Novo”, “o Oculto”, “o Inativo”. E de fato são de tal modo inertes, tão satisfeitos em sua condição, 
 que não interferem em nenhuma reação química, não se combinam com nenhum outro elemento e jus-
@@ -7225,17 +7371,15 @@ Nobel.
  
 Qual propriedade do flúor justifica sua escolha como reagente para o processo mencionado? 
  
+\
 A) Densidade. 
 B) Condutância. 
 C) Eletronegatividade 
 D) Estabilidade nuclear 
 E) Temperatura de ebulição. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-85 
-novocadernoenem@gmail.com 
-Questão 257 (2017.1) 
+\
+@257 (2017.1) 
 A toxicidade de algumas substâncias é normalmente representada por um índice conhecido DL50 (dose 
 letal mediana). Ele representa a dosagem aplicada a uma população de seres vivos que mata 50% des-
 ses indivíduos e é normalmente medido utilizando ratos como cobaias. Esse índice é muito importante 
@@ -7253,6 +7397,7 @@ de ração.
  
 Qual(ais) grupo(s) terá(ão) uma mortalidade mínima de 10 ratos? 
  
+\
 A) O grupo que se contaminou somente com atrazina.  
 B) O grupo que se contaminou somente com diazinon. 
 C) Os grupos que se contaminaram com atrazina e malation. 
@@ -7260,7 +7405,8 @@ D) Os grupos que se contaminaram com diazinon e malation.
 E) Nenhum dos grupos contaminados com atrazina, diazinon e malation. 
  
  
-Questão 258 (2017.1) 
+\
+@258 (2017.1) 
 Um fato corriqueiro ao se cozinhar arroz é o derramamento de parte da água de cozimento sobre a cha-
 ma azul do fogo, mudando-a para uma chama amarela. Essa mudança de cor pode suscitar interpreta-
 ções diversas, relacionadas às substâncias presentes na água de cozimento. Além do sal de cozinha 
@@ -7268,6 +7414,7 @@ ma azul do fogo, mudando-a para uma chama amarela. Essa mudança de cor pode sus
  
 Cientificamente, sabe-se que essa mudança de cor da chama ocorre pela: 
  
+\
 A) reação do gás de cozinha com o sal, volatilizando gás cloro. 
 B) emissão de fótons pelo sódio, excitado por causa da chama. 
 C) produção de derivado amarelo, pela reação com o carboidrato. 
@@ -7275,24 +7422,23 @@ D) reação do gás de cozinha com a água, formando gás hidrogênio.
 E) excitação das moléculas de proteínas, com formação de luz amarela. 
  
  
-Questão 259 (2017.2) 
+\
+@259 (2017.3) 
 O avanço científico e tecnológico da física nuclear permitiu conhecer, com maiores detalhes, o decai-
 mento radioativo dos núcleos atômicos instáveis, desenvolvendo-se algumas aplicações para a radiação 
 de grande penetração no corpo humano, utilizada, por exemplo, no tratamento do câncer. 
  
 A aplicação citada no texto se refere a qual tipo de radiação? 
  
+\
 A) Beta. 
 B) Alfa. 
 C) Gama. 
 D) Raios X. 
 E) Ultravioleta. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-86 
-novocadernoenem@gmail.com 
-Questão 260 (2017.2)   
+\
+@260 (2017.3)   
 Muitas indústrias e fábricas lançam para o ar, 
 através de suas chaminés, poluentes prejudici-
 ais às plantas e aos animais. Um desses polu-
@@ -7308,6 +7454,7 @@ De acordo com as equações, a alteração ambi-
 ental decorrente da presença desse poluente 
 intensifica o(a): 
  
+\
 A) formação de chuva ácida. 
 B surgimento de ilha de calor. 
 C) redução da camada de ozônio. 
@@ -7315,7 +7462,8 @@ D) ocorrência de inversão térmica.
 E) emissão de gases de efeito estufa. 
  
  
-Questão 261 (2017.2) 
+\
+@261 (2017.3) 
 O Conselho Nacional do Meio Ambiente (Co-
 nama) estabelece os limites máximos de chum-
 bo, cádmio e mercúrio para as familiares pilhas 
@@ -7335,6 +7483,7 @@ Acesso em: 14 maio 2013 - adaptado)
 Do ponto de vista ambiental, a destinação final 
 apropriada para esses produtos é: 
  
+\
 A) direcionar as pilhas e baterias para compos-
 tagem. 
 B) colocar as pilhas e baterias em um coletor de 
@@ -7347,7 +7496,8 @@ E) destinar as pilhas e baterias à reutilização de
 seus componentes. 
  
  
-Questão 262 (2017.2) 
+\
+@262 (2017.3) 
 A bauxita, composta por cerca de 50% de Al2O3, 
 é o mais importante minério de alumínio. As 
 seguintes etapas são necessárias para a obten-
@@ -7373,6 +7523,7 @@ o alumínio reduzido no cátodo.
 As etapas 1, 3 e 5 referem-se, respectivamente, 
 a fenômenos: 
  
+\
 A) Químico, físico e físico. 
 B) Físico, físico e químico. 
 C) Físico, químico e físico. 
@@ -7380,7 +7531,8 @@ D) Químico, físico e químico.
 E) Químico, químico e químico. 
  
  
-Questão 263 (2017.2) 
+\
+@263 (2017.3) 
 O ferro metálico é obtido em altos-fornos pela 
 mistura do minério hematita (α-Fe2O3) contendo 
 impurezas, coque (C) e calcário (CaCO3), sendo 
@@ -7411,17 +7563,15 @@ Pearson Education, 2005 - adaptado)
 No processo de redução desse metal, o agente 
 redutor é o: 
  
+\
 A) C. 
 B) CO. 
 C) CO2. 
 D) CaO. 
 E) CaCO3. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-87 
-novocadernoenem@gmail.com 
-Questão 264 (2017.2) 
+\
+@264 (2017.3) 
 As lâmpadas fluorescentes apresentam vanta-
 gens como maior eficiência luminosa, vida útil 
 mais longa e redução do consumo de energia. 
@@ -7448,6 +7598,7 @@ vos, o processo menos indicado de desconta-
 minação desse metal presente nas lâmpadas 
 seria o(a): 
  
+\
 A) encapsulamento, no qual as lâmpadas são 
 trituradas por via seca ou úmida, o material re-
 sultante é encapsulado em concreto e a dispo-
@@ -7471,7 +7622,8 @@ seguida aditivos químicos são adicionados para
 precipitação e separação do mércurio. 
  
  
-Questão 265 (2017.2) 
+\
+@265 (2017.3) 
 Em algumas regiões brasileiras, é comum se 
 encontrar um animal com odor característico, o 
 zorrilho. Esse odor serve para a proteção desse 
@@ -7494,7 +7646,8 @@ teção do zorrilho, é:
  
  
  
-Questão 266 (2017.2) 
+\
+@266 (2017.3) 
 No Brasil, os postos de combustíveis comercia-
 lizavam uma gasolina com cerca de 22% de 
 álcool anidro.  
@@ -7519,17 +7672,15 @@ as características descritas, é capaz de fixar a
 quantidade de CO2 liberada na queima de um 
 volume dessa gasolina mais próximo de: 
  
+\
 A) 19 L. 
 B) 39 L. 
 C) 71 L. 
 D) 97 L. 
 E) 141 L. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-88 
-novocadernoenem@gmail.com 
-Questão 267 (2017.2) 
+\
+@267 (2017.3) 
 A horticultura tem sido recomendada para a agricultura familiar, porém as perdas são grandes devido à 
 escassez de processos compatíveis para conservar frutas e hortaliças. O processo, denominado desidra-
 tação osmótica, tem se mostrado uma alternativa importante nesse sentido, pois origina produtos com 
@@ -7540,6 +7691,7 @@ volvimento da agricultura familiar. Revista Brasileira de Gestão e Desenvolvime
  
 Esse processo para conservar os alimentos remove a água por: 
  
+\
 A) aumento do ponto de ebulição do solvente. 
 B) passagem do soluto através de uma membrana semipermeável. 
 C) utilização de solutos voláteis, que facilitam a evaporação do solvente. 
@@ -7547,7 +7699,8 @@ D) aumento da volatilidade do solvente pela adição de solutos ao produto.
 E) pressão gerada pela diferença de concentração entre o produto e a solução. 
  
  
-Questão 268 (2017.2) 
+\
+@268 (2017.3) 
 A absorção e o transporte de substâncias tóxicas em sistemas vivos dependem da facilidade com que 
 estas se difundem através das membranas das células. Por apresentar propriedades químicas similares, 
 testes laboratoriais empregam o octan-1-ol como modelo da atividade das membranas. A substância a 
@@ -7566,6 +7719,7 @@ fluorobutano e metanol.
  
 O poluente que apresentou Koa tendendo a zero é o: 
  
+\
 A) éter dietílico. 
 B) fluorobutano. 
 C) benzeno. 
@@ -7573,7 +7727,8 @@ D) metanol.
 E) butano. 
  
  
-Questão 269 (2017.2) 
+\
+@269 (2017.3) 
 Os polímeros são materiais amplamente utilizados na sociedade moderna, alguns deles na fabricação de 
 embalagens e filmes plásticos, por exemplo. Na figura estão relacionadas as estruturas de alguns mo-
 nômeros usados na produção de polímeros de adição comuns. 
@@ -7582,11 +7737,8 @@ nômeros usados na produção de polímeros de adição comuns.
  
 Dentre os homopolímeros formados a partir dos monômeros da figura, aquele que apresenta solubilidade 
 em água é: 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-89 
-novocadernoenem@gmail.com 
+\
 A) polietileno. 
 B) poliestireno. 
 C) polipropileno. 
@@ -7594,7 +7746,8 @@ D) poliacrilamida.
 E) policloreto de vinila. 
  
  
-Questão 270 (2017.2) 
+\
+@270 (2017.3) 
 Os combustíveis de origem fóssil, como o petróleo e o gás natural, geram um sério problema ambiental, 
 devido à liberação de dióxido de carbono durante o processo de combustão. O quadro apresenta as 
 massas molares e as reações de combustão não balanceadas de diferentes combustíveis. 
@@ -7604,6 +7757,7 @@ massas molares e as reações de combustão não balanceadas de diferentes combu
 Considerando a combustão completa de 58 g de cada um dos combustíveis listados no quadro, a subs-
 tância que emite mais CO2 é o: 
  
+\
 A) etano. 
 B) butano. 
 C) metano. 
@@ -7611,7 +7765,8 @@ D) propano.
 E) acetileno. 
  
  
-Questão 271 (2017.2) 
+\
+@271 (2017.3) 
 Pesquisadores avaliaram a qualidade da água potável distribuída em cidades brasileiras. Entre as várias 
 substâncias encontradas, destacam-se as apresentadas no esquema. A presença dessas substâncias 
 pode ser verificada por análises químicas, como uma reação ácido-base, mediante a adição de hidróxido 
@@ -7619,14 +7774,11 @@ de sódio.
  
  
 (Disponível em: www.unicamp.br. Acesso em: 16 nov. 2014 - adaptado) 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-90 
-novocadernoenem@gmail.com 
 Apesar de não ser perceptível visualmente, por causa das condições de diluição, essa análise apresen-
 tará resultado positivo para o(a): 
  
+\
 A) cafeína. 
 B) atrazina. 
 C) triclosan. 
@@ -7634,7 +7786,8 @@ D) benzo[a]pireno.
 E) dipirona sódica. 
  
  
-Questão 272 (2017.2) 
+\
+@272 (2017.3) 
 Sabendo-se que as enzimas podem ter sua atividade regulada por diferentes condições de temperatura 
 e pH, foi realizado um experimento para testar as condições ótimas para a atividade de uma determinada 
 enzima. 
@@ -7645,6 +7798,7 @@ Os resultados estão apresentados no gráfico.
  
 Em relação ao funcionamento da enzima, os resultados obtidos indicam que o(a): 
  
+\
 A) aumento do pH leva a um a atividade maior da enzima. 
 B) temperatura baixa (10 °C) é o principal inibidor da enzima. 
 C) ambiente básico reduz a quantidade de enzima necessária na reação. 
@@ -7652,7 +7806,8 @@ D) ambiente básico reduz a quantidade de substrato metabolizado pela enzima.
 E) temperatura ótima de funcionamento da enzima é 30 °C , independentemente do pH. 
  
  
-Questão 273 (2017.2) 
+\
+@273 (2017.3) 
 Alguns profissionais burlam a fiscalização quando adicionam quantidades controladas de solução aquo-
 sa de hidróxido de sódio a tambores de leite de validade vencida. Assim que o teor de acidez, em termos 
 de ácido lático, encontra-se na faixa permitida pela legislação, o leite adulterado passa a ser comerciali-
@@ -7662,17 +7817,15 @@ CH3CH(OH)COOH (aq) + NaOH (aq) → CH3CH(OH)COONa (aq) + H2O (l)
  
 A consequência dessa adulteração é o(a): 
  
+\
 A) aumento do pH do leite. 
 B) diluição significativa do leite. 
 C) precipitação do lactato de sódio. 
 D) diminuição da concentração de sais. 
 E) aumento da concentração dos íons H+. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-91 
-novocadernoenem@gmail.com 
-Questão 274 (2017.2) 
+\
+@274 (2017.3) 
 O hidrocarboneto representado pela estrutura química a seguir pode ser isolado a partir das folhas ou 
 das flores de determinadas plantas. Além disso, sua função é relacionada, entre outros fatores, a seu 
 perfil de insaturações. 
@@ -7681,6 +7834,7 @@ perfil de insaturações.
  
 Considerando esse perfil específico, quantas ligações pi a molécula contém? 
  
+\
 A) 1 
 B) 2 
 C) 4 
@@ -7688,7 +7842,8 @@ D) 6
 E) 7 
  
  
-Questão 275 (2018.1) 
+\
+@275 (2018.1) 
 Pesquisas demonstram que nanodispositivos baseados em movimentos de dimensões atômicas, induzi-
 dos por luz, poderão ter aplicações em tecnologias futuras, substituindo micromotores, sem a necessida-
 de de componentes mecânicos. Exemplo de movimento molecular induzido pela luz pode ser observado 
@@ -7702,18 +7857,16 @@ reações reversíveis da cadeia do polímero, que promovem o movimento observad
  
 O fenômeno de movimento molecular, promovido pela incidência de luz, decorre do(a) 
  
+\
 A) movimento vibracional dos átomos, que leva ao encurtamento e à relaxação das ligações 
 B) isomerização das ligações N=N, sendo a forma cis do polímero mais compacta que a trans. 
 C) tautomerização das unidades monoméricas do polímero, que leva a um composto mais compacto. 
 D) ressonância entre os elétrons π do grupo azo e os do anel aromático que encurta as ligações duplas. 
 E) variação conformacional das ligações N=N, que resulta em estruturas com diferentes áreas de super-
 fície. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-92 
-novocadernoenem@gmail.com 
-Questão 276 (2018.1) 
+\
+@276 (2018.1) 
 O carro flex é uma realidade no Brasil. Estes 
 veículos estão equipados com motor que tem a 
 capacidade de funcionar com mais de um tipo 
@@ -7735,6 +7888,7 @@ sobre esses combustíveis.
 O volume de etanol combustível, em litro, con-
 sumido no percurso de volta é mais próximo de: 
  
+\
 A) 27. 
 B) 32. 
 C) 37. 
@@ -7742,7 +7896,8 @@ D) 58.
 E) 67. 
  
  
-Questão 277 (2018.1) 
+\
+@277 (2018.1) 
 A identificação de riscos de produtos perigosos 
 para o transporte rodoviário é obrigatória e rea-
 lizada por meio da sinalização composta por um 
@@ -7777,6 +7932,7 @@ Considerando a identificação apresentada no
 caminhão, o código 1005 corresponde à subs-
 tância: 
  
+\
 A) eteno (C2H4) 
 B) nitrogênio (N4) 
 C) amônia (NH3), 
@@ -7784,7 +7940,8 @@ D) propano (C3H8)
 E) dióxido de carbono (CO2) 
  
  
-Questão 278 (2018.1) 
+\
+@278 (2018.1) 
 Em 1938 o arqueólogo alemão WIlhelm Kõnlg, 
 diretor do Museu Nacional do Iraque, encontrou 
 um objeto estranho na coleção da Instituição, 
@@ -7806,17 +7963,15 @@ de redução:
 Nessa suposta pilha, qual dos componentes 
 atuaria como cátodo? 
  
+\
 A) tampa de betume. 
 B) vestígio de ácido. 
 C) barra de ferro. 
 D) tubo de cobre. 
 E) vaso de barro. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-93 
-novocadernoenem@gmail.com 
-Questão 279 (2018.1) 
+\
+@279 (2018.1) 
 Usando um densímetro cuja menor divisão da 
 escala, isto é, a diferença entre duas marcações 
 consecutivas, é de 5,0 x 10-2 cm-3, um estudante 
@@ -7850,7 +8005,8 @@ densímetro está representada em: D)
  
  
  
-Questão 280 (2018.1) 
+\
+@280 (2018.1) 
 O sulfeto de mercúrio (II) foi usado como pig-
 mento vermelho para pinturas de quadros e 
 murais. Esse pigmento, conhecido como vermi-
@@ -7869,6 +8025,7 @@ Acesso em: 26 abr. 2018 - adaptado)
 Segundo a hipótese proposta, o íon cloreto atua 
 na decomposição fotoquímica do vermilion: 
  
+\
 A) reagindo como agente oxidante. 
 B) deslocando o equilíbrio químico. 
 C) diminuindo a energia de ativação. 
@@ -7876,7 +8033,8 @@ D) precipitando cloreto de mercúrio.
 E) absorvendo a energia da luz visível. 
  
  
-Questão 281 (2018.1) 
+\
+@281 (2018.1) 
 Na mitologia grega, Nióbia era a filha de Tânta-
 lo, dois personagens conhecidos pelo sofrimen-
 to. O elemento químico de número atômico (Z) 
@@ -7892,11 +8050,7 @@ lurgia, na produção de supercondutores e em
 outras aplicações na indústria de ponta, exata-
 mente pelas propriedades químicas e físicas 
 comuns aos dois. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-94 
-novocadernoenem@gmail.com 
 (KEAN, S. A colher que desaparece: e outras histó-
 rias reais de loucura, amor e morte a partir dos ele-
 mentos químicos. Rio de Janeiro: Zahar, 2011) 
@@ -7905,6 +8059,7 @@ A importância econômica e tecnológica desses
 elementos, pela similaridade de suas proprieda-
 des químicas e físicas, deve-se a: 
  
+\
 A) terem elétrons no subnível f. 
 B) serem elementos de transição interna. 
 C) pertencerem ao mesmo grupo na tabela pe-
@@ -7915,7 +8070,8 @@ E) estarem localizados na família dos alcalinos
 terrosos e alcalinos, respectivamente. 
  
  
-Questão 282 (2018.1) 
+\
+@282 (2018.1) 
 Companhias que fabricam jeans usam cloro 
 para o clareamento, seguido de lavagem. Algu-
 mas estão substituindo o cloro por substâncias 
@@ -7934,6 +8090,7 @@ biologia. Rio de Janeiro: Artmed, 2016 - adaptado)
 Nesse caso, o uso dessas leveduras modifica-
 das objetiva: 
  
+\
 A) reduzir a quantidade de resíduos tóxicos nos 
 efluentes da lavagem. 
 B) eliminar a necessidade de tratamento da 
@@ -7944,7 +8101,8 @@ D) aumentar a resistência do jeans a peróxidos.
 E) associar ação bactericida ao clareamento. 
  
  
-Questão 283 (2018.1) 
+\
+@283 (2018.1) 
 A hidroxilamina (NH2OH) é extremamente reati-
 va em reações de substituição nucleofílica, justi-
 ficando sua utilização em diversos processos. A 
@@ -7962,6 +8120,7 @@ testadas as moléculas numeradas de 1 a 5.
 Dentre as moléculas testadas, qual delas apre-
 sentou menor reatividade? 
  
+\
 A) 1 
 B) 2 
 C) 3 
@@ -7969,7 +8128,8 @@ D) 4
 E) 5 
  
  
-Questão 284 (2018.1) 
+\
+@284 (2018.1) 
 Por meio de reações químicas que envolvem 
 carboidratos, lipídeos e proteínas, nossas célu-
 las obtêm energia e produzem gás carbônico e 
@@ -7992,6 +8152,7 @@ Na oxidação de 1,0 grama de glicose, a energia
 obtida para atividade muscular, em quilojoule, é 
 mais próxima de: 
  
+\
 A) 6,2. 
 B) 15,6. 
 C) 70,0. 
@@ -7999,7 +8160,8 @@ D) 622,2.
 E) 1120,0. 
  
  
-Questão 285 (2018.1) 
+\
+@285 (2018.1) 
 Células solares à base de TiO2 sensibilizadas 
 por corantes (S) são promissoras e poderão vir 
 a substituir as células de silício. Nessas células, 
@@ -8011,11 +8173,7 @@ processos envolvidos estão ilustrados na figura.
 A conversão de energia solar em elétrica ocorre 
 por meio da sequência de reações apresenta-
 das na sequência. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-95 
-novocadernoenem@gmail.com 
  
  
 (LONO,C.; DE PAOLI, M. –A. Dye-Sensitizes Solar Cells: A Successful Combination of Materials.  
@@ -8023,6 +8181,7 @@ Journal of the Brazilian Chemical Society, n. 6, 2003 – adaptado)
  
 A reação 3 é fundamental para o contínuo funcionamento da célula solar, pois: 
  
+\
 A) reduz íons I- a I3
 -. 
 B) regenera o corante. 
@@ -8031,7 +8190,8 @@ D) promove a oxidação do corante.
 E) transfere elétrons para o eletrodo de TiO2. 
  
  
-Questão 286 (2018.1) 
+\
+@286 (2018.1) 
 Alguns materiais sólidos são compostos por átomos que interagem entre si formando ligações que po-
 dem ser covalentes, iônicas ou metálicas. A figura apresenta a energia potencial de ligação em função 
 da distância interatômica em um sólido cristalino. Analisando essa figura, observa-se que, na temperatu-
@@ -8045,17 +8205,15 @@ linhas horizontais, identificadas com o valor da temperatura, de T1 a T4 (temper
  
 O deslocamento observado na distância média revela o fenômeno da: 
  
+\
 A) ionização. 
 B) dilatação. 
 C) dissociação. 
 D) quebra de ligações covalentes. 
 E) formação de ligações metálicas. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-96 
-novocadernoenem@gmail.com 
-Questão 287 (2018.1) 
+\
+@287 (2018.1) 
 Tensoativos são compostos orgânicos que possuem comportamento anfifílico, isto é, possuem duas 
 regiões, uma hidrofóbica e outra hidrofílica. O principal tensoativo aniônico sintético surgiu na década de 
 1940 e teve grande aceitação no mercado de detergentes em razão do melhor desempenho comparado 
@@ -8073,7 +8231,8 @@ Qual a fórmula estrutural do tensoativo persistente no ambiente mencionado no t
  
  
  
-Questão 288 (2018.1) 
+\
+@288 (2018.1) 
 As abelhas utilizam a sinalização química para distinguir a abelha-rainha de uma operária, sendo capa-
 zes de reconhecer diferenças entre moléculas. A rainha produz o sinalizador químico conhecido como 
 ácido 9-hidroxidec-2-enoico, enquanto as abelhas-operárias produzem ácido 10-hidroxidec-2-enoico. 
@@ -8082,15 +8241,12 @@ sinalização química para perceber a diferença. Pode-se dizer que veem por me
  
 (LE COUTEUR, R; BURRESON, J. Os botões de Napoleão: as 17 moléculas  
 que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 - adaptado) 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-97 
-novocadernoenem@gmail.com 
 As moléculas dos sinalizadores químicos produ-
 zidas pelas abelhas rainha e operária possuem 
 diferença na: 
  
+\
 A) fórmula estrutural. 
 B) fórmula molecular. 
 C) identificação dos tipos de ligação. 
@@ -8098,7 +8254,8 @@ D) contagem do número de carbonos.
 E) identificação dos grupos funcionais. 
  
  
-Questão 289 (2018.1) 
+\
+@289 (2018.1) 
 O manejo adequado do solo possibilita a manu-
 tenção de sua fertilidade à medida que as trocas 
 de nutrientes entre matéria orgânica, água, solo 
@@ -8120,6 +8277,7 @@ Bookman, 2013 - adaptado)
  
 Essa remediação promove no solo o(a): 
  
+\
 A) diminuição do pH, deixando-o fértil. 
 B) solubilização do alumínio, ocorrendo sua 
 lixiviação pela chuva. 
@@ -8131,7 +8289,8 @@ E) aumento da sua alcalinidade, tornando os
 íons alumínio menos disponíveis. 
  
  
-Questão 290 (2018.1) 
+\
+@290 (2018.1) 
 O petróleo é uma fonte de energia de baixo 
 custo e de larga utilização como matéria-prima 
 para uma grande variedade de produtos. É um 
@@ -8146,6 +8305,7 @@ fóssil, utiliza-se o processo de craqueamento.
  
 O que ocorre nesse processo? 
  
+\
 A) Transformação das frações do petróleo em 
 outras moléculas menores. 
 B) Reação de óxido-redução com transferência 
@@ -8159,7 +8319,8 @@ petróleo em função de suas temperaturas de
 ebulição. 
  
  
-Questão 291 (2018.1) 
+\
+@291 (2018.1) 
 O grafeno é uma forma alotrópica do carbono 
 constituído por uma folha planar (arranjo bidi-
 mensional) de átomos de carbono compactados 
@@ -8171,6 +8332,7 @@ estrutura é hexagonal, conforme a figura.
 Nesse arranjo, os átomos de carbono possuem 
 hibridação: 
  
+\
 A) sp de geometria linear. 
 B) sp2 de geometria trigonal planar. 
 C) sp3 alternados com carbonos com hibridação 
@@ -8179,7 +8341,8 @@ D) sp3d de geometria planar.
 E) sp3d2 com geometria hexagonal planar. 
  
  
-Questão 292 (2018.1) 
+\
+@292 (2018.1) 
 O alemão Fritz Haber recebeu o Prêmio Nobel 
 de química de 1918 pelo desenvolvimento de 
 um processo viável para a síntese da amônia 
@@ -8203,11 +8366,7 @@ são levados de onde cresce a colheita para
 lugares distantes, onde são consumidos, fazen-
 do com que o nitrogênio ligado não retorne ã 
 terra da qual foi retirado. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-98 
-novocadernoenem@gmail.com 
 Isso tem gerado a necessidade econômica 
 mundial de abastecer o solo com nitrogênio 
 ligado. […] A demanda por nitrogênio, tal como 
@@ -8234,6 +8393,7 @@ De acordo com os argumentos de Haber, qual
 fenômeno teria provocado o desequilíbrio no 
 “balanço do nitrogênio ligado”? 
  
+\
 A) O esgotamento das reservas de salitre no 
 Chile. 
 B) O aumento da exploração de carvão vegetal 
@@ -8246,7 +8406,8 @@ E) A necessidade das plantas de absorverem
 sais de nitrogênio disponíveis no solo. 
  
  
-Questão 293 (2018.2) 
+\
+@293 (2018.3) 
 As soluções de hipoclorito de sódio têm ampla 
 aplicação como desinfetantes e alvejantes. Em 
 uma empresa de limpeza, o responsável pela 
@@ -8266,12 +8427,14 @@ cloro ativo e desprezando outras variáveis, para
 cada bombona de 50kg haverá uma economia 
 de: 
  
+\
 A) R$ 4,00. 
 B) R$ 6,00. 
 C) R$ 10,00. 
 D) R$ 30,00. 
 E) R$ 45,00. 
-Questão 294 (2018.2) 
+\
+@294 (2018.3) 
 Em derramamentos de óleo no mar, os produtos 
 conhecidos como “dispersantes” são usados 
 para reduzir a tensão superficial do petróleo 
@@ -8288,6 +8451,7 @@ tergente, água sanitária e sal de cozinha.
 Qual dos materiais disponíveis provoca uma 
 ação semelhante à situação descrita? 
  
+\
 A) Azeite. 
 B) Vinagre. 
 C) Detergente. 
@@ -8295,7 +8459,8 @@ D) Água sanitária.
 E) Sal de cozinha. 
  
  
-Questão 295 (2018.2) 
+\
+@295 (2018.3) 
 O terremoto e o tsunami ocorridos no Japão em 
 11 de março de 2011 romperam as paredes de 
 isolamento de alguns reatores da usina nuclear 
@@ -8306,6 +8471,7 @@ da por sua meia-vida de oito dias. O tempo es-
 timado para que esse material se desintegre até 
 atingir 1/16 da sua massa inicial é de: 
  
+\
 A) 8 dias. 
 B) 16 dias. 
 C) 24 dias. 
@@ -8313,7 +8479,8 @@ D) 32 dias.
 E) 128 dias. 
  
  
-Questão 296 (2018.2) 
+\
+@296 (2018.3) 
 O elemento radioativo tório (Th) pode substituir 
 os combustíveis fósseis e baterias. Pequenas 
 quantidades desse elemento seriam suficientes 
@@ -8333,17 +8500,15 @@ Considerando a equação de decaimento nucle-
 ar, a partícula que fica bloqueada na caixa de 
 aço inoxidável é o(a): 
  
+\
 A) alfa. 
 B) beta. 
 C) próton. 
 D) nêutron. 
 E) pósitron. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-99 
-novocadernoenem@gmail.com 
-Questão 297 (2018.2) 
+\
+@297 (2018.3) 
 Pesquisadores desenvolveram uma nova e mais eficiente rota sintética para produzir a substância ator-
 vastatina, empregada para reduzir os níveis de colesterol. Segundo os autores, com base nessa desco-
 berta, a síntese da atorvastatina cálcica (CaC66H68F2N4O10, massa molar igual a 1154 g/mol) é realizada 
@@ -8363,6 +8528,7 @@ Disponível em: http://ipd-forma.org.br. Acesso em: 26 out. 2015 - adaptado)
 Considerando o processo descrito, a massa, em grama, de atorvastatina cálcica obtida a partir de 100 g 
 do éster é mais próxima de: 
  
+\
 A) 20. 
 B) 29. 
 C) 160. 
@@ -8370,7 +8536,8 @@ D) 202.
 E) 231. 
  
  
-Questão 298 (2018.2) 
+\
+@298 (2018.3) 
 O aproveitamento integral e racional das matérias-primas lignocelulósicas poderá revolucionar uma série 
 de segmentos industriais, tais como o de combustíveis, mediante a produção de bioetanol de segunda 
 geração. Este processo requer um tratamento prévio da biomassa, destacando-se o uso de ácidos mine-
@@ -8386,17 +8553,15 @@ res aproximados de logaritmos decimais.
 Sabendo-se que as massas molares, em g/mol, dos elementos H, O e S são, respectivamente, iguais a 
 1, 16 e 32, qual é o pH da solução diluída de ácido sulfúrico preparada conforme descrito? 
  
+\
 A) 2,6 
 B) 3,0 
 C) 3,2 
 D) 3,3 
 E) 3,6 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-100 
-novocadernoenem@gmail.com 
-Questão 299 (2018.2) 
+
+\
+@299 (2018.3) 
 A figura apresenta um processo alternativo para obtenção de etanol combustível, utilizando o bagaço e 
 as folhas da cana-de-açúcar. Suas principais etapas são identificadas com números. 
  
@@ -8406,6 +8571,7 @@ as folhas da cana-de-açúcar. Suas principais etapas são identificadas com nú
  
 Em qual etapa ocorre a síntese desse combustível? 
  
+\
 A) 1 
  
  
@@ -8418,7 +8584,8 @@ A) 1
      E) 5 
  
  
-Questão 300 (2018.2) 
+\
+@300 (2018.3) 
 Objetos de prata sofrem escurecimento devido à sua reação com enxofre. Estes materiais recuperam 
 seu brilho característico quando envoltos por papel alumínio e mergulhados em um recipiente contendo 
 água quente e sal de cozinha. A reação não balanceada que ocorre é: 
@@ -8432,6 +8599,7 @@ Dados da massa molar dos elementos (g mol–1): Ag = 108; S = 32.
 Utilizando o processo descrito, a massa de prata metálica que será regenerada na superfície de um obje-
 to que contém 2,48 g de Ag2S é: 
  
+\
 A) 0,54 g. 
 B) 1,08 g. 
 C) 1,91 g. 
@@ -8439,7 +8607,8 @@ D) 2,16 g.
 E) 3,82 g. 
  
  
-Questão 301 (2018.2) 
+\
+@301 (2018.3) 
 O suco de repolho-roxo pode ser utilizado como indicador ácido-base em diferentes soluções. Para isso, 
 basta misturar um pouco desse suco à solução desejada e comparar a coloração final com a escala indi-
 cadora de pH, com valores de 1 a 14, mostrada a seguir: 
@@ -8449,17 +8618,15 @@ cadora de pH, com valores de 1 a 14, mostrada a seguir:
 Utilizando-se o indicador ácido-base e a escola para determinar o pH da saliva humana e o do suco gás-
 trico, têm-se, respectivamente, as cores: 
  
+\
 A) vermelha e vermelha. 
 B) vermelha e azul. 
 C) rosa e roxa. 
 D) roxa e amarela. 
 E) roxa e vermelha. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
  
-101 
-novocadernoenem@gmail.com 
-Questão 302 (2018.2) 
+\
+@302 (2018.3) 
 O ácido acetilsalicílico é um analgésico que 
 pode ser obtido pela reação de esterificação do 
 ácido salicílico. Quando armazenado em condi-
@@ -8473,6 +8640,7 @@ acetilsalicílico.
  
 Esse odor é provocado pela liberação de: 
  
+\
 A) etanol. 
 B) etanal. 
 C) ácido etanoico. 
@@ -8480,7 +8648,8 @@ D) etanoato de etila.
 E) benzoato de etila. 
  
  
-Questão 303 (2018.2) 
+\
+@303 (2018.3) 
 Na hidrogenação parcial de óleos vegetais, efe-
 tuada pelas indústrias alimentícias, ocorrem 
 processos paralelos que conduzem à conversão 
@@ -8497,6 +8666,7 @@ Qual tipo de reação química a indústria alimen-
 tícia deve evitar para minimizar a obtenção des-
 ses subprodutos? 
  
+\
 A) Adição. 
 B) Ácido-base. 
 C) Substituição. 
@@ -8504,7 +8674,8 @@ D) Oxirredução.
 E) Isomerização. 
  
  
-Questão 304 (2018.2) 
+\
+@304 (2018.3) 
 As indústrias de cerâmica utilizam argila para 
 produzir artefatos como tijolos e telhas. Uma 
 amostra de argila contém 45% em massa de 
@@ -8515,6 +8686,7 @@ estufa, somente a umidade é removida.
 Após o processo de secagem, o teor de sílica 
 na argila seca será de: 
  
+\
 A) 45%. 
 B) 50%. 
 C) 55%. 
@@ -8522,7 +8694,8 @@ D) 90%.
 E) 100%. 
  
  
-Questão 305 (2018.2) 
+\
+@305 (2018.3) 
 Várias características e propriedades de molé-
 culas orgânicas podem ser inferidas analisando 
 sua fórmula estrutural. Na natureza, alguns 
@@ -8537,6 +8710,7 @@ ras.
 Entre as moléculas apresentadas, observa-se a 
 ocorrência de isomeria: 
  
+\
 A) ótica. 
 B) de função. 
 C) de cadeia. 
@@ -8544,7 +8718,8 @@ D) geométrica.
 E) de compensação. 
  
  
-Questão 306 (2018.2) 
+\
+@306 (2018.3) 
 Bebidas podem ser refrigeradas de modo mais 
 rápido utilizando-se caixas de isopor contendo 
 gelo e um pouco de sal grosso comercial. Nesse 
@@ -8558,18 +8733,16 @@ calor do gelo.
 Do ponto de vista científico, o resfriamento rápi-
 do ocorre em razão da: 
  
+\
 A) variação da solubilidade do sal. 
 B) alteração da polaridade da água. 
 C) elevação da densidade do líquido. 
 D) modificação da viscosidade do líquido. 
 E) diminuição da temperatura de fusão do líqui-
 do. 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-102 
-novocadernoenem@gmail.com 
-Questão 307 (2018.2) 
+
+\
+@307 (2018.3) 
 O sulfato de bário (BaSO4) é mundialmente 
 utilizado na forma de suspensão como contraste 
 em radiografias de esôfago, estômago e intesti-
@@ -8596,6 +8769,7 @@ Para garantir a segurança do paciente que fizer
 uso do contraste, deve-se preparar essa sus-
 pensão em: 
  
+\
 A) água destilada. 
 B) soro fisiológico. 
 C) solução de cloreto de bário, BaCl2. 
@@ -8603,7 +8777,8 @@ D) solução de sulfato de bário, BaSO4.
 E) solução de sulfato de potássio, K2SO4. 
  
  
-Questão 308 (2018.2) 
+\
+@308 (2018.3) 
 A radiação na região do infravermelho interage 
 com a oscilação do campo elétrico gerada pelo 
 movimento vibracional de átomos de uma liga-
@@ -8621,12 +8796,14 @@ A ligação química dessa molécula, envolvendo
 radiação no infravermelho com maior frequência 
 é: 
  
+\
 A) C−C 
 B) C−N 
 C) C=C 
 D) C=N 
 E) C≡N 
-Questão 309 (2018.2) 
+\
+@309 (2018.3) 
 Sobre a diluição do ácido sulfúrico em água, o 
 químico e escritor Primo Levi afirma que, "está 
 escrito em todos os tratados, é preciso operar 
@@ -8641,6 +8818,7 @@ Relume-Dumará, 1994 - adaptado)
  
 O alerta dado pro Levi justifica-se porque a: 
  
+\
 A) diluição do ácido libera muito calor. 
 B) mistura de água e ácido é explosiva. 
 C) água provoca a neutralização do ácido. 
@@ -8648,677 +8826,4 @@ D) mistura final de água e ácido separa-se em
 fases. 
 E) água inibe a liberação dos vapores proveni-
 entes do ácido. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-103 
-novocadernoenem@gmail.com 
-GABARITO 
- 
-1 
-C 
-2 
-E 
-3 
-B 
-4 
-E 
-5 
-D 
-6 
-C 
-7 
-D 
-8 
-C 
-9 
-D 
-10 
-D 
-11 
-D 
-12 
-A 
-13 
-B 
-14 
-D 
-15 
-D 
-16 
-E 
-17 
-B 
-18 
-E 
-19 
-A 
-20 
-D 
-21 
-D 
-22 
-D 
-23 
-D 
-24 
-D 
-25 
-A 
-26 
-E 
-27 
-B 
-28 
-D 
-29 
-D 
-30 
-E 
-31 
-C 
-32 
-D 
-33 
-D 
-34 
-D 
-35 
-E 
-36 
-A 
-37 
-B 
-38 
-A 
-39 
-C 
-40 
-A 
-41 
-E 
-42 
-D 
-43 
-D 
-44 
-D 
-45 
-D 
-46 
-C 
-47 
-B 
-48 
-D 
-49 
-A 
-50 
-A 
-51 
-E 
-52 
-C 
-53 
-B 
-54 
-C 
-55 
-B 
-56 
-E 
-57 
-B 
-58 
-B 
-59 
-B 
-60 
-A 
-61 
-D 
-62 
-C 
-63 
-A 
-64 
-D 
-65 
-E 
-66 
-D 
-67 
-A 
-68 
-E 
-69 
-C 
-70 
-C 
-71 
-D 
-72 
-A 
-73 
-B 
-74 
-A 
-75 
-A 
-76 
-B 
-77 
-A 
-78 
-C 
-79 
-D 
-80 
-B 
-81 
-C 
-82 
-E 
-83 
-A 
-84 
-E 
-85 
-E 
-86 
-B 
-87 
-A 
-88 
-B 
-89 
-A 
-90 
-A 
-91 
-A 
-92 
-B 
-93 
-E 
-94 
-D 
-95 
-E 
-96 
-B 
-97 
-D 
-98 
-C 
-99 
-B 
-100 
-D 
-101 
-D 
-102 
-A 
-103 
-B 
-104 
-A 
-105 
-B 
-106 
-E 
-107 
-D 
-108 
-C 
-109 
-D 
-110 
-A 
-111 
-E 
-112 
-A 
-113 
-C 
-114 
-E 
-115 
-B 
-116 
-E 
-117 
-B 
-118 
-C 
-119 
-E 
-120 
-B 
-121 
-A 
-122 
-C 
-123 
-B 
-124 
-A 
-125 
-D 
-126 
-B 
-127 
-E 
-128 
-D 
-129 
-E 
-130 
-B 
-131 
-D 
-132 
-B 
-133 
-A 
-134 
-E 
-135 
-B 
-136 
-E 
-137 
-C 
-138 
-A 
-139 
-E 
-140 
-D 
-141 
-B 
-142 
-B 
-143 
-E 
-144 
-E 
-145 
-D 
-146 
-A 
-147 
-E 
-148 
-A 
-149 
-D 
-150 
-B 
-151 
-E 
-152 
-C 
-153 
-B 
-154 
-D 
-155 
-C 
-156 
-B 
-157 
-A 
-158 
-A 
-159 
-B 
-160 
-A 
-161 
-D 
-162 
-X 
-163 
-A 
-164 
-B 
-165 
-C 
-166 
-A 
-167 
-B 
-168 
-B 
-169 
-A 
-170 
-A 
-171 
-A 
-172 
-C 
-CADERNO QUÍMICA 
-ENEM 2009 a 2018 
- 
-104 
-novocadernoenem@gmail.com 
-173 
-B 
-174 
-C 
-175 
-C 
-176 
-A 
-177 
-E 
-178 
-C 
-179 
-D 
-180 
-A 
-181 
-B 
-182 
-C 
-183 
-C 
-184 
-C 
-185 
-E 
-186 
-A 
-187 
-B 
-188 
-B 
-189 
-A 
-190 
-E 
-191 
-D 
-192 
-B 
-193 
-C 
-194 
-B 
-195 
-C 
-196 
-B 
-197 
-D 
-198 
-B 
-199 
-C 
-200 
-D 
-201 
-E 
-202 
-C 
-203 
-E 
-204 
-D 
-205 
-D 
-206 
-B 
-207 
-D 
-208 
-D 
-209 
-B 
-210 
-A 
-211 
-A 
-212 
-C 
-213 
-D 
-214 
-E 
-215 
-B 
-216 
-B 
-217 
-B 
-218 
-C 
-219 
-C 
-220 
-C 
-221 
-C 
-222 
-B 
-223 
-E 
-224 
-A 
-225 
-A 
-226 
-D 
-227 
-D 
-228 
-B 
-229 
-A 
-230 
-B 
-231 
-B 
-232 
-C 
-233 
-E 
-234 
-B 
-235 
-E 
-236 
-E 
-237 
-A 
-238 
-A 
-239 
-B 
-240 
-D 
-241 
-D 
-242 
-E 
-243 
-A 
-244 
-A 
-245 
-E 
-246 
-A 
-247 
-C 
-248 
-D 
-249 
-D 
-250 
-B 
-251 
-B 
-252 
-D 
-253 
-C 
-254 
-D 
-255 
-E 
-256 
-C 
-257 
-D 
-258 
-B 
-259 
-C 
-260 
-A 
-261 
-E 
-262 
-E 
-263 
-B 
-264 
-C 
-265 
-B 
-266 
-C 
-267 
-E 
-268 
-D 
-269 
-D 
-270 
-E 
-271 
-C 
-271 
-D 
-273 
-A 
-274 
-C 
-275 
-B 
-276 
-D 
-277 
-C 
-278 
-D 
-279 
-D 
-280 
-C 
-281 
-C 
-282 
-A 
-283 
-D 
-284 
-A 
-285 
-B 
-286 
-B 
-287 
-B 
-288 
-A 
-289 
-E 
-290 
-A 
-291 
-B 
-292 
-D 
-293 
-D 
-294 
-C 
-295 
-D 
-296 
-A 
-297 
-C 
-298 
-B 
-299 
-D 
-300 
-D 
-301 
-E 
-302 
-C 
-303 
-E 
-304 
-B 
-305 
-A 
-306 
-E 
-307 
-E 
-308 
-E 
-309 
-A 
- 
- 
- 
-
+\ 
