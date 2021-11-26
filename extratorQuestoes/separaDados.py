@@ -125,8 +125,13 @@ db.connect()
 db.create_tables([Provas, Questoes, Respostas, Gabaritos])
 db.close()
 
+materias = ["matematica", "portugues", "biologia", "fisica",
+            "quimica", "filosofia_sociologia", "geografia", "historia", "ingles"]
 
-# print(insertGabarito("Provas/2020_GB_impresso_D1_CD4.txt"))
-separaDados("Provas/txt/provas/filosofia_sociologia.txt",
-            "Provas/txt/gabaritos/gabarito_filosofia_sociologia.txt")
-# teste("Provas/2020_PV_impresso_D1_CD4_superampliada.txt")
+for mat in materias:
+    separaDados(f"Provas/txt/provas/{mat}.txt",
+                f"Provas/txt/gabaritos/gabarito_{mat}.txt")
+
+
+# separaDados("Provas/txt/provas/historia.txt",
+#             "Provas/txt/gabaritos/gabarito_historia.txt")

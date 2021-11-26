@@ -71,7 +71,7 @@ co pertencente à família dos metais alcalinos
 terrosos e que foi utilizado durante muito tempo 
 na medicina. 
  
- 
+\L
  
 As informações fornecidas mostram que: 
 \
@@ -103,7 +103,7 @@ queima de 1 mol de cada um desses combustí-
 veis libera uma determinada quantidade de ca-
 lor, que estão apresentadas na tabela a seguir. 
  
- 
+\L 
  
 Considere que foram queimadas massas, inde-
 pendentemente, desses três combustíveis, de 
@@ -135,8 +135,7 @@ consumida, e o etanol, que produziu 1350 g de
 CO2.  
 \
 @04 (2009.4) 
- 
- 
+\L
  
 A Companhia de Tecnologia de Saneamento Ambiental do Estado de São Paulo (CETESB) divulga con-
 tinuamente dados referentes à qualidade do ar na região metropolitana de São Paulo. A tabela apresen-
@@ -147,8 +146,7 @@ Se esses dados fossem verídicos, então, seria mais provável encontrar problem
 A) no Parque Dom Pedro II. 
  
 B) em São Caetano do Sul. 
- 
-          C) em Congonhas. 
+C) em Congonhas. 
 D) em Osasco.  
  
  
@@ -178,7 +176,8 @@ permitida. Na imagem, são apresentadas situa-
 ções distintas para três amostras de álcool 
 combustível.  
  
- 
+\L
+
 A respeito das amostras ou do densímetro, po-
 de-se afirmar que: 
  
@@ -203,7 +202,7 @@ petroquímicos, com a vantagem de ser biocompatível e biodegradável.
  
 A fórmula estrutural da quitosana está apresentada em seguida. 
  
- 
+\L 
  
 Com relação às características do material descrito, pode-se afirmar que: 
  
@@ -349,7 +348,8 @@ prevenção de doenças. Entretanto, a população mais carente é a que mais so
 tratada, em geral, pela falta de estações de tratamento capazes de fornecer o volume de água necessá-
 rio para o abastecimento ou pela falta de distribuição dessa água. 
  
-  
+\L
+
 No sistema de tratamento de água apresentado na figura anterior, a remoção do odor e a desinfecção da 
 água coletada ocorrem, respectivamente, nas etapas: 
  
@@ -367,12 +367,12 @@ Sabões são sais de ácidos carboxílicos de cadeia longa utilizados com a fina
 processos de lavagem, a remoção de substâncias de baixa solubilidade em água, por exemplo, óleos e 
 gorduras. A figura a seguir representa a estrutura de uma molécula de sabão. 
  
- 
+\L 
  
 Em solução, os ânions do sabão podem hidrolisar a água e, desse modo, formar o ácido carboxílico cor-
 respondente. Por exemplo, para o estearato de sódio, é estabelecido o seguinte equilíbrio: 
  
- 
+\L 
  
 Uma vez que o ácido carboxílico formado é pouco solúvel em água e menos eficiente na remoção de 
 gorduras, o pH do meio deve ser controlado de maneira a evitar que o equilíbrio acima seja deslocado 
@@ -417,7 +417,7 @@ Entre as impurezas metálicas que constam na
 série apresentada, as que se sedimentam abai-
 xo do ânodo de cobre são: 
  
- 
+\L 
  
 \
 A) Au, Pt, Ag, Zn, Ni e Pb. 
@@ -431,7 +431,8 @@ Os núcleos dos átomos são constituídos de prótons e nêutrons, sendo ambos 
 pela sua massa. Nota-se que, na maioria dos núcleos, essas partículas não estão presentes na mesma 
 proporção. O gráfico mostra a quantidade de nêutrons (N) em função da quantidade de prótons (Z) para 
 os núcleos estáveis conhecidos. 
- 
+
+\L
  
 O antimônio é um elemento químico que possui 50 prótons e possui vários isótopos ― átomos que só se 
 diferem pelo número de nêutrons. De acordo com o gráfico, os isótopos estáveis do antimônio possuem: 
@@ -546,7 +547,7 @@ Após acionar o equipamento e revelar o filme,
 evidenciou-se a imagem mostrada na figura 
 abaixo. 
  
- 
+\L 
  
 Dentre os fenômenos decorrentes da interação 
 entre a radiação e os átomos do indivíduo que 
@@ -578,11 +579,12 @@ solubilidade do composto em água, o que impede sua rápida remoção quando do 
  
 De acordo com as considerações do texto, qual das moléculas apresentadas a seguir é a mais adequada 
 para funcionar como molécula ativa de protetores solares? 
- 
- 
- 
-  
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
 \
 @19 (2009.1) 
 Nas últimas décadas, o efeito estufa tem-se intensificado de maneira preocupante, sendo esse efeito 
@@ -591,7 +593,7 @@ muitas vezes atribuído à intensa liberação de CO2 durante a queima de combus
 0 ) do metano, do butano e 
 do octano. 
  
- 
+\L
  
 À medida que aumenta a consciência sobre os impactos ambientais relacionados ao uso da energia, 
 cresce a importância de se criar políticas de incentivo ao uso de combustíveis mais eficientes. Nesse 
@@ -716,7 +718,7 @@ utilizada como fármaco analgésico no alívio das
 dores de cabeça. A figura abaixo é a represen-
 tação estrutural da molécula do AAS. 
  
- 
+\L 
  
 Considerando-se essa representação, é correto 
 afirmar que a fórmula molecular do AAS é: 
@@ -740,7 +742,7 @@ representar os três estados físicos dessa subs-
 tância como nas figuras a seguir, nas quais as 
 bolas representam as moléculas de água. 
  
- 
+\L 
  
 Considerando-se as representações das molé-
 culas de água nos três estados físicos e seu 
@@ -777,8 +779,7 @@ combustível
 hidrogê-
 nio/oxigênio. 
  
- 
- 
+\L 
 (VILLULLAS, H. M; TICIANELLI, E. A; GONZÁLES, 
 E. R. Química Nova na Escola. Nº 15, mai 2002) 
 Com base no texto e na figura, a produção de 
@@ -834,7 +835,7 @@ reação da mistura efervescente na água, em
 que foram omitidos os estados de agregação 
 dos reagentes, e H3A representa o ácido cítrico. 
  
- 
+\L 
  
 A ionização, a dissociação iônica, a formação 
 do ácido e a liberação do gás ocorrem, respecti-
@@ -877,8 +878,7 @@ cíferos?
  
 \
 A) S e CH4 
-B) S e NO3
-− 
+B) S e NO3− 
 C) H2 e NO3 
 D) CO2 e CH4 
 E) H2 e CO2 
@@ -909,7 +909,8 @@ energia solar tem sido armazená-la por meio de
 processos químicos endotérmicos que mais 
 tarde podem ser revertidos para liberar calor. 
 Considerando a reação: 
- 
+
+\L
  
 E analisando-a como potencial mecanismo para 
 aproveitamento posterior da energia solar, con-
@@ -956,7 +957,7 @@ a gasolina em veículos. Algumas das proprieda-
 des físicas desses combustíveis são mostradas 
 no quadro seguinte. 
  
- 
+\L
  
 Dados: Massas molares em g/mol: H = 1,0;  
 C = 12,0; O = 16,0. 
@@ -1050,7 +1051,7 @@ chumbo (II) com rendimento de 91 %. Após
 esse processo, o material segue para a fundição 
 para obter o chumbo metálico. 
  
- 
+\L
  
 Dados: Massas Molares em g/mol Pb = 207;  
 S = 32; Na = 23; O = 16; C= 12 
@@ -1117,7 +1118,7 @@ mamíferos bloqueando o ciclo de Krebs, que
 pode levar à parada da respiração celular oxida-
 tiva e ao acúmulo de amônia na circulação. 
  
- 
+\L 
  
 O monofluoracetato de sódio pode ser obtido 
 pela: 
@@ -1194,10 +1195,12 @@ oxigênios são substituídos por enxofre.
 Um exemplo de pesticida organofosforado Tipo 
 B, que apresenta grupo etoxi em sua fórmula 
 estrutural, está representado em: 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
 \
 @36 (2010.1) 
 As baterias de Ni-Cd muito utilizadas no nosso cotidiano não devem ser descartadas em lixos comuns 
@@ -1211,15 +1214,16 @@ lixiviação ácida. Nela, tanto os metais (Cd, Ni e, eventualmente, Co) como os
 cos Cd(OH)2(s), Ni(OH)2(s), Co(OH)2(s) presentes na bateria, reagem com uma mistura ácida e são so-
 lubilizados. Em função da baixa seletividade (todos os íons metálicos são solubilizados), após a digestão 
 ácida, é realizada uma etapa de extração dos metais com solventes orgânicos de acordo com a reação: 
- 
+
+\L 
  
 Onde, 
  
- 
+\L
  
 O gráfico mostra resultado da extração utilizando os solventes orgânicos X e Y em diferentes pH. 
  
- 
+\L
  
 A reação descrita no texto mostra o processo de extração dos metais por meio da reação com moléculas 
 orgânicas, X e Y. Considerando-se as estruturas de X e Y e o processo de separação descrito, pode-se 
@@ -1253,7 +1257,7 @@ um solvente para o açúcar, para o sal e para
 várias outras substâncias. A figura a seguir ilus-
 tra essa citação. 
  
- 
+\L
  
 Suponha que uma pessoa, para adoçar seu 
 cafezinho, tenha utilizado 3,42 g de sacarose 
@@ -1380,7 +1384,7 @@ E) formação de uma quantidade significativa de H2O.
 O Brasil é um dos países que obtêm melhores resultados na reciclagem de latinhas de alumínio. O es-
 quema a seguir representa as várias etapas desse processo: 
  
- 
+\L 
  
 A temperatura do forno em que o alumínio é fundido é útil também porque: 
  
@@ -1403,9 +1407,8 @@ gases emitidos por uma indústria, uma cidade
 ou mesmo por uma pessoa. Para o gás CO2, a 
 relação pode ser escrita: 
  
-Fator de emissão de CO2 = 
-Massa de CO2 emitida
-Quantidade de material 
+Fator de emissão de CO2 = Massa de CO2 emitida
+                        Quantidade de material 
  
 O termo “quantidade de material” pode ser, por 
 exemplo, a massa de material produzido em 
@@ -1457,7 +1460,7 @@ sal solúvel carbonato de sódio (Na2CO3), torna-
 se básico devido à reação de hidrólise do íon 
 carbonato, segundo o equilíbrio: 
  
- 
+\L 
  
 Esses tipos de solos são alcalinos demais para 
 fins agrícolas e devem ser remediados pela 
@@ -1503,7 +1506,7 @@ manutenção de pH do meio.
 O rótulo de uma garrafa de água mineral natural 
 contém as seguintes informações: 
  
- 
+\L
  
 As informações químicas presentes no rótulo de 
 vários produtos permitem classificar de acordo 
@@ -1537,8 +1540,8 @@ alimentar. Mais de 90% da exposição humana
 às dioxinas é atribuída aos alimentos contami-
 nados ingeridos. A estrutura típica de uma 
 dioxina está apresentada a seguir: 
- 
- 
+
+\L 
  
 A molécula do 2,3,7,8-TCDD é popularmente 
 conhecida pelo nome „dioxina‟, sendo a mais 
@@ -1565,8 +1568,7 @@ uma doença degenerativa nos ossos, tornando-os muito porosos e causando dores i
 lações. Podem ainda inibir enzimas ativadas pelo cátion Zn2+, que são extremamente importantes para o 
 funcionamento dos rins. A figura mostra a variação do raio de alguns metais e seus respectivos cátions. 
  
- 
- 
+\L 
 Raios atômicos e iônicos de alguns metais. 
  
 Com base no texto, a toxicidade do cádmio em sua forma iônica é consequência de esse elemento: 
@@ -1591,7 +1593,7 @@ da-índia (Curcuma longa), aparentemente, pode ajudar a combater vários tipos d
 kinson e o de Alzheimer e até mesmo retardar o envelhecimento. Usada há quatro milênios por algumas 
 culturas orientais, apenas nos últimos anos passou a ser investigada pela ciência ocidental. 
  
- 
+\L 
  
 Na estrutura da curcumina, identificam-se grupos característicos das funções: 
  
@@ -1601,7 +1603,7 @@ A) éter e álcool.
  
  
 B) éter e fenol.  
-                         C) éster e fenol.  
+C) éster e fenol.  
 D) aldeído e enol. 
  
  
@@ -1618,7 +1620,7 @@ res das placas que aderem aos dentes.
  
 A reação de dissolução da hidroxiapatita é: 
  
- 
+\L
  
 Dados: Massas molares em g/mol [Ca10(PO4)6(OH2)] = 1004; HPO4
 −2= 96; Ca = 40. 
@@ -1650,9 +1652,7 @@ dos sais presentes na água do mar.
  
 Tabela 1: Solubilidade em água de alguns com-
 postos presentes na água do mar a 25ºC 
- 
- 
- 
+\L  
  
 Suponha que uma indústria objetiva separar 
 determinados sais de uma amostra de água do 
@@ -1743,7 +1743,7 @@ tura mais que o do vidro, a coluna vertical é
 preenchida com mercúrio para compensar vari-
 ações de temperatura. 
  
- 
+\L
  
 De acordo com o texto, a coluna vertical de 
 mercúrio, quando aquecida, 
@@ -1843,7 +1843,7 @@ da determinação de sua composição percentual
 em massa, cujos resultados estão mostrados no 
 quadro a seguir. 
  
- 
+\L
  
 Com base no texto e na análise realizada pelo 
 técnico, as amostras que atendem às normas 
@@ -1897,7 +1897,7 @@ necessário, sempre que possível, utilizar hidra-
 tantes umectantes, feitos geralmente à base de 
 glicerina e polietilenoglicol: 
  
- 
+\L 
  
 A retenção de água na superfície da pele pro-
 movida pelos hidratantes é consequência da 
@@ -1950,7 +1950,7 @@ trientes são assimilados pelos produtores primários e o crescimento desses é 
 limítrofe, que é o elemento menos disponível em relação à abundância necessária à sobrevivência dos 
 organismos vivos. O ciclo representado na figura seguinte reflete a dinâmica dos nutrientes em um lago. 
  
- 
+\L 
  
 A análise da água de um lago que recebe a descarga de águas residuais provenientes de lavouras adu-
 badas revelou as concentrações dos elementos carbono (21,2 mol/L), nitrogênio (1,2 mol/L) e fósforo 
@@ -1961,8 +1961,7 @@ A) C.
 B) N. 
 C) P. 
 D) CO2. 
-E) PO4
-−3 
+E) PO4−3 
  
 \
 @59 (2011.1) 
@@ -1975,7 +1974,7 @@ pH do biofilme (placa bacteriana), provocando a desmineralização do esmalte de
 de defesa salivar levam de 20 a 30 minutos para normalizar o nível do pH, remineralizando o dente. A 
 equação química seguinte representa esse processo: 
  
- 
+\L 
  
 Considerando que uma pessoa consuma refrigerantes diariamente, poderá ocorrer um processo de 
 desmineralização dentária, devido ao aumento da concentração de: 
@@ -2000,7 +1999,8 @@ ocorre a formação dos ácidos glicocólico e tau-
 rocólico; o prefixo glico- significa a presença de 
 um resíduo do aminoácido glicina e o prefixo 
 tauro-, do aminoácido taurina. 
- 
+
+\L
  
 A combinação entre o ácido cólico e a glicina ou 
 taurina origina a função amida, formada pela 
@@ -2024,7 +2024,7 @@ tes, como o permanganato de potássio, este
 óxido decompõe-se, conforme a equação a 
 seguir: 
  
- 
+\L 
  
 De acordo com a estequiometria da reação des-
 crita, a quantidade de permanganato de potás-
@@ -2083,8 +2083,7 @@ do tipo NO2, NO3
  
 \
 @63 (2011.1) 
- 
- 
+\L
  
 De acordo com o relatório “A grande sombra da 
 pecuária” (Livestock’s Long Shadow), feito pela 
@@ -2120,7 +2119,7 @@ No quadro, estão os valores referentes à ener-
 gia produzida pela combustão de alguns bio-
 combustíveis: 
  
- 
+\L 
  
 Entre os diversos tipos de biocombustíveis 
 apresentados no quadro, aquele que apresenta 
@@ -2165,16 +2164,16 @@ que é proporcional ao teor de álcool no sangue.
 O esquema de funcionamento desse detector 
 de etanol pode ser visto na figura. 
  
- 
+\L
  
 As reações eletroquímicas envolvidas no pro-
 cesso são: 
  
 Eletrodo A: 
- 
+\L
  
 Eletrodo B: 
- 
+\L
  
 No estudo das pilhas, empregam-se códigos e 
 nomenclaturas próprias da Química, visando 
@@ -2205,16 +2204,11 @@ ria dos metais ocorre na crosta terrestre como
 o metal elementar, o que consome grande 
 quantidade de energia.  
  
- 
+\L 
  
 As entalpias-padrão de formação dos óxidos de 
-alumínio 
-e 
-ferro 
-são, 
-respectivamente: 
--
-1675,7kJ/mol e -824,2 kJ/mol. 
+alumínio e ferro são, respectivamente: 
+-1675,7kJ/mol e -824,2 kJ/mol. 
  
 A energia gasta na obtenção do alumínio a par-
 tir do seu material primário é maior do que a do 
@@ -2285,7 +2279,7 @@ Suas principais vantagens de uso relacionam-se principalmente ao fato de serem o
 renováveis e produzirem muito menos poluição do que os derivados de combustíveis fósseis. A figura 
 seguinte mostra, de forma esquemática, o processo de produção de biodiesel a partir do óleo de soja: 
  
- 
+\L 
  
 De acordo com o descrito, a etapa que representa efetivamente a formação das moléculas orgânicas 
 combustíveis que compõem o biodiesel está representada na figura pelo número: 
@@ -2305,7 +2299,7 @@ tado o fluxograma de fabricação do PVC e sua fórmula química.
  
 Siglas: PVC - policloreto de vinila; EDC - dicloro etano; MVC - monocloreto de vinila. 
  
- 
+\L 
  
 Para a produção do PVC, a obtenção do cloro é proveniente do processo de: 
  
@@ -2322,7 +2316,7 @@ E) destilação.
 Três amostras de minérios de ferro de regiões distintas foram analisadas e os resultados, com valores 
 aproximados, estão na tabela: 
  
- 
+\L 
  
 Considerando que as impurezas são inertes aos compostos envolvidos, as reações de redução do miné-
 rio de ferro com carvão, de formas simplificadas, são: 
@@ -2420,7 +2414,7 @@ na, têm sido uma alternativa na diminuição dos
 prejuízos econômicos, sociais e ambientais 
 gerados pelos agrotóxicos. 
  
- 
+\L 
  
 Identifique as funções orgânicas presentes si-
 multaneamente nas estruturas dos dois biopes-
@@ -2446,7 +2440,8 @@ estratosfera, justificam a não utilização de CFC
 (clorofluorcarbono ou Freon) nesse desodoran-
 te: 
  
- 
+\L
+
 A preocupação com as possíveis ameaças à 
 camada de ozônio (O3) baseia-se na sua princi-
 pal função: proteger a matéria viva na Terra dos 
@@ -2492,7 +2487,7 @@ eles, alguns são de estrutura simples, como é o
 caso do C6H5CO2CH2CH3, cuja estrutura está 
 mostrada a seguir. 
  
- 
+\L 
  
 O ácido carboxílico e o álcool capazes de pro-
 duzir o éster em apreço por meio da reação de 
@@ -2556,17 +2551,17 @@ de um intermediário, o carbocátion.
 Por fim, ocorre a adição ou substituição eletrofí-
 lica. 
  
- 
+\L 
  
 Com base no texto e no gráfico do progresso da 
 reação apresentada, as estruturas químicas 
 encontradas em I, II e III são, respectivamente: 
- 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
 \
 @78 (2012.1) 
 Uma dona de casa acidentalmente deixou cair 
@@ -2580,7 +2575,7 @@ trações hidrogeniônicas de alguns materiais
 encontrados na cozinha, que a dona de casa 
 pensa em utilizar na limpeza da geladeira. 
  
- 
+\L 
  
 Dentre os materiais listados, quais são apropri-
 ados para amenizar esse odor? 
@@ -2666,7 +2661,7 @@ A seguir são apresentadas as estruturas quími-
 cas de cinco vitaminas necessárias ao organis-
 mo. 
  
- 
+\L 
  
 Dentre as vitaminas apresentadas na figura, aquela que necessita de maior suplementação diária é: 
  
@@ -2696,7 +2691,8 @@ A tabela apresenta as semirreações e os valo-
 res de potencial padrão de redução de alguns 
 metais:  
  
- 
+\L
+
 Com base no texto e na tabela, que metais po-
 deriam entrar na composição do anel das latas 
 com a mesma função do magnésio, ou seja, 
@@ -2756,7 +2752,7 @@ das por uma bicamada lipídica, conforme mos-
 trado na figura. Quando rompida, essa estrutura 
 tende a se reorganizar em um novo lipossomo. 
  
- 
+\L
  
 Esse arranjo característico se deve ao fato de 
 os fosfolipídios apresentarem uma natureza: 
@@ -2850,17 +2846,19 @@ em: www.cdcc.usp.br. Acesso em: 29 fev. 2012)
  
 De acordo com o texto, qual dos polímeros se-
 guintes seria condutor de eletricidade? 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
 \
 @88 (2012.3) 
 O quadro apresenta o teor de cafeína em dife-
 rentes bebidas comumente consumidas pela 
 população. 
  
- 
+\L
  
 Da análise do quadro conclui-se que o menor 
 teor de cafeína por unidade de volume está 
@@ -2892,7 +2890,7 @@ que podem ser transformados em microesferas
 para serem usadas em tintas, lubrificantes, 
 pneus, dentre outros produtos. 
  
- 
+\L 
  
 Considerando o processo de reciclagem do 
 PET, para tratar 1 000 g desse polímero, com 
@@ -2955,7 +2953,7 @@ para que absorva o máximo de radiação solar e emita o mínimo de radiação i
 relacionam propriedades de alguns metais/ligas metálicas utilizados na confecção de aquecedores sola-
 res: 
  
- 
+\L 
  
 Os aquecedores solares mais eficientes e, portanto, mais atrativos do ponto de vista econômico, devem 
 ser construídos utilizando como material metálico e material seletivo quente, respectivamente, 
@@ -2974,7 +2972,7 @@ A fosfatidilserina é um fosfolipídio aniônico cuja interação com cálcio li
 ção celular e vem sendo estudada no desenvolvimento de biossensores nanométricos. A figura repre-
 senta a estrutura da fosfatidilserina: 
  
- 
+\L 
  
 Com base nas informações do texto, a natureza da interação da fosfatidilserina com o cálcio livre é do 
 tipo: 
@@ -2999,7 +2997,7 @@ nol em meio básico (NaOH ou KOH), que precisa ser realizada na ausência de ág
 esquema reacional da produção de biodiesel, em que R representa as diferentes cadeias hidrocarbôni-
 cas dos ésteres de ácidos graxos. 
  
- 
+\L 
  
 A ausência de água no meio reacional se faz necessária para: 
  
@@ -3177,7 +3175,7 @@ do carbono-11 gera um pósitron, com tempo de
 meia-vida de 20,4 min, de acordo com a equa-
 ção da reação nuclear: 
  
- 
+\L 
  
 A partir da injeção de glicose marcada com esse 
 nuclídeo, o tempo de aquisição de uma imagem 
@@ -3239,17 +3237,19 @@ que mais contribui para o forte odor.
  
 Para que se consiga atrair um maior número de abelhas para uma determinada região, a molécula que 
 deve estar presente em alta concentração no produto a ser utilizado é: 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
 \
 @103 (2013.1) 
 Uma das etapas do tratamento da água é a desinfecção, sendo a cloração o método mais empregado. 
 Esse método consiste na dissolução do gás cloro numa solução sob pressão e sua aplicação na água a 
 ser desinfectada. As equações das reações químicas envolvidas são: 
  
- 
+\L 
  
 A ação desinfetante é controlada pelo ácido hipocloroso, que possui um potencial de desinfecção cerca 
 de 80 vezes superior ao ânion hipoclorito. O pH do meio é importante, porque influencia na extensão 
@@ -3298,20 +3298,20 @@ to. A degradação do glifosato no solo é muito
 rápida e realizada por grande variedade de mi-
 crorganismos, que usam o produto como fonte 
 de energia e fósforo. Os produtos da degrada-
-ção são o ácido aminometilfosfônico (AMP\
-A) e o 
+ção são o ácido aminometilfosfônico (AMPA) e o 
 N-metilglicina (sarcosina): 
  
- 
+\L
  
 A partir do texto e dos produtos de degradação 
 apresentados, a estrutura química que repre-
 senta o glifosato é: 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
 \
 @106 (2013.1) 
 A formação frequente de grandes volumes de 
@@ -3470,7 +3470,7 @@ retenção de água que as fraldas de pano con-
 vencionais, constituídas de fibras de celulose 
 (2). 
  
- 
+\L
  
 A maior eficiência dessas fraldas descartáveis, 
 em relação às de pano, deve-se às: 
@@ -3508,7 +3508,7 @@ expressa em fórmulas estruturais, muito usadas
 em química orgânica. Um exemplo é o NanoKid, 
 representado na figura: 
  
- 
+\L 
  
 Em que parte do corpo do NanoKid existe car-
 bono quaternário? 
@@ -3599,12 +3599,9 @@ neo.
  
 \
 @115 (2013.3) 
- 
- 
- 
+\L
+
 A transformação química em questão é representada pela equação: 
- 
- 
 \
 A) CH3COOH (aq) + NaHCO3 (s) → NaCO2+ (aq) + CH3COO− (aq) + H2O (l) 
 B) CH3COOH (aq) + NaHCO3 (s) → Na+ (aq) + CH3COO− (aq) + CO2 (g) + H2O (l) 
@@ -3620,7 +3617,7 @@ medida pelo índice de iodo. Quanto maior o grau de insaturação da molécula, 
 determinado e melhor a qualidade do óleo. Na figura, são apresentados alguns compostos que podem 
 estar presentes em diferentes óleos de cozinha: 
  
- 
+\L 
  
 Dentre os compostos apresentados, os dois que proporcionam melhor qualidade para os óleos de cozi-
 nha são os ácidos: 
@@ -3819,7 +3816,8 @@ radiação ultravioleta emitida pelo Sol, a qual é
 nociva aos seres vivos. Esse processo, na ca-
 mada de ozônio, é ilustrado simplificadamente 
 na figura. 
- 
+
+\L 
  
 Quimicamente, a destruição do ozônio na at-
 mosfera por gases CFCs é decorrência da: 
@@ -3905,7 +3903,7 @@ sição do óleo vegetal ou gordura animal que lhe deu origem, por exemplo, o te
 responsável pela maior estabilidade do biodiesel frente à oxidação, o que resulta em aumento da vida útil 
 do biocombustível. O quadro ilustra o teor médio de ácidos graxos de algumas fontes oleaginosas. 
  
- 
+\L 
  
 Qual das fontes oleaginosas apresentadas produziria um biodiesel de maior resistência à oxidação? 
  
@@ -3923,7 +3921,7 @@ Parte do gás carbônico da atmosfera é absorvida pela água do mar. O esquema 
 ocorrem naturalmente, em equilíbrio, no sistema ambiental marinho. O excesso de dióxido de carbono na 
 atmosfera pode afetar os recifes de corais. 
  
- 
+\L 
  
 O resultado desse processo nos corais é o(a): 
  
@@ -3946,7 +3944,7 @@ solução com uma espécie adequada. O quadro
 apresenta semirreações de redução de alguns 
 íons metálicos. 
  
- 
+\L 
  
 Das espécies apresentadas, a adequada para 
 essa recuperação é: 
@@ -3973,7 +3971,7 @@ trolada por ação de microrganismos que promo-
 vem a reação de redução dessa espécie, no 
 processo denominado desnitrificação. 
  
- 
+\L 
  
 O processo citado está representado na etapa: 
  
@@ -4060,10 +4058,12 @@ maco, a molécula contendo um grupo não planar é biologicamente ativa, enquant
 substituintes planares são inativas. 
  
 O grupo responsável pela bioatividade desse fármaco é: 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
 \
 @134 (2014.1) 
 O principal processo industrial utilizado na produção de fenol é a oxidação do cumeno (isopropilbenze-
@@ -4072,7 +4072,7 @@ guida é decomposto em fenol e acetona, ambos usados na indústria química como
 culas mais complexas. Após o processo de síntese, esses dois insumos devem ser separados para co-
 mercialização individual. 
  
- 
+\L 
  
 Considerando as características físico-químicas dos dois insumos formados, o método utilizado para a 
 separação da mistura, em escala industrial, é a: 
@@ -4099,7 +4099,7 @@ realizada em diferentes ambientes, utilizando-se
 amostras de 500 g de solo e 100 mL de água, 
 conforme apresentado no quadro. 
  
- 
+\L 
  
 O ambiente que necessita de biorremediação é 
 o(a): 
@@ -4231,7 +4231,7 @@ Esses dispositivos utilizam células a combustí-
 vel que funcionam de acordo com as reações 
 químicas representadas: 
  
- 
+\L 
  
 Na reação global de funcionamento do bafôme-
 tro, os reagentes e os produtos desse tipo de 
@@ -4299,7 +4299,7 @@ frascos de suplemento, contendo solução aquo-
 sa de FeSO4, cujos resultados encontram-se no 
 quadro. 
  
- 
+\L 
  
 Se for ingerida uma colher (10mL) por dia do 
 medicamento para anemia, a amostra que con-
@@ -4479,7 +4479,7 @@ preparado pela condensação da propanona
 sa molar igual a 94g/mol), em meio ácido, con-
 forme apresentado na equação química. 
  
- 
+\L 
  
 Considerando que, ao reagir 580g de propanona com 3760g de fenol, obteve-se 1,14kg de bisfenol-A, de 
 acordo com a reação descrita, o rendimento real do processo foi de:  
@@ -4496,12 +4496,12 @@ E) 50%.
 @148 (2014.3) 
 A tabela lista os valores de pH de algumas bebidas consumidas pela população. 
  
- 
+\L 
  
 O esmalte dos dentes é constituído de hidroxiapatita (Ca5(PO4)3OH), um mineral que sofre desminerali-
 zação em meio ácido, de acordo com a equação química: 
  
- 
+\L 
  
 Das bebidas listadas na tabela, aquela com menor potencial de desmineralização dos dentes é o: 
  
@@ -4522,7 +4522,7 @@ A formação de estalactites depende da reversibilidade de uma reação química
 Numa segunda etapa, a solução aquosa desses íons chega a uma caverna e ocorre a reação inversa, 
 promovendo a liberação de CO2 e a deposição de CaCO3, de acordo com a equação apresentada. 
  
- 
+\L 
  
 Considerando o equilíbrio que ocorre na segunda etapa, a formação de carbonato será favorecida pe-
 lo(a):  
@@ -4578,7 +4578,7 @@ algumas substâncias. As massas molares dos
 elementos H, C e O são, respectivamente, 
 iguais a 1g/mol,12g/mol e 16g/mol.  
  
- 
+\L 
  
 Levando-se em conta somente o aspecto ener-
 gético, a substância mais eficiente para a ob-
@@ -4706,8 +4706,7 @@ E) All3.
  
 \
 @156 (2014.2) 
- 
- 
+\L
  
 As propriedades físicas e químicas de uma certa substância estão relacionadas as interações entre as 
 unidades que a constituem, isto é, as ligações químicas entre átomos ou íons e as forças intermolecula-
@@ -4755,7 +4754,7 @@ de sua flor, a produzida a vanilina (conforme
 representação química), que dá origem ao aro-
 ma de baunilha. 
  
- 
+\L 
  
 Na vanilina estão presentes as funções orgâni-
 cas: 
@@ -4777,7 +4776,7 @@ Quando uma indústria lança NaCN sólido nas
 águas de um rio, ocorre o seguinte equilíbrio 
 químico: 
  
- 
+\L 
  
 Esse equilíbrio químico é decorrente de uma 
 reação de: 
@@ -4877,7 +4876,7 @@ Essas sensações são transmitidas por neuro-
 transmissores, tais como adrenalina, noradrena-
 lina, feniletilamina, dopamina e as serotoninas. 
  
- 
+\L 
  
 Os neurotransmissores citados possuem em grupo funcional característico da função: 
  
@@ -4898,7 +4897,7 @@ tros materiais poderiam também ser empregados.
  
 A tabela a seguir apresenta algumas propriedades de metais que poderiam substituir o cobre: 
  
- 
+\L 
  
 De acordo com as propriedades dos metais listadas na tabela, o melhor metal para substituir o cobre 
 seria o: 
@@ -5076,11 +5075,7 @@ diferencia cada um desses sinais utilizados pe-
 las abelhas são as estruturas e funções orgâni-
 cas dos feromônios. 
  
- 
-Composto A 
- 
- 
-Composto B 
+\L  
  
 As funções orgânicas que caracterizam os fe-
 romônios de trilha e de alarme são, respectiva-
@@ -5103,7 +5098,8 @@ dação de alcenos de cadeia normal, como o 1-
 fenil-1-propeno, ilustrado na figura, o KMnO4 é 
 utilizado para a produção de ácidos carboxíli-
 cos. 
- 
+
+\L 
  
 Os produtos obtidos na oxidação do alceno 
 representado, em solução aquosa de KMnO4, 
@@ -5182,7 +5178,7 @@ lagos, podendo afetar o equilíbrio ambiental. Para neutralizar a acidez, o sal 
 ser adicionado ao efluente, em quantidades apropriadas, pois produz bicarbonato, que neutraliza a água. 
 As equações envolvidas no processo são apresentadas: 
  
- 
+\L 
  
 Com base nos valores das constantes de equilíbrio das reações II, III e IV a 25ºC, qual é o valor numéri-
 co da constante de equilíbrio da reação I? 
@@ -5202,7 +5198,7 @@ nhecido como eletrossíntese de Kolbe. Essa reação é utilizada na síntese de
 partir de óleos vegetais, os quais podem ser empregados como fontes alternativas de energia, em substi-
 tuição aos hidrocarbonetos fósseis. O esquema ilustra simplificadamente esse processo. 
  
- 
+\L 
  
 Com base nesse processo, o hidrocarboneto produzido na eletrólise do ácido 3,3-dimetil-butanoico é o: 
  
@@ -5226,7 +5222,8 @@ pureza 75%.
 Considere que a conversão do minério em zinco 
 metálico tem rendimento de 80% nesta sequên-
 cia de equações químicas: 
- 
+
+\L 
  
 Considere as massas molares: ZnS (97 g/mol); 
 O2(32 g/mol); ZnO (81 g/mol); SO2(64 g/mol); 
@@ -5283,12 +5280,16 @@ necessária. O quadro apresenta os valores de
 potenciais padrão de redução (Ef0) para algu-
 mas semirreações de redução. 
  
- 
+\L 
  
 A equação química que representa a reação de 
 formação da mancha avermelhada é: 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
 \
 @178 (2015.1) 
 O aproveitamento de resíduos florestais vem se 
@@ -5302,7 +5303,7 @@ variação de entalpia envolvida na conversão de
 1 g de água no estado gasoso para o estado 
 líquido. 
  
- 
+\L 
  
 A variação de entalpia, em kJ, para a queima de 
 5g desse bio-óleo resultando em CO2 (gasoso) 
@@ -5341,7 +5342,7 @@ de CO2 (gás com massa molar igual a 44 g/mol).
 A queima do carvão é representada pela equa-
 ção química: 
  
- 
+\L 
  
 Qual é a massa de CO2, em toneladas, que deixa de ser liberada na atmosfera, para cada 100 g de pas-
 tilhas de urânio enriquecido utilizadas em substituição ao carvão como fonte de energia? 
@@ -5360,7 +5361,7 @@ A química verde permite o desenvolvimento tecnológico com danos reduzidos ao m
 contrar rotas limpas tem sido um grande desafio. Considere duras rotas diferentes utilizadas para a ob-
 tenção de ácido adípico, um insumo muito importante para a indústria têxtil e de plastificantes. 
  
- 
+\L 
  
 Que fator contribui positivamente para que a segunda rota de síntese seja verde em comparação à pri-
 meira: 
@@ -5381,7 +5382,7 @@ serem usados em xaropes e medicamentos injetáveis. Um exemplo é a efedrina, qu
 um odor desagradável e oxida na presença do ar atmosférico formando produtos indesejáveis. O clori-
 drato de efedrina funde a 217°C, não se oxida e é inodoro, sendo o ideal para compor os medicamentos. 
  
- 
+\L 
  
 De acordo com o texto, que propriedade química das aminas possibilita a formação de sais de amônio 
 estáveis, facilitando a manipulação de princípios ativos? 
@@ -5404,7 +5405,7 @@ sença de oxigênio, de forma que o cobre fique
 “livre” e o enxofre se combine com o O2 produ-
 zindo SO2, conforme a equação química: 
  
- 
+\L 
  
 As massas molares dos elementos Cu e S são, 
 respectivamente, iguais a 63,5 g/mol e 32 g/mol. 
@@ -5488,7 +5489,7 @@ tos organoclorados.
 São apresentadas as estruturas de um fragmento da lignina e do tetracloroguaiacol, um dos organoclo-
 rados formados no processo de branqueamento. 
  
- 
+\L 
  
 Os reagentes capazes de levar à formação de organoclorados no processo citado são: 
  
@@ -5507,8 +5508,7 @@ O poli(ácido lático) ou PLA é um material de interesse tecnológico por ser u
 bioabsorvível. O ácido lático, um metabólito comum no organismo humano, é a matéria-prima para pro-
 dução do PLA, de acordo com a equação química simplificada: 
  
- 
- 
+\L
  
 Que tipo de polímero de condensação é formado nessa reação? 
  
@@ -5529,7 +5529,7 @@ to na qualidade de suas águas. O pH foi deter-
 minado em diferentes pontos desse rio, a 25°C, 
 e os resultados são apresentados no quadro. 
  
- 
+\L 
  
 A indústria que descarta um efluente com carac-
 terísticas básicas é a: 
@@ -5553,7 +5553,7 @@ meio da calcinação, e a fixação de SO2 com a
 formação de um sal de cálcio, como ilustrado 
 pelas equações químicas simplificadas. 
  
- 
+\L 
  
 Considerando-se as reações envolvidas nesse 
 processo de dessulfurização, a fórmula química 
@@ -5587,10 +5587,12 @@ global do processo é:
  
 Na etapa de obtenção do alumínio líquido, as 
 reações que ocorrem no cátodo e ânodo são: 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
 \
 @190 (2015.3) 
 O vinagre vem sendo usado desde a Antiguida-
@@ -5604,7 +5606,7 @@ sadas cinco marcas de diferentes vinagres, e as
 concentrações de ácido acético, em mol/L, se 
 encontram no quadro. 
  
- 
+\L 
  
 A amostra de vinagre que se encontra dentro do limite de concentração tolerado é a: 
  
@@ -5622,7 +5624,7 @@ E) 5.
 O Nylon® é um polímero (uma poliamida) obtido pela reação do ácido adípico com a hexametilenodiami-
 na, como indicado no esquema reacional. 
  
- 
+\L 
  
 Na época da invenção desse composto, foi proposta uma nomenclatura comercial, baseada no número 
 de átomos de carbono do diácido carboxílico, seguido do número de carbonos da diamina.  
@@ -5643,7 +5645,7 @@ E) Nylon 2,6.
 @192 (2015.3) 
 O quadro apresenta a composição do petróleo. 
  
- 
+\L 
  
 Para a separação dos constituintes com o objetivo de produzir a gasolina, o método a ser utilizado é: 
  
@@ -5668,15 +5670,13 @@ da densidade da mistura (água e etanol) com a
 fração percentual da massa de etanol (fe), dada 
 pela expressão: 
  
-fe = 100 x 
-me
-me + ma 
+fe = 100 x me/(me + ma) 
  
 Em que me e ma são as massas de etanol e de 
 água na mistura, respectivamente, a uma tem-
 peratura de 20°C. 
  
- 
+\L 
  
 Suponha que, em inspeção de rotina realizada 
 em determinado posto, tenha-se verificado que 
@@ -5703,6 +5703,8 @@ nas sementes de café e nas folhas de chá-
 verde. Uma xícara de café contém, em média, 
 80 mg de cafeína. 
  
+\L
+
 Considerando que a xícara descrita contém um 
 volume de 200 mL de café, a concentração, em 
 mol/L, de cafeína nessa xícara é mais próxima 
@@ -5770,7 +5772,7 @@ pia das reações de combustão das substâncias
 participantes, nas mesmas condições experi-
 mentais: 
  
- 
+\L 
  
 A variação de entalpia do processo de trimeri-
 zação, em kcal, para a formação de um mol de 
@@ -5795,7 +5797,7 @@ Um dos parâmetros que mede a eficiência de
 uma reação química é o seu rendimento molar 
 (R, em %), definido como: 
  
- 
+\L 
  
 Em que n corresponde ao número de mols. O 
 metanol pode ser obtido pela reação entre bro-
@@ -5920,7 +5922,7 @@ quência de relaxação do material. O gráfico
 mostra a taxa de aquecimento de cinco solven-
 tes sob irradiação de micro-ondas. 
  
- 
+\L 
  
 No gráfico, qual solvente apresenta taxa média 
 de aquecimento mais próxima de zero, no inter-
@@ -5977,7 +5979,7 @@ tendo uma substância adequada. Considere as
 informações das substâncias listadas no qua-
 dro. 
  
- 
+\L 
  
 Dentre as substâncias listadas no quadro, aque-
 la capaz de remover com maior eficiência os 
@@ -5995,27 +5997,23 @@ E) hidrogenosulfato de potássio.
 Os feromônios são substâncias utilizadas na comunicação entre indivíduos de uma espécie. O primeiro 
 feromônio isolado de um inseto foi o bombicol, substância produzida pela mariposa do bicho-da-seda. 
  
- 
+\L 
  
 O uso de feromônios em ações de controle de insetos praga está de acordo com o modelo preconizado 
 para a agricultura do futuro. São agentes altamente específicos e seus compostos químicos podem ser 
 empregados em determinados cultivos, conforme ilustrado no quadro. 
  
- 
+\L 
  
 Considerando essas estruturas químicas, o tipo de estereoisomeria apresentada pelo bombicol é tam-
 bém apresentada pelo feromônio utilizado no controle do inseto: 
  
 \
-A) Sitophilus spp. 
- 
- 
-      B) Migdolus fryanus. 
- 
-       C) Anthonomus rubi. 
+A) Sitophilus spp.  
+B) Migdolus fryanus.  
+C) Anthonomus rubi. 
 D) Grapholita molesta.  
- 
-      E) Scrobipalpuloides absoluta. 
+E) Scrobipalpuloides absoluta. 
  
  
 \
@@ -6025,7 +6023,9 @@ planejamento de um fármaco. Ela mede o grau
 de afinidade que a substância tem com ambien-
 tes apolares, podendo ser avaliada por seu coe-
 ficiente de partição. 
- 
+
+\L
+
 Em relação ao coeficiente de partição da testos-
 terona, as lipofilias dos compostos 1 e 2 são, 
 respectivamente, 
@@ -6093,7 +6093,8 @@ E) 15
 O esquema representa, de maneira simplificada, 
 o processo de produção de etanol utilizando 
 milho como matéria-prima. 
- 
+
+\L
  
 A etapa de hidrólise na produção de etanol a 
 partir do milho é fundamental para que: 
@@ -6233,13 +6234,17 @@ Os tensoativos são compostos capazes de interagir com substâncias polares e ap
 dos tensoativos interage com substâncias polares, e a parte lipofílica interage com as apolares. A estru-
 tura orgânica de um tensoativo pede ser representada por: 
  
- 
+\L 
  
 Ao adicionar um tensoativo sobre a água, suas moléculas formam um arranjo ordenado. Esse arranjo é 
 representado esquematicamente por: 
- 
- 
- 
+
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @213 (2016.2) 
 Nos anos 1990, verificou-se que o rio Potomac 
@@ -6471,7 +6476,7 @@ conhecida como ferrugem. Esse processo cor-
 rosivo é, de maneira geral, representado pela 
 equação química: 
  
- 
+\L
  
 Uma forma de impedir o processo corrosivo 
 nesses utensílios é: 
@@ -6611,14 +6616,10 @@ atmosfera, em partes por milhão (ppm), bilhão
 sáveis por 97% do efeito estufa durante o perío-
 do de 1978 a 2010. 
  
+\L 
  
- 
- 
- 
- 
- 
- 
- 
+\L
+
 Qual gás teve o maior aumento percentual de 
 concentração na atmosfera nas últimas duas 
 décadas? 
@@ -6728,23 +6729,15 @@ em soluções ácidas ou básicas. Um dos poluen-
 tes mais tóxicos liberados na atmosfera pela 
 atividade industrial é a 2,3,7,8-tetraclorodioxina. 
  
- 
+\L 
  
 Esse poluente pode ser removido do ar pela passagem através de tanques contendo: 
  
 \
 A) hexano. 
- 
- 
- 
- 
 B) metanol. 
- 
- 
-           C) água destilada. 
+C) água destilada. 
 D) ácido clorídrico aquoso. 
- 
- 
 E) hidróxido de amônio aquoso. 
  
  
@@ -6753,14 +6746,14 @@ E) hidróxido de amônio aquoso.
 O quadro apresenta alguns exemplos de combustíveis empregados em residências, indústrias e meios 
 de transporte. 
  
- 
+\L 
  
 São combustíveis líquidos à temperatura ambiente de 25ºC: 
  
 \
 A) Butano, etanol e metano. 
- 
-B) Etano, metanol e octano.            C) Metano, metanol e octano. 
+B) Etano, metanol e octano.            
+C) Metano, metanol e octano. 
 D) Metanol e metano.  
  
 E) Octano e butano. 
@@ -6773,12 +6766,16 @@ sílica umedecida com ácido sulfúrico. Nesse teste, a detecção da embriaguez
 dá visualmente, pois a reação que ocorre é a oxidação do álcool a aldeído e a redução do dicromato 
 (alaranjado) a cromo (III) (verde) ou cromo (II) (azul). 
  
- 
+\L 
  
 A equação balanceada da reação química que representa esse teste é: 
  
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @232 (2016.3) 
 Climatério é o nome de um estágio no processo de amadurecimento de determinados frutos, caracteri-
@@ -6789,7 +6786,7 @@ escurecimento do fruto, o que representa a perda de muitas toneladas de alimento
 utiliza-se o permanganato de potássio (KMnO4) para oxidar o etileno a etilenoglicol (HOCH2CH2OH), 
 sendo o processo representado de forma simplificada na equação: 
  
- 
+\L 
  
 O processo de amadurecimento começa quando a concentração de etileno no ar está em cerca de 1,0 
 mg de C2H4 por kg de ar. 
@@ -6813,17 +6810,19 @@ E) 8,5 mg.
 A busca por substâncias capazes de minimizar a ação do inseto que ataca as plantações de tomate no 
 Brasil levou à síntese e ao emprego de um feromônio sexual com a seguinte fórmula estrutural: 
  
- 
+\L 
  
 Uma indústria agroquímica necessita sintetizar um derivado com maior eficácia. Para tanto, o potencial 
 substituto deverá preservar as seguintes propriedades estruturais do feromônio sexual: função orgânica, 
 cadeia normal e a isomeria geométrica original. 
  
 A fórmula estrutural do substituto adequado ao feromônio sexual obtido industrialmente é:  
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @234 (2016.3) 
 Na preparação da massa do pão, presente na 
@@ -6854,7 +6853,7 @@ carbonato (CO3
 -), repre-
 sentado pela equação química: 
  
- 
+\L 
  
 As águas dos rios, ao contrário, apresentam 
 concentrações muito baixas de íons e substân-
@@ -6923,7 +6922,7 @@ ma de combustível. O quadro mostra o valor de
 energia liberada na combustão por mol ou gra-
 ma de combustível. 
  
- 
+\L 
  
 As massas molares dos elementos H, C e O são 
 iguais a 1 g/mol, 12 g/mol e 16 g/mol, respecti-
@@ -6956,7 +6955,7 @@ do. A legislação brasileira estabelece que o diesel, obtido do petróleo, cont
 biodiesel. O quadro apresenta valores de quatro propriedades do diesel, do biodiesel e do óleo vegetal, 
 um material comumente utilizado como adulterante. 
  
- 
+\L 
  
 Com base nas informações apresentadas no quadro, quais são as duas propriedades que podem ser 
 empregadas tecnicamente para verificar se uma amostra de diesel comercial está ou não adulterada 
@@ -6977,7 +6976,7 @@ prontas e embaladas em bolsas plásticas, utilizando aquecedores químicos, sem 
 Dentro dessas bolsas existe magnésio metálico em pó e, quando o soldado quer aquecer a comida, ele 
 coloca água dentro da bolsa promovendo a reação descrita pela equação química: 
  
- 
+\L 
  
 O aquecimento dentro da bolsa ocorre por causa da: 
  
@@ -7054,12 +7053,12 @@ oxidação com o Ozônio (O3), em presença de água e zinco metálico, e a rea�
 cetonas, dependendo do grau de substituição da ligação dupla. Ligações duplas dissubstituídas geram 
 cetonas, enquanto as ligações duplas terminais ou monossubstituídas dão origem a aldeídos. Como 
 mostra o esquema. 
- 
+
+\L 
  
 Considere a ozonólise do composto 1-fenil-2-metilprop-1-eno: 
  
- 
- 
+\L 
 (MARTINO, A, Química, a ciência global, Goiânia: Editora W, 2014 - adaptado) 
  
 Quais são os produtos formados nessa reação? 
@@ -7139,7 +7138,7 @@ quada, seguida de filtração simples. Considere
 que pKa, = -log Ka, em que Ka é a constante 
 ácida da reação de ionização do lapachol. 
  
-Lapachol 
+\L  
  
 (COSTA, P. R. R. et al. Ácidos e bases em química 
 orgânica Porto Alegre: Bookman, 2005 - adaptado) 
@@ -7196,9 +7195,8 @@ lentamente.
 Uma mistura de hexano com 5% (v/v) de acetona foi utilizada como fase móvel na separação dos com-
 ponentes de um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as 
 substâncias representadas. 
- 
- 
- 
+  
+\L 
 (RIBEIRO, N.M.; NUNES, C. R. Análise de pigmentos de pimentões por cromatografia em papel,  
 Química Nova na Escola, n.29, ago. 2008 - adaptado) 
  
@@ -7218,7 +7216,7 @@ O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol) é sintetizado a
 salicílico (massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisa-
 dor, conforme a equação química: 
  
- 
+\L 
  
 Após a síntese, o AAS é purificado e o rendimento final é de aproximadamente 50%. Devido às proprie-
 dades farmacológicas (antitérmico, analgésico e anti-inflamatório e antitrombótico), o AAS é utilizado 
@@ -7243,11 +7241,11 @@ ta (Fe3O4) e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão 
 altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de 
 carbono. O CO (gasoso) é utilizado para reduzir o FeO (sólido), conforme a equação química: 
  
- 
+\L 
  
 Considere as seguintes equações termoquímicas: 
  
- 
+\L 
  
 O valor mais próximo de ΔrHӨ, em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO 
 (gasoso) é: 
@@ -7267,7 +7265,7 @@ do diesel de petróleo para motores de combustão interna. Ele pode ser obtido p
 rídeos, presentes em óleos vegetais e gorduras animais, entre outros, e álcoois de baixa massa molar, 
 como o metanol ou etanol, na presença de um catalisador, de acordo com a equação química: 
  
- 
+\L 
  
 A função química presente no produto que representa o biodiesel é: 
  
@@ -7284,8 +7282,7 @@ A eletrólise é um processo não espontâneo de grande importância para a ind�
 suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de 
 cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado. 
  
- 
- 
+\L 
 (Ilustração de SHREVE, R. N.; BRINK Jr., J. A. Indústria de processos químicos. 
  Rio de Janeiro: Guanabara Koogan, 1997 - adaptado) 
  
@@ -7307,12 +7304,17 @@ fluorescentes. Em um experimento de laboratório, pretende-se associar duas pilh
 der um LED azul que requer 3,6 volts para o seu funcionamento. Considere as semirreações de redução 
 e seus respectivos potenciais mostrados no quadro. 
  
- 
+\L 
  
 Qual associação em série de pilhas fornece diferença de potencial, nas condições-padrão, suficiente 
 para acender o LED azul? 
  
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @254 (2017.1) 
 Partículas microscópicas existentes na atmosfera funcionam como núcleos de condensação de vapor de 
@@ -7346,7 +7348,7 @@ proteicas insolúveis em água, celulose, vitaminas lipossolúveis e sais minera
 Considere o esquema, que resume um processo de separação dos componentes principais da farinha de 
 linhaça dourada. 
  
- 
+\L 
  
 O óleo de linhaça será obtido na fração: 
  
@@ -7355,7 +7357,7 @@ A) Destilado 1.
 B) Destilado 2. 
 C) Resíduo 2. 
 D) Resíduo 3. 
-D) Resíduo 4. 
+E) Resíduo 4. 
  
  
 \
@@ -7388,7 +7390,7 @@ nar o nível tolerável de contaminação de alimentos, para que possam ser cons
 pelas pessoas. O quadro apresenta três pesticidas e suas toxicidades. A unidade mg/kg Indica a massa 
 da substância ingerida pela cobaia. 
  
- 
+\L 
  
 Sessenta ratos. Com massa de 200 g cada, foram divididos em três grupos de vinte. Três amostras de 
 ração, contaminadas, cada uma delas com um dos pesticidas indicados no quadro, na concentração de 
@@ -7635,17 +7637,12 @@ e um grupo tiol ligado à sua cadeia.
  
 A estrutura desse feromônio, que ajuda na pro-
 teção do zorrilho, é: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @266 (2017.3) 
 No Brasil, os postos de combustíveis comercia-
@@ -7707,11 +7704,7 @@ testes laboratoriais empregam o octan-1-ol como modelo da atividade das membrana
 ser testada é adicionada a uma mistura bifásica do octan-1-ol com água, que é agitada e, ao final, é me-
 dido o coeficiente de partição octan-1-ol:água (Koa):   
  
-Koa = 
-a
-C
-Coct
- 
+\L
  
 Em que Coct é a concentração da substância na fase do octan-1-ol, e Ca a concentração da substância 
 na fase aquosa. Foram avaliados cinco poluentes de sistemas aquáticos: benzeno, butano, éter dietílico, 
@@ -7733,7 +7726,7 @@ Os polímeros são materiais amplamente utilizados na sociedade moderna, alguns 
 embalagens e filmes plásticos, por exemplo. Na figura estão relacionadas as estruturas de alguns mo-
 nômeros usados na produção de polímeros de adição comuns. 
  
- 
+\L 
  
 Dentre os homopolímeros formados a partir dos monômeros da figura, aquele que apresenta solubilidade 
 em água é: 
@@ -7752,7 +7745,7 @@ Os combustíveis de origem fóssil, como o petróleo e o gás natural, geram um 
 devido à liberação de dióxido de carbono durante o processo de combustão. O quadro apresenta as 
 massas molares e as reações de combustão não balanceadas de diferentes combustíveis. 
  
- 
+\L 
  
 Considerando a combustão completa de 58 g de cada um dos combustíveis listados no quadro, a subs-
 tância que emite mais CO2 é o: 
@@ -7772,7 +7765,7 @@ substâncias encontradas, destacam-se as apresentadas no esquema. A presença de
 pode ser verificada por análises químicas, como uma reação ácido-base, mediante a adição de hidróxido 
 de sódio. 
  
- 
+\L 
 (Disponível em: www.unicamp.br. Acesso em: 16 nov. 2014 - adaptado) 
  
 Apesar de não ser perceptível visualmente, por causa das condições de diluição, essa análise apresen-
@@ -7794,7 +7787,7 @@ enzima.
  
 Os resultados estão apresentados no gráfico. 
  
- 
+\L 
  
 Em relação ao funcionamento da enzima, os resultados obtidos indicam que o(a): 
  
@@ -7830,7 +7823,7 @@ O hidrocarboneto representado pela estrutura química a seguir pode ser isolado 
 das flores de determinadas plantas. Além disso, sua função é relacionada, entre outros fatores, a seu 
 perfil de insaturações. 
  
- 
+\L 
  
 Considerando esse perfil específico, quantas ligações pi a molécula contém? 
  
@@ -7851,8 +7844,7 @@ pela flexão de uma lâmina delgada de silício, ligado a um polímero de azoben
 porte, em dois comprimentos de onda, conforme ilustrado na figura. Com a aplicação de luz ocorrem 
 reações reversíveis da cadeia do polímero, que promovem o movimento observado: 
  
- 
- 
+\L
 (TOMA, H. E. A nanotecnologia das moléculas. Química Nova na Escola, n.21, maio 2005 - adaptado) 
  
 O fenômeno de movimento molecular, promovido pela incidência de luz, decorre do(a) 
@@ -7883,7 +7875,7 @@ curso de ida quanto no de volta.
 O quadro resume alguns dados aproximados 
 sobre esses combustíveis. 
  
- 
+\L 
  
 O volume de etanol combustível, em litro, con-
 sumido no percurso de volta é mais próximo de: 
@@ -7912,7 +7904,7 @@ A sinalização mostrada identifica uma substân-
 cia que está sendo transportada em um cami-
 nhão. 
  
- 
+\L 
  
 Os três algarismos da parte superior do painel 
 indicam o “Número de risco”. O número 268 
@@ -7955,10 +7947,8 @@ uma barra de ferro (aparentemente corroída por
 ácido) e uma tampa de betume (asfalto), con-
 forme ilustrado. Considere os potenciais-padrão 
 de redução: 
- 
- 
- 
- 
+
+\L
  
 Nessa suposta pilha, qual dos componentes 
 atuaria como cátodo? 
@@ -7979,7 +7969,7 @@ realizou um teste de densidade: colocou este
 instrumento na água pura e observou que ele 
 atingiu o repouso na posição mostrada. 
  
- 
+\L 
  
 Em dois outros recipientes A e B contendo 2 
 litros de água pura, em cada um, ele adicionou 
@@ -7992,19 +7982,12 @@ espaços intermoleculares na solução.
  
 Nestes recipientes, a posição de equilíbrio do 
 densímetro está representada em: D) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @280 (2018.1) 
 O sulfeto de mercúrio (II) foi usado como pig-
@@ -8109,13 +8092,15 @@ ficando sua utilização em diversos processos. A
 reação de substituição nucleofílica entre o ani-
 drido acético e a hidroxilamina está representa-
 da. 
- 
+
+\L
+
 O produto A é favorecido em relação ao B, por 
 um fator de 105. Em um estudo de possível 
 substituição do uso de hidroxilamina, foram 
 testadas as moléculas numeradas de 1 a 5. 
  
- 
+\L 
  
 Dentre as moléculas testadas, qual delas apre-
 sentou menor reatividade? 
@@ -8138,7 +8123,7 @@ mano libera energia, conforme ilustra a equação
 química, sendo que aproximadamente 40% dela 
 é disponibilizada para atividade muscular. 
  
- 
+\L
  
 Considere as massas molares (em g mol-1):  
  
@@ -8174,8 +8159,7 @@ A conversão de energia solar em elétrica ocorre
 por meio da sequência de reações apresenta-
 das na sequência. 
  
- 
- 
+\L
 (LONO,C.; DE PAOLI, M. –A. Dye-Sensitizes Solar Cells: A Successful Combination of Materials.  
 Journal of the Brazilian Chemical Society, n. 6, 2003 – adaptado) 
  
@@ -8201,7 +8185,7 @@ energia cinética e faz com que eles oscilem em torno de uma posição de equil�
 os), que é diferente para cada temperatura. A distância de ligação pode variar sobre toda a extensão das 
 linhas horizontais, identificadas com o valor da temperatura, de T1 a T4 (temperaturas crescentes). 
  
- 
+\L 
  
 O deslocamento observado na distância média revela o fenômeno da: 
  
@@ -8227,10 +8211,12 @@ dos países por tensoativos biodegradáveis, ou seja, com cadeias alquílicas li
 uma abordagem ambiental e analítica. Química Nova, n. 5, 2006 - adaptado) 
  
 Qual a fórmula estrutural do tensoativo persistente no ambiente mencionado no texto? B) 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @288 (2018.1) 
 As abelhas utilizam a sinalização química para distinguir a abelha-rainha de uma operária, sendo capa-
@@ -8327,7 +8313,7 @@ mensional) de átomos de carbono compactados
 e com a espessura de apenas um átomo. Sua 
 estrutura é hexagonal, conforme a figura. 
  
- 
+\L 
  
 Nesse arranjo, os átomos de carbono possuem 
 hibridação: 
@@ -8488,13 +8474,9 @@ para gerar grande quantidade de energia. A
 partícula liberada em seu decaimento poderia 
 ser bloqueada utilizando-se uma caixa de aço 
 inoxidável. A equação nuclear para o decaimen-
-to do 
-Th
-90
-230
- é: 
+to do 230 90Th é: 
  
- 
+\L 
  
 Considerando a equação de decaimento nucle-
 ar, a partícula que fica bloqueada na caixa de 
@@ -8520,8 +8502,7 @@ Acesso em: 26 out. 2015)
 Considere o rendimento global de 20% na síntese da atorvastatina cálcica a partir desse éster, na pro-
 porção de 1 : 1. Simplificadamente, o processo é ilustrado na figura. 
  
- 
- 
+\L 
 (VIEIRA, A. S. Síntese total da atorvastatina cálcica.  
 Disponível em: http://ipd-forma.org.br. Acesso em: 26 out. 2015 - adaptado) 
  
@@ -8546,8 +8527,7 @@ rais diluídos. No pré-tratamento de material lignocelulósico por via ácida, 
 ção igual a 98 g/L, ocorrendo dissociação total do ácido na solução diluída. O quadro apresenta os valo-
 res aproximados de logaritmos decimais. 
  
- 
- 
+\L
 (Disponível em: www.cgee.org.br. Acesso em: 3 ago. 2012 -adaptado) 
  
 Sabendo-se que as massas molares, em g/mol, dos elementos H, O e S são, respectivamente, iguais a 
@@ -8565,8 +8545,7 @@ E) 3,6
 A figura apresenta um processo alternativo para obtenção de etanol combustível, utilizando o bagaço e 
 as folhas da cana-de-açúcar. Suas principais etapas são identificadas com números. 
  
- 
- 
+\L
 (Disponível em: http://revistapesquisa.br. Acesso em: 24 mar. 2014 - adaptado) 
  
 Em qual etapa ocorre a síntese desse combustível? 
@@ -8574,14 +8553,12 @@ Em qual etapa ocorre a síntese desse combustível?
 \
 A) 1 
  
+B) 2  
+C) 3 
  
-     B) 2  
-      C) 3 
+D) 4 
  
-      D) 4 
- 
- 
-     E) 5 
+ E) 5 
  
  
 \
@@ -8590,7 +8567,7 @@ Objetos de prata sofrem escurecimento devido à sua reação com enxofre. Estes 
 seu brilho característico quando envoltos por papel alumínio e mergulhados em um recipiente contendo 
 água quente e sal de cozinha. A reação não balanceada que ocorre é: 
  
- 
+\L 
    
 Dados da massa molar dos elementos (g mol–1): Ag = 108; S = 32. 
  
@@ -8613,7 +8590,7 @@ O suco de repolho-roxo pode ser utilizado como indicador ácido-base em diferent
 basta misturar um pouco desse suco à solução desejada e comparar a coloração final com a escala indi-
 cadora de pH, com valores de 1 a 14, mostrada a seguir: 
  
- 
+\L 
  
 Utilizando-se o indicador ácido-base e a escola para determinar o pH da saliva humana e o do suco gás-
 trico, têm-se, respectivamente, as cores: 
@@ -8636,7 +8613,7 @@ estrutura, gerando um odor característico. A
 figura representa a fórmula estrutural do ácido 
 acetilsalicílico. 
  
- 
+\L 
  
 Esse odor é provocado pela liberação de: 
  
@@ -8704,8 +8681,7 @@ cular e diferentes fórmulas estruturais. São os
 chamados isômeros, como ilustrado nas estrutu-
 ras. 
  
- 
- 
+\L
  
 Entre as moléculas apresentadas, observa-se a 
 ocorrência de isomeria: 
@@ -8789,7 +8765,7 @@ da radiação no infravermelho associada à vibra-
 ção da ligação química. A estrutura química da 
 molécula 2-animo-6-cianopiridina é mostrada. 
  
- 
+\L 
  
 A ligação química dessa molécula, envolvendo 
 átomos diferentes do hidrogênio, que absorve a 

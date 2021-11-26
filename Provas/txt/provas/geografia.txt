@@ -6587,8 +6587,8 @@ E) introduzir a gestão participativa entre os municípios.
 @202 (2014.3) 
  
 Perfil do comércio Brasil-China em 2010 
- 
- 
+\L
+\L 
   
 Nas últimas décadas, tem se observado um 
 incremento no comércio entre o Brasil e a Chi-
@@ -6610,11 +6610,9 @@ gia no comércio bilateral.
  
 \
 @203 (2014.3) 
- 
 Números de Imigrantes 
 Internacionais do Brasil 
- 
- 
+\L
  
 A variação do número de imigrantes internacio-
 nais no Brasil, verificada pela análise do gráfico, 
@@ -6633,7 +6631,7 @@ tos esportivos.
  
 \
 @204 (2014.3) 
- 
+\L 
  
 As trajetórias de participação das regiões Su-
 deste e Nordeste, apresentadas no mapa, es-
@@ -6781,7 +6779,7 @@ desenvolvimento sustentável.
  
 \
 @209 (2014.3) 
- 
+\L
   
 Comparando o escoamento natural das águas de chuva com o escoamento em áreas urbanas, nota-se 
 que a urbanização promove maior: 
@@ -6800,7 +6798,7 @@ nal desses elementos na composição do ciclo hidrológico.
  
 \
 @210 (2014.3) 
- 
+\L 
  
 A distribuição espacial de madeira para papel e celulose no Brasil possui uma estratégia logística que 
 resulta na: 
@@ -6832,7 +6830,7 @@ E) da emissão de poluentes atmosféricos.
 \
 @212 (2014.3) 
 Território e territorialização da produção de soja 
- 
+\L
  
 A formação do território da soja no Brasil refletiu a seguinte característica espacial: 
  
@@ -6909,7 +6907,7 @@ tuição de termelétricas por hidrelétricas.
  
 \
 @215 (2014.2) 
- 
+\L 
  
 A charge ironiza um problema recorrente nas 
 áreas urbanas nos períodos de maior precipita-
@@ -6972,7 +6970,7 @@ complexidade da dimensão espacial.
  
 \
 @217 (2014.2) 
- 
+\L
  
 Com o intenso desenvolvimento da tecnologia 
 no mundo contemporâneo, diversos produtos 
@@ -6994,11 +6992,9 @@ missão de informações.
 E) a necessidade de orientação de especialistas 
 para seu uso.  
 \
-@218 (2014.2) 
- 
+@218 (2014.2)  
 Distribuição da população por sexo, segundo os grupos de idade BRASIL 2010 
- 
- 
+\L
  
 O gráfico obtido a partir das informações do Censo de 2010 e reflexo da dinâmica populacional do país e 
 apresenta um(a): 
@@ -7503,8 +7499,7 @@ D) rarefação da camada de ozônio.
 E) chuva acida. 
 \
 @232 (2015.1) 
- 
- 
+\L 
  
 No mapa estão representados os biomas brasi-
 leiros que, em função de suas características 
@@ -7523,8 +7518,7 @@ E) contaminação das águas subterrâneas.
  
 \
 @233 (2014.2) 
- 
- 
+\L 
  
 A relação entre precipitação e temperatura apresentada indica tratar-se de um clima: 
  
@@ -7543,8 +7537,7 @@ tudes térmicas medianas.
  
 \
 @234 (2015.1) 
- 
- 
+\L
  
 Na charge há uma crítica ao processo produtivo 
 agrícola brasileiro relacionada ao: 
@@ -7662,16 +7655,15 @@ E) segurança dos dados.
  
 \
 @239 (2015.1) 
- 
 Figura 1. Diagrama das regiões de intempe-
 rismo para as condições brasileiras  
 (adaptado de Peltier, 1950). 
- 
+\L
  
  
 Figura 2. Mapa das regiões de intemperismo 
 do Brasil, baseado no diagrama da Figura 1. 
- 
+\L 
  
  
 De acordo com as figuras, a intensidade de 
@@ -7773,8 +7765,8 @@ na chapada.
  
 \
 @243 (2015.1) 
- 
- 
+\L
+
 A imagem representa o resultado da erosão que 
 ocorre em rochas nos leitos dos rios, que decor-
 re do processo natural de: 
@@ -7894,7 +7886,7 @@ de de vida.
 Acesso em: 29 jul. 2012) 
  
 TEXTO II 
- 
+\L 
  
 As imagens representam as geleiras da Groen-
 lândia, que sofreram e sofrem impactos, resul-
@@ -8002,11 +7994,9 @@ E) emprego de recursos públicos na redução de desigualdades sociais.
  
  
 \
-@251 (2015.3) 
- 
+@251 (2015.3)  
 População residente, por situação do domicílio, Brasil - 1940/2000 
- 
- 
+\L
  
 O processo indicado no gráfico demonstra um aumento significativo da população urbana em relação à 
 população rural no Brasil. Esse fenômeno pode ser explicado pela: 
@@ -8021,7 +8011,7 @@ E) redução dos subsídios para os setores da economia localizados nas áreas r
  
 \
 @252 (2015.3) 
- 
+\L
   
 As figuras representam a distância real (D) entre duas residências e a distância proporcional (d) em uma 
 representação cartográfica, as quais permitem estabelecer relações espaciais entre o mapa e o terreno. 
@@ -8092,8 +8082,7 @@ D) Desemprego conjuntural.
 E) Desenvolvimento econômico. 
 \
 @255 (2015.3) 
- 
- 
+\L
  
 As diferentes representações cartográficas tra-
 zem consigo as ideologias de uma época. A 
@@ -8139,8 +8128,7 @@ E) organização de regras nas relações internacionais.
  
 \
 @257 (2015.3) 
- 
- 
+\L 
  
 A distribuição do consumo de energia elétrica per capita, verificada no cartograma, é resultado da: 
  
@@ -8214,8 +8202,7 @@ E) adoção do preservacionismo e estabeleci-
 mento de reservas permanentes.  
 \
 @260 (2015.3) 
- 
- 
+\L 
  
 As novas tecnologias foram massificadas, al-
 cançando e impactando de diferentes formas os 
@@ -8335,28 +8322,20 @@ D) formação de grandes estoques.
 E) implantação de linhas de montagem.  
 \
 @264 (2016.1) 
- 
+\L
  
 Dentro das atuais redes produtivas, o referido bloco apresenta composição estratégica por se tratar de 
 um conjunto de países com: 
  
 \
 A) elevado padrão social. 
- 
- 
- 
-D) identidades culturais semelhantes. 
 B) sistema monetário integrado. 
- 
- 
+C) alto desenvolvimento tecnológico.  
+D) identidades culturais semelhantes. 
 E) vantagens locacionais complementares. 
-C) alto desenvolvimento tecnológico. 
- 
- 
 \
 @265 (2016.1) 
- 
- 
+\L 
  
 Os moradores de Andalsnes, na Noruega, pode-
 riam se dar ao luxo de morar perto do trabalho 
@@ -8509,18 +8488,17 @@ sidade de diploma superior.
  
 \
 @270 (2016.1) 
- 
- 
+\L
  
 A ONU faz referência a uma projeção cartográ-
 fica em seu logotipo. A figura que ilustra o mo-
 delo dessa projeção é: 
- 
-  
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @271 (2016.1) 
 Segundo a Conferência de Quioto, os países 
@@ -8625,19 +8603,14 @@ O posicionamento governamental citado nos
 textos é criticado pelo ACNUR por ser conside-
 rado um caminho para o(a):  
 \
-A) alteração do regime político.  
- 
- 
-D) cerceamento da liberdade de expressão. 
+A) alteração do regime político.   
 B) fragilização da supremacia nacional.  
- 
-E) fortalecimento das práticas de discriminação. 
 C) expansão dos domínios geográficos. 
- 
- 
+D) cerceamento da liberdade de expressão. 
+E) fortalecimento das práticas de discriminação. 
 \
 @274 (2016.1) 
- 
+\L 
  
 Conforme a análise do documento cartográfico, a área de concentração das usinas de dessalinização é 
 explicada pelo(a): 
@@ -8645,13 +8618,13 @@ explicada pelo(a):
 \
 A) pioneirismo tecnológico. 
  
- 
-D) efeito das mudanças climáticas. 
 B) condição hidropedológica. 
+ 
+C) escassez de água potável. 
+D) efeito das mudanças climáticas. 
  
  
 E) busca da sustentabilidade ambiental. 
-C) escassez de água potável. 
  
  
 \
@@ -8786,8 +8759,7 @@ cooperativa.
  
 \
 @279 (2016.1) 
- 
- 
+\L
  
 Uma consequência socioeconômica para os países que vivenciam o fenômeno demográfico ilustrado é a 
 diminuição da:  
@@ -8830,9 +8802,8 @@ mas de comunicação.
  
 \
 @281 (2016.2) 
- 
- 
- 
+\L 
+
 A projeção cartográfica do mapa configura-se 
 como hegemônica desde a sua elaboração, no 
 século XVI. A sua principal contribuição inova-
@@ -8957,7 +8928,12 @@ se refletir a realidade do país e compreender seus mais profundos contrastes.
  
 A divisão em regiões geoeconômicas ou complexos regionais encontra-se na seguinte representação: 
  
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
  
 \
 @285 (2016.2) 
@@ -8995,8 +8971,7 @@ E) Rotação de culturas.
  
 \
 @286 (2016.2) 
- 
- 
+\L
  
 Relacionando as informações do mapa com o 
 processo de ocupação brasileiro, as áreas de 
@@ -9054,8 +9029,7 @@ cos socialistas.
  
 \
 @288 (2016.2) 
- 
- 
+\L
  
 O processo ambiental ao qual a charge faz refe-
 rência tende a se agravar em função do(a): 
@@ -9136,8 +9110,7 @@ E) Incorporação de mão de obra abundante.
  
 \
 @291 (2016.2) 
- 
- 
+\L
  
 A interpretação da imagem demonstra que a distribuição de países onde se dirige do lado direito coinci-
 de, em grande parte, com a zona de influência ou dominação exercida pela: 
@@ -9234,8 +9207,7 @@ E) as áreas de preservação ambiental.
  
 \
 @295 (2016.3) 
- 
- 
+\L
  
 Analisar o processo atual de circulação e de 
 armazenamento de determinados bens culturais 
@@ -9261,11 +9233,7 @@ legalmente algo desprovido de suporte físico.
 \
 @296 (2016.3) 
 A imagem apresenta um exemplo de croqui de síntese sobre o turismo na França. 
- 
- 
- 
- 
- 
+\L
 (PONTUSCHKA, N.N.; PAGANELLI, T. L.; CACETE, N. H. Para ensinar e aprender geografia. São Paulo: 2007) 
  
 Os croquis são esquemas gráficos que: 
@@ -9530,9 +9498,8 @@ gradante.
  
 (Disponível em: http://mp-go.jusbrasil.com.br.  
 Acesso em: 2 ago. 2012 - adaptado) 
- 
- 
- 
+
+\L
 (Disponível em: http://al.go.leg.br. Acesso em: 2.8.12) 
  
 O fenômeno noticiado, sobre a área urbana de 
@@ -9557,9 +9524,7 @@ cessos erosivos naturais às encostas.
 \
 @305 (2016.3) 
 A análise da imagem remete a uma estratégia que pressupõe o(a): 
- 
- 
- 
+\L
  
 \
 A) preocupação governamental com a entrada de imigrantes no país. 
@@ -9571,9 +9536,7 @@ E) direcionamento dos investimentos militares para a proteção de recursos biog
  
 \
 @306 (2017.1) 
- 
- 
- 
+\L
 (MACHADO, P.J. O TORRES, FTP Introdução à hidrogeografia São Paulo: Cengage Learning, 2012 - adaptado) 
  
 A leitura dos dados revela que as áreas com maior cobertura vegetal têm o potencial de intensificar o 
@@ -9851,9 +9814,7 @@ zadas no centro das placas tectônicas, em regi-
 ões conhecidas como pontos quentes.  
 \
 @315 (2017.1) 
- 
- 
- 
+\L
 (Tudo sobre a batalha de Belo Monte. Disponível em: http://arte.folha.uol.com.br. Acesso em: 10 jan. 2014) 
  
 Comparando os dados das hidrelétricas, uma característica territorial positiva de Belo Monte é o(a): 
@@ -9868,9 +9829,7 @@ E) proximidade de fronteiras internacionais estratégicas.
  
 \
 @316 (2017.1) 
- 
- 
- 
+\L
 (Disponível em: https://pt.climate-data.org. Acesso em: 12 maio 2017 – adaptado) 
  
 As temperaturas médias mensais e as taxas de pluviosidade expressas no climograma apresentam o 
@@ -9971,15 +9930,8 @@ Tratado do Atlântico Norte (Otan).
  
 \
 @320 (2017.1) 
- 
 Figura 1 
- 
- 
- 
-Figura 2 
- 
- 
- 
+\L
 (SALGADO-LABOURIAU, M. L. História ecológica da 
 Terra. São Paulo: Edgard Blucher, 1994 - adaptado) 
  
@@ -10083,16 +10035,13 @@ E) Semidecídua e clima tropical úmido.
 @324 (2017.1) 
  
 Figura 1 
- 
 Mínimas – Quinta-feira 
- 
- 
+\L
 (Disponível em: http://img0.cptec.inpe.br.  
 Acesso em: 25 ago. 2014 - adaptado) 
  
 Figura 2 
- 
- 
+\L
  
 No dia em que foram colhidos os dados meteorológicos apresentados, qual fator climático foi determi-
 nante para explicar os índices de umidade relativa do ar nas regiões Nordeste e Sul? 
@@ -10125,8 +10074,7 @@ E) manutenção das preferências de consumo.
  
 \
 @326 (2017.3) 
- 
- 
+\L
 (Disponível em: www1.folha.uol.com.br. Acesso em: 6 fev. 2014 - adaptado) 
  
 O impacto apresentado nesse ambiente tem sido intensificado pela: 
@@ -10163,9 +10111,7 @@ E) armazenamento das bacias hidrográficas.
  
 \
 @328 (2017.3) 
- 
- 
- 
+\L
 (CALDINI, V.; ÍSOLA, L. Atlas geográfico Saraiva. 
 São Paulo: Saraiva, 2009 - adaptado) 
  
@@ -10548,12 +10494,8 @@ E) formalização do trabalhador do campo.
  
 \
 @341 (2017.3) 
- 
 Composição da população residente total, por sexo e grupos de idade Brasil - 1991/2010 
- 
- 
- 
- 
+\L
 (IBGE. Censo demográfico 2010. Rio de Janeiro: IBGE, 2012 - adaptado) 
  
 A evolução na estrutura etária apresentada influenciou o Estado a formular ações para: 
@@ -10573,29 +10515,22 @@ E) fiscalizar a entrada de imigrantes.
 @342 (2017.3) 
 Projeção cartográfica é uma transformação que faz corresponder, a cada ponto da superfície terrestre, 
 um ponto no plano. 
- 
- 
- 
+
+\L
 (GASPAR, J. A. Cartas e projeções à superfície projetada  
 mostradas nas figuras são identificadas. Lisboa: Lidel, 2005) 
  
 As relações do plano de projeção à superfície projetada mostradas nas figuras são identificadas, respec-
 tivamente, em: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
 \
 @343 (2017.3) 
- 
- 
- 
+\L
 (SUERTEGARAY, D. M. A. (Org.). Terra: feições ilustradas. Porto Alegre: UFRGS, 2008) 
  
 As características morfológicas do terreno estão representadas no bloco diagrama, que mostra uma re-
@@ -10611,8 +10546,7 @@ E) ação de cursos de água.
  
 \
 @344 (2018.1) 
-\
-@345 (2018.1) 
+ 
 No Segundo Congresso Internacional de Ciên-
 cias Geográficas, em 1875, a que comparece-
 ram o presidente da República, o governador de 
@@ -10643,7 +10577,10 @@ colonialistas.
 D) desenvolvimento de técnicas matemáticas de 
 construção de cartas. 
 E) consolidação do conhecimento topográfico 
-como campo acadêmico. 
+como campo acadêmico.
+
+\
+@345 (2018.1)
 Foi-se o tempo em que era possível mostrar um 
 mundo econômico organizado em camadas 
 bem definidas, onde grandes centros urbanos 
@@ -10690,20 +10627,12 @@ cartográficas. Lisboa: Lidei, 2004)
  
 A técnica descrita foi aplicada na seguinte forma 
 de representação do espaço:  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L
 \
 @347 (2018.1) 
 Em Beirute, no Líbano, quando perguntado so-
@@ -10774,10 +10703,8 @@ dos organismos internacionais.
  
 \
 @349 (2018.1) 
- 
 Trajetória da Ciclones Tropicais 
- 
- 
+\L
 (Disponível em: http://globalwarmingart.com.  
 Acesso em: 12 jul. 2015 - adaptado) 
  
@@ -10830,9 +10757,7 @@ E) superação da especialização dos cargueiros.
  
 \
 @351 (2018.1) 
- 
- 
- 
+\L
 (Disponível em: www.biologiasur.org.  
 Acesso em: 4 jul. 2015 - adaptado) 
  
@@ -11000,8 +10925,7 @@ Atlântico Sul (ZCAS), para um verão normal e
 para o verão seco de 2014. “A” representa o 
 centro da anomalia de alta pressão atmosférica.
  
- 
- 
+\L
  
 De acordo com as informações apresentadas, a seca de 2014, no Sudeste, teve como causa natural o(a) 
  
@@ -11015,10 +10939,9 @@ E) baixa pressão atmosférica no litoral.
  
 \
 @357 (2018.1) 
- 
 Participação percentual do extrativismo vegetal e da silvicultura no  
 valor da produção primária florestal - Brasil - 1996-2014 
- 
+\L 
  
 Considerando as diferenças entre extrativismo vegetal e silvicultura, a variação das curvas do gráfico foi 
 influenciada pela tendência de: 
@@ -11252,17 +11175,12 @@ dorias.
 @365 (2018.3) 
  
 Figura1 
- 
- 
- 
+\L
 (Disponível em: http://atlasescolar.ibge.gov.br.  
 Acesso em: 2 out. 2015 - adaptado) 
- 
- 
+
 Figura 2 
- 
- 
- 
+\L
 (Disponível em: http://imgms.almanaque.abril.com.br. 
 Acesso em: 2 out. 2015) 
  
@@ -11279,10 +11197,8 @@ E) incorporar os critérios naturais.
  
 \
 @366 (2018.3) 
- 
 Composição da população brasileira, por faixa de idade 
- 
- 
+\L
 Fonte: IBGE 
 (Disponível em: http://revistaepoca.globo.com. Acesso em: 30 jun. 2015) 
  
@@ -11596,9 +11512,7 @@ E) aumento da atividade turística.
  
 \
 @377 (2018.3) 
- 
- 
- 
+\L
 (BRASIL. IBGE. Regiões de influência de cidades 
 2007. Rio de Janeiro: IBGE, 2008 - adaptado) 
  
@@ -11618,9 +11532,7 @@ cializando a conexão global.
  
 \
 @378 (2018.3) 
- 
- 
- 
+\L
 (LEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989 - adaptado) 
  
 A causa da formação do curso-d’água encachoeirado, tal como ilustrado na imagem, é a: 

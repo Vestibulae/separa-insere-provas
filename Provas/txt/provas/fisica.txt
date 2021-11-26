@@ -59,7 +59,8 @@ do comum aumenta, ele sofre dilatação. O
 mesmo não ocorre com a água, se ela estiver a 
 uma temperatura próxima a de seu ponto de 
 congelamento.  
- 
+
+\L 
  
 O gráfico mostra como o volume específico 
 (inverso da densidade) da água varia em função 
@@ -98,7 +99,7 @@ assim a contração cardíaca. Observa-se que
 existem quatro fases envolvidas nesse potencial 
 de ação, sendo denominadas fases 0, 1, 2 e 3. 
  
- 
+\L 
  
 O potencial de repouso dessa célula é -100 mV, 
 e quando ocorre influxo de íons Na+ e Ca2+, a 
@@ -108,8 +109,7 @@ celular. A modificação no potencial de repouso
 pode disparar um potencial de ação quando a 
 voltagem da membrana atinge o limiar de dispa-
 ro que está representado na figura pela linha 
-pontilhada. Contudo, a célula não pode se man-
-ovocadernoenem@gmail.com 
+pontilhada. Contudo, a célula não pode se man- 
 ter despolarizada, pois isso acarretaria a morte 
 celular. Assim, ocorre a repolarização celular, 
 mecanismo que reverte a despolarização e re-
@@ -240,9 +240,9 @@ la.
  
 4. Usar a altura manométrica no gráfico 
 de desempenho para ler a vazão cor-
-respondente. 
-ovocadernoenem@gmail.com 
- 
+respondente.  
+
+\L 
  
 Considere que se deseja usar uma bomba, cujo desempenho é descrito pelos dados acima, para encher 
 um reservatório de 1.200 L que se encontra 30 m acima da entrada da bomba. Para fazer a tubulação 
@@ -254,13 +254,13 @@ A) entre 30 e 40 minutos.
  
  
  
-D) entre 40 minutos e 1 h e 10 minutos. 
 B) em menos de 30 minutos. 
+C) em mais de 1 h e 40 minutos. 
  
+D) entre 40 minutos e 1 h e 10 minutos. 
  
  
 E) entre 1 h e 10 minutos e 1 h e 40 minutos. 
-C) em mais de 1 h e 40 minutos. 
  
  
 \
@@ -314,13 +314,12 @@ gia solar para dessalinizar a água. Nela, um
 tanque contendo água salgada é coberto por um 
 plástico transparente e tem a sua parte central 
 abaixada pelo peso de uma pedra, sob a qual 
-se coloca um recipiente (copo).  
-ovocadernoenem@gmail.com 
+se coloca um recipiente (copo).   
 A água evaporada se condensa no plástico e 
 escorre até o ponto mais baixo, caindo dentro 
 do copo. 
  
- 
+\L 
  
 Nesse processo, a energia solar cedida à água 
 salgada: 
@@ -342,7 +341,7 @@ no processo de evaporação da água salgada.
 @09 (2009.4) 
  
 O Super-homem e as leis do movimento 
- 
+\L 
  
  
 Uma das razões para pensar sobre a física dos 
@@ -400,12 +399,10 @@ conversão.
  
 Eficiência de alguns sistemas 
 de conversão de energia 
- 
- 
- 
+\L
 (HINRICHS, R. A; KLEINBACH, M. Energia e meio 
-ambiente. São Paulo: Pioneira Leaming, 2003) 
-ovocadernoenem@gmail.com 
+ambiente. São Paulo: Pioneira Leaming, 2003)
+
 Se essas limitações não existissem, os sistemas 
 mostrados na tabela, que mais se beneficiariam 
 de investimentos em pesquisa para terem suas 
@@ -538,8 +535,8 @@ III. Na residência: a energia elétrica aciona
 um motor cujo eixo está acoplado ao de 
 uma bomba hidráulica e, ao girar, cum-
 pre a tarefa de transferir água do poço 
-para a caixa. 
-ovocadernoenem@gmail.com 
+para a caixa.
+
 As etapas I, II e III acima mostram, de forma 
 resumida e simplificada, a cadeia de transfor-
 mações de energia que se processam desde a 
@@ -667,14 +664,13 @@ D) Kepler estudou o planeta Marte para atender
 científica da Alemanha. 
 E) Kepler apresentou uma teoria científica que, 
 graças aos métodos aplicados, pôde ser testada 
-e generalizada. 
-ovocadernoenem@gmail.com 
+e generalizada.  
 \
 @16 (2009.4) 
 Uma estudante que ingressou na universidade e, pela primeira vez, está morando longe de sua família, 
 recebe sua primeira conta de luz: 
  
- 
+\L 
  
 Se essa estudante comprar um secador de cabelos que consome 1000 W de potência e considerando 
 que ela e sua 3 amigas utilizem esse aparelho por 15 minutos cada uma durante 20 dias no mês, qual 
@@ -696,7 +692,7 @@ diversas etapas. Nesse caso, a eficiência geral será igual ao produto das efic
 ais. A entrada de energia que não se transforma em trabalho útil é perdida sob formas não utilizáveis 
 (como resíduos de calor). 
  
- 
+\L 
  
 Aumentar a eficiência dos processos de conversão de energia implica economizar recursos e combustí-
 veis. Das propostas seguintes, qual resultará em maior aumento da eficiência geral do processo? 
@@ -708,8 +704,7 @@ C) Manter o menor número possível de aparelhos elétricos em funcionamento nas
 D) Utilizar cabos com menor diâmetro nas linhas de transmissão a fim de economizar o material condu-
 tor. 
 E) Utilizar materiais com melhores propriedades condutoras nas linhas de transmissão e lâmpadas fluo-
-rescentes nas moradias. 
-ovocadernoenem@gmail.com 
+rescentes nas moradias.  
 \
 @18 (2009.1) 
 O Brasil pode se transformar no primeiro país 
@@ -749,7 +744,7 @@ E) 6.400 m.
 O manual de instruções de um aparelho de ar-condicionado apresenta a seguinte tabela, com dados 
 técnicos para diversos modelos: 
  
- 
+\L 
  
 Considere-se que um auditório possua capacidade para 40 pessoas, cada uma produzindo uma quanti-
 dade média de calor, e que praticamente todo o calor que flui para fora do auditório o faz por meio dos 
@@ -774,16 +769,15 @@ da potência requerida, da fiação necessária, dos eletrodutos*, entre outras.
 existe um valor de potência associado. Valores típicos de potências para alguns aparelhos elétricos são 
 apresentados no quadro seguinte: 
  
+\L 
  
- 
-*Eletrodutos são condutos por onde passa a fiação de uma instalação elétrica, com a finalidade de protegê-la. 
-ovocadernoenem@gmail.com 
+*Eletrodutos são condutos por onde passa a fiação de uma instalação elétrica, com a finalidade de protegê-la.  
 A escolha das lâmpadas é essencial para obtenção de uma boa iluminação. A potência da lâmpada de-
 verá estar de acordo com o tamanho do cômodo a ser iluminado. O quadro a seguir mostra a relação 
 entre as áreas dos cômodos (em m2) e as potências das lâmpadas (em W), e foi utilizado como referên-
 cia para o primeiro pavimento de uma residência. 
  
- 
+\L 
  
 Considerando a planta baixa fornecida, com todos os aparelhos em funcionamento, a potência total, em 
 watts, será de: 
@@ -800,7 +794,9 @@ E) 4.470.
 @21 (2009.1) 
 O esquema mostra um diagrama de bloco de uma estação geradora de eletricidade abastecida por com-
 bustível fóssil. 
- 
+
+\L
+
 Se fosse necessário melhorar o rendimento dessa usina, que forneceria eletricidade para abastecer uma 
 cidade, qual das seguintes ações poderia resultar em alguma economia de energia, sem afetar a capaci-
 dade de geração da usina? 
@@ -831,7 +827,7 @@ tiva, ao entrar em contato com o eletrodo de carga de mesmo sinal, ela será rep
 na pele (eletrorrepulsão - A). Se for neutra, a molécula será forçada a entrar na pele juntamente com o 
 fluxo de solvente fisiológico que se forma entre os eletrodos (eletrosmose - B). 
  
- 
+\L 
  
 De acordo com as informações contidas no texto e nas figuras, o uso da iontoforese: 
  
@@ -854,7 +850,8 @@ mosfera. Ela é definida pela razão entre o conteúdo real de umidade de uma pa
 de de umidade que a mesma parcela de ar pode armazenar na mesma temperatura e pressão quando 
 está saturada de vapor, isto é, com 100% de umidade relativa. O gráfico representa a relação entre a 
 umidade relativa do ar e sua temperatura ao longo de um período de 24 horas em um determinado local. 
- 
+
+\L 
  
 Considerando-se as informações do texto e do gráfico, conclui-se que: 
  
@@ -882,7 +879,7 @@ telescópio. Ao abrir a porta de acesso, um deles
 exclamou: “Esse telescópio tem a massa gran-
 de, mas o peso é pequeno.” 
  
- 
+\L 
  
 Considerando o texto e as leis de Kepler, pode-
 se afirmar que a frase dita pelo astronauta: 
@@ -1004,7 +1001,7 @@ do para a água, vaporizando-a em uma caldeira.
 O vapor em alta pressão movimenta uma turbi-
 na acoplada a um gerador de energia elétrica. 
  
- 
+\L 
  
 Considerando que a distância entre a borda 
 inferior e a borda superior da superfície refletora 
@@ -1112,7 +1109,8 @@ meio dos processos de compressão, que ocorre
 na parte externa, e de expansão, que ocorre na 
 parte interna, que o gás proporciona a troca de 
 calor entre o interior e o exterior da geladeira. 
- 
+
+\L 
 (Disponível em: http://home.howstuffworks.com. 
 Acesso em: 19 out. 2008 - adaptado) 
  
@@ -1151,7 +1149,7 @@ com a mesma especificação (L1 a L8), interliga-
 das em um circuito com uma bateria, conforme 
 mostra a figura. 
  
- 
+\L 
  
 Nessa situação, quais são as três lâmpadas que 
 acendem com o mesmo brilho por apresentarem 
@@ -1216,7 +1214,8 @@ armazenada no boiler. Dessa forma, a água é
 mantida quente para consumo posterior. A caixa 
 de água fria alimenta o boiler, mantendo-o sem-
 pre cheio. 
- 
+
+\L 
  
 É correto afirmar que os coletores solares per-
 mitem boa economia de energia, pois: 
@@ -1243,7 +1242,8 @@ Na era do telefone celular, ainda é possível se
 comunicar com um sistema bem mais arcaico e 
 talvez mais divertido: o “telefone com copos de 
 plástico e barbante”. 
- 
+
+\L 
  
 A onda sonora produzida pelo menino faz vibrar 
 o fundo de um copo plástico, em um movimento 
@@ -1322,7 +1322,8 @@ na temperatura do planeta poderão influenciar as proporções de água nas dife
 O diagrama abaixo mostra as transformações de fase pelas quais a água passa, ao ser aquecida com o 
 fornecimento de energia a uma taxa constante. 
  
- 
+\L
+
 Considerando-se o diagrama de mudanças de fases da água e sabendo-se que os calores latentes de 
 fusão e de vaporização da água valem, respectivamente, 80 cal/g e 540 cal/g, conclui-se que: 
  
@@ -1395,7 +1396,8 @@ de lâminas bimetálicas, como as ilustradas na
 figura II, na qual são indicados os materiais A e 
 B — antes e após o seu aquecimento. 
  
- 
+\L
+
 Com base nas leis da termodinâmica e na dila-
 tação de sólidos sob a influência de temperatura 
 variável, conclui-se que: 
@@ -1447,7 +1449,8 @@ Energia útil avaliada como média anual para um
 sistema de aquecimento de água via energia 
 solar. (Coletores solares inclinados de um ângu-
 lo igual à latitude, acrescentados mais 10º) 
- 
+
+\L
  
 *Energia útil média: índice de aproveitamento da 
 energia solar incidente.  
@@ -1583,7 +1586,7 @@ aquela que são capazes de suportar. O quadro
 a seguir mostra uma série de fusíveis e os valo-
 res de corrente por eles suportados. 
  
- 
+\L 
  
 Um farol usa uma lâmpada de gás halogênio de 
 55 W de potência que opera com 36 V. Os dois 
@@ -1667,9 +1670,8 @@ destacada pela seta.
  
 \
 @47 (2010.1) 
- 
- 
- 
+\L
+
 A aparência de Júpiter é tipicamente marcada 
 por duas faixas escuras em sua atmosfera - 
 uma no hemisfério norte e outra no hemisfério 
@@ -1732,8 +1734,7 @@ E) Imantação, destilação, filtração.
  
 \
 @49 (2010.1) 
- 
- 
+\L 
  
 A fonte de energia representada na figura, considerada uma das mais limpas e sustentáveis do mundo, é 
 extraída do calor gerado: 
@@ -1842,7 +1843,7 @@ obtidos foram: a quantidade de água absorvida
 pelo papel liso foi de 8 ml, enquanto pelo papel 
 dobrado foi de 12 ml. 
  
- 
+\L 
  
 Com base nos dados obtidos, infere-se que a 
 função das microvilosidades intestinais com 
@@ -1870,10 +1871,8 @@ teiro. Suponha que as medidas indicadas nos
 esquemas seguintes tenham sido feitas em uma 
 cidade em que o preço do quilowatt/hora fosse 
 de R$ 0,20. 
- 
- 
- 
- 
+  
+\L 
  
 O valor a ser pago pelo consumo de energia 
 elétrica registrado seria de: 
@@ -1934,7 +1933,8 @@ sura da caixa de metal.
 Observe a tabela seguinte. Ela traz especificações técnicas constantes no manual de instruções forneci-
 do pelo fabricante de uma torneira elétrica. 
  
- 
+\L
+
 Considerando que o modelo de maior potência da versão 220 V da torneira suprema foi inadvertidamen-
 te conectada a uma rede com tensão nominal de 127 V, e que o aparelho está configurado para traba-
 lhar em sua máxima potência. Qual o valor aproximado da potência ao ligar a torneira? 
@@ -2000,15 +2000,12 @@ de "canhoto".
 Considerando o comportamento atípico desse 
 metamaterial, qual é a figura que representa a 
 refração da luz ao passar do ar para esse meio? 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @58 (2010.1) 
 Deseja-se instalar uma estação de geração de 
@@ -2054,7 +2051,7 @@ tamento é feito por um processo chamado de
 cogeração. A figura a seguir ilustra um exemplo 
 de cogeração na produção de energia elétrica. 
  
- 
+\L 
  
 Em relação ao processo secundário de aprovei-
 tamento de energia ilustrado na figura, a perda 
@@ -2070,8 +2067,7 @@ E) elétrica em luminosa.
  
 \
 @60 (2010.3) 
- 
- 
+\L
  
 Os quadrinhos mostram, por meio da projeção 
 da sombra da árvore e do menino, a sequência 
@@ -2216,7 +2212,7 @@ a área de seção reta. A tabela relaciona o mate-
 rial à sua respectiva resistividade em temperatu-
 ra ambiente. 
  
- 
+\L 
  
 Mantendo-se as mesmas dimensões geométri-
 cas, o fio que apresenta menor resistência elé-
@@ -2254,7 +2250,7 @@ pode ser analisado por meio do gráfico, que
 representa a velocidade de cada automóvel em 
 função do tempo. 
  
- 
+\L 
  
 As velocidades dos veículos variam com o tem-
 po em dois intervalos: (I) entre os instantes 10s 
@@ -2285,7 +2281,9 @@ da garrafa, conforme mostra a FIGURA 1.
 Quando a garrafa é pressionada, o frasco se 
 desloca para baixo, como mostrado na FIGURA 
 2. 
- 
+
+\L
+
 Ao apertar a garrafa, o movimento de descida 
 do frasco ocorre porque: 
  
@@ -2375,7 +2373,7 @@ gerada energia elétrica para acender a lâmpa-
 da. Dentro desse gerador, encontram-se um 
 ímã e uma bobina. 
  
- 
+\L
  
 O princípio de funcionamento desse equipamen-
 to é explicado pelo fato de que a: 
@@ -2400,7 +2398,8 @@ lação elétrica, como na figura, a resistência
 elétrica total do circuito diminui muito, estabele-
 cendo-se nele uma corrente muito elevada. 
  
- 
+\L
+
 O superaquecimento da fiação, devido a esse 
 aumento da corrente elétrica, pode ocasionar 
 incêndios, que seriam evitados instalando-se 
@@ -2511,7 +2510,7 @@ cutar trabalho, por exemplo, puxando um pe-
 queno peso para cima. O esquema, que já foi 
 testado, é mostrado a seguir. 
  
- 
+\L 
  
 A explicação para a necessidade do uso da 
 engrenagem com trava é: 
@@ -2568,8 +2567,7 @@ que pode ser percebida pelo captador.
  
 \
 @75 (2011.1) 
- 
- 
+\L
  
 Em um manual de um chuveiro elétrico são 
 encontradas informações sobre algumas carac-
@@ -2610,7 +2608,7 @@ que há um comprimento de onda em que a intensidade de absorção é máxima. Um
 prever a cor dessa substância pelo uso da roda de cores (Figura 2): o comprimento de onda correspon-
 dente à cor do objeto é encontrado no lado oposto ao comprimento de onda da absorção máxima. 
  
- 
+\L 
  
 Qual a cor da substância que deu origem ao espectro da Figura 1? 
  
@@ -2673,7 +2671,7 @@ assinatura espectral do objeto, como mostrado
 na figura, para objetos comuns na superfície 
 terrestre. 
  
- 
+\L 
  
 De acordo com as curvas de assinatura espec-
 tral apresentadas na figura, para que se obte-
@@ -2700,7 +2698,8 @@ Utilizando-se da lâmpada e da pilha, retiradas
 do equipamento, e de um fio com as extremida-
 des descascadas, faz as seguintes ligações 
 com a intenção de acender a lâmpada: 
- 
+
+\L 
  
 Tendo por base os esquemas mostrados, em 
 quais casos a lâmpada acendeu? 
@@ -2728,7 +2727,7 @@ cubo na água do lago, até que metade do seu
 volume ficasse submersa, foi registrada a leitura 
 de 24 N no dinamômetro. 
  
- 
+\L 
  
 Considerando que a aceleração da gravidade 
 local é de 10 m/s2, a densidade da água do 
@@ -2807,7 +2806,8 @@ que ela percorre durante a queda.
 O quadro seguinte mostra a posição em que 
 três pessoas conseguiram segurar a régua e os 
 respectivos tempos de reação. 
- 
+
+\L 
  
 A distância percorrida pela régua aumenta mais 
 rapidamente que o tempo de reação porque a: 
@@ -2840,7 +2840,7 @@ to. Em relação às válvulas de descarga, esse
 tipo de sistema proporciona maior economia de 
 água. 
  
- 
+\L 
  
 A característica de funcionamento que garante 
 essa economia é: 
@@ -2865,7 +2865,8 @@ ilustrado nas figuras. Sabe-se que o som, dentro
 de suas particularidades, também pode se com-
 portar dessa forma. 
  
- 
+\L
+
 Em qual das situações a seguir está represen-
 tado o fenômeno descrito no texto? 
  
@@ -2891,7 +2892,8 @@ Uma das modalidades presentes nas olimpía-
 das é o salto com vara. As etapas de um dos 
 saltos de um atleta estão representadas na figu-
 ra: 
- 
+
+\L 
  
 Desprezando-se as forças dissipativas (resis-
 tência do ar e atrito), para que o salto atinja a 
@@ -2920,11 +2922,7 @@ pa III.
  
 \
 @86 (2011.3) 
- 
- 
- 
- 
- 
+\L
  
 A tirinha faz referência a uma propriedade de 
 uma grandeza Física, em que a função do jornal 
@@ -2971,7 +2969,7 @@ exotérmica.
  
 \
 @88 (2011.3) 
- 
+\L
  
 A figura representa o processo mais usado nas 
 hidrelétricas para obtenção de energia elétrica 
@@ -3001,12 +2999,12 @@ tência elétrica de cada equipamento está repre-
 sentada pela figura I. A tensão elétrica que ali-
 menta a rede da residência é de 120 V. 
  
- 
+\L
  
 Um eletricista fez duas ligações, que se encon-
 tram representadas pelas figuras II e III. 
  
- 
+\L 
  
 Com base nas informações, verifica-se que a 
 corrente indicada pelo amperímetro da figura: 
@@ -3022,7 +3020,7 @@ E) II registrará uma corrente de 0,10 A.
 A figura seguinte representa, esquematicamen-
 te, um telescópio refletor: 
  
- 
+\L 
  
 A luz emitida por um astro penetra no telescópio 
 pelo orifício na posição A, reflete no espelho 
@@ -3058,7 +3056,7 @@ sempre voltada para o Sol. Neste, a panela
 deve ser colocada em um ponto determinado 
 para maior eficiência do fogão. 
  
- 
+\L 
  
 Considerando que a panela esteja posicionada 
 no ponto citado, a maior eficiência ocorre por-
@@ -3138,7 +3136,7 @@ E) 0,20 di.
 @94 (2011.3) 
 O quadro seguinte foi extraído da seção de solução de problemas de um manual de fogão a gás. 
  
- 
+\L 
  
 Ao saborear um alimento preparado no fogão a gás, o consumidor observa que, embora devidamente 
 assado, o alimento contém mais água que o esperado. Sabendo que a receita foi preparada de forma 
@@ -3195,12 +3193,17 @@ am no corpo e o ponto ampliado representa as
 irregularidades que existem entre as duas su-
 perfícies. 
  
- 
+\L 
+
 Na figura, os vetores que representam as forças 
 que provocam o deslocamento e o atrito são, 
 respectivamente: 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @97 (2011.3) 
 Um detector de mentiras consiste em um circui-
@@ -3351,8 +3354,12 @@ podendo ser articulada com facilidade.
 No plano, o diagrama vetorial das forças que as 
 dobradiças exercem na porta está representado 
 em: 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @103 (2012.1) 
 Para melhorar a mobilidade urbana na rede 
@@ -3371,14 +3378,12 @@ até parar.
 Qual é o gráfico de posição (eixo vertical) em 
 função do tempo (eixo horizontal) que represen-
 ta o movimento desse trem? 
- 
- 
- 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @104 (2012.1) 
 A eficiência das lâmpadas pode ser comparada 
@@ -3443,7 +3448,8 @@ seu funcionamento apropriado é de 20 kPa. A
 figura mostra a instalação hidráulica com a cai-
 xa d’água e o cano ao qual deve ser conectada 
 a ducha. 
- 
+
+\L
  
 O valor da pressão da água na ducha está as-
 sociado à altura: 
@@ -3499,15 +3505,16 @@ ruptor. Na Posição I a chave conecta o polo ao
 terminal superior, e na Posição II a chave o 
 conecta ao terminal inferior. 
  
- 
+\L 
  
 O circuito que cumpre a finalidade de funciona-
 mento descrita no texto é: 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @109 (2012.1) 
 A característica que permite identificar um pla-
@@ -3519,7 +3526,7 @@ regularmente. A figura destaca o movimento de
 Marte observado em intervalos de 10 dias, re-
 gistrado da Terra. 
  
- 
+\L 
  
 Qual a causa da forma da trajetória do planeta 
 Marte registrada na figura? 
@@ -3561,9 +3568,7 @@ seu volume fora d’água.
 Para concluir o teste, o consumidor, com ajuda 
 da internet, verifica que a densidade dos legu-
 mes, em questão, é a metade da densidade da 
-água, onde, ρágua = 1
-g
-cm3.  
+água, onde, ρágua = 1*g/cm3.  
  
 No supermercado a balança registrou a massa 
 da porção de legumes igual a 0,500 kg (meio 
@@ -3597,11 +3602,12 @@ As representações esquemáticas da força de
 atrito fat entre os pneus e a pista, em função da 
 pressão p aplicada no pedal de freio, para car-
 ros sem ABS e com ABS, respectivamente, são: 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @112 (2012.1) 
 Aumentar a eficiência na queima de combustível 
@@ -3670,7 +3676,7 @@ E) curto comprimento de onda.
 No manual de uma máquina de lavar, o usuário 
 vê o símbolo: 
  
- 
+\L 
  
 Este símbolo orienta o consumidor sobre a ne-
 cessidade de a máquina ser ligada a: 
@@ -3693,8 +3699,12 @@ perímetro (A), para medir a corrente elétrica.
  
 O circuito elétrico montado pelo eletricista para 
 medir essa resistência é: 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @116 (2012.3) 
 Em dias com baixas temperaturas, as pessoas 
@@ -3735,7 +3745,7 @@ as frequências mais altas. Por isso, as interven-
 ções cutâneas são limitadas pela penetração da 
 luz visível, conforme a figura: 
  
- 
+\L 
  
 A profundidade de até 2 mm em que o trata-
 mento cutâneo é eficiente se justifica porque a 
@@ -3815,12 +3825,11 @@ das e o coeficiente de atrito estático ser maior
 que o dinâmico. 
 \
 @120 (2012.3) 
- 
- 
- 
+\L 
+
 O quadro oferece os coeficientes de dilatação linear de alguns metais e ligas metálicas: 
  
- 
+\L 
  
 Para permitir a ocorrência do fato observado na tirinha, a partir do menor aquecimento do conjunto, o 
 parafuso e a porca devem ser feitos, respectivamente, de: 
@@ -3915,9 +3924,7 @@ especificações técnicas desses aparelhos são
 informadas nos quadros 1 e 2, retirados de seus 
 manuais. 
  
- 
- 
- 
+\L
  
 O motivo de a radiação do telefone não aquecer 
 como a do microondas é que: 
@@ -4112,7 +4119,7 @@ montagem, em sanduíche, o sistema todo se
 movimenta de forma harmônica, conforme mos-
 trado na figura. 
  
- 
+\L 
  
 A camada central de eletrólito polimérico é im-
 portante porque: 
@@ -4149,7 +4156,7 @@ enquanto a lâmpada permaneceu acesa e b)
 após a lâmpada ser desligada e atingirem equi-
 líbrio térmico com o ambiente. 
  
- 
+\L 
  
 A taxa de variação da temperatura da garrafa 
 preta, em comparação à da branca, durante 
@@ -4198,7 +4205,8 @@ nhum dos orifícios, e, com a garrafa destampa-
 da, observou-se o escoamento da água confor-
 me ilustrado na figura. 
  
- 
+\L
+
 Como a pressão atmosférica interfere no esco-
 amento da água, nas situações com a garrafa 
 tampada e destampada, respectivamente? 
@@ -4263,7 +4271,7 @@ te. O efeito coletivo se propaga pelos especta-
 dores do estádio, formando uma onda progres-
 siva, conforme ilustração. 
  
- 
+\L 
  
 Calcula-se que a velocidade de propagação 
 dessa “onda humana” é 45km/h e que cada 
@@ -4284,7 +4292,7 @@ E) 3,7.
  
 \
 @136 (2013.1) 
- 
+\L 
  
 Para serrar os ossos e carnes congeladas, um 
 açougueiro utiliza uma serra de fita que possui 
@@ -4328,18 +4336,17 @@ rente na lâmpada.
 Para isso, ele dispõe de um voltímetro (V) e dois 
 amperímetros (A). 
  
- 
+\L 
  
 Para realizar essas medidas, o esquema da 
 ligação desses instrumentos está representado 
 em: 
- 
- 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @138 (2013.1) 
 O chuveiro elétrico é um dispositivo capaz de 
@@ -4423,7 +4430,8 @@ computacionais para expressar o formato des-
 sas ondas sonoras em cada uma das situações 
 como apresentado nas figuras, em que estão 
 indicados intervalos de tempo idênticos (T). 
- 
+
+\L 
  
 A razão entre as frequências do Dó central e do 
 Dó maior é de: 
@@ -4449,7 +4457,7 @@ sensor de temperatura ocupa um dos braços do
 circuito (RS) e a dependência da resistência com 
 a temperatura é conhecida. 
  
- 
+\L 
  
 Para um valor de temperatura em que 
 RS=100Ω, a leitura apresentada pelo voltímetro 
@@ -4465,8 +4473,7 @@ E) – 6,2 V.
  
 \
 @143 (2013.1) 
- 
- 
+\L
  
 Desenvolve-se um dispositivo para abrir auto-
 maticamente uma porta no qual um botão, 
@@ -4533,10 +4540,12 @@ que possibilita sua aterrissagem em segurança.
 Que gráfico representa a força resultante sobre 
 o paraquedista, durante o seu movimento de 
 queda?
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @146 (2013.3) 
 O trem de passageiros da Estrada de Ferro 
@@ -4698,7 +4707,8 @@ utilizada, habitualmente denominada chave de
 roda. As figuras representam alguns modelos de 
 chaves de roda: 
  
- 
+\L
+
 Em condições usuais, qual desses modelos 
 permite a retirada da roda com mais facilidade? 
  
@@ -4743,9 +4753,8 @@ foi reduzido à metade.
  
 \
 @154 (2013.3) 
- 
- 
- 
+\L
+
 Quais são os processos de propagação de calor 
 relacionados à fala de cada personagem? 
  
@@ -5030,7 +5039,7 @@ gráfico, que relaciona a vazão na ducha com a
 pressão, medida em metros de coluna de água 
 (mca). 
  
- 
+\L 
  
 Nessa casa residem quatro pessoas. Cada uma 
 delas toma um banho por dia, com duração 
@@ -5058,7 +5067,7 @@ a um gerador (G) de tensão constante. Esse
 gerador possui uma chave que pode ser ligada 
 nas posições A ou B. 
  
- 
+\L 
  
 Considerando o funcionamento do circuito dado, 
 a lâmpada 1 brilhará mais quando a chave esti-
@@ -5088,7 +5097,8 @@ medir sua pressão. A partir de diferentes valores
 de calor fornecido, considerando o sistema co-
 mo hermético, o objeto elevou-se em valores 
 Δh, como mostrado no gráfico. 
- 
+
+\L 
  
 Foram estudadas, separadamente, quantidades equimolares de dois diferentes gases, denominados M e 
 V. A diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao 
@@ -5113,12 +5123,16 @@ direita e colidindo elasticamente com as outras
 duas esferas, que inicialmente estavam para-
 das. 
 Exemplo: 
- 
+
+\L 
  
 O movimento dos pêndulos após a primeira colisão está representado em: 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @169 (2014.1) 
 Para entender os movimentos dos corpos, Galileu discutiu o movimento de uma esfera de metal em dois 
@@ -5127,7 +5141,7 @@ mostra a figura. Na descrição do experimento, quando a esfera de metal é aban
 plano inclinado de um determinado nível, ela sempre atinge, no plano ascendente, no máximo, um nível 
 igual àquele em que foi abandonada. 
  
- 
+\L 
  
 Se o ângulo de inclinação do plano de subida for reduzido a zero, a esfera: 
  
@@ -5224,7 +5238,7 @@ mento de satélites. Nesse sentido, pede a eles
 que analisem o movimento do coelhinho, consi-
 derando o módulo da velocidade constante. 
  
- 
+\L 
  
 Desprezando a existência de forças dissipati-
 vas, o vetor aceleração tangencial do coelhinho, 
@@ -5253,6 +5267,7 @@ sentidos opostos com módulo da velocidade
 igual a v, induzindo uma corrente elétrica de 
 intensidade i, como ilustrado na figura. 
  
+\L
  
 A fim de se obter uma corrente com o mesmo 
 sentido da apresentada na figura, utilizando os 
@@ -5341,7 +5356,7 @@ analisadas cinco amostras, que utilizam reagen-
 tes químicos diferentes. No quadro, são apre-
 sentados os resultados. 
  
- 
+\L 
  
 Considerando os três aspectos, qual é a melhor 
 amostra de lente fotocromática para se utilizar 
@@ -5385,9 +5400,7 @@ aclive e declive, com iguais distâncias percorri-
 das em linha reta. Os resultados são apresenta-
 dos nas duas figuras. 
  
- 
- 
- 
+\L
  
 A partir dos resultados, a situação em que ocor-
 re maior emissão de poluentes é aquela na qual 
@@ -5427,7 +5440,7 @@ em que a descarga ocorrer entre eles, a lâmpa-
 da também brilhará, apesar de não receber 
 nenhuma descarga elétrica. 
  
- 
+\L 
  
 A grandeza física associada ao brilho instantâ-
 neo da lâmpada fluorescente, por estar próxima 
@@ -5475,7 +5488,7 @@ Um engenheiro decidiu instalar um aquecedor
 solar em sua casa, conforme mostra o esque-
 ma. 
  
- 
+\L 
  
 De acordo com as instruções de montagem, 
 para se ter um aproveitamento máximo da inci-
@@ -5538,9 +5551,7 @@ dro é apresentada a razão (n) entre a velocida-
 de da luz no vácuo e no respectivo material 
 (celulose, glicerina ou ar). 
  
- 
- 
- 
+\L 
  
 Nessa situação, o papel se tornou translúcido 
 porque a luz é: 
@@ -5621,8 +5632,9 @@ mo de cobre é 0,05nm2 e a resistividade do
 cobre é 17 Ω.nm. Um engenheiro precisa esti-
 mar se seria possível introduzir esses nanofios 
 nos microprocessadores atuais. 
- 
- 
+
+\L 
+
 Um nanofio utilizando as aproximações propos-
 tas possui resistência elétrica de: 
  
@@ -5675,7 +5687,7 @@ fusível F protege um resistor R de 12Ω, uma
 lâmpada L de 6W e um alto-falante que conduz 
 1A. 
  
- 
+\L 
  
 Sabendo que esse fusível foi projetado para 
 trabalhar com uma corrente até 20% maior que 
@@ -5755,7 +5767,7 @@ A figura apresenta a comparação dos gastos de três tipos de lâmpadas residen
 durante cinco anos. Considera-se a utilização média de vinte pontos de luz, utilizando em média dez 
 lâmpadas acesas durante 6 horas ao custo de R$0,30, para cada 1kWh consumido. 
  
- 
+\L
  
 Com base nas informações, a lâmpada energeticamente mais eficiente, a mais viável economicamente e 
 a de maior vida útil são, respectivamente: 
@@ -5779,7 +5791,8 @@ acústico deve conter um transdutor, que uma
 superfície vibratória que emite o som, e um re-
 fletor. Ambos têm superfícies côncavas para 
 focalizar o som, conforme a ilustração: 
- 
+
+\L
  
 Para que haja a levitação indicada na figura, a 
 força que equilibra o peso do objeto deve ser 
@@ -5806,7 +5819,8 @@ C. Escher.
  
 Seu trabalho tem como características as figu-
 ras geométricas e ilusões de Óptica. 
- 
+
+\L 
  
 Pelas características da imagem formada na 
 gravura, o artista representou um espelho esfé-
@@ -6077,7 +6091,7 @@ de 2009, uma corrida internacional de carros
 solares, tendo atingido uma velocidade média 
 acima de 100 km/h. 
  
- 
+\L 
  
 Considere uma região plana onde a insolação 
 (energia solar por unidade de tempo e de área 
@@ -6121,7 +6135,7 @@ pessura mínima da película. Considere que o
 caminho percorrido em 3 e 4 corresponde ao 
 dobro da espessura E da película de óleo. 
  
- 
+\L
  
 Expressa em termos do comprimento de onda 
 (λ), a espessura mínima é igual a: 
@@ -6140,13 +6154,14 @@ A radiação ultravioleta (UV) é dividida, de acor-
 do com três faixas de frequência, em UV-A, UV-
 B e UV-C, conforme a figura. 
  
- 
+\L 
  
 Para selecionar um filtro solar que apresente 
 absorção máxima na faixa UV-B, uma pessoa 
 analisou os espectros de absorção da radiação 
 UV de cinco filtros solares: 
- 
+
+\L 
  
 Considere: velocidade da luz = 3,0×108 m/s e 1 nm = 1,0×10-9 m  
  
@@ -6261,14 +6276,16 @@ tar os outros dispositivos" - pensou.
  
 Símbolos adotados: 
  
- 
+\L
  
 Qual dos circuitos esboçados atende às exigên-
 cias? 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @211 (2015.1) 
 Um garoto foi à loja comprar um estilingue e 
@@ -6282,10 +6299,7 @@ Sabe-se que a constante elástica kd (do estilin-
 gue mais "duro") é o dobro da constante elástica 
 km (do estilingue mais "mole"). 
  
-A razão entre os alcances 
-𝐷𝑑
-𝐷𝑚
-, referentes aos 
+A razão entre os alcances 𝐷𝑑/𝐷𝑚, referentes aos 
 estilingues é:  
  
 \
@@ -6318,7 +6332,8 @@ quido na garrafa.
  
 O quadro apresenta as categorias e os interva-
 los de variação percentual da temperatura. 
- 
+
+\L 
  
 Para atribuir uma categoria a um modelo de 
 garrafa térmica, são preparadas e misturadas, 
@@ -6408,7 +6423,7 @@ o saco de arroz pendurado em uma de suas
 extremidades, até atingir a situação de equilí-
 brio. 
  
- 
+\L 
  
 Nessa situação, qual foi a massa da barra obti-
 da pelos alunos? 
@@ -6470,7 +6485,7 @@ cias para diferentes instrumentos musicais.
  
 \
 @218 (2015.1) 
- 
+\L 
  
 Para obter a posição de um telefone celular, a 
 polícia baseia-se em informações do tempo de 
@@ -6509,7 +6524,7 @@ segundo harmônico (comprimento de onda λB) e
 em C o seu terceiro harmônico (comprimento de 
 onda λC), onde λA>λB>λC. 
  
- 
+\L 
  
 Em função do comprimento do tubo, qual o 
 comprimento de onda da oscilação que forma o 
@@ -6533,22 +6548,18 @@ conectadas em um fio separado, que contém a
 chave. Com a chave aberta (desligada), a bate-
 ria fornece uma potência X. 
  
- 
+\L 
  
 Assumindo que as lâmpadas obedecem à Lei 
 de Ohm, com a chave fechada, a potência for-
 necida pela bateria, em função de X é: 
  
 \
-A) 
-2
-3X 
+A) 2/3*X 
  
 B) X 
  
-C) 
-3
-2X 
+C) 3/2*X 
  
 D) 2X 
  
@@ -6642,10 +6653,12 @@ O comportamento de um feixe de luz incidindo
 no olho que possui um implante de lentes fáci-
 cas para correção do problema de visão apre-
 sentado é esquematizado por: 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @224 (2015.3) 
 Observações astronômicas indicam que no cen-
@@ -6669,25 +6682,15 @@ da distância média e da constante gravitacional,
 G, a massa do buraco negro é: 
  
 \
-A) 
-4π2R2
-GT2  
+A) 4π2R2/GT2  
  
-B) 
-π2R3
-2GT2 
+B) π2R3/2GT2 
  
-C) 
-2π2R3
-2GT2  
+C) 2π2R3/2GT2  
  
-D) 
-4π2R3
-GT2  
+D) 4π2R3/GT2  
  
-E) 
-π2R5
-GT2  
+E) π2R5/GT2  
  
  
 \
@@ -6775,7 +6778,8 @@ em um prédio ou em uma casa.
  
 Considere a massa específica da água de 
 1000kg/m³ e a aceleração da gravidade 10m/s². 
- 
+
+\L
  
 Para que a torneira funcione corretamente, sem 
 o uso do redutor de pressão, quais deverão ser 
@@ -6844,7 +6848,8 @@ veniente de um meio com índice de refração
 igual a 1, que incide sobre uma lâmina e faz um 
 ângulo de refração θr de 30°. 
  
- 
+\L
+
 Nessa situação, qual deve ser o índice de refra-
 ção da lâmina para que o feixe refletido seja 
 polarizado? 
@@ -6866,7 +6871,7 @@ cada pêndulo são apresentadas no quadro.
 Inicialmente, os estudantes colocaram apenas o 
 pêndulo A para oscilar. 
  
- 
+\L 
  
 Quais pêndulos, além desse, passaram também 
 a oscilar? 
@@ -6891,15 +6896,16 @@ onda sonora detectada em função do tempo
 fo(t), antes e depois da passagem da ambulân-
 cia por ele. 
  
- 
+\L 
  
 Qual esboço gráfico representa a frequência 
 fo(t) detectada pelo observador? 
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @232 (2016.1) 
 Uma pessoa é responsável pela manutenção de 
@@ -6909,8 +6915,8 @@ algumas folhas de eucalipto. Em seguida, colo-
 ca as folhas na saída do vapor da sauna, aro-
 matizando-a, conforme representado na figura. 
  
- 
- 
+\L
+
 Qual processo de separação é responsável pela 
 aromatização promovida? 
  
@@ -6932,7 +6938,8 @@ cuito para prever a corrente elétrica nos pontos:
 A, B, C, D e E; e rotulou essas correntes de IA, 
 IB, IC, ID e IE, respectivamente. 
  
- 
+\L 
+
 O técnico concluiu que as correntes que apre-
 sentam o mesmo valor são: 
  
@@ -6964,14 +6971,12 @@ Considerando a situação descrita, qual esboço
 gráfico representa a velocidade do automóvel 
 em relação à distância percorrida até parar to-
 talmente? 
- 
- 
-  
- 
- 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @235 (2016.1) 
 O morcego emite pulsos de curta duração de 
@@ -7024,7 +7029,7 @@ No esquema foram utilizados três tipos de lápis
 diferentes (2H, HB e 6B) para efetuar três traça-
 dos distintos. 
  
- 
+\L 
  
 Munida dessas informações, um estudante pe-
 gou uma folha de papel e fez o desenho de um 
@@ -7036,15 +7041,14 @@ extremidades das resistências, são mostrados
 na figura. Verificou-se que os resistores obede-
 ciam a Lei de Ohm. 
  
+\L
+
 Na sequência, conectou o ohmímetro nos termi-
 nais A e B do desenho e, em seguida, conectou-
 o nos terminais B e C, anotando as leituras RAB 
 e RBC, respectivamente. 
  
-Ao estabelecer a razão 
-RAB
-RBC qual resultado obte-
-ve? 
+Ao estabelecer a razão RAB/RBC qual resultado obteve? 
  
 \
 A) 1 
@@ -7052,7 +7056,6 @@ B) 4/7
 C) 10/27 
 D) 14/81 
 E) 4/81 
- 
  
 \
 @237 (2016.1) 
@@ -7105,6 +7108,7 @@ tribuídos ao longo do trilho determinam as posi-
 sagem de cada carrinho, gerando os dados do 
 quadro. 
  
+\L 
  
 Com base nos dados experimentais, o valor da 
 massa do carrinho 2 é igual a: 
@@ -7140,7 +7144,7 @@ sidere os fios e as polias ideais, a aceleração da
 gravidade igual a 10 m/s2 e que a superfície da 
 praia é perfeitamente horizontal. 
  
- 
+\L 
  
 O número mínimo de polias móveis usadas, 
 nessa situação, por Arquimedes foi: 
@@ -7230,7 +7234,9 @@ falante, que está em repouso, e medida por um micro fone em função da frequê
 rentes distâncias: 3 mm, 25 mm, 51 mm e 60 mm. A Figura 2 apresenta um diagrama com a indicação 
 das diversas faixas do espectro de frequência sonora para o modelo de alto-falante utilizado neste expe-
 rimento. 
- 
+
+\L
+
 Relacionando as informações presentes nas figuras 1 e 2, como a intensidade sonora percebida é afeta-
 da pelo aumento da distância do microfone ao alto-falante? 
  
@@ -7257,7 +7263,7 @@ ponteiro girar. A frequência do motor é de 18
 rpm, e o número de dentes das engrenagens 
 está apresentado no quadro. 
  
- 
+\L 
  
 A frequência de giro do ponteiro, em rpm, é: 
  
@@ -7285,7 +7291,7 @@ derretida alinhados sobre toda a travessa. Parte
 da onda estacionária gerada no interior do forno 
 é ilustrada na figura. 
  
- 
+\L 
  
 De acordo com a figura, que posições corres-
 pondem a dois pontos consecutivos da mantei-
@@ -7311,7 +7317,8 @@ ambiente com temperatura agradável. Nessas
 condições, é considerado normal um ritmo car-
 díaco entre 60 e 100 batimentos por minuto. 
  
- 
+\L 
+
 Com base no eletrocardiograma apresentado, 
 identifica-se que a frequência cardíaca do paci-
 ente é: 
@@ -7417,7 +7424,7 @@ pecificado em termos da distância percorrida em
 função da quantidade de energia elétrica gasta 
 para carregar suas baterias. 
  
- 
+\L 
  
 Considerando somente as informações contidas 
 no quadro, o combustível que apresenta o maior 
@@ -7484,7 +7491,8 @@ diagrama da pressão em função do volume. Nos
 motores a gasolina, a mistura ar/combustível 
 entra em combustão por uma centelha elétrica. 
  
- 
+\L
+
 Para o motor descrito, em qual ponto do ciclo é 
 produzida a centelha elétrica? 
  
@@ -7530,11 +7538,9 @@ força na Lua, onde a aceleração da gravidade é
 igual a 1,6m/s2, sobre a qual foi colocada uma 
 massa M. 
  
+\L 
  
- 
-A razão das massas 
-𝐌
-𝐦 é:  
+A razão das massas 𝐌/𝐦 é:  
  
 \
 A) 4,0. 
@@ -7550,7 +7556,7 @@ MD, com cerca de 10 m de diâmetro, passou a
 tância menor do que a órbita de um satélite. A 
 trajetória do asteroide é apresentada na figura. 
  
- 
+\L 
  
 A explicação física para a trajetória descrita é o 
 fato de o asteroide: 
@@ -7634,8 +7640,12 @@ sas lentes.
  
 Quais são as lentes que solucionam o problema 
 descrito? 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @259 (2016.3) 
 Um navio petroleiro é capaz de transportar mi-
@@ -7659,7 +7669,7 @@ Uma família adquiriu um televisor e, no manual
 do usuário, constavam as especificações técni-
 cas, como apresentado no quadro.  
  
- 
+\L 
  
 Esse televisor permaneceu 30 dias em repouso 
 (stand-by). Considere que a eficiência entre a 
@@ -7774,8 +7784,7 @@ Os raios-X utilizados para diagnósticos médicos são uma radiação ionizante.
 zantes em um indivíduo depende basicamente da dose absorvida, do tempo de exposição e da forma de 
 exposição, conforme relacionados no quadro. 
  
- 
- 
+\L
 (Disponível em: www.cnen.gov.br. Acesso em: 3 set. 2012 - adaptado) 
  
 Para um técnico radiologista de 90kg que ficou exposto, por descuido, durante 5 horas a uma fonte de 
@@ -8003,7 +8012,7 @@ circuito elétrico mostrado seja alimentado por
 uma corrente de tensão U e que o fusível supor-
 te uma corrente nominal de 500 mA. 
  
- 
+\L 
  
 Qual é o máximo valor da tensão U para que o 
 fusível não queime? 
@@ -8151,9 +8160,12 @@ respectivamente.
 Esquematicamente, o esboço do gráfico da 
 energia cinética da criança em função de sua 
 posição vertical na situação descrita é: 
- 
- 
- 
+\
+A) \L
+B) \L
+C) \L
+D) \L
+E) \L 
 \
 @280 (2017.1) 
 No manual fornecido pelo fabricante de uma ducha elétrica de 220V é apresentado um gráfico com a 
@@ -8162,8 +8174,7 @@ te). Na condição superquente, a potência dissipada é de 6500 W. Considere o 
 igual a 4200 J/(kg ºC) e a densidade da água igual a 1 kg/L. 
  
 Elevação de temperatura x Curva vazão 
- 
- 
+\L 
  
 Com base nas informações dadas, a potência na condição morno corresponde a que fração da potência 
 na condição superquente? 
@@ -8181,8 +8192,7 @@ eólica e biogás. Essa estação possibilita que a energia gerada no parque eó
 forma de gás hidrogênio usado no fornecimento de energia para a rede elétrica comum e para abastecer 
 células a combustível. 
  
- 
- 
+\L
 (Disponível em: www.emertrag.com. Acesso em: 24.abr.2015 - adaptado) 
  
 Mesmo com ausência de Ventos por curtos períodos, essa estação continua abastecendo a cidade onde 
@@ -8212,7 +8222,7 @@ do infravermelho, respectivamente.
 Um arquiteto deseja iluminar uma sala usando uma lâmpada que produza boa iluminação, mas que não 
 aqueça o ambiente. 
  
- 
+\L
 (Disponível em: http://zeiss-campus.magnet.fsu.edu. Acesso em: 8 maio 2017 - adaptado) 
  
 Qual tipo de lâmpada melhor atende ao desejo do arquiteto? 
@@ -8233,8 +8243,7 @@ chamado concregrama ou pisograma, que é um tipo de revestimento composto por pe
 com áreas vazadas, preenchidas com solo gramado. As figuras apresentam essas duas formas de piso 
 feito de concreto. 
  
- 
- 
+\L
 (PONTES, K. L. F. Estudo de caso de um protótipo experimental […].  
 Disponível em: http://monografias.poli.ufrj.br. Acesso em: 9 maio 2017 - adaptado) 
 A utilização desse tipo de piso em uma obra tem o objetivo de evitar, no solo, a: 
@@ -8258,7 +8267,7 @@ Entretanto, aumentando-se gradativamente o trajeto ADC, até que ele fique como 
 intensidade do som na saída fica praticamente nula. Desta forma, conhecida a velocidade do som no 
 interior do tubo (320 m/s), é possível determinar o valor da frequência do som produzido pela fonte. 
  
- 
+\L 
  
 O valor da frequência, em hertz, do som produzido pela fonte sonora é: 
  
@@ -8283,7 +8292,8 @@ do boneco em função do tempo.
 Os parâmetros como massa dos bonecos, dimensões dos cintos e velocidade imediatamente antes e 
 após o impacto foram os mesmos para todos os testes. O resultado final obtido está no gráfico, a seguir, 
 de aceleração por tempo. 
- 
+
+\L 
  
 Qual modelo de cinto oferece menor risco de lesão interna ao motorista? 
  
@@ -8302,8 +8312,7 @@ para valores inferiores a 10dB, este precisa ser retransmitido. No entanto, inte
 100dB não podem ser transmitidas adequadamente. A figura apresenta como se dá a perda de sinal 
 (perda óptica) para diferentes comprimentos de onda para certo tipo de fibra óptica. 
  
- 
- 
+\L 
 (Atenuação e limitações das fibras ópticas. Disponível em: www gtauff.br. Acesso em: 25 maio 2017 - adaptado) 
  
 Qual é a máxima distância, em km, que um sinal pode ser enviado nessa fibra sem ser necessária uma 
@@ -8323,7 +8332,7 @@ polianilina é um polímero semicondutor que tem o valor de sua resistência el�
 quando exposta a altas concentrações de amônia. Na ausência de amônia, a polianilina se comporta 
 como um resistor ôhmico e a sua resposta elétrica é mostrada no gráfico. 
  
- 
+\L 
  
 O valor da resistência elétrica da polianilina na presença de altas concentrações de amônia, em ohm, é 
 igual a: 
@@ -8338,9 +8347,7 @@ E) 2,0 x 106.
  
 \
 @288 (2017.3) 
- 
- 
- 
+\L
 (DAVIS, J. Disponível em: http://garfield.com. Acesso em: 15 ago. 2014) 
  
 A faixa espectral da radiação solar que contribui fortemente para o efeito mostrado na tirinha é caracteri-
@@ -8425,9 +8432,9 @@ Um estudante construiu um densímetro, es-
 quematizado na figura, utilizando um canudinho 
 e massa de modelar. O instrumento foi calibrado 
 com duas marcas de flutuação, utilizando água 
-***(marca \
-A) e etanol (marca B) como referências. 
+***(marca A) e etanol (marca B) como referências. 
  
+\L
  
 Em seguida o densímetro foi usado para avaliar 
 cinco amostras: vinagre, leite integral, gasolina 
@@ -8529,8 +8536,7 @@ de limite (M) indica o menor brilho que um teles-
 cópio pode captar. Os valores numéricos de P e 
 M são calculados pelas expressões: 
  
-P = D
-12  e M = 7,1 + 5(log D) 
+P = D/12  e M = 7,1 + 5(log D) 
  
 Em que D é o valor numérico do diâmetro da 
 objetiva do telescópio, expresso em centímetro. 
@@ -8579,7 +8585,7 @@ Um longo trecho retilíneo de um rio tem um
 afluente perpendicular em sua margem esquer-
 da, conforme mostra a figura.  
  
- 
+\L 
  
 Observando de cima, um barco trafega com 
 velocidade constante pelo afluente para entrar 
@@ -8610,8 +8616,7 @@ co passa por dois anteparos com fendas muito pequenas. No primeiro anteparo há 
 gundo, duas fendas. Após passar pelo segundo conjunto de fendas, a luz forma um padrão com franjas 
 claras e escuras. 
  
- 
- 
+\L 
 (SILVA, F. W. O. A evolução da teoria ondulatória da luz e os livros didáticos.  
 Revista Brasileira de Ensino de Física, n. 1, 2007 - adaptado) 
  
@@ -8632,7 +8637,7 @@ zado no diagrama pressão x volume. O ciclo Diesel é composto por quatro etapas
 transformações adiabáticas. O motor de Diesel é caracterizado pela compressão de ar apenas, com a 
 injeção do combustível no final. 
  
- 
+\L
  
 No ciclo Diesel, o calor é absorvido em: 
  
@@ -8650,7 +8655,7 @@ eleva.
 A figura mostra a bateria de um computador portátil, a qual necessita de uma corrente elétrica de 2 A 
 para funcionar corretamente. 
  
- 
+\L 
  
 Quando a bateria está completamente carregada, o tempo máximo, em minuto, que esse notebook pode 
 ser usado antes que ela "descarregue" completamente é 
@@ -8667,8 +8672,7 @@ O osciloscópio é um instrumento que permite observar uma diferença de potenci
 elétrico em função do tempo ou em função de outra ddp. A leitura do sinal é feita em uma tela sob a for-
 ma de um gráfico tensão x tempo. 
   
- 
- 
+\L
 (BOMFIM, M. Disponível em: www.ufpr.br. Acesso em: 14 ago. 2012 - adaptado) 
  
 A frequência de oscilação do circuito elétrico estudado é mais próxima de: 
@@ -8689,7 +8693,7 @@ gunda força, chamada de resistente, em outro ponto da barra. Por causa das dife
 os pontos de aplicação das forças, potente e resistente, os seus efeitos também são diferentes. Afigura 
 mostra alguns exemplos desses objetos. 
  
- 
+\L 
  
 Em qual dos objetos a força potente é maior que a força resistente? 
  
@@ -8772,7 +8776,7 @@ de material, um cientista observou o comporta-
 mento mostrado no gráfico tensão versus cor-
 rente. 
  
- 
+\L 
  
 Após a análise do gráfico, ele concluiu que a 
 tensão em função da corrente é dada pela 
@@ -8803,7 +8807,7 @@ cação do circuito formado pelas placas, em que
 A e B representam pontos onde o circuito pode 
 ser fechado por meio do toque. 
  
- 
+\L 
  
 Qual é a resistência equivalente no circuito pro-
 vocada por um toque que fecha o circuito no 
@@ -8827,7 +8831,7 @@ pères e uma voltagem de 600 volts.
 O quadro apresenta a potência aproximada de 
 equipamentos elétricos. 
  
- 
+\L 
  
 O equipamento elétrico que tem potência similar 
 àquela produzida por esse peixe em perigo é 
@@ -8854,9 +8858,9 @@ primeiro caso, a ligação obedece às especifica-
 ções do fabricante e no segundo mostra uma 
 ligação na qual a polaridade está invertida. 
  
- 
- 
- 
+\L 
+\L
+
 O que ocorre com os alto-falantes E e D se fo-
 rem conectados de acordo com o segundo es-
 quema? 
@@ -8942,11 +8946,10 @@ Com os carros orientados de acordo com as
 figuras, os estudantes ligaram as ventoinhas, 
 aguardaram o fluxo de ar ficar permanente e 
 determinaram os módulos das velocidades mé-
-***dias dos carros A (V\
-A) e B (VB) para o mesmo 
+***dias dos carros A (VA) e B (VB) para o mesmo 
 intervalo de tempo. 
  
- 
+\L 
  
 A respeito das intensidades das velocidades 
 médias e do sentido de movimento do carro A, 
@@ -8968,7 +8971,7 @@ crescente com a frequência da luz que sobre ele incide. Um feixe luminoso, comp
 lha, azul e verde, incide na face A, emerge na face B e, após ser refletido por um espelho. Incide num 
 filme para fotografia colorida, revelando três pontos. 
  
- 
+\L 
  
 Observando os pontos luminosos revelados no filme, de baixo para cima, constatam-se as seguintes 
 cores: 
@@ -8996,6 +8999,7 @@ sensação de ver laranja-avermelhado. No entanto, há características genétic
 indivíduos, conhecidas coletivamente como Daltonismo, em que um ou mais pigmentos não funcionam 
 perfeitamente. 
  
+\L
 
 Caso estimulássemos a retina de um indivíduo 
 com essa característica, que não possuísse o 
@@ -9030,7 +9034,7 @@ opção de mudar a velocidade de lançamento.
 Para isso, ele utiliza uma mola e um trilho onde 
 o atrito pode ser desprezado, conforme a figura. 
  
- 
+\L 
  
 Para que a velocidade de lançamento do cubo 
 seja aumentada quatro vezes, o projetista deve: 
@@ -9130,7 +9134,7 @@ A figura apresenta o esquema do encanamento de uma casa onde se detectou a prese
 to de água em um dos registros. Ao estudar o problema, o morador conclui que o vazamento está ocor-
 rendo no registro submetido à maior pressão hidrostática. 
  
- 
+\L 
  
 Em qual registro ocorria o vazamento? 
  
@@ -9150,7 +9154,7 @@ mento é recomendado para evitar acidentes na rede elétrica. No quadro é espec
 para três circuitos distintos de uma residência, relacionando tensão no circuito, bitolas de fios condutores 
 e a intensidade de corrente elétrica máxima suportada pelo disjuntor. 
  
- 
+\L 
  
 Com base no dimensionamento do circuito residencial, em qual(is) do(s) circuito(s) o(s) equipamento(s) 
 é(estão) ligado(s) adequadamente? 
@@ -9249,8 +9253,7 @@ mente será possível diferenciá-las. A tabela
 mostra os diferentes valores de densidade e 
 velocidade para alguns órgãos ou tecidos. 
  
- 
- 
+\L
 (CAVALCANTE. M. A.; PEÇANHA, R.: LEITE, V. F. 
 Princípios básicos de imagens ultrassônicos e a de-
 terminação da velocidade do som no ar através do 
@@ -9328,17 +9331,17 @@ E) 0,14 N
  
  
 \
-@326 (2018.3) 
+@326 (2018.3)
 Um piloto testa um carro em uma reta longa de 
 um autódromo. A posição do carro nessa reta, 
 em função do tempo, está representada no grá-
 fico. 
  
- 
+\L 
  
 Os pontos em que a velocidade do carro é me-
 nor e maior são, respectivamente, 
- 
+
 \
 A) K e M. 
 B) N e K. 
