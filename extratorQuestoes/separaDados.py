@@ -103,10 +103,10 @@ def separaRespostas(nome_prova, dados_prova, questao, prova, gabarito):
                 imagem = None
 
             alternativa = linha[0].upper()
-            enunciado = linha[3:].strip("\n")
+            enunciado = linha[3:].strip(" \n")
 
         else:
-            enunciado += linha.strip("\n")
+            enunciado += linha.strip(" \n")
 
     if lista_respostas:
         insertRespostas(lista_respostas)

@@ -38,7 +38,7 @@ class Questoes(Model):
         )
 
     def __str__(self):
-        return f"Questao: {self.id}; {self.prova_id}; {self.numero}; {self.materia}; {self.enunciado}; {self.assunto}; {self.imagem}"
+        return f"Questao: {self.id}; {self.prova_id.id}; {self.numero}; {self.materia}; {self.enunciado}; {self.assunto}; {self.imagem}"
 
 
 class Respostas(Model):
@@ -57,21 +57,21 @@ class Respostas(Model):
         )
 
     def __str__(self):
-        return f"Resposta: {self.id}; {self.prova_id}; {self.questao_id}; {self.enunciado}; {self.alternativa}; {self.imagem}"
+        return f"Resposta: {self.id}; {self.prova_id.id}; {self.questao_id.id}; {self.enunciado}; {self.alternativa}; {self.imagem}"
 
 
 class Gabaritos(Model):
 
     prova_id = ForeignKeyField(Provas, backref="gabarito")
-    questao_id = ForeignKeyField(Questoes, backref="gabarito")
+    questao_id = ForeignKeyField(
+        Questoes, backref="gabarito", primary_key=True)
     resposta_id = ForeignKeyField(Respostas)
 
     class Meta:
         database = db
-        primary_key = CompositeKey('prova_id', 'questao_id')
 
     def __str__(self):
-        return f"Gabarito: {self.prova_id}; {self.questao_id}; {self.resposta_id}"
+        return f"Gabarito: {self.prova_id.id}; {self.questao_id.id}; {self.resposta_id.id}"
 
 
 # db.connect()

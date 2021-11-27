@@ -311,8 +311,8 @@ de bolo, qual é a relação entre r e L?
 A) L = r  
 B) L = 2r  
 C) L = r 
-D) L = r√𝜋 
-E) L = (𝜋r²)/2 
+D) L = r√Pi 
+E) L = (Pir²)/2 
  
  
 \
@@ -603,11 +603,11 @@ tampa a ser comprada deverá cobrir uma área
 de: 
  
 \
-A) 12𝜋 m².  
-B) 108𝜋 m². 
-C) (12 𝜋 + 2√3)² 𝜋 m².  
-D) 300 𝜋 m². 
-E) (24 + 2√3)² 𝜋 m². 
+A) 12Pi m².  
+B) 108Pi m². 
+C) (12 Pi + 2√3)² Pi m².  
+D) 300 Pi m². 
+E) (24 + 2√3)² Pi m². 
  
  
 \
@@ -831,7 +831,7 @@ E) 6, 2 e 4
 @32 (2009.4) 
 Um vasilhame na forma de um cilindro circular 
 reto de raio da base de 5 cm e altura de 30 cm 
-está parcialmente ocupado por 625𝜋 cm3 de 
+está parcialmente ocupado por 625Pi cm3 de 
 álcool.  
  
 \L
@@ -4038,7 +4038,7 @@ de capacidade de armazenamento.
 \L
  
 Qual dos tanques deverá ser escolhido pelo 
-dono do posto? (Considere 𝜋 ≅ 3) 
+dono do posto? (Considere Pi ≅ 3) 
  
 \
 A) I, pela relação área/capacidade de armaze-
@@ -4146,7 +4146,7 @@ tendo 20 cm de espessura.
  
 Supondo que cada metro cúbico de concreto 
 custe R$ 10,00 e tomando 3,1 como valor apro-
-ximado de 𝜋, então o preço dessa manilha é 
+ximado de Pi, então o preço dessa manilha é 
 igual a: 
  
 \
@@ -4328,9 +4328,9 @@ pleta sem deslizar, é:
 \
 A) y = R 
 B) y = 2R 
-C) y = 𝜋R 
-D) y = 2𝜋R 
-E) y = 4𝜋R 
+C) y = PiR 
+D) y = 2PiR 
+E) y = 4PiR 
  
  
 \
@@ -6739,7 +6739,7 @@ tem formato cilíndrico, e suas medidas são 10
 cm de altura e 4 cm de diâmetro. A quantidade 
 de água que deve ser utilizada na mistura é 
 cerca de:                                          
-   (utilize 𝜋 = 3) 
+   (utilize Pi = 3) 
 \
 A) 20 mL. 
 B) 24 mL. 
@@ -8755,8 +8755,8 @@ rança seja cumprida?
  
 \
 A) R ≥ L / √2 
-B) R ≥ 2L / 𝜋 
-C) R ≥ L / √𝜋  
+B) R ≥ 2L / Pi 
+C) R ≥ L / √Pi  
 D) R ≥ L / 2 
 E) R ≥ L / (2√2) 
  
@@ -10142,7 +10142,7 @@ mento discriminando o custo unitário e as di-
 mensões, com o raio sendo o triplo do anterior e 
 a altura aumentada em 10 cm.  
  
-(Aproxime 𝜋 para 3) 
+(Aproxime Pi para 3) 
  
 O orçamento dessa empresa é rejeitado pela 
 prefeitura, pois: 
