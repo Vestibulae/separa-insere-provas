@@ -54,7 +54,7 @@ def separaDados(prova, gabarito):
         elif linha[0] == "\\":
 
             if linha[1] == "L":
-                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{materia}/{numero}"
+                imagem = f"{nome_prova}/{dados_prova[0]}/{materia}/{dados_prova[1]}/{numero}"
                 enunciado += linha
                 continue
 
@@ -85,7 +85,7 @@ def separaRespostas(nome_prova, dados_prova, questao, prova, gabarito):
     for linha in prova:
         if linha[0] == "\\":
             if "\L" in enunciado:
-                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{questao.materia}/{questao.numero}_{alternativa}"
+                imagem = f"{nome_prova}/{dados_prova[0]}/{questao.materia}/{dados_prova[1]}/{questao.numero}_{alternativa}"
 
             resposta = Respostas(prova_id=questao.prova_id, questao_id=questao.id,
                                  enunciado=enunciado, alternativa=alternativa, imagem=imagem)
@@ -94,7 +94,7 @@ def separaRespostas(nome_prova, dados_prova, questao, prova, gabarito):
 
         elif linha[0] in ['A', 'B', 'C', 'D', 'E'] and linha[1] == ")":
             if "\L" in enunciado:
-                imagem = f"{nome_prova}/{dados_prova[0]}/{dados_prova[1]}/{questao.materia}/{questao.numero}_{alternativa}"
+                imagem = f"{nome_prova}/{dados_prova[0]}/{questao.materia}/{dados_prova[1]}/{questao.numero}_{alternativa}"
 
             if alternativa != None and enunciado != None:
                 resposta = Respostas(prova_id=questao.prova_id, questao_id=questao.id,
